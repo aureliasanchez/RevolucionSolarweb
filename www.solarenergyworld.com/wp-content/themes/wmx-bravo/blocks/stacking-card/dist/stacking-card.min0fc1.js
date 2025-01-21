@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(n){document.querySelectorAll(".block--stacking-card").forEach((function(n){var o={block:null,init:function(n){this.block=n},log:function(n){console.log(n)}};o.init(n)}))}));
