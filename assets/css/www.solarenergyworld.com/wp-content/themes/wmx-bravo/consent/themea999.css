@@ -1,0 +1,5 @@
+.simple-consent{
+  --consent-border-radius: 0.8rem;
+  --consent-box-shadow: var(--wp--preset--shadow--soft);
+  --consent-color-light-grey: #f8f8f8;
+}

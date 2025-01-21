@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(n){document.querySelectorAll(".block--circle-accent").forEach((function(n){var o={block:null,init:function(n){this.block=n},log:function(){console.log("test")}};o.init(n)}))}));
