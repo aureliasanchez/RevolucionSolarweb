@@ -765,7 +765,7 @@
   <link rel="mask-icon" href="./assets/img/www.solarenergyworld.com/favicon/safari-pinned-tab.svg" color="#5bbad5" />
   <link rel="shortcut icon" href="./assets/img/www.solarenergyworld.com/favicon/favicon.ico" />
   <link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com/" />
-  <link rel="canonical" href="./index.html" />
+  <link rel="canonical" href="./index.php" />
   <link rel="dns-prefetch" href="http://js.hs-scripts.com/" />
   <link rel="dns-prefetch" href="http://cdnjs.cloudflare.com/" />
   <link rel="dns-prefetch" href="http://fonts.googleapis.com/" />
@@ -4860,7 +4860,7 @@
               if (selectedTime != "" && selectedDate != "") {
                 selectedTime = selectedTime + ":00:00.00+05:00";
 
-                var dateParts = selectedDate.split("index.html");
+                var dateParts = selectedDate.split("./index.php");
                 selectedDate =
                   dateParts[2] + "-" + dateParts[0] + "-" + dateParts[1];
 
