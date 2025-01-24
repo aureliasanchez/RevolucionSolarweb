@@ -1367,6 +1367,7 @@
 		<div id="skipNav" class="visually-hidden"></div>
 
 		<main id="main">
+
 			<section id="wmx-section-wrapper-d1ybndt" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
 				<div class="container">
 					<div class="row">
@@ -1382,31 +1383,40 @@
 
 								<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
 									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-										<h1 data-component="core:heading" class="wp-block-heading" id="h-solar-panels">Solar Panels</h1>
+										<h1 data-component="core:heading" class="wp-block-heading" id="h-solar-panels">
+											Energía solar a tu alcance
+										</h1>
 
-
-
-										<p>Solar Energy World is not limited to installing only one brand or type of solar panel. We have relationships with manufacturers from all over the world, including the USA and Canada, so we can offer a variety of solar panel and solar battery brands. However, we only offer the highest quality solar equipment on the market today. This ensures that our customers enjoy a highly efficient and reliable solar power installation. Take a look our product list below. If you do not see a particular high-efficiency solar product you are interested in, chances are we can get it for you.</p>
-
-
+										<p>
+											Ofrecemos paneles solares monocristalinos de alta eficiencia con potencias de
+											<span style="font-weight:bold">
+												410W
+											</span>
+											y
+											<span style="font-weight:bold">
+												585W
+											</span>
+											, ideales para maximizar el rendimiento energético en cualquier tipo de instalación. Complementamos nuestros sistemas con inversores
+											<span style="font-weight:bold">
+												Growatt
+											</span>
+											de distintas capacidades, asegurando un funcionamiento óptimo y adaptado a tus necesidades.
+										</p>
 
 										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-											<div class="wp-block-button is-style-btn-primary"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/install-process/index.html">View Solar Install Process</a></div>
+											<div class="wp-block-button is-style-btn-primary"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/install-process/index.html">
+													Conoce el proceso de instalación
+												</a>
+											</div>
 										</div>
+
 									</div>
-
-
 
 									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
 										<div id="wmx-hero-media-cddipmd" data-component="wmx:hero-media" class="block block--hero-media" data-wmx-wpb="hero-media">
 
 											<div class="backdrop"></div>
-											<div class="poster" style="background-image:url(/assets/img/www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/Wendell-Columbia-202311.32kW-8-scaled.jpg.webp); "></div>
-											<div class="video-wrapper">
-
-												<div class="video" data-src="https://www.youtube.com/watch?v=gWlFYWxOOPA" data-type="youtube" style="background-image:url(/assets/img/www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/Wendell-Columbia-202311.32kW-8-scaled.jpg.webp); "></div>
-
-											</div>
+											<div class="poster" style="background-image:url(/assets/img/pages/productos/paneles.webp); "></div>
 
 										</div>
 									</div>
@@ -1423,151 +1433,6 @@
 					</div>
 				</div>
 			</section>
-
-
-			<section id="wmx-section-wrapper-0od1moj" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
-				<div class="container">
-					<div class="row">
-						<div class="col-12">
-
-							<div class="inner-wrapper">
-
-
-
-								<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
-									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-										<h2 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-we-install-top-solar-panel-amp-inverter-brands" style="margin-bottom:var(--wp--preset--spacing--40)">We Install Top Solar Panel &amp; Inverter Brands</h2>
-
-
-										<div id="wmx-logos-2asgygm" data-component="wmx:logos" class="block block--logos" data-wmx-wpb="logos" data-layout="slider">
-
-											<div class="logos">
-
-
-												<div class="logo">
-													<img loading="lazy" decoding="async" width="156" height="75" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Silfab-Solar-Logo.svg" class="img-fluid" alt="" />
-												</div>
-
-
-												<div class="logo">
-													<img loading="lazy" decoding="async" width="300" height="78" src="/assets/img/www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/longi-solar-logo-300x78.png.webp" class="img-fluid" alt="" srcset="https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/longi-solar-logo-300x78.png.webp 300w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/longi-solar-logo.png.webp 422w" sizes="(max-width: 300px) 100vw, 300px" />
-												</div>
-
-
-												<div class="logo">
-													<img loading="lazy" decoding="async" width="157" height="43" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/QCells-Logo.svg" class="img-fluid" alt="" />
-												</div>
-
-
-												<div class="logo">
-													<img loading="lazy" decoding="async" width="300" height="64" src="/assets/img/www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/solar-edge-logo-300x64.png.webp" class="img-fluid" alt="" srcset="https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/solar-edge-logo-300x64.png.webp 300w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/solar-edge-logo-1024x217.png.webp 1024w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/solar-edge-logo-768x163.png.webp 768w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/solar-edge-logo-1536x326.png.webp 1536w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/solar-edge-logo-2048x434.png.webp 2048w" sizes="(max-width: 300px) 100vw, 300px" />
-												</div>
-
-
-												<div class="logo">
-													<img loading="lazy" decoding="async" width="300" height="54" src="/assets/img/www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/enphase-logo-300x54.png.webp" class="img-fluid" alt="" srcset="https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/enphase-logo-300x54.png.webp 300w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/enphase-logo-1024x183.png.webp 1024w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/enphase-logo-768x138.png.webp 768w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/enphase-logo.png.webp 1200w" sizes="(max-width: 300px) 100vw, 300px" />
-												</div>
-
-
-												<div class="logo">
-													<img loading="lazy" decoding="async" width="300" height="85" src="/assets/img/www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/fronius-logo-300x85.png.webp" class="img-fluid" alt="" srcset="https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/fronius-logo-300x85.png.webp 300w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/fronius-logo-1024x292.png.webp 1024w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/fronius-logo-768x219.png.webp 768w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/05/fronius-logo.png.webp 1194w" sizes="(max-width: 300px) 100vw, 300px" />
-												</div>
-
-
-
-											</div>
-
-										</div>
-									</div>
-								</div>
-
-
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</section>
-
-
-			<section id="wmx-section-wrapper-ii5ktqq" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);" data-wmx-wpb="section-wrapper">
-				<div class="container">
-					<div class="row">
-						<div class="col-12">
-
-							<div class="inner-wrapper">
-
-
-
-								<div data-component="core:columns" class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
-									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-										<div id="wmx-gallery-dh1j4bv" data-component="wmx:gallery" class="block block--gallery" data-wmx-wpb="gallery" data-style="slider">
-
-											<div class="images">
-
-
-												<div class="image">
-
-													<img loading="lazy" decoding="async" width="3319" height="2058" src="/assets/img/www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DJI_0513-1-EDITED.png.webp" class="img-fluid" alt="" srcset="https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DJI_0513-1-EDITED.png.webp 3319w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DJI_0513-1-EDITED-300x186.png.webp 300w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DJI_0513-1-EDITED-1024x635.png.webp 1024w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DJI_0513-1-EDITED-768x476.png.webp 768w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DJI_0513-1-EDITED-1536x952.png.webp 1536w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DJI_0513-1-EDITED-2048x1270.png.webp 2048w" sizes="(max-width: 3319px) 100vw, 3319px" />
-												</div>
-
-
-												<div class="image">
-
-													<img loading="lazy" decoding="async" width="2048" height="1365" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers.webp" class="img-fluid" alt="" srcset="https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers.webp 2048w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-300x200.webp 300w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-1024x683.webp 1024w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-768x512.webp 768w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-1536x1024.webp 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
-												</div>
-
-
-												<div class="image">
-
-													<img loading="lazy" decoding="async" width="2048" height="1152" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef.webp" class="img-fluid" alt="" srcset="https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef.webp 2048w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-300x169.webp 300w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1024x576.webp 1024w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-768x432.webp 768w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1536x864.webp 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
-												</div>
-
-
-												<div class="image">
-
-													<img loading="lazy" decoding="async" width="2048" height="1152" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/solar-roof-install-flyover.webp" class="img-fluid" alt="" srcset="https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-roof-install-flyover.webp 2048w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-roof-install-flyover-300x169.webp 300w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-roof-install-flyover-1024x576.webp 1024w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-roof-install-flyover-768x432.webp 768w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-roof-install-flyover-1536x864.webp 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
-												</div>
-
-
-												<div class="image">
-
-													<img loading="lazy" decoding="async" width="1024" height="768" src="/assets/img/www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/solarpanel10.jpg.webp" class="img-fluid" alt="" srcset="https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/solarpanel10.jpg.webp 1024w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/solarpanel10-300x225.jpg.webp 300w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/solarpanel10-768x576.jpg.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
-												</div>
-
-
-												<div class="image">
-
-													<img loading="lazy" decoding="async" width="2560" height="1953" src="/assets/img/www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DJI_0130-4-scaled.jpg.webp" class="img-fluid" alt="" srcset="https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DJI_0130-4-scaled.jpg.webp 2560w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DJI_0130-4-300x229.jpg.webp 300w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DJI_0130-4-1024x781.jpg.webp 1024w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DJI_0130-4-768x586.jpg.webp 768w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DJI_0130-4-1536x1172.jpg.webp 1536w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DJI_0130-4-2048x1562.jpg.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />
-												</div>
-
-
-												<div class="image">
-
-													<img loading="lazy" decoding="async" width="2560" height="1440" src="/assets/img/www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DRONE-White-house-7-scaled.jpg.webp" class="img-fluid" alt="" srcset="https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DRONE-White-house-7-scaled.jpg.webp 2560w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DRONE-White-house-7-300x169.jpg.webp 300w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DRONE-White-house-7-1024x576.jpg.webp 1024w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DRONE-White-house-7-768x432.jpg.webp 768w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DRONE-White-house-7-1536x864.jpg.webp 1536w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/DRONE-White-house-7-2048x1152.jpg.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />
-												</div>
-
-
-												<div class="image">
-
-													<img loading="lazy" decoding="async" width="2560" height="1440" src="/assets/img/www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/Untitled-design-52.jpg.webp" class="img-fluid" alt="" srcset="https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/Untitled-design-52.jpg.webp 2560w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/Untitled-design-52-300x169.jpg.webp 300w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/Untitled-design-52-1024x576.jpg.webp 1024w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/Untitled-design-52-768x432.jpg.webp 768w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/Untitled-design-52-1536x864.jpg.webp 1536w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/08/Untitled-design-52-2048x1152.jpg.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />
-												</div>
-
-
-											</div>
-
-										</div>
-									</div>
-								</div>
-
-
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</section>
-
 
 			<section id="section-wrapper-6782af2eaeddb" data-component="wmx:section-wrapper" class="block block--section-wrapper" data-wmx-wpb="section-wrapper">
 				<div class="container">
@@ -1598,11 +1463,9 @@
 
 							<div class="inner-wrapper">
 
-
-
-								<h2 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-view-related-products" style="margin-bottom:var(--wp--preset--spacing--50)">View Related Products</h2>
-
-
+								<h2 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-view-related-products" style="margin-bottom:var(--wp--preset--spacing--50)">
+									Elige el panel solar ideal para ti
+								</h2>
 
 								<div data-component="core:columns" class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8 wp-block-columns-is-layout-flex">
 									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
@@ -1610,76 +1473,63 @@
 
 											<div class="cards">
 
-
 												<div id="card-6782af2eaef99" data-component="wmx:card" class="block block--card" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="true" data-banner-image="false" data-bs-theme="light">
-
-
 
 													<figure data-component="core:image" class="wp-block-image aligncenter size-large"><img loading="lazy" decoding="async" width="80" height="80" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Battery.svg" alt="" class="wp-image-207" /></figure>
 
-
-
 													<div style="height:1.5rem;width:0px" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
 
+													<h4 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-solar-batteries">
+														Monocristalinos
+													</h4>
 
 
-													<h4 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-solar-batteries">Solar Batteries</h4>
-
-
-													<a href="/pages/www.solarenergyworld.com/solar-battery-storage/index.html" class="visually-hidden-focusable" target="_self"><span class="visually-hidden">Learn more about solar batteries</span></a>
+													<a href="/pages/www.solarenergyworld.com/battery/index.php" class="visually-hidden-focusable" target="_self">
+														<span class="visually-hidden">
+															Learn more about solar batteries
+														</span>
+													</a>
 
 
 												</div>
-
 
 												<div id="card-6782af2eaf13f" data-component="wmx:card" class="block block--card" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="true" data-banner-image="false" data-bs-theme="light">
 
-
-
 													<figure data-component="core:image" class="wp-block-image aligncenter size-large"><img loading="lazy" decoding="async" width="80" height="80" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Monitoring.svg" alt="" class="wp-image-208" style="object-fit:cover" /></figure>
-
-
 
 													<div style="height:1.5rem;width:0px" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
 
+													<h4 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-live-monitoring">
+														Policristalinos
+													</h4>
 
 
-													<h4 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-live-monitoring">Live Monitoring</h4>
-
-
-													<a href="/pages/www.solarenergyworld.com/going-solar/live-monitoring/index.html" class="visually-hidden-focusable" target="_self"><span class="visually-hidden">Learn more about live monitoring</span></a>
+													<a href="/pages/www.solarenergyworld.com/going-solar/live-monitoring/index.php" class="visually-hidden-focusable" target="_self"><span class="visually-hidden">Learn more about live monitoring</span></a>
 
 
 												</div>
-
 
 												<div id="card-6782af2eaf25b" data-component="wmx:card" class="block block--card" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="true" data-banner-image="false" data-bs-theme="light">
 
-
-
 													<figure data-component="core:image" class="wp-block-image aligncenter size-large"><img loading="lazy" decoding="async" width="80" height="80" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Check-Doc.svg" alt="" class="wp-image-209" /></figure>
-
-
 
 													<div style="height:1.5rem" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
 
+													<h4 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-solar-warranties">
+														Bifaciales
+													</h4>
 
 
-													<h4 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-solar-warranties">Solar Warranties</h4>
-
-
-													<a href="/pages/www.solarenergyworld.com/warranty/index.html" class="visually-hidden-focusable" target="_self"><span class="visually-hidden">Learn more about solar warranties</span></a>
+													<a href="/pages/www.solarenergyworld.com/warranty/index.php" class="visually-hidden-focusable" target="_self"><span class="visually-hidden">Learn more about solar warranties</span></a>
 
 
 												</div>
-
 
 											</div>
 
 										</div>
 									</div>
 								</div>
-
 
 							</div>
 
@@ -1688,674 +1538,84 @@
 				</div>
 			</section>
 
-
-			<section id="section-wrapper-6782af2eaf683" data-component="wmx:section-wrapper" class="block block--section-wrapper" data-wmx-wpb="section-wrapper">
+			<section id="wmx-section-wrapper-gqhgm07" data-component="wmx:section-wrapper"
+				class="block block--section-wrapper" style="
+            padding-top: var(--wp--preset--spacing--50);
+            padding-bottom: var(--wp--preset--spacing--50);
+          " data-wmx-wpb="section-wrapper">
 				<div class="container">
 					<div class="row">
 						<div class="col-12">
-
 							<div class="inner-wrapper">
+								<div data-component="core:columns"
+									class="wp-block-columns alignfull are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-10 wp-block-columns-is-layout-flex">
+									<div data-component="core:column"
+										class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow">
+										<div id="wmx-stacking-cards-wrapper-4nyn6iy" data-component="wmx:stacking-cards-wrapper"
+											class="block block--stacking-cards-wrapper" data-wmx-wpb="stacking-cards-wrapper">
 
+											<div id="wmx-stacking-card-k9ifc75" data-component="wmx:stacking-card"
+												class="block block--stacking-card stacking-card" data-wmx-wpb="stacking-card">
+												<div class="card-content">
+													<div data-component="core:columns"
+														class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
 
+														<div data-component="core:column"
+															class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+															<figure data-component="core:image" class="wp-block-image size-large has-custom-border">
+																<img loading="lazy" decoding="async" width="1024" height="576"
+																	src="./assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1024x576.webp" alt=""
+																	class="wp-image-48" style="
+                                      border-radius: 16px;
+                                      aspect-ratio: 1;
+                                      object-fit: cover;
+                                    " srcset="
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1024x576.webp 1024w,
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-300x169.webp   300w,
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-768x432.webp   768w,
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1536x864.webp 1536w,
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef.webp          2048w
+                                    " sizes="(max-width: 1024px) 100vw, 1024px" />
+															</figure>
+														</div>
 
-								<div data-component="core:columns" class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-10 wp-block-columns-is-layout-flex">
-									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-										<div id="section-wrapper-6782af2eaf5b1" data-component="wmx:section-wrapper" class="block block--section-wrapper" data-wmx-wpb="section-wrapper">
+														<div data-component="core:column"
+															class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+															<hr data-component="core:separator"
+																class="wp-block-separator has-alpha-channel-opacity has-solar-gradient-background has-background is-style-narrow" />
 
-											<div class="inner-wrapper">
+															<h2 data-component="core:heading" class="wp-block-heading"
+																id="h-solar-panels-amp-batteries">
+																¡Da el primer paso hacia el ahorro energético!
+															</h2>
 
+															<p>
+																Ahorra hasta un
+																<span style="font-weight: bold">
+																	90%
+																</span>
+																en tu factura eléctrica desde hoy.
+															</p>
 
+															<div data-component="core:buttons"
+																class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+																<div class="wp-block-button is-style-btn-outline">
+																	<a data-component="core:button" class="wp-block-button__link wp-element-button"
+																		href="#">
+																		Hablemos ahora
+																	</a>
+																</div>
+															</div>
+														</div>
 
-												<div data-component="core:columns" class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9 wp-block-columns-is-layout-flex">
-													<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-														<div style="height:50px" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
 													</div>
 												</div>
-
-
 											</div>
 
 										</div>
-
-
-
-										<h2 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-how-does-solar-works">How Does Solar Works?</h2>
 									</div>
 								</div>
-
-
 							</div>
-
-						</div>
-					</div>
-				</div>
-			</section>
-
-
-			<section id="section-wrapper-6782af2eaf9be" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
-				<div class="container">
-					<div class="row">
-						<div class="col-12">
-
-							<div class="inner-wrapper">
-
-
-
-								<div data-component="core:columns" class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-11 wp-block-columns-is-layout-flex">
-									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-										<figure data-component="core:embed" class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-											<div class="wp-block-embed__wrapper">
-												<div class="embed-responsive embed-responsive-16by9 iframe">
-													<div class="embed-responsive-item ratio ratio-16x9"><iframe loading="lazy" title="How Does Solar Work?" width="500" height="281" src="https://www.youtube.com/embed/PE3r_Vi3vBA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-												</div>
-											</div>
-										</figure>
-
-
-
-										<div data-component="core:buttons" class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-5 wp-block-buttons-is-layout-flex">
-											<div class="wp-block-button is-style-btn-primary"><a data-component="core:button" class="wp-block-button__link has-text-align-center wp-element-button" href="/pages/www.solarenergyworld.com/going-solar/how-solar-works/index.html" target="_blank" rel="noreferrer noopener">See How Solar Works</a></div>
-										</div>
-									</div>
-								</div>
-
-
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</section>
-
-
-			<section id="wmx-section-wrapper-v557yqc" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);border-top:1px solid var(--wp--preset--color--gray-100);border-right:0px solid transparent; border-bottom:0px solid transparent;border-left:0px solid transparent;" data-wmx-wpb="section-wrapper">
-				<div class="container">
-					<div class="row">
-						<div class="col-12">
-
-							<div class="inner-wrapper">
-
-
-
-								<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-12 wp-block-columns-is-layout-flex">
-									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
-										<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" data-component="core:spacer" data-hide-mobile="true" data-hide-tablet="true" class="wp-block-spacer"></div>
-
-
-
-										<h2 data-component="core:heading" class="wp-block-heading" id="h-want-a-free-solar-estimate">Want a Free Solar Estimate?</h2>
-
-
-
-										<p>Fill out the form to get started today.</p>
-
-
-
-										<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
-
-
-
-										<figure data-component="core:image" class="wp-block-image size-full"><img loading="lazy" decoding="async" width="549" height="64" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/06/Trust-Logos.webp" alt="" class="wp-image-265" srcset="https://www.solarenergyworld.com/wp-content/uploads/2024/06/Trust-Logos.webp 549w,   https://www.solarenergyworld.com/wp-content/uploads/2024/06/Trust-Logos-300x35.webp 300w" sizes="(max-width: 549px) 100vw, 549px" /></figure>
-									</div>
-
-
-
-									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-										<div id="wizard-6782af2eafc0d" data-component="wmx:wizard" class="block block--wizard" data-wmx-wpb="wizard" data-bs-theme="light">
-
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86 86" fill="none" style="opacity: 0;">
-												<circle cx="43" cy="43" r="43" fill="#FCD4AE" />
-												<circle cx="42.9999" cy="42.9999" r="32.7619" fill="#F9AE61" />
-												<circle cx="42.9999" cy="43" r="22.5238" fill="#F89420" />
-											</svg>
-
-											<script type="text/javascript"></script>
-											<div class='gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework solar-wizard_wrapper' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_1' style='display:none'>
-												<div id='gf_1' class='gform_anchor' tabindex='-1'></div>
-												<div class='gform_heading'>
-													<p class='gform_required_legend'>&quot;<span class="gfield_required gfield_required_asterisk">*</span>&quot; indicates required fields</p>
-												</div>
-												<form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1' class='solar-wizard' action='https://www.solarenergyworld.com/products/#gf_1' data-formid='1' novalidate>
-													<div id='gf_progressbar_wrapper_1' class='gf_progressbar_wrapper' data-start-at-zero=''>
-														<p class="gf_progressbar_title">Step <span class='gf_step_current_page'>1</span> of <span class='gf_step_page_count'>9</span><span class='gf_step_page_name'></span>
-														</p>
-														<div class='gf_progressbar gf_progressbar_custom' aria-hidden='true'>
-															<div class='gf_progressbar_percentage percentbar_custom percentbar_11' style='width:11%; background-color:#1C2C57;'><span>11%</span></div>
-														</div>
-													</div>
-													<div class='gform-body gform_body'>
-														<div id='gform_page_1_1' class='gform_page gform_page--sm' data-js='page-field-id-0'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_53" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_53"><input data-gfield-key='free_gift_offer' type='hidden' name='input_53' class='free_gift_offer' value='No Gift'></div>
-																	<div id="field_1_16" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_16">
-																		<h3 class="wizard__header">Where is your property located?</h3>
-																	</div>
-																	<div id="field_1_11" class="gfield gfield--type-text gfield--input-type-text zip gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_11"><label class='gfield_label gform-field-label' for='input_1_11'>Enter 5-Digit Zip Code<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
-																		<div class='ginput_container ginput_container_text'><input data-gfield-key='zip' name='input_11' id='input_1_11' type='text' value='' class='large' tabindex='1' aria-required="true" aria-invalid="false" /></div>
-																	</div>
-																	<div id="field_1_13" class="gfield gfield--type-text gfield--input-type-text gfield--width-full d-none gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_13"><label class='gfield_label gform-field-label' for='input_1_13'>City<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
-																		<div class='ginput_container ginput_container_text'><input data-gfield-key='city' name='input_13' id='input_1_13' type='text' value='' class='large' tabindex='2' aria-required="true" aria-invalid="false" /></div>
-																	</div>
-																	<div id="field_1_14" class="gfield gfield--type-select gfield--input-type-select gfield--width-full d-none gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_14"><label class='gfield_label gform-field-label' for='input_1_14'>State<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
-																		<div class='ginput_container ginput_container_select'><select data-gfield-key='state_short' name='input_14' id='input_1_14' class='large gfield_select' tabindex='3' aria-required="true" aria-invalid="false">
-																				<option value='' selected='selected' class='gf_placeholder'>&#8212; Select &#8212;</option>
-																				<option value='AL'>Alabama</option>
-																				<option value='AK'>Alaska</option>
-																				<option value='AZ'>Arizona</option>
-																				<option value='AR'>Arkansas</option>
-																				<option value='CA'>California</option>
-																				<option value='CO'>Colorado</option>
-																				<option value='CT'>Connecticut</option>
-																				<option value='DE'>Delaware</option>
-																				<option value='DC'>District of Columbia</option>
-																				<option value='FL'>Florida</option>
-																				<option value='GA'>Georgia</option>
-																				<option value='HI'>Hawaii</option>
-																				<option value='ID'>Idaho</option>
-																				<option value='IL'>Illinois</option>
-																				<option value='IN'>Indiana</option>
-																				<option value='IA'>Iowa</option>
-																				<option value='KS'>Kansas</option>
-																				<option value='KY'>Kentucky</option>
-																				<option value='LA'>Louisiana</option>
-																				<option value='ME'>Maine</option>
-																				<option value='MD'>Maryland</option>
-																				<option value='MA'>Massachusetts</option>
-																				<option value='MI'>Michigan</option>
-																				<option value='MN'>Minnesota</option>
-																				<option value='MS'>Mississippi</option>
-																				<option value='MO'>Missouri</option>
-																				<option value='MT'>Montana</option>
-																				<option value='NE'>Nebraska</option>
-																				<option value='NV'>Nevada</option>
-																				<option value='NH'>New Hampshire</option>
-																				<option value='NJ'>New Jersey</option>
-																				<option value='NM'>New Mexico</option>
-																				<option value='NY'>New York</option>
-																				<option value='NC'>North Carolina</option>
-																				<option value='ND'>North Dakota</option>
-																				<option value='OH'>Ohio</option>
-																				<option value='OK'>Oklahoma</option>
-																				<option value='OR'>Oregon</option>
-																				<option value='PA'>Pennsylvania</option>
-																				<option value='RI'>Rhode Island</option>
-																				<option value='SC'>South Carolina</option>
-																				<option value='SD'>South Dakota</option>
-																				<option value='TN'>Tennessee</option>
-																				<option value='TX'>Texas</option>
-																				<option value='UT'>Utah</option>
-																				<option value='VT'>Vermont</option>
-																				<option value='VA'>Virginia</option>
-																				<option value='WA'>Washington</option>
-																				<option value='WV'>West Virginia</option>
-																				<option value='WI'>Wisconsin</option>
-																				<option value='WY'>Wyoming</option>
-																			</select></div>
-																	</div>
-																	<div id="field_1_50" class="gfield gfield--type-html gfield--input-type-html gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_50">
-																		<div class="alert alert-info mb-0">
-																			<h3 class="h6 mt-0 mb-1">We&#8217;re Sorry</h3>The zip code or state of your property is not within our available service areas. We currently only serve customers with property located in PA, NJ, MD, DE, DC, VA or FL.
-																		</div>
-																	</div>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_next_button_1_2" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="4">Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_2' class='gform_page' data-js='page-field-id-2' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_2' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_18" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_18">
-																		<h3 class="wizard__header">Do you own your property?</h3>
-																		<div class="wizard__header-desc">Select One</div>
-																	</div>
-																	<fieldset id="field_1_5" class="gfield gfield--type-radio gfield--type-choice gfield--input-type-radio hide-label wizard__icon-input wizard__icon-input--row gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_5">
-																		<legend class='gfield_label gform-field-label'>Owns Property<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend>
-																		<div class='ginput_container ginput_container_radio'>
-																			<div class='gfield_radio' id='input_1_5'>
-																				<div class='gchoice gchoice_1_5_0'>
-																					<input class='gfield-choice-input' data-gfield-key='owns_property' name='input_5' type='radio' value='Yes' id='choice_1_5_0' onchange='gformToggleRadioOther( this )' tabindex='5' />
-																					<label for='choice_1_5_0' id='label_1_5_0' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-check" aria-hidden="true"></use>
-																						</svg><span>Yes</span></label>
-																				</div>
-																				<div class='gchoice gchoice_1_5_1'>
-																					<input class='gfield-choice-input' data-gfield-key='owns_property' name='input_5' type='radio' value='No' id='choice_1_5_1' onchange='gformToggleRadioOther( this )' tabindex='6' />
-																					<label for='choice_1_5_1' id='label_1_5_1' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-x" aria-hidden="true"></use>
-																						</svg><span>No</span></label>
-																				</div>
-																			</div>
-																		</div>
-																	</fieldset>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_previous_button_1_7" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="7">Back</button> <button type="button" id="gform_next_button_1_7" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="8">Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_3' class='gform_page gform_page--sm' data-js='page-field-id-7' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_3' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_52" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_52">
-																		<div class="alert alert-info mb-0">
-																			<h3 class="h5 mb-1">We&#8217;re Sorry</h3>
-																			Solar Energy World can only offer solar installation services to customers who own their property.
-																		</div>
-																	</div>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_previous_button_1_20" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="9">Back</button> <button type="button" id="gform_next_button_1_20" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="10">Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_4' class='gform_page gform_page--sm' data-js='page-field-id-20' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_4' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_17" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_17">
-																		<h3 class="wizard__header">What type of property do you own?</h3>
-																	</div>
-																	<fieldset id="field_1_57" class="gfield gfield--type-radio gfield--type-choice gfield--input-type-radio gfield--width-full hide-label wizard__icon-input wizard__icon-input--row gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_57">
-																		<legend class='gfield_label gform-field-label'>Property Type<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend>
-																		<div class='ginput_container ginput_container_radio'>
-																			<div class='gfield_radio' id='input_1_57'>
-																				<div class='gchoice gchoice_1_57_0'>
-																					<input class='gfield-choice-input' data-gfield-key='property_types' name='input_57' type='radio' value='948170000' id='choice_1_57_0' onchange='gformToggleRadioOther( this )' tabindex='11' />
-																					<label for='choice_1_57_0' id='label_1_57_0' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-single-family-home" aria-hidden="true"></use>
-																						</svg><span>Single-Family</span></label>
-																				</div>
-																				<div class='gchoice gchoice_1_57_1'>
-																					<input class='gfield-choice-input' data-gfield-key='property_types' name='input_57' type='radio' value='948170001' id='choice_1_57_1' onchange='gformToggleRadioOther( this )' tabindex='12' />
-																					<label for='choice_1_57_1' id='label_1_57_1' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-townhouse" aria-hidden="true"></use>
-																						</svg><span>Townhouse</span></label>
-																				</div>
-																				<div class='gchoice gchoice_1_57_2'>
-																					<input class='gfield-choice-input' data-gfield-key='property_types' name='input_57' type='radio' value='948170002' id='choice_1_57_2' onchange='gformToggleRadioOther( this )' tabindex='13' />
-																					<label for='choice_1_57_2' id='label_1_57_2' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-business" aria-hidden="true"></use>
-																						</svg><span>Manufactured</span></label>
-																				</div>
-																			</div>
-																		</div>
-																	</fieldset>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_previous_button_1_10" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="14">Back</button> <button type="button" id="gform_next_button_1_10" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="15">Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_5' class='gform_page' data-js='page-field-id-10' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_5' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_56" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_56">
-																		<h3 class="wizard__header">Are you interested in leasing or purchasing your solar system?</h3>
-																		<div class="wizard__header-desc">Select one or more.</div>
-																	</div>
-																	<fieldset id="field_1_55" class="gfield gfield--type-checkbox gfield--type-choice gfield--input-type-checkbox hide-label wizard__icon-input wizard__icon-input--col gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_55">
-																		<legend class='gfield_label gform-field-label gfield_label_before_complex'>Interested In<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend>
-																		<div class='ginput_container ginput_container_checkbox'>
-																			<div class='gfield_checkbox' id='input_1_55'>
-																				<div class='gchoice gchoice_1_55_1'>
-																					<input class='gfield-choice-input' data-gfield-key='interested_in' name='input_55.1' type='checkbox' value='Lease/PPA' id='choice_1_55_1' tabindex='16' />
-																					<label for='choice_1_55_1' id='label_1_55_1' class='gform-field-label gform-field-label--type-inline'><span>Lease/PPA <small>Save 20-30% on Utility Bills</small></span></label>
-																				</div>
-																				<div class='gchoice gchoice_1_55_2'>
-																					<input class='gfield-choice-input' data-gfield-key='interested_in' name='input_55.2' type='checkbox' value='Purchase' id='choice_1_55_2' tabindex='17' />
-																					<label for='choice_1_55_2' id='label_1_55_2' class='gform-field-label gform-field-label--type-inline'><span>Purchase <small>Long-Term ROI</small></span></label>
-																				</div>
-																				<div class='gchoice gchoice_1_55_3'>
-																					<input class='gfield-choice-input' data-gfield-key='interested_in' name='input_55.3' type='checkbox' value='Not Sure' id='choice_1_55_3' tabindex='18' />
-																					<label for='choice_1_55_3' id='label_1_55_3' class='gform-field-label gform-field-label--type-inline'><span>I&#8217;m Not Sure <small>I&#8217;d Like Help Deciding</small></span></label>
-																				</div>
-																			</div>
-																		</div>
-																	</fieldset>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_previous_button_1_54" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="19">Back</button> <button type="button" id="gform_next_button_1_54" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="20">Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_6' class='gform_page' data-js='page-field-id-54' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_6' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_48" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_48">
-																		<h3 class="wizard__header">Would you like a battery backup with your installation?</h3>
-																		<div class="wizard__header-desc">Select One</div>
-																	</div>
-																	<fieldset id="field_1_49" class="gfield gfield--type-radio gfield--type-choice gfield--input-type-radio hide-label wizard__icon-input wizard__icon-input--row gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_49">
-																		<legend class='gfield_label gform-field-label'>Interested in Solar Battery Backup With Installation?<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend>
-																		<div class='ginput_container ginput_container_radio'>
-																			<div class='gfield_radio' id='input_1_49'>
-																				<div class='gchoice gchoice_1_49_0'>
-																					<input class='gfield-choice-input' data-gfield-key='solar_battery_backup' name='input_49' type='radio' value='Yes' id='choice_1_49_0' onchange='gformToggleRadioOther( this )' tabindex='21' />
-																					<label for='choice_1_49_0' id='label_1_49_0' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-check" aria-hidden="true"></use>
-																						</svg><span>Yes</span></label>
-																				</div>
-																				<div class='gchoice gchoice_1_49_1'>
-																					<input class='gfield-choice-input' data-gfield-key='solar_battery_backup' name='input_49' type='radio' value='No' id='choice_1_49_1' onchange='gformToggleRadioOther( this )' tabindex='22' />
-																					<label for='choice_1_49_1' id='label_1_49_1' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-x" aria-hidden="true"></use>
-																						</svg><span>No</span></label>
-																				</div>
-																				<div class='gchoice gchoice_1_49_2'>
-																					<input class='gfield-choice-input' data-gfield-key='solar_battery_backup' name='input_49' type='radio' value='Not Sure' id='choice_1_49_2' onchange='gformToggleRadioOther( this )' tabindex='23' />
-																					<label for='choice_1_49_2' id='label_1_49_2' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-question-mark" aria-hidden="true"></use>
-																						</svg><span>Not Sure</span></label>
-																				</div>
-																			</div>
-																		</div>
-																	</fieldset>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_previous_button_1_51" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="24">Back</button> <button type="button" id="gform_next_button_1_51" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="25">Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_7' class='gform_page' data-js='page-field-id-51' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_7' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_15" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_15">
-																		<h3 class="wizard__header">How old is your roof?</h3>
-																		<div class="wizard__header-desc">Select an Option</div>
-																	</div>
-																	<fieldset id="field_1_36" class="gfield gfield--type-radio gfield--type-choice gfield--input-type-radio hide-label wizard__icon-input wizard__icon-input--col roof field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_36">
-																		<legend class='gfield_label gform-field-label'>Age of Roof</legend>
-																		<div class='ginput_container ginput_container_radio'>
-																			<div class='gfield_radio' id='input_1_36'>
-																				<div class='gchoice gchoice_1_36_0'>
-																					<input class='gfield-choice-input' data-gfield-key='age_of_roof' name='input_36' type='radio' value='&lt; 10 Years' id='choice_1_36_0' onchange='gformToggleRadioOther( this )' tabindex='26' />
-																					<label for='choice_1_36_0' id='label_1_36_0' class='gform-field-label gform-field-label--type-inline'>&lt; 10 Years</label>
-																				</div>
-																				<div class='gchoice gchoice_1_36_1'>
-																					<input class='gfield-choice-input' data-gfield-key='age_of_roof' name='input_36' type='radio' value='10-15 Years' id='choice_1_36_1' onchange='gformToggleRadioOther( this )' tabindex='27' />
-																					<label for='choice_1_36_1' id='label_1_36_1' class='gform-field-label gform-field-label--type-inline'>10-15 Years</label>
-																				</div>
-																				<div class='gchoice gchoice_1_36_2'>
-																					<input class='gfield-choice-input' data-gfield-key='age_of_roof' name='input_36' type='radio' value='15+ Years' id='choice_1_36_2' onchange='gformToggleRadioOther( this )' tabindex='28' />
-																					<label for='choice_1_36_2' id='label_1_36_2' class='gform-field-label gform-field-label--type-inline'>15+ Years</label>
-																				</div>
-																				<div class='gchoice gchoice_1_36_3'>
-																					<input class='gfield-choice-input' data-gfield-key='age_of_roof' name='input_36' type='radio' value='I don&#039;t know' id='choice_1_36_3' onchange='gformToggleRadioOther( this )' tabindex='29' />
-																					<label for='choice_1_36_3' id='label_1_36_3' class='gform-field-label gform-field-label--type-inline'>I don&#8217;t know</label>
-																				</div>
-																			</div>
-																		</div>
-																	</fieldset>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_previous_button_1_12" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="30">Back</button> <button type="button" id="gform_next_button_1_12" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="31">Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_8' class='gform_page gform_page--md meeting-scheduler' data-js='page-field-id-12' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_8' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_64" class="gfield gfield--type-html gfield--input-type-html gfield--width-full text-center gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_64">
-																		<h3 class="wizard__header">What day &#038; time might work for your solar visit?</h3>
-																	</div>
-																	<div id="field_1_59" class="gfield gfield--type-date gfield--input-type-date gfield--input-type-datepicker gfield--datepicker-no-icon gfield--width-half field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_59"><label class='gfield_label gform-field-label' for='input_1_59'>Date</label>
-																		<div class='ginput_container ginput_container_date'>
-																			<input name='input_59' id='input_1_59' type='text' value='' class='datepicker gform-datepicker mdy datepicker_no_icon gdatepicker-no-icon' tabindex='32' placeholder='mm/dd/yyyy' aria-describedby="input_1_59_date_format" aria-invalid="false" />
-																			<span id='input_1_59_date_format' class='screen-reader-text'>MM slash DD slash YYYY</span>
-																		</div>
-																		<input type='hidden' id='gforms_calendar_icon_input_1_59' class='gform_hidden' value='../wp-content/plugins/gravityforms/images/datepicker/datepicker.svg' />
-																	</div>
-																	<div id="field_1_60" class="gfield gfield--type-select gfield--input-type-select gfield--width-half time-select field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_60"><label class='gfield_label gform-field-label' for='input_1_60'>Time</label>
-																		<div class='ginput_container ginput_container_select'><select name='input_60' id='input_1_60' class='large gfield_select' tabindex='33' aria-invalid="false">
-																				<option value='Please select a time'>Please select a time</option>
-																				<option value='10'>10:00am</option>
-																				<option value='11'>11:00am</option>
-																				<option value='12'>12:00pm</option>
-																				<option value='13'>1:00pm</option>
-																				<option value='14'>2:00pm</option>
-																				<option value='15'>3:00pm</option>
-																				<option value='16'>4:00pm</option>
-																				<option value='17'>5:00pm</option>
-																				<option value='18'>6:00pm</option>
-																			</select></div>
-																	</div>
-																	<div id="field_1_62" class="gfield gfield--type-hidden gfield--input-type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_62"><input data-gfield-key='skip_value' type='hidden' name='input_62' class='skip_value' value=''></div>
-																	<div id="field_1_61" class="gfield gfield--type-hidden gfield--input-type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_61"><input data-gfield-key='meeting_timestamp' type='hidden' name='input_61' class='meeting_timestamp' value=''></div>
-																	<div id="field_1_65" class="gfield gfield--type-hidden gfield--input-type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_65"><input data-gfield-key='status_reason' type='hidden' name='input_65' class='status_reason' value=''></div>
-																	<div id="field_1_63" class="gfield gfield--type-html gfield--input-type-html gfield--width-full text-center gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_63"><button id="skipButton">Skip Step</button></div>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_previous_button_1_58" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="34">Back</button> <button type="button" id="gform_next_button_1_58" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="35">Schedule and Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_9' class='gform_page gform_page--md meeting-scheduler-next' data-js='page-field-id-58' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_9' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_25" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_25">
-																		<h3 class="wizard__header">How can we reach you?</h3>
-																	</div>
-																	<div id="field_1_21" class="gfield gfield--type-text gfield--input-type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_21"><label class='gfield_label gform-field-label' for='input_1_21'>First Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
-																		<div class='ginput_container ginput_container_text'><input data-gfield-key='first_name' name='input_21' id='input_1_21' type='text' value='' class='large' tabindex='36' aria-required="true" aria-invalid="false" /></div>
-																	</div>
-																	<div id="field_1_22" class="gfield gfield--type-text gfield--input-type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_22"><label class='gfield_label gform-field-label' for='input_1_22'>Last Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
-																		<div class='ginput_container ginput_container_text'><input data-gfield-key='last_name' name='input_22' id='input_1_22' type='text' value='' class='large' tabindex='37' aria-required="true" aria-invalid="false" /></div>
-																	</div>
-																	<div id="field_1_23" class="gfield gfield--type-email gfield--input-type-email gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_23"><label class='gfield_label gform-field-label' for='input_1_23'>Email Address<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
-																		<div class='ginput_container ginput_container_email'>
-																			<input data-gfield-key='email' name='input_23' id='input_1_23' type='email' value='' class='large' tabindex='38' aria-required="true" aria-invalid="false" />
-																		</div>
-																	</div>
-																	<div id="field_1_24" class="gfield gfield--type-phone gfield--input-type-phone gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_24"><label class='gfield_label gform-field-label' for='input_1_24'>Phone Number<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
-																		<div class='ginput_container ginput_container_phone'><input data-gfield-key='phone' name='input_24' id='input_1_24' type='tel' value='' class='large' tabindex='39' aria-required="true" aria-invalid="false" /></div>
-																	</div>
-																	<div id="field_1_45" class="gfield gfield--type-select gfield--input-type-select d-none field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_45"><label class='gfield_label gform-field-label' for='input_1_45'>How did you hear about us?</label>
-																		<div class='ginput_container ginput_container_select'><select data-gfield-key='user_reported_source' name='input_45' id='input_1_45' class='large gfield_select' tabindex='40' aria-invalid="false">
-																				<option value='' selected='selected' class='gf_placeholder'>&#8212; Select &#8212;</option>
-																				<option value='Google Search'>Google Search</option>
-																				<option value='Google Ad'>Google Ad</option>
-																				<option value='Facebook or other social network'>Facebook or other social network</option>
-																				<option value='Email Offer'>Email Offer</option>
-																				<option value='Direct Mail'>Direct Mail</option>
-																				<option value='Newspaper/Magazine'>Newspaper/Magazine</option>
-																				<option value='TV Commercial'>TV Commercial</option>
-																				<option value='Event or Home Show'>Event or Home Show</option>
-																				<option value='Referral'>Referral</option>
-																			</select></div>
-																	</div>
-																	<div id="field_1_44" class="gfield gfield--type-html gfield--input-type-html d-none privacy text-center gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_44">*Your privacy is important to us. Your information will not be shared with outside parties. By clicking this button, you consent to be contacted by Solar Energy World, LLC.</div>
-																	<div id="field_1_66" class="gfield gfield--type-html gfield--input-type-html gfield--width-full consent text-center gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_66">* By clicking this button to submit this form, I am expressing written consent agreement to permit the company, Solar Energy World, and parties calling on their behalf, to contact me at the number provided below, even if it is currently listed on any state, federal, or corporate &#8216;Do Not Call&#8217; lists. The phone number provided below will be used for marketing purposes including through the use of automated technology, SMS/MMS messages and AI communication forms. I acknowledge my consent is not required to obtain any good or service and to be connected with sellers that can fit my needs without providing consent I can call +1 (866) 856-4580.</div>
-																	<div id="field_1_26" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_26"><input data-gfield-key='utm_source_1st' type='hidden' name='input_26' class='utm_source_1st' value=''></div>
-																	<div id="field_1_37" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_37"><input data-gfield-key='utm_source' type='hidden' name='input_37' class='utm_source' value=''></div>
-																	<div id="field_1_27" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_27"><input data-gfield-key='utm_medium_1st' type='hidden' name='input_27' class='utm_medium_1st' value=''></div>
-																	<div id="field_1_38" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_38"><input data-gfield-key='utm_medium' type='hidden' name='input_38' class='utm_medium' value=''></div>
-																	<div id="field_1_28" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_28"><input data-gfield-key='utm_campaign_1st' type='hidden' name='input_28' class='utm_campaign_1st' value=''></div>
-																	<div id="field_1_39" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_39"><input data-gfield-key='utm_campaign' type='hidden' name='input_39' class='utm_campaign' value=''></div>
-																	<div id="field_1_29" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_29"><input data-gfield-key='utm_term_1st' type='hidden' name='input_29' class='utm_term_1st' value=''></div>
-																	<div id="field_1_40" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_40"><input data-gfield-key='utm_term' type='hidden' name='input_40' class='utm_term' value=''></div>
-																	<div id="field_1_30" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_30"><input data-gfield-key='utm_content_1st' type='hidden' name='input_30' class='utm_content_1st' value=''></div>
-																	<div id="field_1_41" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_41"><input data-gfield-key='utm_content' type='hidden' name='input_41' class='utm_content' value=''></div>
-																	<div id="field_1_31" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_31"><input data-gfield-key='_ga' type='hidden' name='input_31' class='_ga' value=''></div>
-																	<div id="field_1_32" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_32"><input data-gfield-key='gclid' type='hidden' name='input_32' class='gclid' value=''></div>
-																	<div id="field_1_33" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_33"><input data-gfield-key='_fbp' type='hidden' name='input_33' class='_fbp' value=''></div>
-																	<div id="field_1_47" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_47"><input data-gfield-key='_fbc' type='hidden' name='input_47' class='_fbc' value=''></div>
-																	<div id="field_1_34" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_34"><input data-gfield-key='fbclid' type='hidden' name='input_34' class='fbclid' value=''></div>
-																	<div id="field_1_35" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_35"><input data-gfield-key='msclkid' type='hidden' name='input_35' class='msclkid' value=''></div>
-																	<div id="field_1_42" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_42"><input data-gfield-key='user_agent' type='hidden' name='input_42' class='user_agent' value='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'></div>
-																	<div id="field_1_43" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_43"><input data-gfield-key='referer' type='hidden' name='input_43' class='referer' value='../index.html'></div>
-																	<div id="field_1_67" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_67"><label class='gfield_label gform-field-label' for='input_1_67'>Name</label>
-																		<div class='ginput_container'><input name='input_67' id='input_1_67' type='text' value='' autocomplete='new-password' /></div>
-																		<div class='gfield_description' id='gfield_description_1_67'>This field is for validation purposes and should be left unchanged.</div>
-																	</div>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'><button type="submit" id="gform_previous_button_1" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="41">Back</button> <button type="submit" id="gform_submit_button_1" class="gform_button button" onclick="gform.submission.handleButtonClick(this);" tabindex="42">Submit</button> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=&amp;tabindex=1&amp;theme=gravity-theme' />
-																<input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_1' value='iframe' />
-																<input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_1' id='gform_theme_1' value='gravity-theme' />
-																<input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_1' id='gform_style_settings_1' value='' />
-																<input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
-																<input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
-
-																<input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
-																<input type='hidden' class='gform_hidden' name='state_1' value='WyJ7XCI2MFwiOltcImU0NzdhNWQyNWM5OTYxYjU3ZjQ1YjIzZDFkZWVhNDNjXCIsXCIzYTRmZGJiZDNjMWUwZTE2N2QwNDU3OTAxNTcwNjVlZVwiLFwiYjFhZDVhODQzMzczNGViZmE1NjZlZjZkMzk5YmExOTBcIixcImYxNTI1MWMyOGU3YmY2MDBhZWMzY2U1YTA3NTRmNWNmXCIsXCJkZTRiN2MxMjMzYzkwZDg1MmVlMDFmMTA3ODZiOThkZlwiLFwiMjVlYWE5ZGEwMTNiZjY5YjhiODRlYjEyYjMzMzY4OGJcIixcIjNhMzkyODBhMGE1ZGRlZGI1NmQyOWU3NWNmMWU1ZGY0XCIsXCJlYWU4MzkxODA4N2U4NWFhNDUyYjAzZmQ2NWI3YWI2MFwiLFwiMTJmNzcwZTc3NTEzMTQ1ZmE4ODcyMGNlZmUxY2ExOWJcIixcIjYyYzE3ZTE3MWJlMjc4ZWNiYmVlOGIyNzZiMmJkZTZiXCJdfSIsImI4ODVhODhjMDA2NjA1MmNhZGI0MmNlYWIzMTI3MTk3Il0=' />
-																<input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='2' />
-																<input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
-																<input type='hidden' name='gform_field_values' value='user_reported_source=&amp;free_gift_offer=No+Gift&amp;_ga=&amp;_fbp=&amp;_fbc=' />
-
-															</div>
-														</div>
-													</div>
-												</form>
-											</div>
-											<iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
-											<script type="text/javascript">
-												/* <![CDATA[ */
-												gform.initializeOnLoaded(function() {
-													gformInitSpinner(1, '../wp-content/plugins/gravityforms/images/spinner.svg', true);
-													jQuery('#gform_ajax_frame_1').on('load', function() {
-														var contents = jQuery(this).contents().find('*').html();
-														var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;
-														if (!is_postback) {
-															return;
-														}
-														var form_content = jQuery(this).contents().find('#gform_wrapper_1');
-														var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;
-														var is_redirect = contents.indexOf('gformRedirect(){') >= 0;
-														var is_form = form_content.length > 0 && !is_redirect && !is_confirmation;
-														var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;
-														if (is_form) {
-															form_content.find('form').css('opacity', 0);
-															jQuery('#gform_wrapper_1').html(form_content.html());
-															if (form_content.hasClass('gform_validation_error')) {
-																jQuery('#gform_wrapper_1').addClass('gform_validation_error');
-															} else {
-																jQuery('#gform_wrapper_1').removeClass('gform_validation_error');
-															}
-															setTimeout(function() {
-																/* delay the scroll by 50 milliseconds to fix a bug in chrome */
-																jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt);
-															}, 50);
-															if (window['gformInitDatepicker']) {
-																gformInitDatepicker();
-															}
-															if (window['gformInitPriceFields']) {
-																gformInitPriceFields();
-															}
-															var current_page = jQuery('#gform_source_page_number_1').val();
-															gformInitSpinner(1, '../wp-content/plugins/gravityforms/images/spinner.svg', true);
-															jQuery(document).trigger('gform_page_loaded', [1, current_page]);
-															window['gf_submitting_1'] = false;
-														} else if (!is_redirect) {
-															var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();
-															if (!confirmation_content) {
-																confirmation_content = contents;
-															}
-															jQuery('#gform_wrapper_1').replaceWith(confirmation_content);
-															jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);
-															jQuery(document).trigger('gform_confirmation_loaded', [1]);
-															window['gf_submitting_1'] = false;
-															wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());
-														} else {
-															jQuery('#gform_1').append(contents);
-															if (window['gformRedirect']) {
-																gformRedirect();
-															}
-														}
-														jQuery(document).trigger("gform_pre_post_render", [{
-															formId: "1",
-															currentPage: "current_page",
-															abort: function() {
-																this.preventDefault();
-															}
-														}]);
-														if (event && event.defaultPrevented) {
-															return;
-														}
-														const gformWrapperDiv = document.getElementById("gform_wrapper_1");
-														if (gformWrapperDiv) {
-															const visibilitySpan = document.createElement("span");
-															visibilitySpan.id = "gform_visibility_test_1";
-															gformWrapperDiv.insertAdjacentElement("afterend", visibilitySpan);
-														}
-														const visibilityTestDiv = document.getElementById("gform_visibility_test_1");
-														let postRenderFired = false;
-
-														function triggerPostRender() {
-															if (postRenderFired) {
-																return;
-															}
-															postRenderFired = true;
-															jQuery(document).trigger('gform_post_render', [1, current_page]);
-															gform.utils.trigger({
-																event: 'gform/postRender',
-																native: false,
-																data: {
-																	formId: 1,
-																	currentPage: current_page
-																}
-															});
-															gform.utils.trigger({
-																event: 'gform/post_render',
-																native: false,
-																data: {
-																	formId: 1,
-																	currentPage: current_page
-																}
-															});
-															if (visibilityTestDiv) {
-																visibilityTestDiv.parentNode.removeChild(visibilityTestDiv);
-															}
-														}
-
-														function debounce(func, wait, immediate) {
-															var timeout;
-															return function() {
-																var context = this,
-																	args = arguments;
-																var later = function() {
-																	timeout = null;
-																	if (!immediate) func.apply(context, args);
-																};
-																var callNow = immediate && !timeout;
-																clearTimeout(timeout);
-																timeout = setTimeout(later, wait);
-																if (callNow) func.apply(context, args);
-															};
-														}
-														const debouncedTriggerPostRender = debounce(function() {
-															triggerPostRender();
-														}, 200);
-														if (visibilityTestDiv && visibilityTestDiv.offsetParent === null) {
-															const observer = new MutationObserver((mutations) => {
-																mutations.forEach((mutation) => {
-																	if (mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null) {
-																		debouncedTriggerPostRender();
-																		observer.disconnect();
-																	}
-																});
-															});
-															observer.observe(document.body, {
-																attributes: true,
-																childList: false,
-																subtree: true,
-																attributeFilter: ['style', 'class'],
-															});
-														} else {
-															triggerPostRender();
-														}
-													});
-												});
-												/* ]]&gt; */
-											</script>
-										</div>
-									</div>
-								</div>
-
-
-							</div>
-
 						</div>
 					</div>
 				</div>
@@ -2392,7 +1652,7 @@
 				</div>
 			</div>
 		</div>
-	
+
 		<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="0" height="0">
 			<defs>
 				<clipPath id="curved-top" clipPathUnits="objectBoundingBox">
@@ -2415,7 +1675,7 @@
 				</clipPath>
 			</defs>
 		</svg>
-	
+
 		<div class="svg-sprite d-none"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 				<defs>
 					<symbol viewBox="0 0 100 100" id="icon-0-cost-electricity" fill="none">
@@ -2713,18 +1973,18 @@
 			style="display: none;"
 			aria-hidden="true"
 			data-bs-backdrop="false" data-options="{&quot;_wmx_modal_active&quot;:&quot;1&quot;,&quot;_wmx_modal_layout&quot;:&quot;banner&quot;,&quot;_wmx_modal_position&quot;:&quot;top&quot;,&quot;_wmx_modal_allow_interaction&quot;:&quot;&quot;,&quot;_wmx_modal_trigger&quot;:&quot;load&quot;,&quot;_wmx_modal_condition&quot;:&quot;pages&quot;,&quot;_wmx_modal_set_cookie&quot;:&quot;1&quot;,&quot;_wmx_modal_expiration&quot;:&quot;30&quot;,&quot;_wmx_modal_target&quot;:&quot;#header&quot;}">
-	
+
 		</div>
-	
-	
+
+
 		<div id="wmx-modal-25804"
 			data-modal-title="Reliable Power Pop-up 2"
 			class="wmx-modal"
 			style="display: none;"
 			aria-hidden="true"
 			data-options="{&quot;_wmx_modal_active&quot;:&quot;1&quot;,&quot;_wmx_modal_layout&quot;:&quot;large&quot;,&quot;_wmx_modal_allow_interaction&quot;:&quot;&quot;,&quot;_wmx_modal_set_cookie&quot;:&quot;1&quot;,&quot;_wmx_modal_expiration&quot;:&quot;30&quot;,&quot;_wmx_modal_position&quot;:&quot;center&quot;,&quot;_wmx_modal_trigger&quot;:&quot;exit&quot;,&quot;_wmx_modal_condition&quot;:&quot;path&quot;,&quot;_wmx_modal_condition_path&quot;:&quot;^(?!.*\\\/landing\\\/).*$&quot;}">
-	
-	
+
+
 			<div data-component="wmx-modals:wmx-modal-wrapper" class="wp-block-wmx-modals-wmx-modal-wrapper has-ffffff-background-color has-background">
 				<div class="inner-content-wrapper">
 					<div data-component="core:group" data-bs-theme="dark" class="wp-block-group has-navy-background-color has-background is-layout-flow wp-block-group-is-layout-flow" style="border-radius:12px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
@@ -2732,18 +1992,18 @@
 							<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
 								<figure data-component="core:image" class="wp-block-image alignright size-large has-custom-border"><img fetchpriority="high" decoding="async" width="1024" height="684" src="/assets/img/www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/12/Solar-Power-1024x684.jpg.webp" alt="" class="wp-image-25934" style="border-radius:12px;aspect-ratio:4/3;object-fit:cover" srcset="https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/12/Solar-Power-1024x684.jpg.webp 1024w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/12/Solar-Power-300x200.jpg.webp 300w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/12/Solar-Power-768x513.jpg.webp 768w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/12/Solar-Power.jpg.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 							</div>
-	
-	
-	
+
+
+
 							<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
 								<h3 data-component="core:heading" class="wp-block-heading" id="h-stay-powered-when-it-matters-most">Stay Powered When It Matters Most</h3>
-	
-	
-	
+
+
+
 								<p style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)">Our solar batteries provide continuous power security. Explore your options for resilience today!</p>
-	
-	
-	
+
+
+
 								<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)">
 									<div class="wp-block-button is-style-btn-primary"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/battery/index.html">View Battery Options</a></div>
 								</div>
@@ -2752,11 +2012,11 @@
 					</div>
 				</div>
 			</div>
-	
+
 		</div>
-	
+
 		<div>
-	
+
 			<style id='wp-block-spacer-inline-css' type='text/css'>
 				.wp-block-spacer {
 					clear: both
@@ -2777,42 +2037,42 @@
 					max-width: 360px;
 					width: 100%
 				}
-	
+
 				.wp-block-embed.alignleft .wp-block-embed__wrapper,
 				.wp-block-embed.alignright .wp-block-embed__wrapper,
 				.wp-block[data-align=left]>[data-type="core/embed"] .wp-block-embed__wrapper,
 				.wp-block[data-align=right]>[data-type="core/embed"] .wp-block-embed__wrapper {
 					min-width: 280px
 				}
-	
+
 				.wp-block-cover .wp-block-embed {
 					min-height: 240px;
 					min-width: 320px
 				}
-	
+
 				.wp-block-embed {
 					overflow-wrap: break-word
 				}
-	
+
 				.wp-block-embed :where(figcaption) {
 					margin-bottom: 1em;
 					margin-top: .5em
 				}
-	
+
 				.wp-block-embed iframe {
 					max-width: 100%
 				}
-	
+
 				.wp-block-embed__wrapper {
 					position: relative
 				}
-	
+
 				.wp-embed-responsive .wp-has-aspect-ratio .wp-block-embed__wrapper:before {
 					content: "";
 					display: block;
 					padding-top: 50%
 				}
-	
+
 				.wp-embed-responsive .wp-has-aspect-ratio iframe {
 					bottom: 0;
 					height: 100%;
@@ -2822,35 +2082,36 @@
 					top: 0;
 					width: 100%
 				}
-	
+
 				.wp-embed-responsive .wp-embed-aspect-21-9 .wp-block-embed__wrapper:before {
 					padding-top: 42.85%
 				}
-	
+
 				.wp-embed-responsive .wp-embed-aspect-18-9 .wp-block-embed__wrapper:before {
 					padding-top: 50%
 				}
-	
+
 				.wp-embed-responsive .wp-embed-aspect-16-9 .wp-block-embed__wrapper:before {
 					padding-top: 56.25%
 				}
-	
+
 				.wp-embed-responsive .wp-embed-aspect-4-3 .wp-block-embed__wrapper:before {
 					padding-top: 75%
 				}
-	
+
 				.wp-embed-responsive .wp-embed-aspect-1-1 .wp-block-embed__wrapper:before {
 					padding-top: 100%
 				}
-	
+
 				.wp-embed-responsive .wp-embed-aspect-9-16 .wp-block-embed__wrapper:before {
 					padding-top: 177.77%
 				}
-	
+
 				.wp-embed-responsive .wp-embed-aspect-1-2 .wp-block-embed__wrapper:before {
 					padding-top: 200%
 				}
 			</style>
+			<link rel='stylesheet' id='gform_basic-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/basic.minbf47.css?ver=2.9.1' type='text/css' media='all' />
 			<link rel='stylesheet' id='gform_basic-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/basic.minbf47.css?ver=2.9.1' type='text/css' media='all' />
 			<link rel='stylesheet' id='gform_theme_components-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.minbf47.css?ver=2.9.1' type='text/css' media='all' />
 			<link rel='stylesheet' id='gform_theme-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/theme.minbf47.css?ver=2.9.1' type='text/css' media='all' />
@@ -2943,148 +2204,148 @@
 					--wp--preset--shadow--soft: 0px 0px 20px 0px rgba(28, 44, 87, 0.16);
 					--wp--custom--header-height: 96px;
 				}
-	
+
 				:root {
 					--wp--style--global--content-size: 100%;
 					--wp--style--global--wide-size: 1;
 				}
-	
+
 				:where(body) {
 					margin: 0;
 				}
-	
+
 				.wp-site-blocks>.alignleft {
 					float: left;
 					margin-right: 2em;
 				}
-	
+
 				.wp-site-blocks>.alignright {
 					float: right;
 					margin-left: 2em;
 				}
-	
+
 				.wp-site-blocks>.aligncenter {
 					justify-content: center;
 					margin-left: auto;
 					margin-right: auto;
 				}
-	
+
 				:where(.wp-site-blocks)>* {
 					margin-block-start: 24px;
 					margin-block-end: 0;
 				}
-	
+
 				:where(.wp-site-blocks)> :first-child {
 					margin-block-start: 0;
 				}
-	
+
 				:where(.wp-site-blocks)> :last-child {
 					margin-block-end: 0;
 				}
-	
+
 				:root {
 					--wp--style--block-gap: 24px;
 				}
-	
+
 				:root :where(.is-layout-flow)> :first-child {
 					margin-block-start: 0;
 				}
-	
+
 				:root :where(.is-layout-flow)> :last-child {
 					margin-block-end: 0;
 				}
-	
+
 				:root :where(.is-layout-flow)>* {
 					margin-block-start: 24px;
 					margin-block-end: 0;
 				}
-	
+
 				:root :where(.is-layout-constrained)> :first-child {
 					margin-block-start: 0;
 				}
-	
+
 				:root :where(.is-layout-constrained)> :last-child {
 					margin-block-end: 0;
 				}
-	
+
 				:root :where(.is-layout-constrained)>* {
 					margin-block-start: 24px;
 					margin-block-end: 0;
 				}
-	
+
 				:root :where(.is-layout-flex) {
 					gap: 24px;
 				}
-	
+
 				:root :where(.is-layout-grid) {
 					gap: 24px;
 				}
-	
+
 				.is-layout-flow>.alignleft {
 					float: left;
 					margin-inline-start: 0;
 					margin-inline-end: 2em;
 				}
-	
+
 				.is-layout-flow>.alignright {
 					float: right;
 					margin-inline-start: 2em;
 					margin-inline-end: 0;
 				}
-	
+
 				.is-layout-flow>.aligncenter {
 					margin-left: auto !important;
 					margin-right: auto !important;
 				}
-	
+
 				.is-layout-constrained>.alignleft {
 					float: left;
 					margin-inline-start: 0;
 					margin-inline-end: 2em;
 				}
-	
+
 				.is-layout-constrained>.alignright {
 					float: right;
 					margin-inline-start: 2em;
 					margin-inline-end: 0;
 				}
-	
+
 				.is-layout-constrained>.aligncenter {
 					margin-left: auto !important;
 					margin-right: auto !important;
 				}
-	
+
 				.is-layout-constrained> :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
 					max-width: var(--wp--style--global--content-size);
 					margin-left: auto !important;
 					margin-right: auto !important;
 				}
-	
+
 				.is-layout-constrained>.alignwide {
 					max-width: var(--wp--style--global--wide-size);
 				}
-	
+
 				body .is-layout-flex {
 					display: flex;
 				}
-	
+
 				.is-layout-flex {
 					flex-wrap: wrap;
 					align-items: center;
 				}
-	
+
 				.is-layout-flex> :is(*, div) {
 					margin: 0;
 				}
-	
+
 				body .is-layout-grid {
 					display: grid;
 				}
-	
+
 				.is-layout-grid> :is(*, div) {
 					margin: 0;
 				}
-	
+
 				body {
 					color: var(--wp--preset--color--dark-navy);
 					font-family: var(--wp--preset--font-family--body);
@@ -3095,11 +2356,11 @@
 					padding-bottom: 0px;
 					padding-left: 0px;
 				}
-	
+
 				a:where(:not(.wp-element-button)) {
 					text-decoration: underline;
 				}
-	
+
 				h1 {
 					color: inherit;
 					font-family: var(--wp--preset--font-family--heading);
@@ -3107,7 +2368,7 @@
 					font-weight: 700 !important;
 					line-height: 1.2 !important;
 				}
-	
+
 				h2 {
 					color: inherit;
 					font-family: var(--wp--preset--font-family--heading);
@@ -3115,7 +2376,7 @@
 					font-weight: 600 !important;
 					line-height: 1.4 !important;
 				}
-	
+
 				h3 {
 					color: inherit;
 					font-family: var(--wp--preset--font-family--heading);
@@ -3123,7 +2384,7 @@
 					font-weight: 600 !important;
 					line-height: 1.2 !important;
 				}
-	
+
 				h4 {
 					color: inherit;
 					font-family: var(--wp--preset--font-family--heading);
@@ -3131,7 +2392,7 @@
 					font-weight: 600 !important;
 					line-height: 1.2 !important;
 				}
-	
+
 				h5 {
 					color: inherit;
 					font-family: var(--wp--preset--font-family--heading);
@@ -3139,7 +2400,7 @@
 					font-weight: 700 !important;
 					line-height: 1.2 !important;
 				}
-	
+
 				h6 {
 					color: inherit !important;
 					font-family: var(--wp--preset--font-family--heading);
@@ -3147,7 +2408,7 @@
 					font-weight: 700 !important;
 					line-height: 1.2 !important;
 				}
-	
+
 				:root :where(.wp-element-button, .wp-block-button__link) {
 					background-color: #32373c;
 					border-width: 0;
@@ -3158,527 +2419,527 @@
 					padding: calc(0.667em + 2px) calc(1.333em + 2px);
 					text-decoration: none;
 				}
-	
+
 				.has-black-color {
 					color: var(--wp--preset--color--black) !important;
 				}
-	
+
 				.has-cyan-bluish-gray-color {
 					color: var(--wp--preset--color--cyan-bluish-gray) !important;
 				}
-	
+
 				.has-white-color {
 					color: var(--wp--preset--color--white) !important;
 				}
-	
+
 				.has-pale-pink-color {
 					color: var(--wp--preset--color--pale-pink) !important;
 				}
-	
+
 				.has-vivid-red-color {
 					color: var(--wp--preset--color--vivid-red) !important;
 				}
-	
+
 				.has-luminous-vivid-orange-color {
 					color: var(--wp--preset--color--luminous-vivid-orange) !important;
 				}
-	
+
 				.has-luminous-vivid-amber-color {
 					color: var(--wp--preset--color--luminous-vivid-amber) !important;
 				}
-	
+
 				.has-light-green-cyan-color {
 					color: var(--wp--preset--color--light-green-cyan) !important;
 				}
-	
+
 				.has-vivid-green-cyan-color {
 					color: var(--wp--preset--color--vivid-green-cyan) !important;
 				}
-	
+
 				.has-pale-cyan-blue-color {
 					color: var(--wp--preset--color--pale-cyan-blue) !important;
 				}
-	
+
 				.has-vivid-cyan-blue-color {
 					color: var(--wp--preset--color--vivid-cyan-blue) !important;
 				}
-	
+
 				.has-vivid-purple-color {
 					color: var(--wp--preset--color--vivid-purple) !important;
 				}
-	
+
 				.has-sky-blue-color {
 					color: var(--wp--preset--color--sky-blue) !important;
 				}
-	
+
 				.has-ocean-blue-color {
 					color: var(--wp--preset--color--ocean-blue) !important;
 				}
-	
+
 				.has-navy-color {
 					color: var(--wp--preset--color--navy) !important;
 				}
-	
+
 				.has-dark-navy-color {
 					color: var(--wp--preset--color--dark-navy) !important;
 				}
-	
+
 				.has-yellow-100-color {
 					color: var(--wp--preset--color--yellow-100) !important;
 				}
-	
+
 				.has-yellow-200-color {
 					color: var(--wp--preset--color--yellow-200) !important;
 				}
-	
+
 				.has-yellow-300-color {
 					color: var(--wp--preset--color--yellow-300) !important;
 				}
-	
+
 				.has-light-orange-100-color {
 					color: var(--wp--preset--color--light-orange-100) !important;
 				}
-	
+
 				.has-light-orange-200-color {
 					color: var(--wp--preset--color--light-orange-200) !important;
 				}
-	
+
 				.has-light-orange-300-color {
 					color: var(--wp--preset--color--light-orange-300) !important;
 				}
-	
+
 				.has-orange-100-color {
 					color: var(--wp--preset--color--orange-100) !important;
 				}
-	
+
 				.has-orange-200-color {
 					color: var(--wp--preset--color--orange-200) !important;
 				}
-	
+
 				.has-orange-300-color {
 					color: var(--wp--preset--color--orange-300) !important;
 				}
-	
+
 				.has-gray-100-color {
 					color: var(--wp--preset--color--gray-100) !important;
 				}
-	
+
 				.has-gray-200-color {
 					color: var(--wp--preset--color--gray-200) !important;
 				}
-	
+
 				.has-gray-300-color {
 					color: var(--wp--preset--color--gray-300) !important;
 				}
-	
+
 				.has-gray-400-color {
 					color: var(--wp--preset--color--gray-400) !important;
 				}
-	
+
 				.has-gray-500-color {
 					color: var(--wp--preset--color--gray-500) !important;
 				}
-	
+
 				.has-gray-600-color {
 					color: var(--wp--preset--color--gray-600) !important;
 				}
-	
+
 				.has-gray-700-color {
 					color: var(--wp--preset--color--gray-700) !important;
 				}
-	
+
 				.has-gray-800-color {
 					color: var(--wp--preset--color--gray-800) !important;
 				}
-	
+
 				.has-gray-900-color {
 					color: var(--wp--preset--color--gray-900) !important;
 				}
-	
+
 				.has-black-background-color {
 					background-color: var(--wp--preset--color--black) !important;
 				}
-	
+
 				.has-cyan-bluish-gray-background-color {
 					background-color: var(--wp--preset--color--cyan-bluish-gray) !important;
 				}
-	
+
 				.has-white-background-color {
 					background-color: var(--wp--preset--color--white) !important;
 				}
-	
+
 				.has-pale-pink-background-color {
 					background-color: var(--wp--preset--color--pale-pink) !important;
 				}
-	
+
 				.has-vivid-red-background-color {
 					background-color: var(--wp--preset--color--vivid-red) !important;
 				}
-	
+
 				.has-luminous-vivid-orange-background-color {
 					background-color: var(--wp--preset--color--luminous-vivid-orange) !important;
 				}
-	
+
 				.has-luminous-vivid-amber-background-color {
 					background-color: var(--wp--preset--color--luminous-vivid-amber) !important;
 				}
-	
+
 				.has-light-green-cyan-background-color {
 					background-color: var(--wp--preset--color--light-green-cyan) !important;
 				}
-	
+
 				.has-vivid-green-cyan-background-color {
 					background-color: var(--wp--preset--color--vivid-green-cyan) !important;
 				}
-	
+
 				.has-pale-cyan-blue-background-color {
 					background-color: var(--wp--preset--color--pale-cyan-blue) !important;
 				}
-	
+
 				.has-vivid-cyan-blue-background-color {
 					background-color: var(--wp--preset--color--vivid-cyan-blue) !important;
 				}
-	
+
 				.has-vivid-purple-background-color {
 					background-color: var(--wp--preset--color--vivid-purple) !important;
 				}
-	
+
 				.has-sky-blue-background-color {
 					background-color: var(--wp--preset--color--sky-blue) !important;
 				}
-	
+
 				.has-ocean-blue-background-color {
 					background-color: var(--wp--preset--color--ocean-blue) !important;
 				}
-	
+
 				.has-navy-background-color {
 					background-color: var(--wp--preset--color--navy) !important;
 				}
-	
+
 				.has-dark-navy-background-color {
 					background-color: var(--wp--preset--color--dark-navy) !important;
 				}
-	
+
 				.has-yellow-100-background-color {
 					background-color: var(--wp--preset--color--yellow-100) !important;
 				}
-	
+
 				.has-yellow-200-background-color {
 					background-color: var(--wp--preset--color--yellow-200) !important;
 				}
-	
+
 				.has-yellow-300-background-color {
 					background-color: var(--wp--preset--color--yellow-300) !important;
 				}
-	
+
 				.has-light-orange-100-background-color {
 					background-color: var(--wp--preset--color--light-orange-100) !important;
 				}
-	
+
 				.has-light-orange-200-background-color {
 					background-color: var(--wp--preset--color--light-orange-200) !important;
 				}
-	
+
 				.has-light-orange-300-background-color {
 					background-color: var(--wp--preset--color--light-orange-300) !important;
 				}
-	
+
 				.has-orange-100-background-color {
 					background-color: var(--wp--preset--color--orange-100) !important;
 				}
-	
+
 				.has-orange-200-background-color {
 					background-color: var(--wp--preset--color--orange-200) !important;
 				}
-	
+
 				.has-orange-300-background-color {
 					background-color: var(--wp--preset--color--orange-300) !important;
 				}
-	
+
 				.has-gray-100-background-color {
 					background-color: var(--wp--preset--color--gray-100) !important;
 				}
-	
+
 				.has-gray-200-background-color {
 					background-color: var(--wp--preset--color--gray-200) !important;
 				}
-	
+
 				.has-gray-300-background-color {
 					background-color: var(--wp--preset--color--gray-300) !important;
 				}
-	
+
 				.has-gray-400-background-color {
 					background-color: var(--wp--preset--color--gray-400) !important;
 				}
-	
+
 				.has-gray-500-background-color {
 					background-color: var(--wp--preset--color--gray-500) !important;
 				}
-	
+
 				.has-gray-600-background-color {
 					background-color: var(--wp--preset--color--gray-600) !important;
 				}
-	
+
 				.has-gray-700-background-color {
 					background-color: var(--wp--preset--color--gray-700) !important;
 				}
-	
+
 				.has-gray-800-background-color {
 					background-color: var(--wp--preset--color--gray-800) !important;
 				}
-	
+
 				.has-gray-900-background-color {
 					background-color: var(--wp--preset--color--gray-900) !important;
 				}
-	
+
 				.has-black-border-color {
 					border-color: var(--wp--preset--color--black) !important;
 				}
-	
+
 				.has-cyan-bluish-gray-border-color {
 					border-color: var(--wp--preset--color--cyan-bluish-gray) !important;
 				}
-	
+
 				.has-white-border-color {
 					border-color: var(--wp--preset--color--white) !important;
 				}
-	
+
 				.has-pale-pink-border-color {
 					border-color: var(--wp--preset--color--pale-pink) !important;
 				}
-	
+
 				.has-vivid-red-border-color {
 					border-color: var(--wp--preset--color--vivid-red) !important;
 				}
-	
+
 				.has-luminous-vivid-orange-border-color {
 					border-color: var(--wp--preset--color--luminous-vivid-orange) !important;
 				}
-	
+
 				.has-luminous-vivid-amber-border-color {
 					border-color: var(--wp--preset--color--luminous-vivid-amber) !important;
 				}
-	
+
 				.has-light-green-cyan-border-color {
 					border-color: var(--wp--preset--color--light-green-cyan) !important;
 				}
-	
+
 				.has-vivid-green-cyan-border-color {
 					border-color: var(--wp--preset--color--vivid-green-cyan) !important;
 				}
-	
+
 				.has-pale-cyan-blue-border-color {
 					border-color: var(--wp--preset--color--pale-cyan-blue) !important;
 				}
-	
+
 				.has-vivid-cyan-blue-border-color {
 					border-color: var(--wp--preset--color--vivid-cyan-blue) !important;
 				}
-	
+
 				.has-vivid-purple-border-color {
 					border-color: var(--wp--preset--color--vivid-purple) !important;
 				}
-	
+
 				.has-sky-blue-border-color {
 					border-color: var(--wp--preset--color--sky-blue) !important;
 				}
-	
+
 				.has-ocean-blue-border-color {
 					border-color: var(--wp--preset--color--ocean-blue) !important;
 				}
-	
+
 				.has-navy-border-color {
 					border-color: var(--wp--preset--color--navy) !important;
 				}
-	
+
 				.has-dark-navy-border-color {
 					border-color: var(--wp--preset--color--dark-navy) !important;
 				}
-	
+
 				.has-yellow-100-border-color {
 					border-color: var(--wp--preset--color--yellow-100) !important;
 				}
-	
+
 				.has-yellow-200-border-color {
 					border-color: var(--wp--preset--color--yellow-200) !important;
 				}
-	
+
 				.has-yellow-300-border-color {
 					border-color: var(--wp--preset--color--yellow-300) !important;
 				}
-	
+
 				.has-light-orange-100-border-color {
 					border-color: var(--wp--preset--color--light-orange-100) !important;
 				}
-	
+
 				.has-light-orange-200-border-color {
 					border-color: var(--wp--preset--color--light-orange-200) !important;
 				}
-	
+
 				.has-light-orange-300-border-color {
 					border-color: var(--wp--preset--color--light-orange-300) !important;
 				}
-	
+
 				.has-orange-100-border-color {
 					border-color: var(--wp--preset--color--orange-100) !important;
 				}
-	
+
 				.has-orange-200-border-color {
 					border-color: var(--wp--preset--color--orange-200) !important;
 				}
-	
+
 				.has-orange-300-border-color {
 					border-color: var(--wp--preset--color--orange-300) !important;
 				}
-	
+
 				.has-gray-100-border-color {
 					border-color: var(--wp--preset--color--gray-100) !important;
 				}
-	
+
 				.has-gray-200-border-color {
 					border-color: var(--wp--preset--color--gray-200) !important;
 				}
-	
+
 				.has-gray-300-border-color {
 					border-color: var(--wp--preset--color--gray-300) !important;
 				}
-	
+
 				.has-gray-400-border-color {
 					border-color: var(--wp--preset--color--gray-400) !important;
 				}
-	
+
 				.has-gray-500-border-color {
 					border-color: var(--wp--preset--color--gray-500) !important;
 				}
-	
+
 				.has-gray-600-border-color {
 					border-color: var(--wp--preset--color--gray-600) !important;
 				}
-	
+
 				.has-gray-700-border-color {
 					border-color: var(--wp--preset--color--gray-700) !important;
 				}
-	
+
 				.has-gray-800-border-color {
 					border-color: var(--wp--preset--color--gray-800) !important;
 				}
-	
+
 				.has-gray-900-border-color {
 					border-color: var(--wp--preset--color--gray-900) !important;
 				}
-	
+
 				.has-vivid-cyan-blue-to-vivid-purple-gradient-background {
 					background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;
 				}
-	
+
 				.has-light-green-cyan-to-vivid-green-cyan-gradient-background {
 					background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;
 				}
-	
+
 				.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background {
 					background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;
 				}
-	
+
 				.has-luminous-vivid-orange-to-vivid-red-gradient-background {
 					background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;
 				}
-	
+
 				.has-very-light-gray-to-cyan-bluish-gray-gradient-background {
 					background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;
 				}
-	
+
 				.has-cool-to-warm-spectrum-gradient-background {
 					background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;
 				}
-	
+
 				.has-blush-light-purple-gradient-background {
 					background: var(--wp--preset--gradient--blush-light-purple) !important;
 				}
-	
+
 				.has-blush-bordeaux-gradient-background {
 					background: var(--wp--preset--gradient--blush-bordeaux) !important;
 				}
-	
+
 				.has-luminous-dusk-gradient-background {
 					background: var(--wp--preset--gradient--luminous-dusk) !important;
 				}
-	
+
 				.has-pale-ocean-gradient-background {
 					background: var(--wp--preset--gradient--pale-ocean) !important;
 				}
-	
+
 				.has-electric-grass-gradient-background {
 					background: var(--wp--preset--gradient--electric-grass) !important;
 				}
-	
+
 				.has-midnight-gradient-background {
 					background: var(--wp--preset--gradient--midnight) !important;
 				}
-	
+
 				.has-solar-gradient-background {
 					background: var(--wp--preset--gradient--solar) !important;
 				}
-	
+
 				.has-small-font-size {
 					font-size: var(--wp--preset--font-size--small) !important;
 				}
-	
+
 				.has-medium-font-size {
 					font-size: var(--wp--preset--font-size--medium) !important;
 				}
-	
+
 				.has-large-font-size {
 					font-size: var(--wp--preset--font-size--large) !important;
 				}
-	
+
 				.has-x-large-font-size {
 					font-size: var(--wp--preset--font-size--x-large) !important;
 				}
-	
+
 				.has-body-small-font-size {
 					font-size: var(--wp--preset--font-size--body-small) !important;
 				}
-	
+
 				.has-body-regular-font-size {
 					font-size: var(--wp--preset--font-size--body-regular) !important;
 				}
-	
+
 				.has-body-large-font-size {
 					font-size: var(--wp--preset--font-size--body-large) !important;
 				}
-	
+
 				.has-leader-font-size {
 					font-size: var(--wp--preset--font-size--leader) !important;
 				}
-	
+
 				.has-h-1-font-size {
 					font-size: var(--wp--preset--font-size--h-1) !important;
 				}
-	
+
 				.has-h-2-font-size {
 					font-size: var(--wp--preset--font-size--h-2) !important;
 				}
-	
+
 				.has-h-3-font-size {
 					font-size: var(--wp--preset--font-size--h-3) !important;
 				}
-	
+
 				.has-h-4-font-size {
 					font-size: var(--wp--preset--font-size--h-4) !important;
 				}
-	
+
 				.has-h-5-font-size {
 					font-size: var(--wp--preset--font-size--h-5) !important;
 				}
-	
+
 				.has-h-6-font-size {
 					font-size: var(--wp--preset--font-size--h-6) !important;
 				}
-	
+
 				.has-heading-font-family {
 					font-family: var(--wp--preset--font-family--heading) !important;
 				}
-	
+
 				.has-body-font-family {
 					font-family: var(--wp--preset--font-family--body) !important;
 				}
@@ -3687,55 +2948,55 @@
 				.wp-elements-ec03f9fe1fbfe75797564b6d0f9bb2b7 a:where(:not(.wp-element-button)) {
 					color: var(--wp--preset--color--white);
 				}
-	
+
 				.wp-container-core-columns-is-layout-1 {
 					flex-wrap: nowrap;
 				}
-	
+
 				.wp-container-core-columns-is-layout-2 {
 					flex-wrap: nowrap;
 				}
-	
+
 				.wp-container-core-columns-is-layout-3 {
 					flex-wrap: nowrap;
 				}
-	
+
 				.wp-container-core-columns-is-layout-4 {
 					flex-wrap: nowrap;
 				}
-	
+
 				.wp-container-core-columns-is-layout-5 {
 					flex-wrap: nowrap;
 				}
-	
+
 				.wp-container-core-columns-is-layout-6 {
 					flex-wrap: nowrap;
 				}
-	
+
 				.wp-container-core-columns-is-layout-7 {
 					flex-wrap: nowrap;
 				}
-	
+
 				.wp-container-core-columns-is-layout-8 {
 					flex-wrap: nowrap;
 				}
-	
+
 				.wp-container-core-columns-is-layout-9 {
 					flex-wrap: nowrap;
 				}
-	
+
 				.wp-container-core-columns-is-layout-10 {
 					flex-wrap: nowrap;
 				}
-	
+
 				.wp-container-core-buttons-is-layout-5 {
 					justify-content: center;
 				}
-	
+
 				.wp-container-core-columns-is-layout-11 {
 					flex-wrap: nowrap;
 				}
-	
+
 				.wp-container-core-columns-is-layout-12 {
 					flex-wrap: nowrap;
 				}
@@ -3928,103 +3189,103 @@
 				/* ]]> */
 			</script>
 			<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/wizard/dist/wizard.mind040.js?ver=1733933428" id="wmx-block-js-wizard-js"></script>
-	
+
 			<script type="text/javascript">
 				jQuery(document).ready(function($) {
-	
+
 					jQuery(document).on('gform_post_render', function(event, form_id, current_page) {
 						$('#gform_wrapper_' + form_id).addClass('gform-loaded');
 						checkSkipValue();
 					});
-	
+
 					$(document).on('click', '#skipButton', function() {
-	
+
 						// Set the hidden field value to 'skip'
 						$('[data-gfield-key="skip_value"]').val('skip');
 						$('.meeting-scheduler .datepicker').val('');
 						$('.meeting-scheduler .time-select select').val('');
 						$('.meeting-scheduler .meeting_timestamp').val('');
 						$('.meeting-scheduler [data-gfield-key="status_reason"]').val('1');
-	
+
 						$('.meeting-scheduler .gform_next_button').click();
-	
+
 						checkSkipValue();
 					});
-	
+
 					// Custom function to check if a date should be disabled
 					function isDateDisabled(date) {
 						var disabledDays = ["01\/01\/2025", "01\/20\/2025", "02\/17\/2025", "05\/26\/2025", "07\/04\/2025", "09\/01\/2025", "10\/13\/2025", "11\/11\/2025", "11\/27\/2025", "12\/25\/2025", "01\/01\/2026", "01\/19\/2026", "02\/16\/2026", "05\/25\/2026", "07\/04\/2026", "09\/07\/2026", "10\/12\/2026", "11\/11\/2026", "11\/26\/2026", "12\/25\/2026", "07\/03\/2026", "01\/01\/2027", "01\/18\/2027", "02\/15\/2027", "05\/31\/2027", "07\/04\/2027", "09\/06\/2027", "10\/11\/2027", "11\/11\/2027", "11\/25\/2027", "12\/25\/2027", "07\/05\/2027", "12\/24\/2027", "01\/01\/2028", "01\/17\/2028", "02\/21\/2028", "05\/29\/2028", "07\/04\/2028", "09\/04\/2028", "10\/09\/2028", "11\/11\/2028", "11\/23\/2028", "12\/25\/2028", "12\/31\/2027", "11\/10\/2028"];
 						var checkdate = $.datepicker.formatDate('mm/dd/yy', date);
 						var day = date.getDay();
-	
+
 						// Check if the date is in the disabledDays array or is a Sunday
 						return disabledDays.indexOf(checkdate) !== -1 || day === 0;
 					}
-	
+
 					if (typeof gform !== 'undefined') {
 						// Modify datepicker options for all Gravity Forms datepickers
 						gform.addFilter('gform_datepicker_options_pre_init', function(optionsObj, formId, fieldId) {
 							optionsObj.minDate = 1; // Start from tomorrow
 							optionsObj.maxDate = 14; // Allow booking up to 11 days in advance
-	
+
 							// Store the original beforeShowDay function if it exists
 							var originalBeforeShowDay = optionsObj.beforeShowDay;
-	
+
 							// Override the beforeShowDay function
 							optionsObj.beforeShowDay = function(date) {
 								// First, check our custom disabled dates
 								if (isDateDisabled(date)) {
 									return [false, ''];
 								}
-	
+
 								// If not disabled by our custom logic, use the original function if it exists
 								return originalBeforeShowDay ? originalBeforeShowDay(date) : [true, ''];
 							};
-	
+
 							return optionsObj;
 						});
 					}
-	
+
 					//get the value of time and date and generate a timestamp
 					$(document).on('change', '.meeting-scheduler .time-select select', function() {
-	
+
 						var selectedTime = $(this).val();
 						var selectedDate = $('.meeting-scheduler .datepicker').val();
-	
+
 						//Take Date and Time and formulate a timestamp that looks like this 2020-10-20T13:00:00.0
 						if ($('[data-gfield-key="skip_value"]').val() !== 'skip') {
 							if (selectedTime != '' && selectedDate != '') {
 								selectedTime = selectedTime + ':00:00.00+05:00';
-	
+
 								var dateParts = selectedDate.split('../index.html');
 								selectedDate = dateParts[2] + '-' + dateParts[0] + '-' + dateParts[1];
-	
+
 								var timestamp = selectedDate + 'T' + selectedTime;
 								// console.log(timestamp);
-	
+
 								var timestampValue = $('.meeting-scheduler .meeting_timestamp').val(timestamp);
-	
+
 								//if timestamp has a value then add the value '948170013' to the hidden field 'status_reason'
-	
+
 								if (timestamp) {
 									$('.meeting-scheduler [data-gfield-key="status_reason"]').val('948170013');
 								} else {
 									$('.meeting-scheduler [data-gfield-key="status_reason"]').val('1');
 								}
-	
+
 							} else {
 								timestampValue = $('.meeting-scheduler .meeting_timestamp').val('');
 								$('.meeting-scheduler [data-gfield-key="status_reason"]').val('1');
 							}
 						}
-	
+
 						//Enable the next button only if timestamp has a value that is not null otherwise disable the next button
 						setTimeout(function() {
 							var timestampValue = $('.meeting-scheduler .meeting_timestamp').val();
 							var selectedDate = $('.meeting-scheduler .datepicker').val();
-	
+
 							var selectedTime = $('.meeting-scheduler .time-select select').val();
-	
+
 							if (timestampValue != "" && selectedDate != "" && selectedTime != "") {
 								$('.meeting-scheduler .gform_next_button').prop('disabled', false);
 								$('.meeting-scheduler .gform_next_button').css('visibility', 'visible');
@@ -4034,14 +3295,14 @@
 							}
 						}, 100);
 					});
-	
+
 					function checkSkipValue() {
-	
+
 						// hot fix for bug in wizard (forcing to show the continue button only if a time is selected)
 						if ($('.meeting-scheduler .time-select select').val() == 'Please select a time') {
 							$('[data-gfield-key="skip_value"]').val('');
 						}
-	
+
 						//Disable the next button on page load if skip button is not clicked
 						if ($('[data-gfield-key="skip_value"]').val() !== 'skip') {
 							$('.meeting-scheduler .gform_next_button').prop('disabled', true);
@@ -4051,21 +3312,21 @@
 							// $('.meeting-scheduler .gform_next_button').css('visibility', 'visible');
 						}
 					}
-	
+
 					checkSkipValue();
-	
+
 					var lastSelectedDate = null;
-	
+
 					// Update selectable times based on the selected date
 					$(document).on('change', '.meeting-scheduler .datepicker', function() {
 						var selectedDate = new Date($(this).val());
-	
+
 						var dayOfWeek = selectedDate.getDay(); // 0 (Sunday) - 6 (Saturday)
-	
+
 						// Only update the dropdown options if the selected date has changed
 						if (lastSelectedDate !== dayOfWeek) {
 							lastSelectedDate = dayOfWeek;
-	
+
 							var dropdownOptions = [];
 							if (dayOfWeek == 1 || dayOfWeek == 3) { // Monday, Wednesday
 								dropdownOptions = [{
@@ -4158,18 +3419,18 @@
 									},
 								];
 							}
-	
+
 							// Update the dropdown options
 							var $dropdown = $('.meeting-scheduler .time-select').find('select');
 							$dropdown.empty();
-	
+
 							//default option
 							$dropdown.append($('<option></option>').attr('value', '').text('Please select a time'));
-	
+
 							$.each(dropdownOptions, function(i, option) {
 								$dropdown.append($('<option></option>').attr('value', option.value).text(option.text));
 							});
-	
+
 							checkSkipValue();
 						}
 					});
@@ -4851,7 +4112,7 @@
 					}
 					const visibilityTestDiv = document.getElementById("gform_visibility_test_1");
 					let postRenderFired = false;
-	
+
 					function triggerPostRender() {
 						if (postRenderFired) {
 							return;
@@ -4878,7 +4139,7 @@
 							visibilityTestDiv.parentNode.removeChild(visibilityTestDiv);
 						}
 					}
-	
+
 					function debounce(func, wait, immediate) {
 						var timeout;
 						return function() {
@@ -4918,9 +4179,9 @@
 				});
 				/* ]]> */
 			</script>
-	
+
 		</div>
-		
+
 	</div>
 
 </body>

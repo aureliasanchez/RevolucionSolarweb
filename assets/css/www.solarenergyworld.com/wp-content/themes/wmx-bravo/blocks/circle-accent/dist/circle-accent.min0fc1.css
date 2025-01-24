@@ -1,1 +1,42 @@
-.block--circle-accent{position:absolute}@media (max-width:767.98px){.block--circle-accent{display:none}}.block--circle-accent.is-style-circles-left{top:0;left:0;transform:translate(-50%,-50%)}.block--circle-accent.is-style-circles-left:before{content:url('data:image/svg+xml; utf8, <svg fill="none" height="700" viewBox="0 0 300 300" width="700" xmlns="http://www.w3.org/2000/svg"><circle cx="150" cy="150" fill="%23fcd4ae" r="150"/><ellipse cx="150.001" cy="150" fill="%23f9ae61" rx="114.286" ry="114.286"/><circle cx="149.999" cy="150" fill="%23f89420" r="78.5714"/></svg>');position:absolute;top:0;left:0;transform:translate(-66%,-50%)}.block--circle-accent.is-style-circles-right{top:0;right:0;transform:translate(-50%,-50%)}.block--circle-accent.is-style-circles-right:before{content:url('data:image/svg+xml; utf8, <svg fill="none" height="700" viewBox="0 0 300 300" width="700" xmlns="http://www.w3.org/2000/svg"><circle cx="150" cy="150" fill="%23fcd4ae" r="150"/><ellipse cx="150.001" cy="150" fill="%23f9ae61" rx="114.286" ry="114.286"/><circle cx="149.999" cy="150" fill="%23f89420" r="78.5714"/></svg>');position:absolute;top:0;right:0;transform:translate(66%,-50%)}.editor-styles-wrapper .block--section-wrapper:not(:has(.block--circle-accent)){position:relative;z-index:1}
+.block--circle-accent {
+    position: absolute
+}
+
+@media (max-width:767.98px) {
+    .block--circle-accent {
+        display: none
+    }
+}
+
+.block--circle-accent.is-style-circles-left {
+    top: 0;
+    left: 0;
+    transform: translate(-50%, -50%)
+}
+
+.block--circle-accent.is-style-circles-left:before {
+    content: url('data:image/svg+xml; utf8, <svg fill="none" height="700" viewBox="0 0 300 300" width="700" xmlns="http://www.w3.org/2000/svg"><circle cx="150" cy="150" fill="%23fcd4ae" r="150"/><ellipse cx="150.001" cy="150" fill="%23f9ae61" rx="114.286" ry="114.286"/><circle cx="149.999" cy="150" fill="%23f89420" r="78.5714"/></svg>');
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(-66%, -50%)
+}
+
+.block--circle-accent.is-style-circles-right {
+    top: 0;
+    right: 0;
+    transform: translate(-50%, -50%)
+}
+
+.block--circle-accent.is-style-circles-right:before {
+    content: url('data:image/svg+xml; utf8, <svg fill="none" height="700" viewBox="0 0 300 300" width="700" xmlns="http://www.w3.org/2000/svg"><circle cx="150" cy="150" fill="%23fcd4ae" r="150"/><ellipse cx="150.001" cy="150" fill="%23f9ae61" rx="114.286" ry="114.286"/><circle cx="149.999" cy="150" fill="%23f89420" r="78.5714"/></svg>');
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(66%, -50%)
+}
+
+.editor-styles-wrapper .block--section-wrapper:not(:has(.block--circle-accent)) {
+    position: relative;
+    z-index: 1
+}
