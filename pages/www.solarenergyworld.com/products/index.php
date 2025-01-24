@@ -1404,7 +1404,7 @@
 										</p>
 
 										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-											<div class="wp-block-button is-style-btn-primary"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/install-process/index.html">
+											<div class="wp-block-button is-style-btn-primary"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/install-process/index.php">
 													Conoce el proceso de instalación
 												</a>
 											</div>
