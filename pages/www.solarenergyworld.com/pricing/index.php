@@ -9,25 +9,20 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="format-detection" content="telephone=no">
 	<meta name="IE_RM_OFF" content="true">
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="About Us" />
-	<meta property="og:description" content="Solar Energy World is a top-rated, award-winning regional solar panel installation company for residential and commercial property owners." />
-	<meta property="og:url" content="https://www.solarenergyworld.com/about-us/" />
-	<meta property="og:site_name" content="Solar Energy World" />
-	<meta property="article:modified_time" content="2024-12-13T17:53:00+00:00" />
-	<meta property="og:image" content="https://www.solarenergyworld.com/wp-content/uploads/2024/12/Comcast_Master_Logo_OnWhite_RGB.png" />
-	<meta property="og:image:width" content="3981" />
-	<meta property="og:image:height" content="1573" />
-	<meta property="og:image:type" content="image/png" />
-	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="msapplication-TileColor" content="#da532c">
 	<meta name="msapplication-config" content="/favicon/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Pricing" />
+	<meta property="og:url" content="https://www.solarenergyworld.com/pricing/" />
+	<meta property="og:site_name" content="Solar Energy World" />
+	<meta property="article:modified_time" content="2024-08-21T13:10:50+00:00" />
+	<meta property="og:image" content="https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351-1024x781.webp" />
+	<meta name="twitter:card" content="summary_large_image" />
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-	<meta name="description" content="Solar Energy World is a top-rated, award-winning regional solar panel installation company for residential and commercial property owners." />
 
-	<!-- Script -->
+	<!-- script -->
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		var gform;
@@ -265,58 +260,45 @@
 			code.init();
 		})();
 	</script>
-	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
-	<script type="text/javascript" src="/assets/js/cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" id="jquery-js"></script>
-	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/g-business-reviews-rating/wp/js/js109c.js?ver=6.6.2" id="google_business_reviews_rating_wp_js-js"></script>
-	<script type="text/javascript" id="wmx-modals-js-extra">
-		/* <![CDATA[ */
-		var wmxModals = {
-			"siteUrl": "https:\/\/www.solarenergyworld.com",
-			"postType": "page"
-		};
-		/* ]]> */
-	</script>
-	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/wmx-modals-1/public/dist/js/wmx-modals-public.min1c12.js?ver=2.0.4" id="wmx-modals-js"></script>
 	<script type="application/ld+json" class="yoast-schema-graph">
 		{
 			"@context": "https://schema.org",
 			"@graph": [{
 				"@type": "WebPage",
-				"@id": "https://www.solarenergyworld.com/about-us/",
-				"url": "https://www.solarenergyworld.com/about-us/",
-				"name": "Solar Panel Installation Company | Solar Energy World",
+				"@id": "https://www.solarenergyworld.com/pricing/",
+				"url": "https://www.solarenergyworld.com/pricing/",
+				"name": "Pricing | Solar Energy World",
 				"isPartOf": {
 					"@id": "https://www.solarenergyworld.com/#website"
 				},
 				"primaryImageOfPage": {
-					"@id": "https://www.solarenergyworld.com/about-us/#primaryimage"
+					"@id": "https://www.solarenergyworld.com/pricing/#primaryimage"
 				},
 				"image": {
-					"@id": "https://www.solarenergyworld.com/about-us/#primaryimage"
+					"@id": "https://www.solarenergyworld.com/pricing/#primaryimage"
 				},
-				"thumbnailUrl": "https://www.solarenergyworld.com/wp-content/uploads/2024/12/Comcast_Master_Logo_OnWhite_RGB.png",
-				"datePublished": "2020-07-20T04:00:00+00:00",
-				"dateModified": "2024-12-13T17:53:00+00:00",
-				"description": "Solar Energy World is a top-rated, award-winning regional solar panel installation company for residential and commercial property owners.",
+				"thumbnailUrl": "https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351-1024x781.webp",
+				"datePublished": "2024-05-21T19:38:34+00:00",
+				"dateModified": "2024-08-21T13:10:50+00:00",
 				"breadcrumb": {
-					"@id": "https://www.solarenergyworld.com/about-us/#breadcrumb"
+					"@id": "https://www.solarenergyworld.com/pricing/#breadcrumb"
 				},
 				"inLanguage": "en-US",
 				"potentialAction": [{
 					"@type": "ReadAction",
-					"target": ["https://www.solarenergyworld.com/about-us/"]
+					"target": ["https://www.solarenergyworld.com/pricing/"]
 				}]
 			}, {
 				"@type": "ImageObject",
 				"inLanguage": "en-US",
-				"@id": "https://www.solarenergyworld.com/about-us/#primaryimage",
-				"url": "https://www.solarenergyworld.com/wp-content/uploads/2024/12/Comcast_Master_Logo_OnWhite_RGB.png",
-				"contentUrl": "https://www.solarenergyworld.com/wp-content/uploads/2024/12/Comcast_Master_Logo_OnWhite_RGB.png",
-				"width": 3981,
-				"height": 1573
+				"@id": "https://www.solarenergyworld.com/pricing/#primaryimage",
+				"url": "https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351.webp",
+				"contentUrl": "https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351.webp",
+				"width": 2048,
+				"height": 1562
 			}, {
 				"@type": "BreadcrumbList",
-				"@id": "https://www.solarenergyworld.com/about-us/#breadcrumb",
+				"@id": "https://www.solarenergyworld.com/pricing/#breadcrumb",
 				"itemListElement": [{
 					"@type": "ListItem",
 					"position": 1,
@@ -325,7 +307,7 @@
 				}, {
 					"@type": "ListItem",
 					"position": 2,
-					"name": "About Us"
+					"name": "Pricing"
 				}]
 			}, {
 				"@type": "WebSite",
@@ -349,6 +331,18 @@
 			}]
 		}
 	</script>
+	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
+	<script type="text/javascript" src="/assets/js/cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" id="jquery-js"></script>
+	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/g-business-reviews-rating/wp/js/js109c.js?ver=6.6.2" id="google_business_reviews_rating_wp_js-js"></script>
+	<script type="text/javascript" id="wmx-modals-js-extra">
+		/* <![CDATA[ */
+		var wmxModals = {
+			"siteUrl": "https:\/\/www.solarenergyworld.com",
+			"postType": "page"
+		};
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/wmx-modals-1/public/dist/js/wmx-modals-public.min1c12.js?ver=2.0.4" id="wmx-modals-js"></script>
 	<script class="hsq-set-content-id" data-content-id="standard-page">
 		var _hsq = _hsq || [];
 		_hsq.push(["setContentType", "standard-page"]);
@@ -381,25 +375,25 @@
 	<link rel="manifest" href="/assets/other/www.solarenergyworld.com/favicon/site.webmanifest">
 	<link rel="mask-icon" href="/assets/img/www.solarenergyworld.com/favicon/safari-pinned-tab.svg" color="#5bbad5">
 	<link rel="shortcut icon" href="/assets/img/www.solarenergyworld.com/favicon/favicon.ico">
+	<link rel="https://api.w.org/" href="/pages/www.solarenergyworld.com/wp-json/index.html" />
+	<link rel="alternate" title="JSON" type="application/json" href="/assets/other/www.solarenergyworld.com/wp-json/wp/v2/pages/258.json" />
+	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed630a.json?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fpricing%2F" />
+	<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed509c?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fpricing%2F&amp;format=xml" />
+	<link rel="preconnect" href="https://fonts.googleapis.com/">
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
 	<link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com/" />
 	<link rel="canonical" href="./index.php" />
 	<link rel='dns-prefetch' href='http://js.hs-scripts.com/' />
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 	<link rel='stylesheet' id='google_business_reviews_rating_wp_css-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/g-business-reviews-rating/wp/css/css109c.css?ver=6.6.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='google_business_reviews_rating_wp_css-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/cards-wrapper/dist/cards-wrapper.min0fc1.css' type='text/css' media='all' />
 	<link rel='stylesheet' id='block-editor-google-fonts-css' href='https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Manrope:wght@200..800&amp;display=swap' type='text/css' media='all' />
 	<link rel='stylesheet' id='wmx-bootstrap-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/css/bs.mindf15.css?v=1733933346' type='text/css' media='all' />
-	<link rel='stylesheet' id='wmx-bootstrap-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/cards-wrapper/dist/cards-wrapper.min0fc1.css' type='text/css' media='all' />
 	<link rel='stylesheet' id='wmx-bravo-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/css/app.mindf15.css?v=1733933346' type='text/css' media='all' />
 	<link rel='stylesheet' id='wmx-consent-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/consent/themea999.css?v=20250111' type='text/css' media='all' />
 	<link rel='stylesheet' id='wmx-base-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/css/app.mindf15.css?v=1733933346' type='text/css' media='all' />
 	<link rel='stylesheet' id='wmx-wp-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/css/wp.mindf15.css?v=1733933346' type='text/css' media='all' />
 	<link rel='stylesheet' id='wmx-modals-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/wmx-modals-1/public/dist/css/wmx-modals-public.min1c12.css?ver=2.0.4' type='text/css' media='all' />
-	<link rel="https://api.w.org/" href="/pages/www.solarenergyworld.com/wp-json/index.html" />
-	<link rel="alternate" title="JSON" type="application/json" href="/assets/other/www.solarenergyworld.com/wp-json/wp/v2/pages/638.json" />
-	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed8e2a.json?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fabout-us%2F" />
-	<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed5ef7?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fabout-us%2F&amp;format=xml" />
-	<link rel="preconnect" href="https://fonts.googleapis.com/">
-	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
 
 	<!-- Style -->
 	<style id='wp-block-library-inline-css' type='text/css'>
@@ -1357,11 +1351,10 @@
 		}
 	</style>
 
-	<title>Solar Panel Installation Company | Solar Energy World</title>
+	<title>Pricing | Solar Energy World</title>
 </head>
 
-<body data-bs-theme=light class="page-template-default page page-id-638 page-parent">
-
+<body data-bs-theme=light class="page-template-default page page-id-258 page-parent">
 	<a tabindex="1" href="#skipNav" class="z-9999 visually-hidden-focusable px-3 py-2 btn btn-primary position-absolute">Skip Navigation</a>
 
 	<div class="site-wrapper">
@@ -1374,7 +1367,7 @@
 
 		<main id="main">
 
-			<section id="wmx-section-wrapper-d1ybndt" data-component="wmx:section-wrapper" data-component-label="Hero w/ Image" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80);" data-wmx-wpb="section-wrapper">
+			<section id="wmx-section-wrapper-d1ybndt" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80);" data-wmx-wpb="section-wrapper">
 				<div class="container">
 					<div class="row">
 						<div class="col-12">
@@ -1385,30 +1378,40 @@
 
 								<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
 									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:40%">
-
-										<h2 data-component="core:heading" class="wp-block-heading" id="h-about-us">
-											Iluminamos tu futuro con energía limpia
-										</h2>
-
-										<h3>
-											Soluciones solares accesibles y sostenibles para todos.
-										</h3>
+										<h1 data-component="core:heading" class="wp-block-heading" id="h-pricing-starts-with-a-solar-evaluation">
+											Haz realidad tu proyecto solar
+										</h1>
 
 										<p>
-											En
+											Aprovecha nuestras soluciones de pago flexibles, garantía de hasta
 											<strong>
-												Revolución Solar,
+												25 años,
 											</strong>
-											estamos comprometidos con hacer que la energía renovable sea accesible para hogares y negocios en México. Con tecnología de vanguardia, financiamiento flexible y un equipo de expertos, ayudamos a nuestros clientes a reducir costos y su impacto ambiental.
+											y sé parte de nuestro programa de
+											<strong>
+												Líderes Solares,
+											</strong>
+											donde puedes generar ingresos adicionales ofreciendo nuestros productos.
 										</p>
 
+
+
+										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+											<div class="wp-block-button is-style-btn-primary">
+												<a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/contact/index.php">
+													Solicita más información ahora
+												</a>
+											</div>
+										</div>
 									</div>
 
-									<div data-component="core:column" data-order-mobile="true" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-										<div id="wmx-hero-media-cddipmd" data-component="wmx:hero-media" class="block block--hero-media" data-wmx-wpb="hero-media">
+
+
+									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+										<div id="hero-media-6782b01619e29" data-component="wmx:hero-media" class="block block--hero-media" data-wmx-wpb="hero-media">
 
 											<div class="backdrop"></div>
-											<div class="poster" style="background-image:url(/assets/img/pages/acercaDe/acercaDe.webp); "></div>
+											<div class="poster" style="background-image:url(/assets/img/pages/financiamiento/financiamiento.webp); "></div>
 											<div class="video-wrapper">
 
 
@@ -1435,14 +1438,13 @@
 					<div class="row">
 						<div class="col-12">
 							<div class="inner-wrapper">
-
 								<h2 data-component="core:heading" class="wp-block-heading has-text-align-center"
 									id="h-top-benefits-of-going-solar" style="margin-bottom: var(--wp--preset--spacing--50)">
-									¿Por qué elegir Revolución Solar?
+									Energía solar
+									<br>
+									Beneficios que transforman tu vida
 								</h2>
-								<h3 style="text-align: center; margin-bottom: 3%;">
-									Diferenciadores Clave
-								</h3>
+
 								<div data-component="core:columns"
 									class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-12 wp-block-columns-is-layout-flex">
 									<div data-component="core:column"
@@ -1456,8 +1458,8 @@
 												padding-top: var(--wp--preset--spacing--40);                              padding-bottom: var(--wp--preset--spacing--40);                              padding-left: var(--wp--preset--spacing--40);                              padding-right: var(--wp--preset--spacing--40);                              box-shadow: var(--wp--preset--shadow--soft);                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
 													data-bs-theme="light">
 													<figure data-component="core:image" class="wp-block-image aligncenter size-large">
-														<img loading="lazy" decoding="async" width="150" height="150"
-															src="/assets/img/pages/acercaDe/diferenciadores/dife1.webp" alt="" class="wp-image-19" />
+														<img loading="lazy" decoding="async" width="80" height="80"
+															src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/Bill.svg" alt="" class="wp-image-19" />
 													</figure>
 
 													<div style="height: 1.5rem; width: 0px" aria-hidden="true" data-component="core:spacer"
@@ -1465,65 +1467,94 @@
 
 													<h4 data-component="core:heading" class="wp-block-heading has-text-align-center"
 														id="h-save-on-electricity-costs">
-														Financiamiento sin complicaciones
+														25 años de garantía en paneles solares
 													</h4>
+													<p>
+														Disfruta de la máxima durabilidad con tecnología avanzada que garantiza un rendimiento óptimo durante décadas.
+													</p>
+												</div>
+												<div id="wmx-card-o71r1ac" data-component="wmx:card" class="block block--card" style=" 
+												padding-top: var(--wp--preset--spacing--40);                              padding-bottom: var(--wp--preset--spacing--40);                              padding-left: var(--wp--preset--spacing--40);                              padding-right: var(--wp--preset--spacing--40);                              box-shadow: var(--wp--preset--shadow--soft);                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
+													data-bs-theme="light">
+													<figure data-component="core:image" class="wp-block-image aligncenter size-large">
+														<img loading="lazy" decoding="async" width="80" height="80"
+															src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/House-Solar.svg" alt="" class="wp-image-21"
+															style="object-fit: cover" />
+													</figure>
+
+													<div style="height: 1.5rem; width: 0px" aria-hidden="true" data-component="core:spacer"
+														class="wp-block-spacer"></div>
+
+													<h4 data-component="core:heading" class="wp-block-heading has-text-align-center"
+														id="h-increase-your-home-s-value">
+														10 años de garantía en inversores
+													</h4>
+													<p>
+														Aseguramos el correcto funcionamiento de tu sistema con inversores de alta eficiencia respaldados por una década de protección.
+													</p>
 												</div>
 												<div id="wmx-card-o71r1ac" data-component="wmx:card" class="block block--card" style="
 												padding-top: var(--wp--preset--spacing--40);                              padding-bottom: var(--wp--preset--spacing--40);                              padding-left: var(--wp--preset--spacing--40);                              padding-right: var(--wp--preset--spacing--40);                              box-shadow: var(--wp--preset--shadow--soft);                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
 													data-bs-theme="light">
 													<figure data-component="core:image" class="wp-block-image aligncenter size-large">
-														<img loading="lazy" decoding="async" width="150" height="150"
-															src="/assets/img/pages/acercaDe/diferenciadores/dife2.webp" alt="" class="wp-image-19" />
+														<img loading="lazy" decoding="async" width="80" height="80"
+															src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Piggy-Bank.svg" alt="" class="wp-image-22" />
 													</figure>
 
-													<div style="height: 1.5rem; width: 0px" aria-hidden="true" data-component="core:spacer"
+													<div style="height: 1.5rem" aria-hidden="true" data-component="core:spacer"
 														class="wp-block-spacer"></div>
 
 													<h4 data-component="core:heading" class="wp-block-heading has-text-align-center"
-														id="h-save-on-electricity-costs">
-														Garantía y mantenimiento inigualables
+														id="h-profit-from-your-solar-panels">
+														Primer mantenimiento gratuito
 													</h4>
+													<p>
+														Nuestro equipo realiza una revisión inicial sin costo para garantizar que todo funcione a la perfección desde el primer día.
+													</p>
 												</div>
-												<div id="wmx-card-o71r1ac" data-component="wmx:card" class="block block--card" style="
+												<div id="wmx-card-7w23707" data-component="wmx:card" class="block block--card" style="
 												padding-top: var(--wp--preset--spacing--40);                              padding-bottom: var(--wp--preset--spacing--40);                              padding-left: var(--wp--preset--spacing--40);                              padding-right: var(--wp--preset--spacing--40);                              box-shadow: var(--wp--preset--shadow--soft);                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
 													data-bs-theme="light">
 													<figure data-component="core:image" class="wp-block-image aligncenter size-large">
-														<img loading="lazy" decoding="async" width="150" height="150"
-															src="/assets/img/pages/acercaDe/diferenciadores/dife3.webp" alt="" class="wp-image-19" />
+														<img loading="lazy" decoding="async" width="80" height="80"
+															src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Documents.svg" alt="" class="wp-image-25" />
 													</figure>
 
-													<div style="height: 1.5rem; width: 0px" aria-hidden="true" data-component="core:spacer"
+													<div style="height: 1.5rem" aria-hidden="true" data-component="core:spacer"
 														class="wp-block-spacer"></div>
 
 													<h4 data-component="core:heading" class="wp-block-heading has-text-align-center"
-														id="h-save-on-electricity-costs">
-														Impacto ambiental positivo con ahorro garantizado
+														id="h-earn-tax-credits-amp-incentives">
+														Capacitación personalizada
 													</h4>
+													<p>
+														Entrenamos a tu personal para que puedan realizar mantenimientos periódicos de manera sencilla y efectiva.
+													</p>
 												</div>
-												<div class="displayCard"></div>
-												<div id="wmx-card-o71r1ac" data-component="wmx:card" class="block block--card" style="
+												<div id="wmx-card-7w23707" data-component="wmx:card" class="block block--card" style="
 												padding-top: var(--wp--preset--spacing--40);                              padding-bottom: var(--wp--preset--spacing--40);                              padding-left: var(--wp--preset--spacing--40);                              padding-right: var(--wp--preset--spacing--40);                              box-shadow: var(--wp--preset--shadow--soft);                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
 													data-bs-theme="light">
 													<figure data-component="core:image" class="wp-block-image aligncenter size-large">
-														<img loading="lazy" decoding="async" width="150" height="150"
-															src="/assets/img/pages/acercaDe/diferenciadores/dife4.webp" alt="" class="wp-image-19" />
+														<img loading="lazy" decoding="async" width="80" height="80"
+															src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Documents.svg" alt="" class="wp-image-25" />
 													</figure>
 
-													<div style="height: 1.5rem; width: 0px" aria-hidden="true" data-component="core:spacer"
+													<div style="height: 1.5rem" aria-hidden="true" data-component="core:spacer"
 														class="wp-block-spacer"></div>
 
 													<h4 data-component="core:heading" class="wp-block-heading has-text-align-center"
-														id="h-save-on-electricity-costs">
-														Respaldo y experiencia confiable
+														id="h-earn-tax-credits-amp-incentives">
+														Mantenimiento preventivo periódico
 													</h4>
+													<p>
+														Dependiendo de tu ubicación, ofrecemos mantenimiento cada 6 meses o 1 año para asegurar el rendimiento óptimo de tu sistema solar.
+													</p>
 												</div>
-												<div class="displayCard"></div>
 
 											</div>
 										</div>
 									</div>
 								</div>
-
 							</div>
 						</div>
 					</div>
@@ -1531,112 +1562,34 @@
 			</section>
 
 
-			<!-- <section id="wmx-section-wrapper-5kgie2l" data-component="wmx:section-wrapper" data-component-label="Text w/ Image - Left" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
+			<!-- <section id="wmx-section-wrapper-5kgie2l" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);" data-wmx-wpb="section-wrapper">
 				<div class="container">
 					<div class="row">
 						<div class="col-12">
 
 							<div class="inner-wrapper">
 
+								<div style="height:var(--wp--preset--spacing--60)" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
 
-
-								<div data-component="core:columns" class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
+								<div data-component="core:columns" class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-10 wp-block-columns-is-layout-flex">
 									<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-										<figure data-component="core:image" class="wp-block-image size-full has-custom-border"><img loading="lazy" decoding="async" width="2048" height="1365" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/08/6a1e687ed6e4db01404f3304e70bdb3e.webp" alt="" class="wp-image-1073" style="border-radius:16px;aspect-ratio:4/3;object-fit:cover" srcset="https://www.solarenergyworld.com/wp-content/uploads/2024/08/6a1e687ed6e4db01404f3304e70bdb3e.webp 2048w,   https://www.solarenergyworld.com/wp-content/uploads/2024/08/6a1e687ed6e4db01404f3304e70bdb3e-300x200.webp 300w,   https://www.solarenergyworld.com/wp-content/uploads/2024/08/6a1e687ed6e4db01404f3304e70bdb3e-1024x683.webp 1024w,   https://www.solarenergyworld.com/wp-content/uploads/2024/08/6a1e687ed6e4db01404f3304e70bdb3e-768x512.webp 768w,   https://www.solarenergyworld.com/wp-content/uploads/2024/08/6a1e687ed6e4db01404f3304e70bdb3e-1536x1024.webp 1536w" sizes="(max-width: 2048px) 100vw, 2048px" /></figure>
+										<figure data-component="core:image" class="wp-block-image size-large has-custom-border is-style-circles-left"><img loading="lazy" decoding="async" width="1024" height="781" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351-1024x781.webp" alt="" class="wp-image-259" style="border-radius:16px;aspect-ratio:4/3;object-fit:cover" srcset="https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351-1024x781.webp 1024w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351-300x229.webp 300w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351-768x586.webp 768w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351-1536x1172.webp 1536w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 									</div>
 
 
 
 									<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-										<h2 data-component="core:heading" class="wp-block-heading" id="h-a-history-of-excellence">A History of Excellence</h2>
+										<h2 data-component="core:heading" class="wp-block-heading" id="h-financing-is-available-for-every-project">Financing is Available for Every Project</h2>
 
 
 
-										<p>We have installed thousands of solar panel systems since our founding in 2009. Solar Power World, the industry’s leading source for solar technology, development and installation news, released their annual Top Solar Installer List in July 2024. We are proud to say that we&nbsp;<a href="https://www.solarpowerworldonline.com/top-solar-contractors/">made the list again</a>&nbsp;now ranking 6 for total residential kW installed in 2023 and held on to the number one spot for residential installations in Maryland for the sixth year in a row.&nbsp; We remain the fastest-growing, independently-owned Solar Installation company in the region.</p>
-									</div>
-								</div>
-
-
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</section>
-
-
-			<section id="section-wrapper-67829d45c6b35" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
-				<div class="container">
-					<div class="row">
-						<div class="col-12">
-
-							<div class="inner-wrapper">
+										<p>Our Zero-Down Solar Power Purchase Agreement (PPA), makes it possible for you to pay $0 up front costs for solar panels and installation. With approved credit, you can have a solar power system installed and start paying at least 20% less than your current monthly electric bill.</p>
 
 
 
-								<h2 data-component="core:heading" class="wp-block-heading" id="h-our-triple-platinum-30-year-warranty">Our Triple Platinum 30-Year Warranty</h2>
-
-
-
-								<p>Choosing to go solar is one of the most important decisions you can make for your wallet, your home, and the planet. We offer our Triple Platinum 30-Year Warranty to every customer because we know Solar Energy World provides the best service and solar installation on the East Coast. With over 170,000 kW installed and more than 15 years in business, Solar Energy World is prepared to help you achieve energy independence today! Read more about our Triple 30-Year Platinum&nbsp; Warranty&nbsp;<a href="/pages/www.solarenergyworld.com/sew-warranty/index.html">here.</a></p>
-
-
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</section>
-
-
-			<section id="wmx-section-wrapper-5kgie2l" data-component="wmx:section-wrapper" data-component-label="Text w/ Image - Right" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
-				<div class="container">
-					<div class="row">
-						<div class="col-12">
-
-							<div class="inner-wrapper">
-
-
-
-								<div data-component="core:columns" class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
-									<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-										<h2 data-component="core:heading" class="wp-block-heading" id="h-how-we-set-ourselves-apart">How We Set Ourselves Apart</h2>
-
-
-
-										<ul data-component="core:list" class="wp-block-list">
-											<li><strong>Our systems are custom designed to fit your unique energy and financial needs.</strong>&nbsp;We do not sell build-it-yourself solar panel systems or try to force a one-size-fits-all solution on our customers.</li>
-
-
-
-											<li><strong>We never hire subcontractors.</strong>&nbsp;Every person who works on your system is an employee of Solar Energy World, fully accountable to us, ensuring you receive superior service.</li>
-
-
-
-											<li><strong>Great financing options.</strong> Your solar energy home is going to earn you money – you decide how to get it started. We offer more&nbsp;<a href="/pages/www.solarenergyworld.com/pricing/index.html"><strong>options&nbsp;</strong></a>than any of our competitors, including a PPA (Power Purchase Agreement) that lets you get solar panels and installation for&nbsp;<strong><a href="/pages/www.solarenergyworld.com/pricing/0-down-vs-purchase/index.html">$0 down</a></strong>&nbsp;and a purchase option where you can own your system and earn profits.</li>
-
-
-
-											<li><strong>We have incentive specialists to assist you with local tax credits &amp; grants.</strong>&nbsp;You’ll get all the benefits your entitled to hassle-free.</li>
-
-
-
-											<li><strong>We only install high-efficiency, superior solar PV products.</strong> We only install the best solar panel brands and solar backup batteries on the market from manufacturers all over the world, including America.</li>
-
-
-
-											<li><strong>Real, Positive Reviews.</strong> Is there a solar installation company that will let you talk to ANY customer you like? We will. In fact when you have a free solar evaluation with us,&nbsp;we let you choose anyone at random from our customer list of thousands&nbsp;to call for an unbiased, unrehearsed reference.</li>
-
-
-
-											<li><strong>88 years of local service.</strong> We’re not going anywhere! We have provided roofing, electrical design and home improvement work for many years.</li>
-										</ul>
-									</div>
-
-
-
-									<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-										<figure data-component="core:image" class="wp-block-image size-full has-custom-border"><img loading="lazy" decoding="async" width="2560" height="1707" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/08/DSC011101-scaled.jpg" alt="" class="wp-image-1041" style="border-radius:16px;aspect-ratio:4/3;object-fit:cover" srcset="https://www.solarenergyworld.com/wp-content/uploads/2024/08/DSC011101-scaled.jpg 2560w,   https://www.solarenergyworld.com/wp-content/uploads/2024/08/DSC011101-300x200.jpg 300w,   https://www.solarenergyworld.com/wp-content/uploads/2024/08/DSC011101-1024x683.jpg 1024w,   https://www.solarenergyworld.com/wp-content/uploads/2024/08/DSC011101-768x512.jpg 768w,   https://www.solarenergyworld.com/wp-content/uploads/2024/08/DSC011101-1536x1024.jpg 1536w,   https://www.solarenergyworld.com/wp-content/uploads/2024/08/DSC011101-2048x1365.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></figure>
+										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+											<div class="wp-block-button is-style-btn-outline"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/pricing/down-vs-purchase/index.html">View Financing Options</a></div>
+										</div>
 									</div>
 								</div>
 
@@ -1649,7 +1602,7 @@
 			</section>
 
 
-			<section id="wmx-section-wrapper-wm90xre" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
+			<section id="wmx-section-wrapper-5kgie2l" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);" data-wmx-wpb="section-wrapper">
 				<div class="container">
 					<div class="row">
 						<div class="col-12">
@@ -1658,57 +1611,25 @@
 
 
 
-								<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-8 wp-block-columns-is-layout-flex">
-									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-										<h2 data-component="core:heading" class="wp-block-heading" id="h-because-tomorrow-matters">Because Tomorrow Matters</h2>
+								<div data-component="core:columns" class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-11 wp-block-columns-is-layout-flex">
+									<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+										<h2 data-component="core:heading" class="wp-block-heading" id="h-earn-solar-tax-credits-amp-incentives">Earn Solar Tax Credits &amp; Incentives</h2>
 
 
 
-										<p>Our company’s mission is to give more people the power to reduce their dependence on fossil fuels to foster financial and environmental security for their children and grandchildren because we believe tomorrow matters. In keeping with that mission, our installations also benefit children worldwide.</p>
+										<p>Federal, state and local governments offer tax incentives and grants to encourage homeowners and businesses switch to solar. Solar Energy World stays on top of the latest local solar incentives for you, so that you don’t have to worry about missing out. We also apply for all of these incentives on your behalf, so you get the benefit without the hassle.</p>
 
 
 
-										<figure data-component="core:image" class="wp-block-image size-full is-resized"><a href="/pages/www.solarenergyworld.com/solar-energy-world-is-a-proud-partner-of-the-givepower-foundation/index.html"><img loading="lazy" decoding="async" width="906" height="296" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/07/image-2.png" alt="" class="wp-image-881" style="width:159px;height:auto" srcset="https://www.solarenergyworld.com/wp-content/uploads/2024/07/image-2.png 906w,   https://www.solarenergyworld.com/wp-content/uploads/2024/07/image-2-300x98.png 300w,   https://www.solarenergyworld.com/wp-content/uploads/2024/07/image-2-768x251.png 768w" sizes="(max-width: 906px) 100vw, 906px" /></a></figure>
+										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+											<div class="wp-block-button is-style-btn-outline"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/pricing/solar-tax-credits/index.html">View Tax Credits &amp; Incentives</a></div>
+										</div>
+									</div>
 
 
 
-										<p>Solar Energy World is an official GivePower partner. Through this partnership,&nbsp;a portion of the profits&nbsp;from every Solar Energy World installation goes to building GivePower’s Solar-powered Water Purification Farms in developing regions of the world, where every 90 seconds a child dies due to waterborne diseases. GivePower’s Water Purification Farms ensure children and their parents who live in that community never have to drink toxic water again.</p>
-
-
-
-										<p>Using solar energy helps reduce human dependence on fossil fuels, greenhouse gas emissions and also grid constraints. Therefore, solar energy along with other clean and renewable sources, can help shift society to a new energy future. Solar Energy World believes in playing a key role in this transition process because fossil fuels pump tons of poison into our air daily and they are also finite. Above all, the sun is the most powerful, reliable energy source we have that will provide energy to the earth for billions of years.</p>
-
-
-
-										<p>Solar Energy World is committed to protecting the environment, similarly we try to promote clean and renewable energy. Above all, our focus is on sustainable energy solutions for homeowners and property owners. That includes products that are guaranteed to operate and remain safe over their entire life cycle. Likewise, we strive to maintain the highest standards in responsible product choices and solar panel installation services. Hence, our pledge to remain a responsible corporate citizen as we help Maryland, Washington D.C., Pennsylvania, New Jersey, Virginia, and Florida and the world shift to a cleaner energy future.</p>
-
-
-
-										<div style="height:25px" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
-
-
-
-										<h2 data-component="core:heading" class="wp-block-heading" id="h-locally-based-installation-teams-in-md-nj-va-and-fl">Locally-Based Installation Teams in MD, NJ, VA, and FL</h2>
-
-
-
-										<p>We provide property owners a complete solution to solar power, because we handle every step of the solar panel planning and installation process to make going solar easy.&nbsp; We also ensure our customers receive every tax credit, grant and solar renewable energy credit they are entitled to.</p>
-
-
-
-										<p>All of our solar installers work directly for Solar Energy World, therefore they are fully accountable to us. In addition, our solar installers have years of prior experience working for our parent companies in related fields. For instance, all of them receive solar panel installation training from our solar panel brand partners. In addition, during the solar panel installation process an in-house NABCEP-certified solar designer/installer and a Solar Energy World licensed master electrician supervise our crews. Above all, we never hire subcontractors, so your solar panel system installation is guaranteed to be of the highest quality.</p>
-
-
-
-										<div style="height:25px" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
-
-
-
-										<h2 data-component="core:heading" class="wp-block-heading" id="h-committed-to-clean-energy">Committed to Clean Energy</h2>
-
-
-
-										<p>According to several recent studies, annual electricity demand is projected to increase to 5,000 billion kWh by 2030. Coal fired power plants generate 37% of US electricity, and are the single biggest air polluter in the United States. In addition, Petroleum products account for approximately 31% of our energy needs and are the second largest contributor of pollutants on earth. So, our mission is to show property owners that they don’t have to rely on dirty fossil fuels alone for their electricity.</p>
+									<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+										<figure data-component="core:image" class="wp-block-image size-large has-custom-border"><img loading="lazy" decoding="async" width="1024" height="576" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/e9f75dd53f92182601319935d769c58f-1024x576.webp" alt="" class="wp-image-260" style="border-radius:16px;aspect-ratio:4/3;object-fit:cover" srcset="https://www.solarenergyworld.com/wp-content/uploads/2024/05/e9f75dd53f92182601319935d769c58f-1024x576.webp 1024w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/e9f75dd53f92182601319935d769c58f-300x169.webp 300w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/e9f75dd53f92182601319935d769c58f-768x432.webp 768w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/e9f75dd53f92182601319935d769c58f-1536x864.webp 1536w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/e9f75dd53f92182601319935d769c58f.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 									</div>
 								</div>
 
@@ -1730,7 +1651,7 @@
 
 
 
-								<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-9 wp-block-columns-is-layout-flex">
+								<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-12 wp-block-columns-is-layout-flex">
 									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 										<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" data-component="core:spacer" data-hide-mobile="true" data-hide-tablet="true" class="wp-block-spacer"></div>
 
@@ -1754,7 +1675,7 @@
 
 
 									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-										<div id="wizard-67829d45c7420" data-component="wmx:wizard" class="block block--wizard" data-wmx-wpb="wizard" data-bs-theme="light">
+										<div id="wizard-6782b0161dbd9" data-component="wmx:wizard" class="block block--wizard" data-wmx-wpb="wizard" data-bs-theme="light">
 
 											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86 86" fill="none" style="opacity: 0;">
 												<circle cx="43" cy="43" r="43" fill="#FCD4AE" />
@@ -1763,12 +1684,12 @@
 											</svg>
 
 											<script type="text/javascript"></script>
-											<div class='gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework solar-wizard_wrapper' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_1' style='display:none'>
+											<div class='gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework solar-wizard_wrapper' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_1' style='display:none'>
 												<div id='gf_1' class='gform_anchor' tabindex='-1'></div>
 												<div class='gform_heading'>
 													<p class='gform_required_legend'>&quot;<span class="gfield_required gfield_required_asterisk">*</span>&quot; indicates required fields</p>
 												</div>
-												<form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1' class='solar-wizard' action='https://www.solarenergyworld.com/about-us/#gf_1' data-formid='1' novalidate>
+												<form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1' class='solar-wizard' action='https://www.solarenergyworld.com/pricing/#gf_1' data-formid='1' novalidate>
 													<div id='gf_progressbar_wrapper_1' class='gf_progressbar_wrapper' data-start-at-zero=''>
 														<p class="gf_progressbar_title">Step <span class='gf_step_current_page'>1</span> of <span class='gf_step_page_count'>9</span><span class='gf_step_page_name'></span>
 														</p>
@@ -2136,9 +2057,9 @@
 																	<div id="field_1_47" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_47"><input data-gfield-key='_fbc' type='hidden' name='input_47' class='_fbc' value=''></div>
 																	<div id="field_1_34" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_34"><input data-gfield-key='fbclid' type='hidden' name='input_34' class='fbclid' value=''></div>
 																	<div id="field_1_35" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_35"><input data-gfield-key='msclkid' type='hidden' name='input_35' class='msclkid' value=''></div>
-																	<div id="field_1_42" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_42"><input data-gfield-key='user_agent' type='hidden' name='input_42' class='user_agent' value='Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.264 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'></div>
+																	<div id="field_1_42" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_42"><input data-gfield-key='user_agent' type='hidden' name='input_42' class='user_agent' value='CCBot/2.0 (https://commoncrawl.org/faq/)'></div>
 																	<div id="field_1_43" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_43"><input data-gfield-key='referer' type='hidden' name='input_43' class='referer' value=''></div>
-																	<div id="field_1_67" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_67"><label class='gfield_label gform-field-label' for='input_1_67'>Email</label>
+																	<div id="field_1_67" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_67"><label class='gfield_label gform-field-label' for='input_1_67'>Phone</label>
 																		<div class='ginput_container'><input name='input_67' id='input_1_67' type='text' value='' autocomplete='new-password' /></div>
 																		<div class='gfield_description' id='gfield_description_1_67'>This field is for validation purposes and should be left unchanged.</div>
 																	</div>
@@ -2313,12 +2234,12 @@
 					</div>
 				</div>
 			</section> -->
+
 		</main>
 
 		<?php
 		include("../../../assets/html/footer.html");
 		?>
-
 	</div>
 
 	<div id="searchModal" class="modal fade" tabindex="-1" role="dialog" aria-label="Search Form" aria-hidden="true">
@@ -2709,16 +2630,9 @@
 
 		<link rel='stylesheet' id='wmx-block-css-hero-media-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/hero-media/dist/hero-media.min0fc1.css?ver=1733933346' type='text/css' media='all' />
 		<link rel='stylesheet' id='wmx-block-css-section-wrapper-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/section-wrapper/dist/section-wrapper.min0fc1.css?ver=1733933346' type='text/css' media='all' />
-		<style id='wp-block-list-inline-css' type='text/css'>
-			ol,
-			ul {
-				box-sizing: border-box
-			}
-
-			:root :where(ul.has-background, ol.has-background) {
-				padding: 1.25em 2.375em
-			}
-		</style>
+		<link rel='stylesheet' id='wmx-block-css-comparison-table-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/comparison-table/dist/comparison-table.min0fc1.css?ver=1733933346' type='text/css' media='all' />
+		<link rel='stylesheet' id='wmx-block-css-gated-content-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/gated-content/dist/gated-content.min0fc1.css?ver=1733933346' type='text/css' media='all' />
+		<link rel='stylesheet' id='wmx-block-css-gated-content-wrapper-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/gated-content-wrapper/dist/gated-content-wrapper.min0fc1.css?ver=1733933346' type='text/css' media='all' />
 		<style id='wp-block-spacer-inline-css' type='text/css'>
 			.wp-block-spacer {
 				clear: both
@@ -3596,6 +3510,18 @@
 			.wp-container-core-columns-is-layout-9 {
 				flex-wrap: nowrap;
 			}
+
+			.wp-container-core-columns-is-layout-10 {
+				flex-wrap: nowrap;
+			}
+
+			.wp-container-core-columns-is-layout-11 {
+				flex-wrap: nowrap;
+			}
+
+			.wp-container-core-columns-is-layout-12 {
+				flex-wrap: nowrap;
+			}
 		</style>
 		<script type="text/javascript" id="formhq-wordpress-adapter-js-extra">
 			/* <![CDATA[ */
@@ -3636,7 +3562,10 @@
 		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/js/app.mindf15.js?v=1733933346" id="wmx-main-scripts-js"></script>
 		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/js/app.mindf15.js?v=1733933346" id="wmx-bravo-scripts-js"></script>
 		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/hero-media/dist/hero-media.min0fc1.js?ver=1733933346" id="wmx-block-js-hero-media-js"></script>
-		<script type="text/javascript" src="../wp-content/themes/wmx-bravo/dist/wizards/base109c.js?ver=6.6.2" id="solar-wizard-base-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/comparison-table/dist/comparison-table.min0fc1.js?ver=1733933346" id="wmx-block-js-comparison-table-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/gated-content/dist/gated-content.min0fc1.js?ver=1733933346" id="wmx-block-js-gated-content-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/gated-content-wrapper/dist/gated-content-wrapper.min0fc1.js?ver=1733933346" id="wmx-block-js-gated-content-wrapper-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/wizards/base109c.js?ver=6.6.2" id="solar-wizard-base-js"></script>
 		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/wizards/v1a109c.js?ver=6.6.2" id="solar-wizard-version-js-js"></script>
 		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/dom-ready.min5346.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
 		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/hooks.min2757.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
@@ -4395,7 +4324,7 @@
 								animation: 0,
 								defaults: {
 									"53": "No Gift",
-									"42": "Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.6778.264 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)"
+									"42": "CCBot\/2.0 (https:\/\/commoncrawl.org\/faq\/)"
 								},
 								fields: {
 									"53": [],
@@ -4771,5 +4700,8 @@
 	</div>
 
 </body>
+
+
+<!-- Mirrored from www.solarenergyworld.com/pricing/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Jan 2025 18:13:41 GMT -->
 
 </html>
