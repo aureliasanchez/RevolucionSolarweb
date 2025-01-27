@@ -15,11 +15,13 @@
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Contact" />
-	<meta property="og:url" content="https://www.solarenergyworld.com/contact/" />
+	<meta property="og:title" content="Service Request" />
+	<meta property="og:description" content="We are committed to excellent service for your warranty claims and service needs. Complete the Service Request form." />
+	<meta property="og:url" content="https://www.solarenergyworld.com/service-request/" />
 	<meta property="og:site_name" content="Solar Energy World" />
-	<meta property="article:modified_time" content="2024-09-13T21:40:25+00:00" />
+	<meta property="article:modified_time" content="2024-09-26T12:18:33+00:00" />
 	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="description" content="We are committed to excellent service for your warranty claims and service needs. Complete the Service Request form." />
 
 	<!-- Script -->
 	<script type="text/javascript">
@@ -264,25 +266,26 @@
 			"@context": "https://schema.org",
 			"@graph": [{
 				"@type": "WebPage",
-				"@id": "https://www.solarenergyworld.com/contact/",
-				"url": "https://www.solarenergyworld.com/contact/",
-				"name": "Contact | Solar Energy World",
+				"@id": "https://www.solarenergyworld.com/service-request/",
+				"url": "https://www.solarenergyworld.com/service-request/",
+				"name": "Service Request | Solar Energy World",
 				"isPartOf": {
 					"@id": "https://www.solarenergyworld.com/#website"
 				},
-				"datePublished": "2024-06-26T13:40:23+00:00",
-				"dateModified": "2024-09-13T21:40:25+00:00",
+				"datePublished": "2020-08-13T04:00:00+00:00",
+				"dateModified": "2024-09-26T12:18:33+00:00",
+				"description": "We are committed to excellent service for your warranty claims and service needs. Complete the Service Request form.",
 				"breadcrumb": {
-					"@id": "https://www.solarenergyworld.com/contact/#breadcrumb"
+					"@id": "https://www.solarenergyworld.com/service-request/#breadcrumb"
 				},
 				"inLanguage": "en-US",
 				"potentialAction": [{
 					"@type": "ReadAction",
-					"target": ["https://www.solarenergyworld.com/contact/"]
+					"target": ["https://www.solarenergyworld.com/service-request/"]
 				}]
 			}, {
 				"@type": "BreadcrumbList",
-				"@id": "https://www.solarenergyworld.com/contact/#breadcrumb",
+				"@id": "https://www.solarenergyworld.com/service-request/#breadcrumb",
 				"itemListElement": [{
 					"@type": "ListItem",
 					"position": 1,
@@ -291,7 +294,7 @@
 				}, {
 					"@type": "ListItem",
 					"position": 2,
-					"name": "Contact"
+					"name": "Service Request"
 				}]
 			}, {
 				"@type": "WebSite",
@@ -327,6 +330,89 @@
 		/* ]]> */
 	</script>
 	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/wmx-modals-1/public/dist/js/wmx-modals-public.min1c12.js?ver=2.0.4" id="wmx-modals-js"></script>
+	<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/jquery.json.minbf47.js?ver=2.9.1" id="gform_json-js"></script>
+	<script type="text/javascript" id="gform_gravityforms-js-extra">
+		/* <![CDATA[ */
+		var gf_global = {
+			"gf_currency_config": {
+				"name": "U.S. Dollar",
+				"symbol_left": "$",
+				"symbol_right": "",
+				"symbol_padding": "",
+				"thousand_separator": ",",
+				"decimal_separator": ".",
+				"decimals": 2,
+				"code": "USD"
+			},
+			"base_url": "https:\/\/www.solarenergyworld.com\/wp-content\/plugins\/gravityforms",
+			"number_formats": [],
+			"spinnerUrl": "https:\/\/www.solarenergyworld.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg",
+			"version_hash": "6e1b6a8a07394e81ed5c99d62a6e87d5",
+			"strings": {
+				"newRowAdded": "New row added.",
+				"rowRemoved": "Row removed",
+				"formSaved": "The form has been saved.  The content contains the link to return and complete the form."
+			}
+		};
+		var gform_i18n = {
+			"datepicker": {
+				"days": {
+					"monday": "Mo",
+					"tuesday": "Tu",
+					"wednesday": "We",
+					"thursday": "Th",
+					"friday": "Fr",
+					"saturday": "Sa",
+					"sunday": "Su"
+				},
+				"months": {
+					"january": "January",
+					"february": "February",
+					"march": "March",
+					"april": "April",
+					"may": "May",
+					"june": "June",
+					"july": "July",
+					"august": "August",
+					"september": "September",
+					"october": "October",
+					"november": "November",
+					"december": "December"
+				},
+				"firstDay": 1,
+				"iconText": "Select date"
+			}
+		};
+		var gf_legacy_multi = {
+			"4": ""
+		};
+		var gform_gravityforms = {
+			"strings": {
+				"invalid_file_extension": "This type of file is not allowed. Must be one of the following:",
+				"delete_file": "Delete this file",
+				"in_progress": "in progress",
+				"file_exceeds_limit": "File exceeds size limit",
+				"illegal_extension": "This type of file is not allowed.",
+				"max_reached": "Maximum number of files reached",
+				"unknown_error": "There was a problem while saving the file on the server",
+				"currently_uploading": "Please wait for the uploading to complete",
+				"cancel": "Cancel",
+				"cancel_upload": "Cancel this upload",
+				"cancelled": "Cancelled"
+			},
+			"vars": {
+				"images_url": "https:\/\/www.solarenergyworld.com\/wp-content\/plugins\/gravityforms\/images"
+			}
+		};
+		/* ]]> */
+	</script>
+	<script type="text/javascript" id="gform_gravityforms-js-before">
+		/* <![CDATA[ */
+
+		/* ]]> */
+	</script>
+	<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/gravityforms.minbf47.js?ver=2.9.1" id="gform_gravityforms-js"></script>
+	<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min43b8.js?ver=501a987060f4426fb517400c73c7fc1e" id="gform_gravityforms_utils-js"></script>
 	<script class="hsq-set-content-id" data-content-id="standard-page">
 		var _hsq = _hsq || [];
 		_hsq.push(["setContentType", "standard-page"]);
@@ -353,10 +439,6 @@
 	</script>
 
 	<!-- Link -->
-	<link rel="https://api.w.org/" href="/pages/www.solarenergyworld.com/wp-json/index.html" />
-	<link rel="alternate" title="JSON" type="application/json" href="/assets/other/www.solarenergyworld.com/wp-json/wp/v2/pages/484.json" />
-	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed270c.json?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fcontact%2F" />
-	<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed4f60?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fcontact%2F&amp;format=xml" />
 	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/www.solarenergyworld.com/favicon/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/www.solarenergyworld.com/favicon/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/www.solarenergyworld.com/favicon/favicon-16x16.png">
@@ -366,8 +448,12 @@
 	<link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com/" />
 	<link rel="canonical" href="./index.php" />
 	<link rel='dns-prefetch' href='http://js.hs-scripts.com/' />
+	<link rel='dns-prefetch' href='http://cdnjs.cloudflare.com/' />
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 	<link rel='stylesheet' id='google_business_reviews_rating_wp_css-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/g-business-reviews-rating/wp/css/css109c.css?ver=6.6.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='gform_basic-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/basic.minbf47.css?ver=2.9.1' type='text/css' media='all' />
+	<link rel='stylesheet' id='gform_theme_components-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.minbf47.css?ver=2.9.1' type='text/css' media='all' />
+	<link rel='stylesheet' id='gform_theme-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/theme.minbf47.css?ver=2.9.1' type='text/css' media='all' />
 	<link rel='stylesheet' id='block-editor-google-fonts-css' href='https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Manrope:wght@200..800&amp;display=swap' type='text/css' media='all' />
 	<link rel='stylesheet' id='wmx-bootstrap-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/css/bs.mindf15.css?v=1733933346' type='text/css' media='all' />
 	<link rel='stylesheet' id='wmx-bravo-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/css/app.mindf15.css?v=1733933346' type='text/css' media='all' />
@@ -375,6 +461,10 @@
 	<link rel='stylesheet' id='wmx-base-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/css/app.mindf15.css?v=1733933346' type='text/css' media='all' />
 	<link rel='stylesheet' id='wmx-wp-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/css/wp.mindf15.css?v=1733933346' type='text/css' media='all' />
 	<link rel='stylesheet' id='wmx-modals-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/wmx-modals-1/public/dist/css/wmx-modals-public.min1c12.css?ver=2.0.4' type='text/css' media='all' />
+	<link rel="https://api.w.org/" href="/pages/www.solarenergyworld.com/wp-json/index.html" />
+	<link rel="alternate" title="JSON" type="application/json" href="../wp-json/wp/v2/pages/658.json" />
+	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed65e9.json?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fservice-request%2F" />
+	<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed8406?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fservice-request%2F&amp;format=xml" />
 	<link rel="preconnect" href="https://fonts.googleapis.com/">
 	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
 
@@ -1334,14 +1424,12 @@
 		}
 	</style>
 
-	<title>Contact | Solar Energy World</title>
+	<title>Service Request | Solar Energy World</title>
 </head>
 
-<body data-bs-theme=light class="page-template-default page page-id-484">
+<body data-bs-theme=light class="page-template-default page page-id-658">
 
-	<a tabindex="1" href="#skipNav" class="z-9999 visually-hidden-focusable px-3 py-2 btn btn-primary position-absolute">
-		Skip Navigation
-	</a>
+	<a tabindex="1" href="#skipNav" class="z-9999 visually-hidden-focusable px-3 py-2 btn btn-primary position-absolute">Skip Navigation</a>
 
 	<div class="site-wrapper">
 
@@ -1352,155 +1440,278 @@
 		<div id="skipNav" class="visually-hidden"></div>
 
 		<main id="main">
-
-			<section id="wmx-section-wrapper-cjm7qop" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
+			<section id="section-wrapper-6782b08036798" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
 				<div class="container">
 					<div class="row">
 						<div class="col-12">
-
 							<div class="inner-wrapper">
-
-
-
-								<div data-component="core:columns" class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
-									<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-
-										<p data-component="core:paragraph" class="has-text-align-center has-h-3-font-size">
-											Información de Contacto
-										</p>
-
-										<p data-component="core:paragraph" class="has-text-align-center">
-											<strong>
-												Dirección:
-											</strong>
-											Blvd. Universitario 399-21, Plaza Palmas II, 76230 Juriquilla, Querétaro.
-										</p>
-
-										<p data-component="core:paragraph" class="has-text-align-center">
-											<strong>
-												Teléfono:
-											</strong>
-											<a href="https://wa.me/4426315686" target="_blank">
-												(442) 631-5686
-											</a>
-										</p>
-
-										<p data-component="core:paragraph" class="has-text-align-center">
-											<strong>
-												Correo Electrónico:
-											</strong>
-											<a href="https://mail.google.com/mail/?view=cm&fs=1&to=contacto@revolucionsolar.com.mx&su=Consulta" target="_blank">
-												contacto@revolucionsolar.com.mx
-											</a>
-										</p>
-
-										<p data-component="core:paragraph" class="has-text-align-center">
-											<strong>
-												Horarios de Atención:
-											</strong>
-											9:00 a 18:00 hrs.
-										</p>
-
-									</div>
-								</div>
-
-
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</section>
-
-
-			<section id="wmx-section-wrapper-jbga1v2" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
-				<div class="container">
-					<div class="row">
-						<div class="col-12">
-
-							<div class="inner-wrapper">
-
-
-
-								<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
+								<div data-component="core:columns" class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
 									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-										<h2 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-visit-our-office-locations" style="margin-bottom:var(--wp--preset--spacing--50)">
-											Presencia en
-										</h2>
 
+										<div class='gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_4'>
 
-										<div id="wmx-cards-wrapper-day9tra" data-component="wmx:cards-wrapper" class="block block--cards-wrapper" style="--card-count:4;" data-wmx-wpb="cards-wrapper" data-mobile="stacked">
+											<div id='gf_4' class='gform_anchor' tabindex='-1'></div>
+											<div class='gform_heading'>
 
-											<div class="cards">
-
-												<div id="wmx-card-23jkprn" data-component="wmx:card"
-													class="block block--card is-style-gradient" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false" data-bs-theme="light">
-
-													<h4 data-component="core:heading" class="wp-block-heading" id="h-headquarters" style="margin-bottom:var(--wp--preset--spacing--40)">
-														Querétaro
-													</h4>
-
-													<p>
-														Direccion:
-													</p>
-
-												</div>
-												<div id="wmx-card-23jkprn" data-component="wmx:card"
-													class="block block--card is-style-gradient" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false" data-bs-theme="light">
-
-													<h4 data-component="core:heading" class="wp-block-heading" id="h-headquarters" style="margin-bottom:var(--wp--preset--spacing--40)">
-														Guanajuato
-													</h4>
-
-													<p>
-														Direccion:
-													</p>
-
-												</div>
-												<div id="wmx-card-23jkprn" data-component="wmx:card"
-													class="block block--card is-style-gradient" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false" data-bs-theme="light">
-
-													<h4 data-component="core:heading" class="wp-block-heading" id="h-headquarters" style="margin-bottom:var(--wp--preset--spacing--40)">
-														Morelos
-													</h4>
-
-													<p>
-														Direccion:
-													</p>
-
-												</div>
-												<div id="wmx-card-23jkprn" data-component="wmx:card"
-													class="block block--card is-style-gradient" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false" data-bs-theme="light">
-
-													<h4 data-component="core:heading" class="wp-block-heading" id="h-headquarters" style="margin-bottom:var(--wp--preset--spacing--40)">
-														Estado de México
-													</h4>
-
-													<p>
-														Direccion:
-													</p>
-
-												</div>
+												<h2 data-component="gravityforms:form" class="gform_title">
+													Incresa la siguiente información
+												</h2>
+												<p class='gform_description'></p>
+												<p class='gform_required_legend'>
+													&quot;<span class="gfield_required gfield_required_asterisk">*</span>&quot; indicates required fields</p>
 
 											</div>
+											<form method='post' enctype='multipart/form-data' target='gform_ajax_frame_4' id='gform_4' action='https://www.solarenergyworld.com/service-request/#gf_4' data-formid='4' novalidate>
+
+												<div class='gform-body gform_body'>
+													<div id='gform_fields_4' class='gform_fields top_label form_sublabel_below description_below validation_below'>
+
+														<fieldset id="field_4_1"
+															class="gfield gfield--type-name gfield--input-type-name gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_4_1">
+															<legend class='gfield_label gform-field-label gfield_label_before_complex'>
+																Nombre
+																<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span>
+															</legend>
+															<div class='ginput_complex ginput_container ginput_container--name no_prefix has_first_name no_middle_name has_last_name no_suffix gf_name_has_2 ginput_container_name gform-grid-row' id='input_4_1'>
+
+																<span id='input_4_1_3_container' class='name_first gform-grid-col gform-grid-col--size-auto'>
+																	<input type='text' name='input_1.3' id='input_4_1_3' value='' aria-required='true' />
+																	<label for='input_4_1_3' class='gform-field-label gform-field-label--type-sub'>
+																		Nombres
+																	</label>
+																</span>
+
+																<span id='input_4_1_6_container' class='name_last gform-grid-col gform-grid-col--size-auto'>
+																	<input type='text' name='input_1.6' id='input_4_1_6' value='' aria-required='true' />
+																	<label for='input_4_1_6' class='gform-field-label gform-field-label--type-sub'>
+																		Apellidos
+																	</label>
+																</span>
+
+															</div>
+														</fieldset>
+														<div id="field_4_3"
+															class="gfield gfield--type-phone gfield--input-type-phone gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_4_3"><label class='gfield_label gform-field-label' for='input_4_3'>
+																Teléfono
+																<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
+															<div class='ginput_container ginput_container_phone'><input name='input_3' id='input_4_3' type='tel' value='' class='large' aria-required="true" aria-invalid="false" /></div>
+														</div>
+														<div id="field_4_7"
+															class="gfield gfield--type-phone gfield--input-type-phone gfield--width-half field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_4_7"><label class='gfield_label gform-field-label' for='input_4_7'>
+																Otro telefono
+															</label>
+															<div class='ginput_container ginput_container_phone'><input name='input_7' id='input_4_7' type='tel' value='' class='large' aria-invalid="false" /></div>
+														</div>
+														<div id="field_4_4"
+															class="gfield gfield--type-email gfield--input-type-email gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_4_4"><label class='gfield_label gform-field-label' for='input_4_4'>
+																Correo electrónico
+																<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
+															<div class='ginput_container ginput_container_email'>
+																<input name='input_4' id='input_4_4' type='email' value='' class='large' aria-required="true" aria-invalid="false" />
+															</div>
+														</div>
+														<fieldset id="field_4_2"
+															class="gfield gfield--type-address gfield--input-type-address gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_4_2">
+															<legend class='gfield_label gform-field-label gfield_label_before_complex'>
+																Nombre de tu empresa
+																<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span>
+															</legend>
+															<div class='ginput_complex ginput_container has_street has_city has_state has_zip ginput_container_address gform-grid-row' id='input_4_2'>
+																<span class='ginput_full address_line_1 ginput_address_line_1 gform-grid-col' id='input_4_2_1_container'>
+																	<input type='text' name='input_2.1' id='input_4_2_1' value='' aria-required='true' />
+																</span>
+															</div>
+														</fieldset>
+														<div id="field_4_12"
+															class="gfield gfield--type-text gfield--input-type-text gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_4_12"><label class='gfield_label gform-field-label' for='input_4_12'>
+																Sector laboral
+																<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
+															<div class='ginput_container ginput_container_text'><input name='input_12' id='input_4_12' type='text' value='' class='large' aria-required="true" aria-invalid="false" /></div>
+														</div>
+														<div id="field_4_6"
+															class="gfield gfield--type-select gfield--input-type-select gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_4_6"><label class='gfield_label gform-field-label' for='input_4_6'>
+																¿Pagas mas de $3,000 pesos en tu recibo al bimestre?
+																<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
+															<div class='ginput_container ginput_container_select'>
+																<select name='input_6' id='input_4_6' class='large gfield_select' aria-required="true" aria-invalid="false">
+																	<option value='By phone'>No</option>
+																	<option value='By email'>Sí</option>
+																</select>
+															</div>
+														</div>
+
+													</div>
+												</div>
+												<div class='gform-footer gform_footer top_label'>
+													<button type="submit" id="gform_submit_button_4" class="gform_button button" onclick="gform.submission.handleButtonClick(this);">
+														Enviar
+													</button>
+													<input type='hidden' name='gform_ajax' value='form_id=4&amp;title=1&amp;description=1&amp;tabindex=0&amp;theme=gravity-theme&amp;styles={&quot;formId&quot;:&quot;4&quot;,&quot;inputPrimaryColor&quot;:&quot;#204ce5&quot;,&quot;hasParent&quot;:1,&quot;bs-wrapper&quot;:0}' />
+													<input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_4' value='iframe' />
+													<input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_4' id='gform_theme_4' value='gravity-theme' />
+													<input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_4' id='gform_style_settings_4' value='{"formId":"4","inputPrimaryColor":"#204ce5","hasParent":1,"bs-wrapper":0}' />
+													<input type='hidden' class='gform_hidden' name='is_submit_4' value='1' />
+													<input type='hidden' class='gform_hidden' name='gform_submit' value='4' />
+
+													<input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+													<input type='hidden' class='gform_hidden' name='state_4' value='WyJbXSIsImM3MDIyYTI2Y2Q4YTRkOGFkNjU5MWEyMzU5YmNmNjQzIl0=' />
+													<input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_4' id='gform_target_page_number_4' value='0' />
+													<input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_4' id='gform_source_page_number_4' value='1' />
+													<input type='hidden' name='gform_field_values' value='' />
+
+												</div>
+
+											</form>
 
 										</div>
+										<iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_4' id='gform_ajax_frame_4' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+										<script data-cfasync="false" src="/assets/js/www.solarenergyworld.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+										<script type="text/javascript">
+											/* <![CDATA[ */
+											gform.initializeOnLoaded(function() {
+												gformInitSpinner(4, '../wp-content/plugins/gravityforms/images/spinner.svg', true);
+												jQuery('#gform_ajax_frame_4').on('load', function() {
+													var contents = jQuery(this).contents().find('*').html();
+													var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;
+													if (!is_postback) {
+														return;
+													}
+													var form_content = jQuery(this).contents().find('#gform_wrapper_4');
+													var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_4').length > 0;
+													var is_redirect = contents.indexOf('gformRedirect(){') >= 0;
+													var is_form = form_content.length > 0 && !is_redirect && !is_confirmation;
+													var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;
+													if (is_form) {
+														jQuery('#gform_wrapper_4').html(form_content.html());
+														if (form_content.hasClass('gform_validation_error')) {
+															jQuery('#gform_wrapper_4').addClass('gform_validation_error');
+														} else {
+															jQuery('#gform_wrapper_4').removeClass('gform_validation_error');
+														}
+														setTimeout(function() {
+															/* delay the scroll by 50 milliseconds to fix a bug in chrome */
+															jQuery(document).scrollTop(jQuery('#gform_wrapper_4').offset().top - mt);
+														}, 50);
+														if (window['gformInitDatepicker']) {
+															gformInitDatepicker();
+														}
+														if (window['gformInitPriceFields']) {
+															gformInitPriceFields();
+														}
+														var current_page = jQuery('#gform_source_page_number_4').val();
+														gformInitSpinner(4, '../wp-content/plugins/gravityforms/images/spinner.svg', true);
+														jQuery(document).trigger('gform_page_loaded', [4, current_page]);
+														window['gf_submitting_4'] = false;
+													} else if (!is_redirect) {
+														var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();
+														if (!confirmation_content) {
+															confirmation_content = contents;
+														}
+														jQuery('#gform_wrapper_4').replaceWith(confirmation_content);
+														jQuery(document).scrollTop(jQuery('#gf_4').offset().top - mt);
+														jQuery(document).trigger('gform_confirmation_loaded', [4]);
+														window['gf_submitting_4'] = false;
+														wp.a11y.speak(jQuery('#gform_confirmation_message_4').text());
+													} else {
+														jQuery('#gform_4').append(contents);
+														if (window['gformRedirect']) {
+															gformRedirect();
+														}
+													}
+													jQuery(document).trigger("gform_pre_post_render", [{
+														formId: "4",
+														currentPage: "current_page",
+														abort: function() {
+															this.preventDefault();
+														}
+													}]);
+													if (event && event.defaultPrevented) {
+														return;
+													}
+													const gformWrapperDiv = document.getElementById("gform_wrapper_4");
+													if (gformWrapperDiv) {
+														const visibilitySpan = document.createElement("span");
+														visibilitySpan.id = "gform_visibility_test_4";
+														gformWrapperDiv.insertAdjacentElement("afterend", visibilitySpan);
+													}
+													const visibilityTestDiv = document.getElementById("gform_visibility_test_4");
+													let postRenderFired = false;
 
+													function triggerPostRender() {
+														if (postRenderFired) {
+															return;
+														}
+														postRenderFired = true;
+														jQuery(document).trigger('gform_post_render', [4, current_page]);
+														gform.utils.trigger({
+															event: 'gform/postRender',
+															native: false,
+															data: {
+																formId: 4,
+																currentPage: current_page
+															}
+														});
+														gform.utils.trigger({
+															event: 'gform/post_render',
+															native: false,
+															data: {
+																formId: 4,
+																currentPage: current_page
+															}
+														});
+														if (visibilityTestDiv) {
+															visibilityTestDiv.parentNode.removeChild(visibilityTestDiv);
+														}
+													}
 
-
-										<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
+													function debounce(func, wait, immediate) {
+														var timeout;
+														return function() {
+															var context = this,
+																args = arguments;
+															var later = function() {
+																timeout = null;
+																if (!immediate) func.apply(context, args);
+															};
+															var callNow = immediate && !timeout;
+															clearTimeout(timeout);
+															timeout = setTimeout(later, wait);
+															if (callNow) func.apply(context, args);
+														};
+													}
+													const debouncedTriggerPostRender = debounce(function() {
+														triggerPostRender();
+													}, 200);
+													if (visibilityTestDiv && visibilityTestDiv.offsetParent === null) {
+														const observer = new MutationObserver((mutations) => {
+															mutations.forEach((mutation) => {
+																if (mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null) {
+																	debouncedTriggerPostRender();
+																	observer.disconnect();
+																}
+															});
+														});
+														observer.observe(document.body, {
+															attributes: true,
+															childList: false,
+															subtree: true,
+															attributeFilter: ['style', 'class'],
+														});
+													} else {
+														triggerPostRender();
+													}
+												});
+											});
+											/* ]]&gt; */
+										</script>
 
 									</div>
 								</div>
-
-
 							</div>
-
 						</div>
 					</div>
 				</div>
 			</section>
-
 		</main>
 
 		<?php
@@ -1554,8 +1765,7 @@
 		</defs>
 	</svg>
 
-	<div class="svg-sprite d-none">
-		<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<div class="svg-sprite d-none"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 			<defs>
 				<symbol viewBox="0 0 100 100" id="icon-0-cost-electricity" fill="none">
 					<path d="M50 88.5378C49.4887 88.5378 49.0431 88.7094 48.7248 89.0277C48.4064 89.3461 48.2349 89.7916 48.2349 90.303V96.9697C48.2349 97.481 48.4064 97.9266 48.7248 98.2449C49.0431 98.5633 49.4887 98.7348 50 98.7348C50.5114 98.7348 50.9569 98.5633 51.2753 98.2449C51.5936 97.9266 51.7652 97.481 51.7652 96.9697V90.303C51.7652 89.4239 51.0631 88.5378 50 88.5378Z" fill="#0156A4" stroke="#0156A4" stroke-width="0.5" />
@@ -1845,9 +2055,7 @@
 					<path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" />
 				</symbol>
 			</defs>
-		</svg>
-	</div>
-
+		</svg></div>
 	<div id="wmx-modal-793"
 		data-modal-title="Hello Bar"
 		class="wmx-modal"
@@ -1856,6 +2064,7 @@
 		data-bs-backdrop="false" data-options="{&quot;_wmx_modal_active&quot;:&quot;1&quot;,&quot;_wmx_modal_layout&quot;:&quot;banner&quot;,&quot;_wmx_modal_position&quot;:&quot;top&quot;,&quot;_wmx_modal_allow_interaction&quot;:&quot;&quot;,&quot;_wmx_modal_trigger&quot;:&quot;load&quot;,&quot;_wmx_modal_condition&quot;:&quot;pages&quot;,&quot;_wmx_modal_set_cookie&quot;:&quot;1&quot;,&quot;_wmx_modal_expiration&quot;:&quot;30&quot;,&quot;_wmx_modal_target&quot;:&quot;#header&quot;}">
 
 	</div>
+
 
 	<div id="wmx-modal-25804"
 		data-modal-title="Reliable Power Pop-up 2"
@@ -1870,7 +2079,7 @@
 				<div data-component="core:group" data-bs-theme="dark" class="wp-block-group has-navy-background-color has-background is-layout-flow wp-block-group-is-layout-flow" style="border-radius:12px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
 					<div data-component="core:columns" class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex" style="border-style:none;border-width:0px;border-radius:0px">
 						<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-							<figure data-component="core:image" class="wp-block-image alignright size-large has-custom-border"><img fetchpriority="high" decoding="async" width="1024" height="684" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/12/Solar-Power-1024x684.jpg" alt="" class="wp-image-25934" style="border-radius:12px;aspect-ratio:4/3;object-fit:cover" srcset="https://www.solarenergyworld.com/wp-content/uploads/2024/12/Solar-Power-1024x684.jpg 1024w,   https://www.solarenergyworld.com/wp-content/uploads/2024/12/Solar-Power-300x200.jpg 300w,   https://www.solarenergyworld.com/wp-content/uploads/2024/12/Solar-Power-768x513.jpg 768w,   https://www.solarenergyworld.com/wp-content/uploads/2024/12/Solar-Power.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+							<figure data-component="core:image" class="wp-block-image alignright size-large has-custom-border"><img fetchpriority="high" decoding="async" width="1024" height="684" src="/assets/img/www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/12/Solar-Power-1024x684.jpg.webp" alt="" class="wp-image-25934" style="border-radius:12px;aspect-ratio:4/3;object-fit:cover" srcset="https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/12/Solar-Power-1024x684.jpg.webp 1024w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/12/Solar-Power-300x200.jpg.webp 300w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/12/Solar-Power-768x513.jpg.webp 768w,  https://www.solarenergyworld.com/wp-content/webp-express/webp-images/uploads/2024/12/Solar-Power.jpg.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 						</div>
 
 
@@ -1895,2063 +2104,1305 @@
 
 	</div>
 
-	<div>
-
-		<link rel='stylesheet' id='gform_basic-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/basic.minbf47.css?ver=2.9.1' type='text/css' media='all' />
-		<link rel='stylesheet' id='gform_theme_components-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.minbf47.css?ver=2.9.1' type='text/css' media='all' />
-		<link rel='stylesheet' id='gform_theme-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/theme.minbf47.css?ver=2.9.1' type='text/css' media='all' />
-		<link rel='stylesheet' id='wmx-block-css-wizard-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/wizard/dist/wizard.mind040.css?ver=1733933428' type='text/css' media='all' />
-		<link rel='stylesheet' id='wmx-block-css-section-wrapper-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/section-wrapper/dist/section-wrapper.min0fc1.css?ver=1733933346' type='text/css' media='all' />
-		<link rel='stylesheet' id='wmx-block-css-card-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/card/dist/card.min0fc1.css?ver=1733933346' type='text/css' media='all' />
-		<link rel='stylesheet' id='wmx-block-css-cards-wrapper-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/cards-wrapper/dist/cards-wrapper.min0fc1.css?ver=1733933346' type='text/css' media='all' />
-		<style id='wp-block-spacer-inline-css' type='text/css'>
-			.wp-block-spacer {
-				clear: both
-			}
-		</style>
-		<style id='global-styles-inline-css' type='text/css'>
-			:root {
-				--wp--preset--aspect-ratio--square: 1;
-				--wp--preset--aspect-ratio--4-3: 4/3;
-				--wp--preset--aspect-ratio--3-4: 3/4;
-				--wp--preset--aspect-ratio--3-2: 3/2;
-				--wp--preset--aspect-ratio--2-3: 2/3;
-				--wp--preset--aspect-ratio--16-9: 16/9;
-				--wp--preset--aspect-ratio--9-16: 9/16;
-				--wp--preset--color--black: #000000;
-				--wp--preset--color--cyan-bluish-gray: #abb8c3;
-				--wp--preset--color--white: #FFFFFF;
-				--wp--preset--color--pale-pink: #f78da7;
-				--wp--preset--color--vivid-red: #cf2e2e;
-				--wp--preset--color--luminous-vivid-orange: #ff6900;
-				--wp--preset--color--luminous-vivid-amber: #fcb900;
-				--wp--preset--color--light-green-cyan: #7bdcb5;
-				--wp--preset--color--vivid-green-cyan: #00d084;
-				--wp--preset--color--pale-cyan-blue: #8ed1fc;
-				--wp--preset--color--vivid-cyan-blue: #0693e3;
-				--wp--preset--color--vivid-purple: #9b51e0;
-				--wp--preset--color--sky-blue: #99D1F9;
-				--wp--preset--color--ocean-blue: #4F6BBA;
-				--wp--preset--color--navy: #243F8B;
-				--wp--preset--color--dark-navy: #1C2C57;
-				--wp--preset--color--yellow-100: #FEF2AF;
-				--wp--preset--color--yellow-200: #FEE560;
-				--wp--preset--color--yellow-300: #FDDD00;
-				--wp--preset--color--light-orange-100: #FCD4AE;
-				--wp--preset--color--light-orange-200: #F9AE61;
-				--wp--preset--color--light-orange-300: #F89420;
-				--wp--preset--color--orange-100: #FCCAAD;
-				--wp--preset--color--orange-200: #F7995F;
-				--wp--preset--color--orange-300: #F47822;
-				--wp--preset--color--gray-100: #EEEEEE;
-				--wp--preset--color--gray-200: #DBDAD7;
-				--wp--preset--color--gray-300: #C2C3C1;
-				--wp--preset--color--gray-400: #A9ABAA;
-				--wp--preset--color--gray-500: #909394;
-				--wp--preset--color--gray-600: #777C7E;
-				--wp--preset--color--gray-700: #5E6468;
-				--wp--preset--color--gray-800: #5E6468;
-				--wp--preset--color--gray-900: #2C353B;
-				--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg, rgba(6, 147, 227, 1) 0%, rgb(155, 81, 224) 100%);
-				--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg, rgb(122, 220, 180) 0%, rgb(0, 208, 130) 100%);
-				--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg, rgba(252, 185, 0, 1) 0%, rgba(255, 105, 0, 1) 100%);
-				--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg, rgba(255, 105, 0, 1) 0%, rgb(207, 46, 46) 100%);
-				--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg, rgb(238, 238, 238) 0%, rgb(169, 184, 195) 100%);
-				--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg, rgb(74, 234, 220) 0%, rgb(151, 120, 209) 20%, rgb(207, 42, 186) 40%, rgb(238, 44, 130) 60%, rgb(251, 105, 98) 80%, rgb(254, 248, 76) 100%);
-				--wp--preset--gradient--blush-light-purple: linear-gradient(135deg, rgb(255, 206, 236) 0%, rgb(152, 150, 240) 100%);
-				--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg, rgb(254, 205, 165) 0%, rgb(254, 45, 45) 50%, rgb(107, 0, 62) 100%);
-				--wp--preset--gradient--luminous-dusk: linear-gradient(135deg, rgb(255, 203, 112) 0%, rgb(199, 81, 192) 50%, rgb(65, 88, 208) 100%);
-				--wp--preset--gradient--pale-ocean: linear-gradient(135deg, rgb(255, 245, 203) 0%, rgb(182, 227, 212) 50%, rgb(51, 167, 181) 100%);
-				--wp--preset--gradient--electric-grass: linear-gradient(135deg, rgb(202, 248, 128) 0%, rgb(113, 206, 126) 100%);
-				--wp--preset--gradient--midnight: linear-gradient(135deg, rgb(2, 3, 129) 0%, rgb(40, 116, 252) 100%);
-				--wp--preset--gradient--solar: linear-gradient(90deg, #F89522 0%, #FDDD00 100%);
-				--wp--preset--font-size--small: 13px;
-				--wp--preset--font-size--medium: clamp(14px, 0.875rem + ((1vw - 5.76px) * 1.064), 20px);
-				--wp--preset--font-size--large: clamp(22.041px, 1.378rem + ((1vw - 5.76px) * 2.475), 36px);
-				--wp--preset--font-size--x-large: clamp(25.014px, 1.563rem + ((1vw - 5.76px) * 3.012), 42px);
-				--wp--preset--font-size--body-small: 14px;
-				--wp--preset--font-size--body-regular: 16px;
-				--wp--preset--font-size--body-large: 18px;
-				--wp--preset--font-size--leader: clamp(18px, 1.125rem + ((1vw - 5.76px) * 0.355), 20px);
-				--wp--preset--font-size--h-1: clamp(44px, 2.75rem + ((1vw - 5.76px) * 1.418), 52px);
-				--wp--preset--font-size--h-2: clamp(36px, 2.25rem + ((1vw - 5.76px) * 0.709), 40px);
-				--wp--preset--font-size--h-3: clamp(26px, 1.625rem + ((1vw - 5.76px) * 0.355), 28px);
-				--wp--preset--font-size--h-4: clamp(22px, 1.375rem + ((1vw - 5.76px) * 0.355), 24px);
-				--wp--preset--font-size--h-5: clamp(18px, 1.125rem + ((1vw - 5.76px) * 0.355), 20px);
-				--wp--preset--font-size--h-6: clamp(16px, 1rem + ((1vw - 5.76px) * 0.355), 18px);
-				--wp--preset--font-family--heading: Manrope, sans-serif;
-				--wp--preset--font-family--body: DM Sans, sans-serif;
-				--wp--preset--spacing--20: 0.44rem;
-				--wp--preset--spacing--30: 1rem;
-				--wp--preset--spacing--40: 2rem;
-				--wp--preset--spacing--50: 3rem;
-				--wp--preset--spacing--60: 4rem;
-				--wp--preset--spacing--70: 6rem;
-				--wp--preset--spacing--80: 7.5rem;
-				--wp--preset--spacing--90: 9.333rem;
-				--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);
-				--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);
-				--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);
-				--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);
-				--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);
-				--wp--preset--shadow--soft: 0px 0px 20px 0px rgba(28, 44, 87, 0.16);
-				--wp--custom--header-height: 96px;
-			}
-
-			:root {
-				--wp--style--global--content-size: 100%;
-				--wp--style--global--wide-size: 1;
-			}
-
-			:where(body) {
-				margin: 0;
-			}
-
-			.wp-site-blocks>.alignleft {
-				float: left;
-				margin-right: 2em;
-			}
-
-			.wp-site-blocks>.alignright {
-				float: right;
-				margin-left: 2em;
-			}
-
-			.wp-site-blocks>.aligncenter {
-				justify-content: center;
-				margin-left: auto;
-				margin-right: auto;
-			}
-
-			:where(.wp-site-blocks)>* {
-				margin-block-start: 24px;
-				margin-block-end: 0;
-			}
-
-			:where(.wp-site-blocks)> :first-child {
-				margin-block-start: 0;
-			}
-
-			:where(.wp-site-blocks)> :last-child {
-				margin-block-end: 0;
-			}
-
-			:root {
-				--wp--style--block-gap: 24px;
-			}
-
-			:root :where(.is-layout-flow)> :first-child {
-				margin-block-start: 0;
-			}
-
-			:root :where(.is-layout-flow)> :last-child {
-				margin-block-end: 0;
-			}
-
-			:root :where(.is-layout-flow)>* {
-				margin-block-start: 24px;
-				margin-block-end: 0;
-			}
-
-			:root :where(.is-layout-constrained)> :first-child {
-				margin-block-start: 0;
-			}
-
-			:root :where(.is-layout-constrained)> :last-child {
-				margin-block-end: 0;
-			}
-
-			:root :where(.is-layout-constrained)>* {
-				margin-block-start: 24px;
-				margin-block-end: 0;
-			}
-
-			:root :where(.is-layout-flex) {
-				gap: 24px;
-			}
-
-			:root :where(.is-layout-grid) {
-				gap: 24px;
-			}
-
-			.is-layout-flow>.alignleft {
-				float: left;
-				margin-inline-start: 0;
-				margin-inline-end: 2em;
-			}
-
-			.is-layout-flow>.alignright {
-				float: right;
-				margin-inline-start: 2em;
-				margin-inline-end: 0;
-			}
-
-			.is-layout-flow>.aligncenter {
-				margin-left: auto !important;
-				margin-right: auto !important;
-			}
-
-			.is-layout-constrained>.alignleft {
-				float: left;
-				margin-inline-start: 0;
-				margin-inline-end: 2em;
-			}
-
-			.is-layout-constrained>.alignright {
-				float: right;
-				margin-inline-start: 2em;
-				margin-inline-end: 0;
-			}
-
-			.is-layout-constrained>.aligncenter {
-				margin-left: auto !important;
-				margin-right: auto !important;
-			}
-
-			.is-layout-constrained> :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
-				max-width: var(--wp--style--global--content-size);
-				margin-left: auto !important;
-				margin-right: auto !important;
-			}
-
-			.is-layout-constrained>.alignwide {
-				max-width: var(--wp--style--global--wide-size);
-			}
-
-			body .is-layout-flex {
-				display: flex;
-			}
-
-			.is-layout-flex {
-				flex-wrap: wrap;
-				align-items: center;
-			}
-
-			.is-layout-flex> :is(*, div) {
-				margin: 0;
-			}
-
-			body .is-layout-grid {
-				display: grid;
-			}
-
-			.is-layout-grid> :is(*, div) {
-				margin: 0;
-			}
-
-			body {
-				color: var(--wp--preset--color--dark-navy);
-				font-family: var(--wp--preset--font-family--body);
-				font-size: var(--wp--preset--font-size--body-regular);
-				line-height: 1.5;
-				padding-top: 0px;
-				padding-right: 0px;
-				padding-bottom: 0px;
-				padding-left: 0px;
-			}
-
-			a:where(:not(.wp-element-button)) {
-				text-decoration: underline;
-			}
-
-			h1 {
-				color: inherit;
-				font-family: var(--wp--preset--font-family--heading);
-				font-size: var(--wp--preset--font-size--h-1) !important;
-				font-weight: 700 !important;
-				line-height: 1.2 !important;
-			}
-
-			h2 {
-				color: inherit;
-				font-family: var(--wp--preset--font-family--heading);
-				font-size: var(--wp--preset--font-size--h-2);
-				font-weight: 600 !important;
-				line-height: 1.4 !important;
-			}
-
-			h3 {
-				color: inherit;
-				font-family: var(--wp--preset--font-family--heading);
-				font-size: var(--wp--preset--font-size--h-3) !important;
-				font-weight: 600 !important;
-				line-height: 1.2 !important;
-			}
-
-			h4 {
-				color: inherit;
-				font-family: var(--wp--preset--font-family--heading);
-				font-size: var(--wp--preset--font-size--h-4) !important;
-				font-weight: 600 !important;
-				line-height: 1.2 !important;
-			}
-
-			h5 {
-				color: inherit;
-				font-family: var(--wp--preset--font-family--heading);
-				font-size: var(--wp--preset--font-size--h-5) !important;
-				font-weight: 700 !important;
-				line-height: 1.2 !important;
-			}
-
-			h6 {
-				color: inherit !important;
-				font-family: var(--wp--preset--font-family--heading);
-				font-size: var(--wp--preset--font-size--h-6) !important;
-				font-weight: 700 !important;
-				line-height: 1.2 !important;
-			}
-
-			:root :where(.wp-element-button, .wp-block-button__link) {
-				background-color: #32373c;
-				border-width: 0;
-				color: #fff;
-				font-family: inherit;
-				font-size: inherit;
-				line-height: inherit;
-				padding: calc(0.667em + 2px) calc(1.333em + 2px);
-				text-decoration: none;
-			}
-
-			.has-black-color {
-				color: var(--wp--preset--color--black) !important;
-			}
-
-			.has-cyan-bluish-gray-color {
-				color: var(--wp--preset--color--cyan-bluish-gray) !important;
-			}
-
-			.has-white-color {
-				color: var(--wp--preset--color--white) !important;
-			}
-
-			.has-pale-pink-color {
-				color: var(--wp--preset--color--pale-pink) !important;
-			}
-
-			.has-vivid-red-color {
-				color: var(--wp--preset--color--vivid-red) !important;
-			}
-
-			.has-luminous-vivid-orange-color {
-				color: var(--wp--preset--color--luminous-vivid-orange) !important;
-			}
-
-			.has-luminous-vivid-amber-color {
-				color: var(--wp--preset--color--luminous-vivid-amber) !important;
-			}
-
-			.has-light-green-cyan-color {
-				color: var(--wp--preset--color--light-green-cyan) !important;
-			}
-
-			.has-vivid-green-cyan-color {
-				color: var(--wp--preset--color--vivid-green-cyan) !important;
-			}
-
-			.has-pale-cyan-blue-color {
-				color: var(--wp--preset--color--pale-cyan-blue) !important;
-			}
-
-			.has-vivid-cyan-blue-color {
-				color: var(--wp--preset--color--vivid-cyan-blue) !important;
-			}
-
-			.has-vivid-purple-color {
-				color: var(--wp--preset--color--vivid-purple) !important;
-			}
-
-			.has-sky-blue-color {
-				color: var(--wp--preset--color--sky-blue) !important;
-			}
-
-			.has-ocean-blue-color {
-				color: var(--wp--preset--color--ocean-blue) !important;
-			}
-
-			.has-navy-color {
-				color: var(--wp--preset--color--navy) !important;
-			}
-
-			.has-dark-navy-color {
-				color: var(--wp--preset--color--dark-navy) !important;
-			}
-
-			.has-yellow-100-color {
-				color: var(--wp--preset--color--yellow-100) !important;
-			}
-
-			.has-yellow-200-color {
-				color: var(--wp--preset--color--yellow-200) !important;
-			}
-
-			.has-yellow-300-color {
-				color: var(--wp--preset--color--yellow-300) !important;
-			}
-
-			.has-light-orange-100-color {
-				color: var(--wp--preset--color--light-orange-100) !important;
-			}
-
-			.has-light-orange-200-color {
-				color: var(--wp--preset--color--light-orange-200) !important;
-			}
-
-			.has-light-orange-300-color {
-				color: var(--wp--preset--color--light-orange-300) !important;
-			}
-
-			.has-orange-100-color {
-				color: var(--wp--preset--color--orange-100) !important;
-			}
-
-			.has-orange-200-color {
-				color: var(--wp--preset--color--orange-200) !important;
-			}
-
-			.has-orange-300-color {
-				color: var(--wp--preset--color--orange-300) !important;
-			}
-
-			.has-gray-100-color {
-				color: var(--wp--preset--color--gray-100) !important;
-			}
-
-			.has-gray-200-color {
-				color: var(--wp--preset--color--gray-200) !important;
-			}
-
-			.has-gray-300-color {
-				color: var(--wp--preset--color--gray-300) !important;
-			}
-
-			.has-gray-400-color {
-				color: var(--wp--preset--color--gray-400) !important;
-			}
-
-			.has-gray-500-color {
-				color: var(--wp--preset--color--gray-500) !important;
-			}
-
-			.has-gray-600-color {
-				color: var(--wp--preset--color--gray-600) !important;
-			}
-
-			.has-gray-700-color {
-				color: var(--wp--preset--color--gray-700) !important;
-			}
-
-			.has-gray-800-color {
-				color: var(--wp--preset--color--gray-800) !important;
-			}
-
-			.has-gray-900-color {
-				color: var(--wp--preset--color--gray-900) !important;
-			}
-
-			.has-black-background-color {
-				background-color: var(--wp--preset--color--black) !important;
-			}
-
-			.has-cyan-bluish-gray-background-color {
-				background-color: var(--wp--preset--color--cyan-bluish-gray) !important;
-			}
-
-			.has-white-background-color {
-				background-color: var(--wp--preset--color--white) !important;
-			}
-
-			.has-pale-pink-background-color {
-				background-color: var(--wp--preset--color--pale-pink) !important;
-			}
-
-			.has-vivid-red-background-color {
-				background-color: var(--wp--preset--color--vivid-red) !important;
-			}
-
-			.has-luminous-vivid-orange-background-color {
-				background-color: var(--wp--preset--color--luminous-vivid-orange) !important;
-			}
-
-			.has-luminous-vivid-amber-background-color {
-				background-color: var(--wp--preset--color--luminous-vivid-amber) !important;
-			}
-
-			.has-light-green-cyan-background-color {
-				background-color: var(--wp--preset--color--light-green-cyan) !important;
-			}
-
-			.has-vivid-green-cyan-background-color {
-				background-color: var(--wp--preset--color--vivid-green-cyan) !important;
-			}
-
-			.has-pale-cyan-blue-background-color {
-				background-color: var(--wp--preset--color--pale-cyan-blue) !important;
-			}
-
-			.has-vivid-cyan-blue-background-color {
-				background-color: var(--wp--preset--color--vivid-cyan-blue) !important;
-			}
-
-			.has-vivid-purple-background-color {
-				background-color: var(--wp--preset--color--vivid-purple) !important;
-			}
-
-			.has-sky-blue-background-color {
-				background-color: var(--wp--preset--color--sky-blue) !important;
-			}
-
-			.has-ocean-blue-background-color {
-				background-color: var(--wp--preset--color--ocean-blue) !important;
-			}
-
-			.has-navy-background-color {
-				background-color: var(--wp--preset--color--navy) !important;
-			}
-
-			.has-dark-navy-background-color {
-				background-color: var(--wp--preset--color--dark-navy) !important;
-			}
-
-			.has-yellow-100-background-color {
-				background-color: var(--wp--preset--color--yellow-100) !important;
-			}
-
-			.has-yellow-200-background-color {
-				background-color: var(--wp--preset--color--yellow-200) !important;
-			}
-
-			.has-yellow-300-background-color {
-				background-color: var(--wp--preset--color--yellow-300) !important;
-			}
-
-			.has-light-orange-100-background-color {
-				background-color: var(--wp--preset--color--light-orange-100) !important;
-			}
-
-			.has-light-orange-200-background-color {
-				background-color: var(--wp--preset--color--light-orange-200) !important;
-			}
-
-			.has-light-orange-300-background-color {
-				background-color: var(--wp--preset--color--light-orange-300) !important;
-			}
-
-			.has-orange-100-background-color {
-				background-color: var(--wp--preset--color--orange-100) !important;
-			}
-
-			.has-orange-200-background-color {
-				background-color: var(--wp--preset--color--orange-200) !important;
-			}
-
-			.has-orange-300-background-color {
-				background-color: var(--wp--preset--color--orange-300) !important;
-			}
-
-			.has-gray-100-background-color {
-				background-color: var(--wp--preset--color--gray-100) !important;
-			}
-
-			.has-gray-200-background-color {
-				background-color: var(--wp--preset--color--gray-200) !important;
-			}
-
-			.has-gray-300-background-color {
-				background-color: var(--wp--preset--color--gray-300) !important;
-			}
-
-			.has-gray-400-background-color {
-				background-color: var(--wp--preset--color--gray-400) !important;
-			}
-
-			.has-gray-500-background-color {
-				background-color: var(--wp--preset--color--gray-500) !important;
-			}
-
-			.has-gray-600-background-color {
-				background-color: var(--wp--preset--color--gray-600) !important;
-			}
-
-			.has-gray-700-background-color {
-				background-color: var(--wp--preset--color--gray-700) !important;
-			}
-
-			.has-gray-800-background-color {
-				background-color: var(--wp--preset--color--gray-800) !important;
-			}
-
-			.has-gray-900-background-color {
-				background-color: var(--wp--preset--color--gray-900) !important;
-			}
-
-			.has-black-border-color {
-				border-color: var(--wp--preset--color--black) !important;
-			}
-
-			.has-cyan-bluish-gray-border-color {
-				border-color: var(--wp--preset--color--cyan-bluish-gray) !important;
-			}
-
-			.has-white-border-color {
-				border-color: var(--wp--preset--color--white) !important;
-			}
-
-			.has-pale-pink-border-color {
-				border-color: var(--wp--preset--color--pale-pink) !important;
-			}
-
-			.has-vivid-red-border-color {
-				border-color: var(--wp--preset--color--vivid-red) !important;
-			}
-
-			.has-luminous-vivid-orange-border-color {
-				border-color: var(--wp--preset--color--luminous-vivid-orange) !important;
-			}
-
-			.has-luminous-vivid-amber-border-color {
-				border-color: var(--wp--preset--color--luminous-vivid-amber) !important;
-			}
-
-			.has-light-green-cyan-border-color {
-				border-color: var(--wp--preset--color--light-green-cyan) !important;
-			}
-
-			.has-vivid-green-cyan-border-color {
-				border-color: var(--wp--preset--color--vivid-green-cyan) !important;
-			}
-
-			.has-pale-cyan-blue-border-color {
-				border-color: var(--wp--preset--color--pale-cyan-blue) !important;
-			}
-
-			.has-vivid-cyan-blue-border-color {
-				border-color: var(--wp--preset--color--vivid-cyan-blue) !important;
-			}
-
-			.has-vivid-purple-border-color {
-				border-color: var(--wp--preset--color--vivid-purple) !important;
-			}
-
-			.has-sky-blue-border-color {
-				border-color: var(--wp--preset--color--sky-blue) !important;
-			}
-
-			.has-ocean-blue-border-color {
-				border-color: var(--wp--preset--color--ocean-blue) !important;
-			}
-
-			.has-navy-border-color {
-				border-color: var(--wp--preset--color--navy) !important;
-			}
-
-			.has-dark-navy-border-color {
-				border-color: var(--wp--preset--color--dark-navy) !important;
-			}
-
-			.has-yellow-100-border-color {
-				border-color: var(--wp--preset--color--yellow-100) !important;
-			}
-
-			.has-yellow-200-border-color {
-				border-color: var(--wp--preset--color--yellow-200) !important;
-			}
-
-			.has-yellow-300-border-color {
-				border-color: var(--wp--preset--color--yellow-300) !important;
-			}
-
-			.has-light-orange-100-border-color {
-				border-color: var(--wp--preset--color--light-orange-100) !important;
-			}
-
-			.has-light-orange-200-border-color {
-				border-color: var(--wp--preset--color--light-orange-200) !important;
-			}
-
-			.has-light-orange-300-border-color {
-				border-color: var(--wp--preset--color--light-orange-300) !important;
-			}
-
-			.has-orange-100-border-color {
-				border-color: var(--wp--preset--color--orange-100) !important;
-			}
-
-			.has-orange-200-border-color {
-				border-color: var(--wp--preset--color--orange-200) !important;
-			}
-
-			.has-orange-300-border-color {
-				border-color: var(--wp--preset--color--orange-300) !important;
-			}
-
-			.has-gray-100-border-color {
-				border-color: var(--wp--preset--color--gray-100) !important;
-			}
-
-			.has-gray-200-border-color {
-				border-color: var(--wp--preset--color--gray-200) !important;
-			}
-
-			.has-gray-300-border-color {
-				border-color: var(--wp--preset--color--gray-300) !important;
-			}
-
-			.has-gray-400-border-color {
-				border-color: var(--wp--preset--color--gray-400) !important;
-			}
-
-			.has-gray-500-border-color {
-				border-color: var(--wp--preset--color--gray-500) !important;
-			}
-
-			.has-gray-600-border-color {
-				border-color: var(--wp--preset--color--gray-600) !important;
-			}
-
-			.has-gray-700-border-color {
-				border-color: var(--wp--preset--color--gray-700) !important;
-			}
-
-			.has-gray-800-border-color {
-				border-color: var(--wp--preset--color--gray-800) !important;
-			}
-
-			.has-gray-900-border-color {
-				border-color: var(--wp--preset--color--gray-900) !important;
-			}
-
-			.has-vivid-cyan-blue-to-vivid-purple-gradient-background {
-				background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;
-			}
-
-			.has-light-green-cyan-to-vivid-green-cyan-gradient-background {
-				background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;
-			}
-
-			.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background {
-				background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;
-			}
-
-			.has-luminous-vivid-orange-to-vivid-red-gradient-background {
-				background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;
-			}
-
-			.has-very-light-gray-to-cyan-bluish-gray-gradient-background {
-				background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;
-			}
-
-			.has-cool-to-warm-spectrum-gradient-background {
-				background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;
-			}
-
-			.has-blush-light-purple-gradient-background {
-				background: var(--wp--preset--gradient--blush-light-purple) !important;
-			}
-
-			.has-blush-bordeaux-gradient-background {
-				background: var(--wp--preset--gradient--blush-bordeaux) !important;
-			}
-
-			.has-luminous-dusk-gradient-background {
-				background: var(--wp--preset--gradient--luminous-dusk) !important;
-			}
-
-			.has-pale-ocean-gradient-background {
-				background: var(--wp--preset--gradient--pale-ocean) !important;
-			}
-
-			.has-electric-grass-gradient-background {
-				background: var(--wp--preset--gradient--electric-grass) !important;
-			}
-
-			.has-midnight-gradient-background {
-				background: var(--wp--preset--gradient--midnight) !important;
-			}
-
-			.has-solar-gradient-background {
-				background: var(--wp--preset--gradient--solar) !important;
-			}
-
-			.has-small-font-size {
-				font-size: var(--wp--preset--font-size--small) !important;
-			}
-
-			.has-medium-font-size {
-				font-size: var(--wp--preset--font-size--medium) !important;
-			}
-
-			.has-large-font-size {
-				font-size: var(--wp--preset--font-size--large) !important;
-			}
-
-			.has-x-large-font-size {
-				font-size: var(--wp--preset--font-size--x-large) !important;
-			}
-
-			.has-body-small-font-size {
-				font-size: var(--wp--preset--font-size--body-small) !important;
-			}
-
-			.has-body-regular-font-size {
-				font-size: var(--wp--preset--font-size--body-regular) !important;
-			}
-
-			.has-body-large-font-size {
-				font-size: var(--wp--preset--font-size--body-large) !important;
-			}
-
-			.has-leader-font-size {
-				font-size: var(--wp--preset--font-size--leader) !important;
-			}
-
-			.has-h-1-font-size {
-				font-size: var(--wp--preset--font-size--h-1) !important;
-			}
-
-			.has-h-2-font-size {
-				font-size: var(--wp--preset--font-size--h-2) !important;
-			}
-
-			.has-h-3-font-size {
-				font-size: var(--wp--preset--font-size--h-3) !important;
-			}
-
-			.has-h-4-font-size {
-				font-size: var(--wp--preset--font-size--h-4) !important;
-			}
-
-			.has-h-5-font-size {
-				font-size: var(--wp--preset--font-size--h-5) !important;
-			}
-
-			.has-h-6-font-size {
-				font-size: var(--wp--preset--font-size--h-6) !important;
-			}
-
-			.has-heading-font-family {
-				font-family: var(--wp--preset--font-family--heading) !important;
-			}
-
-			.has-body-font-family {
-				font-family: var(--wp--preset--font-family--body) !important;
-			}
-		</style>
-		<style id='core-block-supports-inline-css' type='text/css'>
-			.wp-elements-ec03f9fe1fbfe75797564b6d0f9bb2b7 a:where(:not(.wp-element-button)) {
-				color: var(--wp--preset--color--white);
-			}
-
-			.wp-container-core-columns-is-layout-1 {
-				flex-wrap: nowrap;
-			}
-
-			.wp-container-core-columns-is-layout-2 {
-				flex-wrap: nowrap;
-			}
-
-			.wp-container-core-columns-is-layout-3 {
-				flex-wrap: nowrap;
-			}
-
-			.wp-container-core-columns-is-layout-4 {
-				flex-wrap: nowrap;
-			}
-
-			.wp-container-core-columns-is-layout-5 {
-				flex-wrap: nowrap;
-			}
-
-			.wp-container-core-columns-is-layout-6 {
-				flex-wrap: nowrap;
-			}
-
-			.wp-container-core-buttons-is-layout-4 {
-				justify-content: center;
-			}
-
-			.wp-container-core-columns-is-layout-7 {
-				flex-wrap: nowrap;
-			}
-		</style>
-		<script type="text/javascript" id="formhq-wordpress-adapter-js-extra">
-			/* <![CDATA[ */
-			var formhq_localized = {
-				"platform_id": "www.solarenergyworld.com",
-				"site_id": "1",
-				"postmessage_target_origins": ["https:\/\/www.solarenergyworld.com"]
-			};
-			/* ]]> */
-		</script>
-		<script type="text/javascript" id="formhq-wordpress-adapter-js-before">
-			/* <![CDATA[ */
-			window._FormHQueue = {};
-			/* ]]> */
-		</script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/formhq-wordpress-adapter/public/js/scripts.js" id="formhq-wordpress-adapter-js"></script>
-		<script type="text/javascript" id="leadin-script-loader-js-js-extra">
-			/* <![CDATA[ */
-			var leadin_wordpress = {
-				"userRole": "visitor",
-				"pageType": "page",
-				"leadinPluginVersion": "11.1.75"
-			};
-			/* ]]> */
-		</script>
-		<script type="text/javascript" src="/assets/js/js.hs-scripts.com/14510929c865.js?integration=WordPress&amp;ver=11.1.75" id="leadin-script-loader-js-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/formhq-wordpress-adapter/public/js/gravity-forms.js" id="formhq-wordpress-adapter-gravity-forms-js"></script>
-		<script type="text/javascript" id="wmx-main-scripts-js-extra">
-			/* <![CDATA[ */
-			var app_localized = {
-				"themepath": "https:\/\/www.solarenergyworld.com\/wp-content\/themes\/wmx-prime",
-				"ajaxurl": "https:\/\/www.solarenergyworld.com\/wp-admin\/admin-ajax.php",
-				"check": "16b845e8d2",
-				"namespace": "wmx"
-			};
-			/* ]]> */
-		</script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/js/app.mindf15.js?v=1733933346" id="wmx-main-scripts-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/js/app.mindf15.js?v=1733933346" id="wmx-bravo-scripts-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/wizards/base109c.js?ver=6.6.2" id="solar-wizard-base-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/wizards/v1a109c.js?ver=6.6.2" id="solar-wizard-version-js-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/dom-ready.min5346.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/hooks.min2757.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
-		<script type="text/javascript" id="wp-i18n-js-after">
-			/* <![CDATA[ */
-			wp.i18n.setLocaleData({
-				'text direction\u0004ltr': ['ltr']
+	<link rel='stylesheet' id='wmx-block-css-section-wrapper-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/section-wrapper/dist/section-wrapper.min0fc1.css?ver=1733933346' type='text/css' media='all' />
+	<style id='global-styles-inline-css' type='text/css'>
+		:root {
+			--wp--preset--aspect-ratio--square: 1;
+			--wp--preset--aspect-ratio--4-3: 4/3;
+			--wp--preset--aspect-ratio--3-4: 3/4;
+			--wp--preset--aspect-ratio--3-2: 3/2;
+			--wp--preset--aspect-ratio--2-3: 2/3;
+			--wp--preset--aspect-ratio--16-9: 16/9;
+			--wp--preset--aspect-ratio--9-16: 9/16;
+			--wp--preset--color--black: #000000;
+			--wp--preset--color--cyan-bluish-gray: #abb8c3;
+			--wp--preset--color--white: #FFFFFF;
+			--wp--preset--color--pale-pink: #f78da7;
+			--wp--preset--color--vivid-red: #cf2e2e;
+			--wp--preset--color--luminous-vivid-orange: #ff6900;
+			--wp--preset--color--luminous-vivid-amber: #fcb900;
+			--wp--preset--color--light-green-cyan: #7bdcb5;
+			--wp--preset--color--vivid-green-cyan: #00d084;
+			--wp--preset--color--pale-cyan-blue: #8ed1fc;
+			--wp--preset--color--vivid-cyan-blue: #0693e3;
+			--wp--preset--color--vivid-purple: #9b51e0;
+			--wp--preset--color--sky-blue: #99D1F9;
+			--wp--preset--color--ocean-blue: #4F6BBA;
+			--wp--preset--color--navy: #243F8B;
+			--wp--preset--color--dark-navy: #1C2C57;
+			--wp--preset--color--yellow-100: #FEF2AF;
+			--wp--preset--color--yellow-200: #FEE560;
+			--wp--preset--color--yellow-300: #FDDD00;
+			--wp--preset--color--light-orange-100: #FCD4AE;
+			--wp--preset--color--light-orange-200: #F9AE61;
+			--wp--preset--color--light-orange-300: #F89420;
+			--wp--preset--color--orange-100: #FCCAAD;
+			--wp--preset--color--orange-200: #F7995F;
+			--wp--preset--color--orange-300: #F47822;
+			--wp--preset--color--gray-100: #EEEEEE;
+			--wp--preset--color--gray-200: #DBDAD7;
+			--wp--preset--color--gray-300: #C2C3C1;
+			--wp--preset--color--gray-400: #A9ABAA;
+			--wp--preset--color--gray-500: #909394;
+			--wp--preset--color--gray-600: #777C7E;
+			--wp--preset--color--gray-700: #5E6468;
+			--wp--preset--color--gray-800: #5E6468;
+			--wp--preset--color--gray-900: #2C353B;
+			--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg, rgba(6, 147, 227, 1) 0%, rgb(155, 81, 224) 100%);
+			--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg, rgb(122, 220, 180) 0%, rgb(0, 208, 130) 100%);
+			--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg, rgba(252, 185, 0, 1) 0%, rgba(255, 105, 0, 1) 100%);
+			--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg, rgba(255, 105, 0, 1) 0%, rgb(207, 46, 46) 100%);
+			--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg, rgb(238, 238, 238) 0%, rgb(169, 184, 195) 100%);
+			--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg, rgb(74, 234, 220) 0%, rgb(151, 120, 209) 20%, rgb(207, 42, 186) 40%, rgb(238, 44, 130) 60%, rgb(251, 105, 98) 80%, rgb(254, 248, 76) 100%);
+			--wp--preset--gradient--blush-light-purple: linear-gradient(135deg, rgb(255, 206, 236) 0%, rgb(152, 150, 240) 100%);
+			--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg, rgb(254, 205, 165) 0%, rgb(254, 45, 45) 50%, rgb(107, 0, 62) 100%);
+			--wp--preset--gradient--luminous-dusk: linear-gradient(135deg, rgb(255, 203, 112) 0%, rgb(199, 81, 192) 50%, rgb(65, 88, 208) 100%);
+			--wp--preset--gradient--pale-ocean: linear-gradient(135deg, rgb(255, 245, 203) 0%, rgb(182, 227, 212) 50%, rgb(51, 167, 181) 100%);
+			--wp--preset--gradient--electric-grass: linear-gradient(135deg, rgb(202, 248, 128) 0%, rgb(113, 206, 126) 100%);
+			--wp--preset--gradient--midnight: linear-gradient(135deg, rgb(2, 3, 129) 0%, rgb(40, 116, 252) 100%);
+			--wp--preset--gradient--solar: linear-gradient(90deg, #F89522 0%, #FDDD00 100%);
+			--wp--preset--font-size--small: 13px;
+			--wp--preset--font-size--medium: clamp(14px, 0.875rem + ((1vw - 5.76px) * 1.064), 20px);
+			--wp--preset--font-size--large: clamp(22.041px, 1.378rem + ((1vw - 5.76px) * 2.475), 36px);
+			--wp--preset--font-size--x-large: clamp(25.014px, 1.563rem + ((1vw - 5.76px) * 3.012), 42px);
+			--wp--preset--font-size--body-small: 14px;
+			--wp--preset--font-size--body-regular: 16px;
+			--wp--preset--font-size--body-large: 18px;
+			--wp--preset--font-size--leader: clamp(18px, 1.125rem + ((1vw - 5.76px) * 0.355), 20px);
+			--wp--preset--font-size--h-1: clamp(44px, 2.75rem + ((1vw - 5.76px) * 1.418), 52px);
+			--wp--preset--font-size--h-2: clamp(36px, 2.25rem + ((1vw - 5.76px) * 0.709), 40px);
+			--wp--preset--font-size--h-3: clamp(26px, 1.625rem + ((1vw - 5.76px) * 0.355), 28px);
+			--wp--preset--font-size--h-4: clamp(22px, 1.375rem + ((1vw - 5.76px) * 0.355), 24px);
+			--wp--preset--font-size--h-5: clamp(18px, 1.125rem + ((1vw - 5.76px) * 0.355), 20px);
+			--wp--preset--font-size--h-6: clamp(16px, 1rem + ((1vw - 5.76px) * 0.355), 18px);
+			--wp--preset--font-family--heading: Manrope, sans-serif;
+			--wp--preset--font-family--body: DM Sans, sans-serif;
+			--wp--preset--spacing--20: 0.44rem;
+			--wp--preset--spacing--30: 1rem;
+			--wp--preset--spacing--40: 2rem;
+			--wp--preset--spacing--50: 3rem;
+			--wp--preset--spacing--60: 4rem;
+			--wp--preset--spacing--70: 6rem;
+			--wp--preset--spacing--80: 7.5rem;
+			--wp--preset--spacing--90: 9.333rem;
+			--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);
+			--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);
+			--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);
+			--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);
+			--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);
+			--wp--preset--shadow--soft: 0px 0px 20px 0px rgba(28, 44, 87, 0.16);
+			--wp--custom--header-height: 96px;
+		}
+
+		:root {
+			--wp--style--global--content-size: 100%;
+			--wp--style--global--wide-size: 1;
+		}
+
+		:where(body) {
+			margin: 0;
+		}
+
+		.wp-site-blocks>.alignleft {
+			float: left;
+			margin-right: 2em;
+		}
+
+		.wp-site-blocks>.alignright {
+			float: right;
+			margin-left: 2em;
+		}
+
+		.wp-site-blocks>.aligncenter {
+			justify-content: center;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		:where(.wp-site-blocks)>* {
+			margin-block-start: 24px;
+			margin-block-end: 0;
+		}
+
+		:where(.wp-site-blocks)> :first-child {
+			margin-block-start: 0;
+		}
+
+		:where(.wp-site-blocks)> :last-child {
+			margin-block-end: 0;
+		}
+
+		:root {
+			--wp--style--block-gap: 24px;
+		}
+
+		:root :where(.is-layout-flow)> :first-child {
+			margin-block-start: 0;
+		}
+
+		:root :where(.is-layout-flow)> :last-child {
+			margin-block-end: 0;
+		}
+
+		:root :where(.is-layout-flow)>* {
+			margin-block-start: 24px;
+			margin-block-end: 0;
+		}
+
+		:root :where(.is-layout-constrained)> :first-child {
+			margin-block-start: 0;
+		}
+
+		:root :where(.is-layout-constrained)> :last-child {
+			margin-block-end: 0;
+		}
+
+		:root :where(.is-layout-constrained)>* {
+			margin-block-start: 24px;
+			margin-block-end: 0;
+		}
+
+		:root :where(.is-layout-flex) {
+			gap: 24px;
+		}
+
+		:root :where(.is-layout-grid) {
+			gap: 24px;
+		}
+
+		.is-layout-flow>.alignleft {
+			float: left;
+			margin-inline-start: 0;
+			margin-inline-end: 2em;
+		}
+
+		.is-layout-flow>.alignright {
+			float: right;
+			margin-inline-start: 2em;
+			margin-inline-end: 0;
+		}
+
+		.is-layout-flow>.aligncenter {
+			margin-left: auto !important;
+			margin-right: auto !important;
+		}
+
+		.is-layout-constrained>.alignleft {
+			float: left;
+			margin-inline-start: 0;
+			margin-inline-end: 2em;
+		}
+
+		.is-layout-constrained>.alignright {
+			float: right;
+			margin-inline-start: 2em;
+			margin-inline-end: 0;
+		}
+
+		.is-layout-constrained>.aligncenter {
+			margin-left: auto !important;
+			margin-right: auto !important;
+		}
+
+		.is-layout-constrained> :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
+			max-width: var(--wp--style--global--content-size);
+			margin-left: auto !important;
+			margin-right: auto !important;
+		}
+
+		.is-layout-constrained>.alignwide {
+			max-width: var(--wp--style--global--wide-size);
+		}
+
+		body .is-layout-flex {
+			display: flex;
+		}
+
+		.is-layout-flex {
+			flex-wrap: wrap;
+			align-items: center;
+		}
+
+		.is-layout-flex> :is(*, div) {
+			margin: 0;
+		}
+
+		body .is-layout-grid {
+			display: grid;
+		}
+
+		.is-layout-grid> :is(*, div) {
+			margin: 0;
+		}
+
+		body {
+			color: var(--wp--preset--color--dark-navy);
+			font-family: var(--wp--preset--font-family--body);
+			font-size: var(--wp--preset--font-size--body-regular);
+			line-height: 1.5;
+			padding-top: 0px;
+			padding-right: 0px;
+			padding-bottom: 0px;
+			padding-left: 0px;
+		}
+
+		a:where(:not(.wp-element-button)) {
+			text-decoration: underline;
+		}
+
+		h1 {
+			color: inherit;
+			font-family: var(--wp--preset--font-family--heading);
+			font-size: var(--wp--preset--font-size--h-1) !important;
+			font-weight: 700 !important;
+			line-height: 1.2 !important;
+		}
+
+		h2 {
+			color: inherit;
+			font-family: var(--wp--preset--font-family--heading);
+			font-size: var(--wp--preset--font-size--h-2);
+			font-weight: 600 !important;
+			line-height: 1.4 !important;
+		}
+
+		h3 {
+			color: inherit;
+			font-family: var(--wp--preset--font-family--heading);
+			font-size: var(--wp--preset--font-size--h-3) !important;
+			font-weight: 600 !important;
+			line-height: 1.2 !important;
+		}
+
+		h4 {
+			color: inherit;
+			font-family: var(--wp--preset--font-family--heading);
+			font-size: var(--wp--preset--font-size--h-4) !important;
+			font-weight: 600 !important;
+			line-height: 1.2 !important;
+		}
+
+		h5 {
+			color: inherit;
+			font-family: var(--wp--preset--font-family--heading);
+			font-size: var(--wp--preset--font-size--h-5) !important;
+			font-weight: 700 !important;
+			line-height: 1.2 !important;
+		}
+
+		h6 {
+			color: inherit !important;
+			font-family: var(--wp--preset--font-family--heading);
+			font-size: var(--wp--preset--font-size--h-6) !important;
+			font-weight: 700 !important;
+			line-height: 1.2 !important;
+		}
+
+		:root :where(.wp-element-button, .wp-block-button__link) {
+			background-color: #32373c;
+			border-width: 0;
+			color: #fff;
+			font-family: inherit;
+			font-size: inherit;
+			line-height: inherit;
+			padding: calc(0.667em + 2px) calc(1.333em + 2px);
+			text-decoration: none;
+		}
+
+		.has-black-color {
+			color: var(--wp--preset--color--black) !important;
+		}
+
+		.has-cyan-bluish-gray-color {
+			color: var(--wp--preset--color--cyan-bluish-gray) !important;
+		}
+
+		.has-white-color {
+			color: var(--wp--preset--color--white) !important;
+		}
+
+		.has-pale-pink-color {
+			color: var(--wp--preset--color--pale-pink) !important;
+		}
+
+		.has-vivid-red-color {
+			color: var(--wp--preset--color--vivid-red) !important;
+		}
+
+		.has-luminous-vivid-orange-color {
+			color: var(--wp--preset--color--luminous-vivid-orange) !important;
+		}
+
+		.has-luminous-vivid-amber-color {
+			color: var(--wp--preset--color--luminous-vivid-amber) !important;
+		}
+
+		.has-light-green-cyan-color {
+			color: var(--wp--preset--color--light-green-cyan) !important;
+		}
+
+		.has-vivid-green-cyan-color {
+			color: var(--wp--preset--color--vivid-green-cyan) !important;
+		}
+
+		.has-pale-cyan-blue-color {
+			color: var(--wp--preset--color--pale-cyan-blue) !important;
+		}
+
+		.has-vivid-cyan-blue-color {
+			color: var(--wp--preset--color--vivid-cyan-blue) !important;
+		}
+
+		.has-vivid-purple-color {
+			color: var(--wp--preset--color--vivid-purple) !important;
+		}
+
+		.has-sky-blue-color {
+			color: var(--wp--preset--color--sky-blue) !important;
+		}
+
+		.has-ocean-blue-color {
+			color: var(--wp--preset--color--ocean-blue) !important;
+		}
+
+		.has-navy-color {
+			color: var(--wp--preset--color--navy) !important;
+		}
+
+		.has-dark-navy-color {
+			color: var(--wp--preset--color--dark-navy) !important;
+		}
+
+		.has-yellow-100-color {
+			color: var(--wp--preset--color--yellow-100) !important;
+		}
+
+		.has-yellow-200-color {
+			color: var(--wp--preset--color--yellow-200) !important;
+		}
+
+		.has-yellow-300-color {
+			color: var(--wp--preset--color--yellow-300) !important;
+		}
+
+		.has-light-orange-100-color {
+			color: var(--wp--preset--color--light-orange-100) !important;
+		}
+
+		.has-light-orange-200-color {
+			color: var(--wp--preset--color--light-orange-200) !important;
+		}
+
+		.has-light-orange-300-color {
+			color: var(--wp--preset--color--light-orange-300) !important;
+		}
+
+		.has-orange-100-color {
+			color: var(--wp--preset--color--orange-100) !important;
+		}
+
+		.has-orange-200-color {
+			color: var(--wp--preset--color--orange-200) !important;
+		}
+
+		.has-orange-300-color {
+			color: var(--wp--preset--color--orange-300) !important;
+		}
+
+		.has-gray-100-color {
+			color: var(--wp--preset--color--gray-100) !important;
+		}
+
+		.has-gray-200-color {
+			color: var(--wp--preset--color--gray-200) !important;
+		}
+
+		.has-gray-300-color {
+			color: var(--wp--preset--color--gray-300) !important;
+		}
+
+		.has-gray-400-color {
+			color: var(--wp--preset--color--gray-400) !important;
+		}
+
+		.has-gray-500-color {
+			color: var(--wp--preset--color--gray-500) !important;
+		}
+
+		.has-gray-600-color {
+			color: var(--wp--preset--color--gray-600) !important;
+		}
+
+		.has-gray-700-color {
+			color: var(--wp--preset--color--gray-700) !important;
+		}
+
+		.has-gray-800-color {
+			color: var(--wp--preset--color--gray-800) !important;
+		}
+
+		.has-gray-900-color {
+			color: var(--wp--preset--color--gray-900) !important;
+		}
+
+		.has-black-background-color {
+			background-color: var(--wp--preset--color--black) !important;
+		}
+
+		.has-cyan-bluish-gray-background-color {
+			background-color: var(--wp--preset--color--cyan-bluish-gray) !important;
+		}
+
+		.has-white-background-color {
+			background-color: var(--wp--preset--color--white) !important;
+		}
+
+		.has-pale-pink-background-color {
+			background-color: var(--wp--preset--color--pale-pink) !important;
+		}
+
+		.has-vivid-red-background-color {
+			background-color: var(--wp--preset--color--vivid-red) !important;
+		}
+
+		.has-luminous-vivid-orange-background-color {
+			background-color: var(--wp--preset--color--luminous-vivid-orange) !important;
+		}
+
+		.has-luminous-vivid-amber-background-color {
+			background-color: var(--wp--preset--color--luminous-vivid-amber) !important;
+		}
+
+		.has-light-green-cyan-background-color {
+			background-color: var(--wp--preset--color--light-green-cyan) !important;
+		}
+
+		.has-vivid-green-cyan-background-color {
+			background-color: var(--wp--preset--color--vivid-green-cyan) !important;
+		}
+
+		.has-pale-cyan-blue-background-color {
+			background-color: var(--wp--preset--color--pale-cyan-blue) !important;
+		}
+
+		.has-vivid-cyan-blue-background-color {
+			background-color: var(--wp--preset--color--vivid-cyan-blue) !important;
+		}
+
+		.has-vivid-purple-background-color {
+			background-color: var(--wp--preset--color--vivid-purple) !important;
+		}
+
+		.has-sky-blue-background-color {
+			background-color: var(--wp--preset--color--sky-blue) !important;
+		}
+
+		.has-ocean-blue-background-color {
+			background-color: var(--wp--preset--color--ocean-blue) !important;
+		}
+
+		.has-navy-background-color {
+			background-color: var(--wp--preset--color--navy) !important;
+		}
+
+		.has-dark-navy-background-color {
+			background-color: var(--wp--preset--color--dark-navy) !important;
+		}
+
+		.has-yellow-100-background-color {
+			background-color: var(--wp--preset--color--yellow-100) !important;
+		}
+
+		.has-yellow-200-background-color {
+			background-color: var(--wp--preset--color--yellow-200) !important;
+		}
+
+		.has-yellow-300-background-color {
+			background-color: var(--wp--preset--color--yellow-300) !important;
+		}
+
+		.has-light-orange-100-background-color {
+			background-color: var(--wp--preset--color--light-orange-100) !important;
+		}
+
+		.has-light-orange-200-background-color {
+			background-color: var(--wp--preset--color--light-orange-200) !important;
+		}
+
+		.has-light-orange-300-background-color {
+			background-color: var(--wp--preset--color--light-orange-300) !important;
+		}
+
+		.has-orange-100-background-color {
+			background-color: var(--wp--preset--color--orange-100) !important;
+		}
+
+		.has-orange-200-background-color {
+			background-color: var(--wp--preset--color--orange-200) !important;
+		}
+
+		.has-orange-300-background-color {
+			background-color: var(--wp--preset--color--orange-300) !important;
+		}
+
+		.has-gray-100-background-color {
+			background-color: var(--wp--preset--color--gray-100) !important;
+		}
+
+		.has-gray-200-background-color {
+			background-color: var(--wp--preset--color--gray-200) !important;
+		}
+
+		.has-gray-300-background-color {
+			background-color: var(--wp--preset--color--gray-300) !important;
+		}
+
+		.has-gray-400-background-color {
+			background-color: var(--wp--preset--color--gray-400) !important;
+		}
+
+		.has-gray-500-background-color {
+			background-color: var(--wp--preset--color--gray-500) !important;
+		}
+
+		.has-gray-600-background-color {
+			background-color: var(--wp--preset--color--gray-600) !important;
+		}
+
+		.has-gray-700-background-color {
+			background-color: var(--wp--preset--color--gray-700) !important;
+		}
+
+		.has-gray-800-background-color {
+			background-color: var(--wp--preset--color--gray-800) !important;
+		}
+
+		.has-gray-900-background-color {
+			background-color: var(--wp--preset--color--gray-900) !important;
+		}
+
+		.has-black-border-color {
+			border-color: var(--wp--preset--color--black) !important;
+		}
+
+		.has-cyan-bluish-gray-border-color {
+			border-color: var(--wp--preset--color--cyan-bluish-gray) !important;
+		}
+
+		.has-white-border-color {
+			border-color: var(--wp--preset--color--white) !important;
+		}
+
+		.has-pale-pink-border-color {
+			border-color: var(--wp--preset--color--pale-pink) !important;
+		}
+
+		.has-vivid-red-border-color {
+			border-color: var(--wp--preset--color--vivid-red) !important;
+		}
+
+		.has-luminous-vivid-orange-border-color {
+			border-color: var(--wp--preset--color--luminous-vivid-orange) !important;
+		}
+
+		.has-luminous-vivid-amber-border-color {
+			border-color: var(--wp--preset--color--luminous-vivid-amber) !important;
+		}
+
+		.has-light-green-cyan-border-color {
+			border-color: var(--wp--preset--color--light-green-cyan) !important;
+		}
+
+		.has-vivid-green-cyan-border-color {
+			border-color: var(--wp--preset--color--vivid-green-cyan) !important;
+		}
+
+		.has-pale-cyan-blue-border-color {
+			border-color: var(--wp--preset--color--pale-cyan-blue) !important;
+		}
+
+		.has-vivid-cyan-blue-border-color {
+			border-color: var(--wp--preset--color--vivid-cyan-blue) !important;
+		}
+
+		.has-vivid-purple-border-color {
+			border-color: var(--wp--preset--color--vivid-purple) !important;
+		}
+
+		.has-sky-blue-border-color {
+			border-color: var(--wp--preset--color--sky-blue) !important;
+		}
+
+		.has-ocean-blue-border-color {
+			border-color: var(--wp--preset--color--ocean-blue) !important;
+		}
+
+		.has-navy-border-color {
+			border-color: var(--wp--preset--color--navy) !important;
+		}
+
+		.has-dark-navy-border-color {
+			border-color: var(--wp--preset--color--dark-navy) !important;
+		}
+
+		.has-yellow-100-border-color {
+			border-color: var(--wp--preset--color--yellow-100) !important;
+		}
+
+		.has-yellow-200-border-color {
+			border-color: var(--wp--preset--color--yellow-200) !important;
+		}
+
+		.has-yellow-300-border-color {
+			border-color: var(--wp--preset--color--yellow-300) !important;
+		}
+
+		.has-light-orange-100-border-color {
+			border-color: var(--wp--preset--color--light-orange-100) !important;
+		}
+
+		.has-light-orange-200-border-color {
+			border-color: var(--wp--preset--color--light-orange-200) !important;
+		}
+
+		.has-light-orange-300-border-color {
+			border-color: var(--wp--preset--color--light-orange-300) !important;
+		}
+
+		.has-orange-100-border-color {
+			border-color: var(--wp--preset--color--orange-100) !important;
+		}
+
+		.has-orange-200-border-color {
+			border-color: var(--wp--preset--color--orange-200) !important;
+		}
+
+		.has-orange-300-border-color {
+			border-color: var(--wp--preset--color--orange-300) !important;
+		}
+
+		.has-gray-100-border-color {
+			border-color: var(--wp--preset--color--gray-100) !important;
+		}
+
+		.has-gray-200-border-color {
+			border-color: var(--wp--preset--color--gray-200) !important;
+		}
+
+		.has-gray-300-border-color {
+			border-color: var(--wp--preset--color--gray-300) !important;
+		}
+
+		.has-gray-400-border-color {
+			border-color: var(--wp--preset--color--gray-400) !important;
+		}
+
+		.has-gray-500-border-color {
+			border-color: var(--wp--preset--color--gray-500) !important;
+		}
+
+		.has-gray-600-border-color {
+			border-color: var(--wp--preset--color--gray-600) !important;
+		}
+
+		.has-gray-700-border-color {
+			border-color: var(--wp--preset--color--gray-700) !important;
+		}
+
+		.has-gray-800-border-color {
+			border-color: var(--wp--preset--color--gray-800) !important;
+		}
+
+		.has-gray-900-border-color {
+			border-color: var(--wp--preset--color--gray-900) !important;
+		}
+
+		.has-vivid-cyan-blue-to-vivid-purple-gradient-background {
+			background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;
+		}
+
+		.has-light-green-cyan-to-vivid-green-cyan-gradient-background {
+			background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;
+		}
+
+		.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background {
+			background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;
+		}
+
+		.has-luminous-vivid-orange-to-vivid-red-gradient-background {
+			background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;
+		}
+
+		.has-very-light-gray-to-cyan-bluish-gray-gradient-background {
+			background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;
+		}
+
+		.has-cool-to-warm-spectrum-gradient-background {
+			background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;
+		}
+
+		.has-blush-light-purple-gradient-background {
+			background: var(--wp--preset--gradient--blush-light-purple) !important;
+		}
+
+		.has-blush-bordeaux-gradient-background {
+			background: var(--wp--preset--gradient--blush-bordeaux) !important;
+		}
+
+		.has-luminous-dusk-gradient-background {
+			background: var(--wp--preset--gradient--luminous-dusk) !important;
+		}
+
+		.has-pale-ocean-gradient-background {
+			background: var(--wp--preset--gradient--pale-ocean) !important;
+		}
+
+		.has-electric-grass-gradient-background {
+			background: var(--wp--preset--gradient--electric-grass) !important;
+		}
+
+		.has-midnight-gradient-background {
+			background: var(--wp--preset--gradient--midnight) !important;
+		}
+
+		.has-solar-gradient-background {
+			background: var(--wp--preset--gradient--solar) !important;
+		}
+
+		.has-small-font-size {
+			font-size: var(--wp--preset--font-size--small) !important;
+		}
+
+		.has-medium-font-size {
+			font-size: var(--wp--preset--font-size--medium) !important;
+		}
+
+		.has-large-font-size {
+			font-size: var(--wp--preset--font-size--large) !important;
+		}
+
+		.has-x-large-font-size {
+			font-size: var(--wp--preset--font-size--x-large) !important;
+		}
+
+		.has-body-small-font-size {
+			font-size: var(--wp--preset--font-size--body-small) !important;
+		}
+
+		.has-body-regular-font-size {
+			font-size: var(--wp--preset--font-size--body-regular) !important;
+		}
+
+		.has-body-large-font-size {
+			font-size: var(--wp--preset--font-size--body-large) !important;
+		}
+
+		.has-leader-font-size {
+			font-size: var(--wp--preset--font-size--leader) !important;
+		}
+
+		.has-h-1-font-size {
+			font-size: var(--wp--preset--font-size--h-1) !important;
+		}
+
+		.has-h-2-font-size {
+			font-size: var(--wp--preset--font-size--h-2) !important;
+		}
+
+		.has-h-3-font-size {
+			font-size: var(--wp--preset--font-size--h-3) !important;
+		}
+
+		.has-h-4-font-size {
+			font-size: var(--wp--preset--font-size--h-4) !important;
+		}
+
+		.has-h-5-font-size {
+			font-size: var(--wp--preset--font-size--h-5) !important;
+		}
+
+		.has-h-6-font-size {
+			font-size: var(--wp--preset--font-size--h-6) !important;
+		}
+
+		.has-heading-font-family {
+			font-family: var(--wp--preset--font-family--heading) !important;
+		}
+
+		.has-body-font-family {
+			font-family: var(--wp--preset--font-family--body) !important;
+		}
+	</style>
+	<style id='core-block-supports-inline-css' type='text/css'>
+		.wp-elements-ec03f9fe1fbfe75797564b6d0f9bb2b7 a:where(:not(.wp-element-button)) {
+			color: var(--wp--preset--color--white);
+		}
+
+		.wp-container-core-columns-is-layout-1 {
+			flex-wrap: nowrap;
+		}
+
+		.wp-container-core-columns-is-layout-2 {
+			flex-wrap: nowrap;
+		}
+
+		.wp-container-core-columns-is-layout-3 {
+			flex-wrap: nowrap;
+		}
+
+		.wp-container-core-columns-is-layout-4 {
+			flex-wrap: nowrap;
+		}
+
+		.wp-container-core-columns-is-layout-5 {
+			flex-wrap: nowrap;
+		}
+
+		.wp-container-core-columns-is-layout-6 {
+			flex-wrap: nowrap;
+		}
+	</style>
+	<script type="text/javascript" id="formhq-wordpress-adapter-js-extra">
+		/* <![CDATA[ */
+		var formhq_localized = {
+			"platform_id": "www.solarenergyworld.com",
+			"site_id": "1",
+			"postmessage_target_origins": ["https:\/\/www.solarenergyworld.com"]
+		};
+		/* ]]> */
+	</script>
+	<script type="text/javascript" id="formhq-wordpress-adapter-js-before">
+		/* <![CDATA[ */
+		window._FormHQueue = {};
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/formhq-wordpress-adapter/public/js/scripts.js" id="formhq-wordpress-adapter-js"></script>
+	<script type="text/javascript" id="leadin-script-loader-js-js-extra">
+		/* <![CDATA[ */
+		var leadin_wordpress = {
+			"userRole": "visitor",
+			"pageType": "page",
+			"leadinPluginVersion": "11.1.75"
+		};
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="/assets/js/js.hs-scripts.com/14510929c865.js?integration=WordPress&amp;ver=11.1.75" id="leadin-script-loader-js-js"></script>
+	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/formhq-wordpress-adapter/public/js/gravity-forms.js" id="formhq-wordpress-adapter-gravity-forms-js"></script>
+	<script type="text/javascript" id="wmx-main-scripts-js-extra">
+		/* <![CDATA[ */
+		var app_localized = {
+			"themepath": "https:\/\/www.solarenergyworld.com\/wp-content\/themes\/wmx-prime",
+			"ajaxurl": "https:\/\/www.solarenergyworld.com\/wp-admin\/admin-ajax.php",
+			"check": "16b845e8d2",
+			"namespace": "wmx"
+		};
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/js/app.mindf15.js?v=1733933346" id="wmx-main-scripts-js"></script>
+	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/js/app.mindf15.js?v=1733933346" id="wmx-bravo-scripts-js"></script>
+	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/dom-ready.min5346.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/hooks.min2757.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+	<script type="text/javascript" id="wp-i18n-js-after">
+		/* <![CDATA[ */
+		wp.i18n.setLocaleData({
+			'text direction\u0004ltr': ['ltr']
+		});
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/a11y.mine810.js?ver=d90eebea464f6c09bfd5" id="wp-a11y-js"></script>
+	<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.minbf47.js?ver=2.9.1" id="gform_masked_input-js"></script>
+	<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.minf8d2.js?ver=ddd2702ee024d421149a5e61416f1ff5" id="gform_gravityforms_theme_vendors-js"></script>
+	<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
+		/* <![CDATA[ */
+		var gform_theme_config = {
+			"common": {
+				"form": {
+					"honeypot": {
+						"version_hash": "6e1b6a8a07394e81ed5c99d62a6e87d5"
+					},
+					"ajax": {
+						"ajaxurl": "https:\/\/www.solarenergyworld.com\/wp-admin\/admin-ajax.php",
+						"ajax_submission_nonce": "695f1c2ce1",
+						"i18n": {
+							"step_announcement": "Step %1$s of %2$s, %3$s",
+							"unknown_error": "There was an unknown error processing your request. Please try again."
+						}
+					},
+					"product_meta": {
+						"4": null
+					},
+					"pagination": {
+						"4": ""
+					}
+				}
+			},
+			"hmr_dev": "",
+			"public_path": "https:\/\/www.solarenergyworld.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/",
+			"config_nonce": "ed52e34a75"
+		};
+		/* ]]> */
+	</script>
+	<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.minaef3.js?ver=434d0c7a9798b432de24db888073c55f" id="gform_gravityforms_theme-js"></script>
+
+	<script type="text/javascript">
+		jQuery(document).ready(function($) {
+
+			jQuery(document).on('gform_post_render', function(event, form_id, current_page) {
+				$('#gform_wrapper_' + form_id).addClass('gform-loaded');
+				checkSkipValue();
 			});
-			/* ]]> */
-		</script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/a11y.mine810.js?ver=d90eebea464f6c09bfd5" id="wp-a11y-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/jquery.json.minbf47.js?ver=2.9.1" id="gform_json-js"></script>
-		<script type="text/javascript" id="gform_gravityforms-js-extra">
-			/* <![CDATA[ */
-			var gform_i18n = {
-				"datepicker": {
-					"days": {
-						"monday": "Mo",
-						"tuesday": "Tu",
-						"wednesday": "We",
-						"thursday": "Th",
-						"friday": "Fr",
-						"saturday": "Sa",
-						"sunday": "Su"
-					},
-					"months": {
-						"january": "January",
-						"february": "February",
-						"march": "March",
-						"april": "April",
-						"may": "May",
-						"june": "June",
-						"july": "July",
-						"august": "August",
-						"september": "September",
-						"october": "October",
-						"november": "November",
-						"december": "December"
-					},
-					"firstDay": 1,
-					"iconText": "Select date"
-				}
-			};
-			var gf_legacy_multi = [];
-			var gform_gravityforms = {
-				"strings": {
-					"invalid_file_extension": "This type of file is not allowed. Must be one of the following:",
-					"delete_file": "Delete this file",
-					"in_progress": "in progress",
-					"file_exceeds_limit": "File exceeds size limit",
-					"illegal_extension": "This type of file is not allowed.",
-					"max_reached": "Maximum number of files reached",
-					"unknown_error": "There was a problem while saving the file on the server",
-					"currently_uploading": "Please wait for the uploading to complete",
-					"cancel": "Cancel",
-					"cancel_upload": "Cancel this upload",
-					"cancelled": "Cancelled"
-				},
-				"vars": {
-					"images_url": "https:\/\/www.solarenergyworld.com\/wp-content\/plugins\/gravityforms\/images"
-				}
-			};
-			var gf_global = {
-				"gf_currency_config": {
-					"name": "U.S. Dollar",
-					"symbol_left": "$",
-					"symbol_right": "",
-					"symbol_padding": "",
-					"thousand_separator": ",",
-					"decimal_separator": ".",
-					"decimals": 2,
-					"code": "USD"
-				},
-				"base_url": "https:\/\/www.solarenergyworld.com\/wp-content\/plugins\/gravityforms",
-				"number_formats": [],
-				"spinnerUrl": "https:\/\/www.solarenergyworld.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg",
-				"version_hash": "6e1b6a8a07394e81ed5c99d62a6e87d5",
-				"strings": {
-					"newRowAdded": "New row added.",
-					"rowRemoved": "Row removed",
-					"formSaved": "The form has been saved.  The content contains the link to return and complete the form."
-				}
-			};
-			/* ]]> */
-		</script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/gravityforms.minbf47.js?ver=2.9.1" id="gform_gravityforms-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/page_conditional_logic.minbf47.js?ver=2.9.1" id="gform_page_conditional_logic-js"></script>
-		<script type="text/javascript" id="gform_conditional_logic-js-extra">
-			/* <![CDATA[ */
-			var gf_legacy = {
-				"is_legacy": ""
-			};
-			/* ]]> */
-		</script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/conditional_logic.minbf47.js?ver=2.9.1" id="gform_conditional_logic-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/jquery/ui/core.minb37e.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/jquery/ui/datepicker.minb37e.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/datepicker-legacy.minbf47.js?ver=2.9.1" id="gform_datepicker_legacy-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/datepicker.minbf47.js?ver=2.9.1" id="gform_datepicker_init-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.minbf47.js?ver=2.9.1" id="gform_masked_input-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/placeholders.jquery.minbf47.js?ver=2.9.1" id="gform_placeholder-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min43b8.js?ver=501a987060f4426fb517400c73c7fc1e" id="gform_gravityforms_utils-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.minf8d2.js?ver=ddd2702ee024d421149a5e61416f1ff5" id="gform_gravityforms_theme_vendors-js"></script>
-		<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
-			/* <![CDATA[ */
-			var gform_theme_config = {
-				"common": {
-					"form": {
-						"honeypot": {
-							"version_hash": "6e1b6a8a07394e81ed5c99d62a6e87d5"
-						},
-						"ajax": {
-							"ajaxurl": "https:\/\/www.solarenergyworld.com\/wp-admin\/admin-ajax.php",
-							"ajax_submission_nonce": "695f1c2ce1",
-							"i18n": {
-								"step_announcement": "Step %1$s of %2$s, %3$s",
-								"unknown_error": "There was an unknown error processing your request. Please try again."
-							}
-						}
-					}
-				},
-				"hmr_dev": "",
-				"public_path": "https:\/\/www.solarenergyworld.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/",
-				"config_nonce": "ed52e34a75"
-			};
-			/* ]]> */
-		</script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.minaef3.js?ver=434d0c7a9798b432de24db888073c55f" id="gform_gravityforms_theme-js"></script>
-		<script type="text/javascript" id="wmx-block-js-wizard-js-extra">
-			/* <![CDATA[ */
-			var wmx_block_wizard_ajax = {
-				"ajax_url": "https:\/\/www.solarenergyworld.com\/wp-admin\/admin-ajax.php",
-				"nonce": "16a4c339c9"
-			};
-			var wmx_block_wizard_ajax = {
-				"ajax_url": "https:\/\/www.solarenergyworld.com\/wp-admin\/admin-ajax.php",
-				"nonce": "16a4c339c9"
-			};
-			/* ]]> */
-		</script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/wizard/dist/wizard.mind040.js?ver=1733933428" id="wmx-block-js-wizard-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/card/dist/card.min0fc1.js?ver=1733933346" id="wmx-block-js-card-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/cards-wrapper/dist/cards-wrapper.min0fc1.js?ver=1733933346" id="wmx-block-js-cards-wrapper-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/js/swiper.mindf15.js?v=1733933346" id="wmx-swiper-js"></script>
-		<script type="text/javascript">
-			jQuery(document).ready(function($) {
 
-				jQuery(document).on('gform_post_render', function(event, form_id, current_page) {
-					$('#gform_wrapper_' + form_id).addClass('gform-loaded');
-					checkSkipValue();
-				});
+			$(document).on('click', '#skipButton', function() {
 
-				$(document).on('click', '#skipButton', function() {
+				// Set the hidden field value to 'skip'
+				$('[data-gfield-key="skip_value"]').val('skip');
+				$('.meeting-scheduler .datepicker').val('');
+				$('.meeting-scheduler .time-select select').val('');
+				$('.meeting-scheduler .meeting_timestamp').val('');
+				$('.meeting-scheduler [data-gfield-key="status_reason"]').val('1');
 
-					// Set the hidden field value to 'skip'
-					$('[data-gfield-key="skip_value"]').val('skip');
-					$('.meeting-scheduler .datepicker').val('');
-					$('.meeting-scheduler .time-select select').val('');
-					$('.meeting-scheduler .meeting_timestamp').val('');
-					$('.meeting-scheduler [data-gfield-key="status_reason"]').val('1');
-
-					$('.meeting-scheduler .gform_next_button').click();
-
-					checkSkipValue();
-				});
-
-				// Custom function to check if a date should be disabled
-				function isDateDisabled(date) {
-					var disabledDays = ["01\/01\/2025", "01\/20\/2025", "02\/17\/2025", "05\/26\/2025", "07\/04\/2025", "09\/01\/2025", "10\/13\/2025", "11\/11\/2025", "11\/27\/2025", "12\/25\/2025", "01\/01\/2026", "01\/19\/2026", "02\/16\/2026", "05\/25\/2026", "07\/04\/2026", "09\/07\/2026", "10\/12\/2026", "11\/11\/2026", "11\/26\/2026", "12\/25\/2026", "07\/03\/2026", "01\/01\/2027", "01\/18\/2027", "02\/15\/2027", "05\/31\/2027", "07\/04\/2027", "09\/06\/2027", "10\/11\/2027", "11\/11\/2027", "11\/25\/2027", "12\/25\/2027", "07\/05\/2027", "12\/24\/2027", "01\/01\/2028", "01\/17\/2028", "02\/21\/2028", "05\/29\/2028", "07\/04\/2028", "09\/04\/2028", "10\/09\/2028", "11\/11\/2028", "11\/23\/2028", "12\/25\/2028", "12\/31\/2027", "11\/10\/2028"];
-					var checkdate = $.datepicker.formatDate('mm/dd/yy', date);
-					var day = date.getDay();
-
-					// Check if the date is in the disabledDays array or is a Sunday
-					return disabledDays.indexOf(checkdate) !== -1 || day === 0;
-				}
-
-				if (typeof gform !== 'undefined') {
-					// Modify datepicker options for all Gravity Forms datepickers
-					gform.addFilter('gform_datepicker_options_pre_init', function(optionsObj, formId, fieldId) {
-						optionsObj.minDate = 1; // Start from tomorrow
-						optionsObj.maxDate = 14; // Allow booking up to 11 days in advance
-
-						// Store the original beforeShowDay function if it exists
-						var originalBeforeShowDay = optionsObj.beforeShowDay;
-
-						// Override the beforeShowDay function
-						optionsObj.beforeShowDay = function(date) {
-							// First, check our custom disabled dates
-							if (isDateDisabled(date)) {
-								return [false, ''];
-							}
-
-							// If not disabled by our custom logic, use the original function if it exists
-							return originalBeforeShowDay ? originalBeforeShowDay(date) : [true, ''];
-						};
-
-						return optionsObj;
-					});
-				}
-
-				//get the value of time and date and generate a timestamp
-				$(document).on('change', '.meeting-scheduler .time-select select', function() {
-
-					var selectedTime = $(this).val();
-					var selectedDate = $('.meeting-scheduler .datepicker').val();
-
-					//Take Date and Time and formulate a timestamp that looks like this 2020-10-20T13:00:00.0
-					if ($('[data-gfield-key="skip_value"]').val() !== 'skip') {
-						if (selectedTime != '' && selectedDate != '') {
-							selectedTime = selectedTime + ':00:00.00+05:00';
-
-							var dateParts = selectedDate.split('../index.html');
-							selectedDate = dateParts[2] + '-' + dateParts[0] + '-' + dateParts[1];
-
-							var timestamp = selectedDate + 'T' + selectedTime;
-							// console.log(timestamp);
-
-							var timestampValue = $('.meeting-scheduler .meeting_timestamp').val(timestamp);
-
-							//if timestamp has a value then add the value '948170013' to the hidden field 'status_reason'
-
-							if (timestamp) {
-								$('.meeting-scheduler [data-gfield-key="status_reason"]').val('948170013');
-							} else {
-								$('.meeting-scheduler [data-gfield-key="status_reason"]').val('1');
-							}
-
-						} else {
-							timestampValue = $('.meeting-scheduler .meeting_timestamp').val('');
-							$('.meeting-scheduler [data-gfield-key="status_reason"]').val('1');
-						}
-					}
-
-					//Enable the next button only if timestamp has a value that is not null otherwise disable the next button
-					setTimeout(function() {
-						var timestampValue = $('.meeting-scheduler .meeting_timestamp').val();
-						var selectedDate = $('.meeting-scheduler .datepicker').val();
-
-						var selectedTime = $('.meeting-scheduler .time-select select').val();
-
-						if (timestampValue != "" && selectedDate != "" && selectedTime != "") {
-							$('.meeting-scheduler .gform_next_button').prop('disabled', false);
-							$('.meeting-scheduler .gform_next_button').css('visibility', 'visible');
-						} else {
-							$('.meeting-scheduler .gform_next_button').prop('disabled', true);
-							$('.meeting-scheduler .gform_next_button').css('visibility', 'hidden');
-						}
-					}, 100);
-				});
-
-				function checkSkipValue() {
-
-					// hot fix for bug in wizard (forcing to show the continue button only if a time is selected)
-					if ($('.meeting-scheduler .time-select select').val() == 'Please select a time') {
-						$('[data-gfield-key="skip_value"]').val('');
-					}
-
-					//Disable the next button on page load if skip button is not clicked
-					if ($('[data-gfield-key="skip_value"]').val() !== 'skip') {
-						$('.meeting-scheduler .gform_next_button').prop('disabled', true);
-						// $('.meeting-scheduler .gform_next_button').css('visibility', 'hidden');
-					} else {
-						$('.meeting-scheduler .gform_next_button').prop('disabled', false);
-						// $('.meeting-scheduler .gform_next_button').css('visibility', 'visible');
-					}
-				}
+				$('.meeting-scheduler .gform_next_button').click();
 
 				checkSkipValue();
+			});
 
-				var lastSelectedDate = null;
+			// Custom function to check if a date should be disabled
+			function isDateDisabled(date) {
+				var disabledDays = ["01\/01\/2025", "01\/20\/2025", "02\/17\/2025", "05\/26\/2025", "07\/04\/2025", "09\/01\/2025", "10\/13\/2025", "11\/11\/2025", "11\/27\/2025", "12\/25\/2025", "01\/01\/2026", "01\/19\/2026", "02\/16\/2026", "05\/25\/2026", "07\/04\/2026", "09\/07\/2026", "10\/12\/2026", "11\/11\/2026", "11\/26\/2026", "12\/25\/2026", "07\/03\/2026", "01\/01\/2027", "01\/18\/2027", "02\/15\/2027", "05\/31\/2027", "07\/04\/2027", "09\/06\/2027", "10\/11\/2027", "11\/11\/2027", "11\/25\/2027", "12\/25\/2027", "07\/05\/2027", "12\/24\/2027", "01\/01\/2028", "01\/17\/2028", "02\/21\/2028", "05\/29\/2028", "07\/04\/2028", "09\/04\/2028", "10\/09\/2028", "11\/11\/2028", "11\/23\/2028", "12\/25\/2028", "12\/31\/2027", "11\/10\/2028"];
+				var checkdate = $.datepicker.formatDate('mm/dd/yy', date);
+				var day = date.getDay();
 
-				// Update selectable times based on the selected date
-				$(document).on('change', '.meeting-scheduler .datepicker', function() {
-					var selectedDate = new Date($(this).val());
+				// Check if the date is in the disabledDays array or is a Sunday
+				return disabledDays.indexOf(checkdate) !== -1 || day === 0;
+			}
 
-					var dayOfWeek = selectedDate.getDay(); // 0 (Sunday) - 6 (Saturday)
+			if (typeof gform !== 'undefined') {
+				// Modify datepicker options for all Gravity Forms datepickers
+				gform.addFilter('gform_datepicker_options_pre_init', function(optionsObj, formId, fieldId) {
+					optionsObj.minDate = 1; // Start from tomorrow
+					optionsObj.maxDate = 14; // Allow booking up to 11 days in advance
 
-					// Only update the dropdown options if the selected date has changed
-					if (lastSelectedDate !== dayOfWeek) {
-						lastSelectedDate = dayOfWeek;
+					// Store the original beforeShowDay function if it exists
+					var originalBeforeShowDay = optionsObj.beforeShowDay;
 
-						var dropdownOptions = [];
-						if (dayOfWeek == 1 || dayOfWeek == 3) { // Monday, Wednesday
-							dropdownOptions = [{
-									text: '1:00pm',
-									value: '13'
-								},
-								{
-									text: '2:00pm',
-									value: '14'
-								},
-								{
-									text: '3:00pm',
-									value: '15'
-								},
-								{
-									text: '4:00pm',
-									value: '16'
-								},
-								{
-									text: '5:00pm',
-									value: '17'
-								},
-								{
-									text: '6:00pm',
-									value: '18'
-								},
-							];
-						} else if (dayOfWeek == 2 || dayOfWeek == 4 || dayOfWeek == 5) { // Tuesday, Thursday, Friday
-							dropdownOptions = [{
-									text: '10:00am',
-									value: '10'
-								},
-								{
-									text: '11:00am',
-									value: '11'
-								},
-								{
-									text: '12:00pm',
-									value: '12'
-								},
-								{
-									text: '1:00pm',
-									value: '13'
-								},
-								{
-									text: '2:00pm',
-									value: '14'
-								},
-								{
-									text: '3:00pm',
-									value: '15'
-								},
-								{
-									text: '4:00pm',
-									value: '16'
-								},
-								{
-									text: '5:00pm',
-									value: '17'
-								},
-								{
-									text: '6:00pm',
-									value: '18'
-								},
-							];
-						} else if (dayOfWeek == 6) { // Saturday
-							dropdownOptions = [{
-									text: '10:00am',
-									value: '10'
-								},
-								{
-									text: '11:00am',
-									value: '11'
-								},
-								{
-									text: '12:00pm',
-									value: '12'
-								},
-								{
-									text: '1:00pm',
-									value: '13'
-								},
-								{
-									text: '2:00pm',
-									value: '14'
-								},
-								{
-									text: '3:00pm',
-									value: '15'
-								},
-							];
+					// Override the beforeShowDay function
+					optionsObj.beforeShowDay = function(date) {
+						// First, check our custom disabled dates
+						if (isDateDisabled(date)) {
+							return [false, ''];
 						}
 
-						// Update the dropdown options
-						var $dropdown = $('.meeting-scheduler .time-select').find('select');
-						$dropdown.empty();
+						// If not disabled by our custom logic, use the original function if it exists
+						return originalBeforeShowDay ? originalBeforeShowDay(date) : [true, ''];
+					};
 
-						//default option
-						$dropdown.append($('<option></option>').attr('value', '').text('Please select a time'));
-
-						$.each(dropdownOptions, function(i, option) {
-							$dropdown.append($('<option></option>').attr('value', option.value).text(option.text));
-						});
-
-						checkSkipValue();
-					}
+					return optionsObj;
 				});
-			});
-		</script>
-		<script type="text/javascript">
-			/* <![CDATA[ */
-			gform.initializeOnLoaded(function() {
-				jQuery(document).on('gform_post_render', function(event, formId, currentPage) {
-					if (formId == 1) {
-						gf_global["number_formats"][1] = {
-							"53": {
-								"price": false,
-								"value": false
-							},
-							"16": {
-								"price": false,
-								"value": false
-							},
-							"11": {
-								"price": false,
-								"value": false
-							},
-							"13": {
-								"price": false,
-								"value": false
-							},
-							"14": {
-								"price": false,
-								"value": false
-							},
-							"50": {
-								"price": false,
-								"value": false
-							},
-							"2": {
-								"price": false,
-								"value": false
-							},
-							"18": {
-								"price": false,
-								"value": false
-							},
-							"5": {
-								"price": false,
-								"value": false
-							},
-							"7": {
-								"price": false,
-								"value": false
-							},
-							"52": {
-								"price": false,
-								"value": false
-							},
-							"20": {
-								"price": false,
-								"value": false
-							},
-							"17": {
-								"price": false,
-								"value": false
-							},
-							"57": {
-								"price": false,
-								"value": false
-							},
-							"10": {
-								"price": false,
-								"value": false
-							},
-							"56": {
-								"price": false,
-								"value": false
-							},
-							"55": {
-								"price": false,
-								"value": false
-							},
-							"54": {
-								"price": false,
-								"value": false
-							},
-							"48": {
-								"price": false,
-								"value": false
-							},
-							"49": {
-								"price": false,
-								"value": false
-							},
-							"51": {
-								"price": false,
-								"value": false
-							},
-							"15": {
-								"price": false,
-								"value": false
-							},
-							"36": {
-								"price": false,
-								"value": false
-							},
-							"12": {
-								"price": false,
-								"value": false
-							},
-							"64": {
-								"price": false,
-								"value": false
-							},
-							"59": {
-								"price": false,
-								"value": false
-							},
-							"60": {
-								"price": false,
-								"value": false
-							},
-							"62": {
-								"price": false,
-								"value": false
-							},
-							"61": {
-								"price": false,
-								"value": false
-							},
-							"65": {
-								"price": false,
-								"value": false
-							},
-							"63": {
-								"price": false,
-								"value": false
-							},
-							"58": {
-								"price": false,
-								"value": false
-							},
-							"25": {
-								"price": false,
-								"value": false
-							},
-							"21": {
-								"price": false,
-								"value": false
-							},
-							"22": {
-								"price": false,
-								"value": false
-							},
-							"23": {
-								"price": false,
-								"value": false
-							},
-							"24": {
-								"price": false,
-								"value": false
-							},
-							"45": {
-								"price": false,
-								"value": false
-							},
-							"44": {
-								"price": false,
-								"value": false
-							},
-							"66": {
-								"price": false,
-								"value": false
-							},
-							"26": {
-								"price": false,
-								"value": false
-							},
-							"37": {
-								"price": false,
-								"value": false
-							},
-							"27": {
-								"price": false,
-								"value": false
-							},
-							"38": {
-								"price": false,
-								"value": false
-							},
-							"28": {
-								"price": false,
-								"value": false
-							},
-							"39": {
-								"price": false,
-								"value": false
-							},
-							"29": {
-								"price": false,
-								"value": false
-							},
-							"40": {
-								"price": false,
-								"value": false
-							},
-							"30": {
-								"price": false,
-								"value": false
-							},
-							"41": {
-								"price": false,
-								"value": false
-							},
-							"31": {
-								"price": false,
-								"value": false
-							},
-							"32": {
-								"price": false,
-								"value": false
-							},
-							"33": {
-								"price": false,
-								"value": false
-							},
-							"47": {
-								"price": false,
-								"value": false
-							},
-							"34": {
-								"price": false,
-								"value": false
-							},
-							"35": {
-								"price": false,
-								"value": false
-							},
-							"42": {
-								"price": false,
-								"value": false
-							},
-							"43": {
-								"price": false,
-								"value": false
-							},
-							"67": {
-								"price": false,
-								"value": false
-							}
-						};
-						if (window['jQuery']) {
-							if (!window['gf_form_conditional_logic']) window['gf_form_conditional_logic'] = new Array();
-							window['gf_form_conditional_logic'][1] = {
-								logic: {
-									50: {
-										"field": {
-											"actionType": "show",
-											"logicType": "all",
-											"rules": [{
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "FL"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "MD"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "NJ"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "PA"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "VA"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "DC"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "DE"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": ""
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "SC"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "NC"
-											}],
-											"enabled": true
-										},
-										"nextButton": null,
-										"section": null
-									},
-									2: {
-										"field": null,
-										"nextButton": {
-											"actionType": "hide",
-											"logicType": "all",
-											"rules": [{
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "DC"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "FL"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "PA"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "VA"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "MD"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "NJ"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "DE"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": ""
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "SC"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "NC"
-											}],
-											"enabled": true
-										},
-										"section": null
-									},
-									20: {
-										"field": null,
-										"nextButton": {
-											"actionType": "hide",
-											"logicType": "all",
-											"rules": [{
-												"fieldId": "5",
-												"operator": "is",
-												"value": "No"
-											}],
-											"enabled": true
-										},
-										"section": null
-									}
-								},
-								dependents: {
-									50: [50],
-									2: [2],
-									20: [20]
-								},
-								animation: 0,
-								defaults: {
-									"53": "No Gift",
-									"42": "Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.6778.264 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)"
-								},
-								fields: {
-									"53": [],
-									"16": [],
-									"11": [],
-									"13": [],
-									"14": [50, 2],
-									"50": [],
-									"2": [],
-									"18": [],
-									"5": [20],
-									"7": [],
-									"52": [],
-									"20": [],
-									"17": [],
-									"57": [],
-									"10": [],
-									"56": [],
-									"55": [],
-									"54": [],
-									"48": [],
-									"49": [],
-									"51": [],
-									"15": [],
-									"36": [],
-									"12": [],
-									"64": [],
-									"59": [],
-									"60": [],
-									"62": [],
-									"61": [],
-									"65": [],
-									"63": [],
-									"58": [],
-									"25": [],
-									"21": [],
-									"22": [],
-									"23": [],
-									"24": [],
-									"45": [],
-									"44": [],
-									"66": [],
-									"26": [],
-									"37": [],
-									"27": [],
-									"38": [],
-									"28": [],
-									"39": [],
-									"29": [],
-									"40": [],
-									"30": [],
-									"41": [],
-									"31": [],
-									"32": [],
-									"33": [],
-									"47": [],
-									"34": [],
-									"35": [],
-									"42": [],
-									"43": [],
-									"67": []
-								}
-							};
-							if (!window['gf_number_format']) window['gf_number_format'] = 'decimal_dot';
-							jQuery(document).ready(function() {
-								gform.utils.trigger({
-									event: 'gform/conditionalLogic/init/start',
-									native: false,
-									data: {
-										formId: 1,
-										fields: null,
-										isInit: true
-									}
-								});
-								window['gformInitPriceFields']();
-								gf_apply_rules(1, [50, 2, 20], true);
-								jQuery('#gform_wrapper_1').show();
-								jQuery('#gform_wrapper_1 form').css('opacity', '');
-								jQuery(document).trigger('gform_post_conditional_logic', [1, null, true]);
-								gform.utils.trigger({
-									event: 'gform/conditionalLogic/init/end',
-									native: false,
-									data: {
-										formId: 1,
-										fields: null,
-										isInit: true
-									}
-								});
-							});
-						};
-						new GFPageConditionalLogic({
-							"formId": 1,
-							"formButton": {
-								"type": "text",
-								"text": "Submit",
-								"imageUrl": "",
-								"width": "auto",
-								"location": "bottom",
-								"layoutGridColumnSpan": 12
-							},
-							"pagination": {
-								"type": "percentage",
-								"pages": ["", "", "", "", "", "", "", "", ""],
-								"style": "custom",
-								"backgroundColor": "#1C2C57",
-								"color": "",
-								"display_progressbar_on_confirmation": false,
-								"progressbar_completion_text": null
-							},
-							"pages": [{
-								"fieldId": 2,
-								"conditionalLogic": "",
-								"nextButton": {
-									"type": "text",
-									"text": "Continue",
-									"imageUrl": "",
-									"conditionalLogic": {
-										"actionType": "hide",
-										"logicType": "all",
-										"rules": [{
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "DC"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "FL"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "PA"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "VA"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "MD"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "NJ"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "DE"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": ""
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "SC"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "NC"
-										}],
-										"enabled": true
-									},
-									"id": 2
-								}
-							}, {
-								"fieldId": 7,
-								"conditionalLogic": {
-									"actionType": "show",
-									"logicType": "all",
-									"rules": [{
-										"fieldId": "5",
-										"operator": "is",
-										"value": "No"
-									}],
-									"enabled": true
-								},
-								"nextButton": {
-									"type": "text",
-									"text": "Continue",
-									"imageUrl": "",
-									"conditionalLogic": null,
-									"id": 7
-								}
-							}, {
-								"fieldId": 20,
-								"conditionalLogic": "",
-								"nextButton": {
-									"type": "text",
-									"text": "Continue",
-									"imageUrl": "",
-									"conditionalLogic": {
-										"actionType": "hide",
-										"logicType": "all",
-										"rules": [{
-											"fieldId": "5",
-											"operator": "is",
-											"value": "No"
-										}],
-										"enabled": true
-									},
-									"id": 20
-								}
-							}, {
-								"fieldId": 10,
-								"conditionalLogic": {
-									"actionType": "hide",
-									"logicType": "all",
-									"rules": [{
-										"fieldId": "14",
-										"operator": "is",
-										"value": "VA"
-									}],
-									"enabled": true
-								},
-								"nextButton": {
-									"type": "text",
-									"text": "Continue",
-									"imageUrl": "",
-									"id": 10
-								}
-							}, {
-								"fieldId": 54,
-								"conditionalLogic": "",
-								"nextButton": {
-									"type": "text",
-									"text": "Continue",
-									"imageUrl": "",
-									"id": 54
-								}
-							}, {
-								"fieldId": 51,
-								"conditionalLogic": "",
-								"nextButton": {
-									"type": "text",
-									"text": "Continue",
-									"imageUrl": "",
-									"conditionalLogic": null,
-									"id": 51
-								}
-							}, {
-								"fieldId": 12,
-								"conditionalLogic": {
-									"enabled": true,
-									"actionType": "hide",
-									"logicType": "all",
-									"rules": [{
-										"fieldId": "11",
-										"operator": "isnot",
-										"value": ""
-									}]
-								},
-								"nextButton": {
-									"type": "text",
-									"text": "Continue",
-									"imageUrl": "",
-									"id": 12
-								}
-							}, {
-								"fieldId": 58,
-								"conditionalLogic": "",
-								"nextButton": {
-									"type": "text",
-									"text": "Schedule and Continue",
-									"imageUrl": "",
-									"id": 58,
-									"conditionalLogic": ""
-								}
-							}]
-						});
-						if (typeof Placeholders != 'undefined') {
-							Placeholders.enable();
+			}
+
+			//get the value of time and date and generate a timestamp
+			$(document).on('change', '.meeting-scheduler .time-select select', function() {
+
+				var selectedTime = $(this).val();
+				var selectedDate = $('.meeting-scheduler .datepicker').val();
+
+				//Take Date and Time and formulate a timestamp that looks like this 2020-10-20T13:00:00.0
+				if ($('[data-gfield-key="skip_value"]').val() !== 'skip') {
+					if (selectedTime != '' && selectedDate != '') {
+						selectedTime = selectedTime + ':00:00.00+05:00';
+
+						var dateParts = selectedDate.split('../index.html');
+						selectedDate = dateParts[2] + '-' + dateParts[0] + '-' + dateParts[1];
+
+						var timestamp = selectedDate + 'T' + selectedTime;
+						// console.log(timestamp);
+
+						var timestampValue = $('.meeting-scheduler .meeting_timestamp').val(timestamp);
+
+						//if timestamp has a value then add the value '948170013' to the hidden field 'status_reason'
+
+						if (timestamp) {
+							$('.meeting-scheduler [data-gfield-key="status_reason"]').val('948170013');
+						} else {
+							$('.meeting-scheduler [data-gfield-key="status_reason"]').val('1');
 						}
-						jQuery('#input_1_24').mask('(999) 999-9999').bind('keypress', function(e) {
-							if (e.which == 13) {
-								jQuery(this).blur();
-							}
-						});
+
+					} else {
+						timestampValue = $('.meeting-scheduler .meeting_timestamp').val('');
+						$('.meeting-scheduler [data-gfield-key="status_reason"]').val('1');
 					}
-				});
-				jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit) {})
+				}
+
+				//Enable the next button only if timestamp has a value that is not null otherwise disable the next button
+				setTimeout(function() {
+					var timestampValue = $('.meeting-scheduler .meeting_timestamp').val();
+					var selectedDate = $('.meeting-scheduler .datepicker').val();
+
+					var selectedTime = $('.meeting-scheduler .time-select select').val();
+
+					if (timestampValue != "" && selectedDate != "" && selectedTime != "") {
+						$('.meeting-scheduler .gform_next_button').prop('disabled', false);
+						$('.meeting-scheduler .gform_next_button').css('visibility', 'visible');
+					} else {
+						$('.meeting-scheduler .gform_next_button').prop('disabled', true);
+						$('.meeting-scheduler .gform_next_button').css('visibility', 'hidden');
+					}
+				}, 100);
 			});
-			/* ]]> */
-		</script>
-		<script type="text/javascript">
-			/* <![CDATA[ */
-			gform.initializeOnLoaded(function() {
-				jQuery(document).trigger("gform_pre_post_render", [{
-					formId: "1",
-					currentPage: "1",
-					abort: function() {
-						this.preventDefault();
+
+			function checkSkipValue() {
+
+				// hot fix for bug in wizard (forcing to show the continue button only if a time is selected)
+				if ($('.meeting-scheduler .time-select select').val() == 'Please select a time') {
+					$('[data-gfield-key="skip_value"]').val('');
+				}
+
+				//Disable the next button on page load if skip button is not clicked
+				if ($('[data-gfield-key="skip_value"]').val() !== 'skip') {
+					$('.meeting-scheduler .gform_next_button').prop('disabled', true);
+					// $('.meeting-scheduler .gform_next_button').css('visibility', 'hidden');
+				} else {
+					$('.meeting-scheduler .gform_next_button').prop('disabled', false);
+					// $('.meeting-scheduler .gform_next_button').css('visibility', 'visible');
+				}
+			}
+
+			checkSkipValue();
+
+			var lastSelectedDate = null;
+
+			// Update selectable times based on the selected date
+			$(document).on('change', '.meeting-scheduler .datepicker', function() {
+				var selectedDate = new Date($(this).val());
+
+				var dayOfWeek = selectedDate.getDay(); // 0 (Sunday) - 6 (Saturday)
+
+				// Only update the dropdown options if the selected date has changed
+				if (lastSelectedDate !== dayOfWeek) {
+					lastSelectedDate = dayOfWeek;
+
+					var dropdownOptions = [];
+					if (dayOfWeek == 1 || dayOfWeek == 3) { // Monday, Wednesday
+						dropdownOptions = [{
+								text: '1:00pm',
+								value: '13'
+							},
+							{
+								text: '2:00pm',
+								value: '14'
+							},
+							{
+								text: '3:00pm',
+								value: '15'
+							},
+							{
+								text: '4:00pm',
+								value: '16'
+							},
+							{
+								text: '5:00pm',
+								value: '17'
+							},
+							{
+								text: '6:00pm',
+								value: '18'
+							},
+						];
+					} else if (dayOfWeek == 2 || dayOfWeek == 4 || dayOfWeek == 5) { // Tuesday, Thursday, Friday
+						dropdownOptions = [{
+								text: '10:00am',
+								value: '10'
+							},
+							{
+								text: '11:00am',
+								value: '11'
+							},
+							{
+								text: '12:00pm',
+								value: '12'
+							},
+							{
+								text: '1:00pm',
+								value: '13'
+							},
+							{
+								text: '2:00pm',
+								value: '14'
+							},
+							{
+								text: '3:00pm',
+								value: '15'
+							},
+							{
+								text: '4:00pm',
+								value: '16'
+							},
+							{
+								text: '5:00pm',
+								value: '17'
+							},
+							{
+								text: '6:00pm',
+								value: '18'
+							},
+						];
+					} else if (dayOfWeek == 6) { // Saturday
+						dropdownOptions = [{
+								text: '10:00am',
+								value: '10'
+							},
+							{
+								text: '11:00am',
+								value: '11'
+							},
+							{
+								text: '12:00pm',
+								value: '12'
+							},
+							{
+								text: '1:00pm',
+								value: '13'
+							},
+							{
+								text: '2:00pm',
+								value: '14'
+							},
+							{
+								text: '3:00pm',
+								value: '15'
+							},
+						];
 					}
-				}]);
-				if (event && event.defaultPrevented) {
+
+					// Update the dropdown options
+					var $dropdown = $('.meeting-scheduler .time-select').find('select');
+					$dropdown.empty();
+
+					//default option
+					$dropdown.append($('<option></option>').attr('value', '').text('Please select a time'));
+
+					$.each(dropdownOptions, function(i, option) {
+						$dropdown.append($('<option></option>').attr('value', option.value).text(option.text));
+					});
+
+					checkSkipValue();
+				}
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		gform.initializeOnLoaded(function() {
+			jQuery(document).on('gform_post_render', function(event, formId, currentPage) {
+				if (formId == 4) {
+					jQuery('#input_4_3').mask('(999) 999-9999').bind('keypress', function(e) {
+						if (e.which == 13) {
+							jQuery(this).blur();
+						}
+					});
+					jQuery('#input_4_7').mask('(999) 999-9999').bind('keypress', function(e) {
+						if (e.which == 13) {
+							jQuery(this).blur();
+						}
+					});
+				}
+			});
+			jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit) {})
+		});
+		/* ]]> */
+	</script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		gform.initializeOnLoaded(function() {
+			jQuery(document).trigger("gform_pre_post_render", [{
+				formId: "4",
+				currentPage: "1",
+				abort: function() {
+					this.preventDefault();
+				}
+			}]);
+			if (event && event.defaultPrevented) {
+				return;
+			}
+			const gformWrapperDiv = document.getElementById("gform_wrapper_4");
+			if (gformWrapperDiv) {
+				const visibilitySpan = document.createElement("span");
+				visibilitySpan.id = "gform_visibility_test_4";
+				gformWrapperDiv.insertAdjacentElement("afterend", visibilitySpan);
+			}
+			const visibilityTestDiv = document.getElementById("gform_visibility_test_4");
+			let postRenderFired = false;
+
+			function triggerPostRender() {
+				if (postRenderFired) {
 					return;
 				}
-				const gformWrapperDiv = document.getElementById("gform_wrapper_1");
-				if (gformWrapperDiv) {
-					const visibilitySpan = document.createElement("span");
-					visibilitySpan.id = "gform_visibility_test_1";
-					gformWrapperDiv.insertAdjacentElement("afterend", visibilitySpan);
-				}
-				const visibilityTestDiv = document.getElementById("gform_visibility_test_1");
-				let postRenderFired = false;
-
-				function triggerPostRender() {
-					if (postRenderFired) {
-						return;
+				postRenderFired = true;
+				jQuery(document).trigger('gform_post_render', [4, 1]);
+				gform.utils.trigger({
+					event: 'gform/postRender',
+					native: false,
+					data: {
+						formId: 4,
+						currentPage: 1
 					}
-					postRenderFired = true;
-					jQuery(document).trigger('gform_post_render', [1, 1]);
-					gform.utils.trigger({
-						event: 'gform/postRender',
-						native: false,
-						data: {
-							formId: 1,
-							currentPage: 1
-						}
-					});
-					gform.utils.trigger({
-						event: 'gform/post_render',
-						native: false,
-						data: {
-							formId: 1,
-							currentPage: 1
-						}
-					});
-					if (visibilityTestDiv) {
-						visibilityTestDiv.parentNode.removeChild(visibilityTestDiv);
+				});
+				gform.utils.trigger({
+					event: 'gform/post_render',
+					native: false,
+					data: {
+						formId: 4,
+						currentPage: 1
 					}
+				});
+				if (visibilityTestDiv) {
+					visibilityTestDiv.parentNode.removeChild(visibilityTestDiv);
 				}
+			}
 
-				function debounce(func, wait, immediate) {
-					var timeout;
-					return function() {
-						var context = this,
-							args = arguments;
-						var later = function() {
-							timeout = null;
-							if (!immediate) func.apply(context, args);
-						};
-						var callNow = immediate && !timeout;
-						clearTimeout(timeout);
-						timeout = setTimeout(later, wait);
-						if (callNow) func.apply(context, args);
+			function debounce(func, wait, immediate) {
+				var timeout;
+				return function() {
+					var context = this,
+						args = arguments;
+					var later = function() {
+						timeout = null;
+						if (!immediate) func.apply(context, args);
 					};
-				}
-				const debouncedTriggerPostRender = debounce(function() {
-					triggerPostRender();
-				}, 200);
-				if (visibilityTestDiv && visibilityTestDiv.offsetParent === null) {
-					const observer = new MutationObserver((mutations) => {
-						mutations.forEach((mutation) => {
-							if (mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null) {
-								debouncedTriggerPostRender();
-								observer.disconnect();
-							}
-						});
+					var callNow = immediate && !timeout;
+					clearTimeout(timeout);
+					timeout = setTimeout(later, wait);
+					if (callNow) func.apply(context, args);
+				};
+			}
+			const debouncedTriggerPostRender = debounce(function() {
+				triggerPostRender();
+			}, 200);
+			if (visibilityTestDiv && visibilityTestDiv.offsetParent === null) {
+				const observer = new MutationObserver((mutations) => {
+					mutations.forEach((mutation) => {
+						if (mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null) {
+							debouncedTriggerPostRender();
+							observer.disconnect();
+						}
 					});
-					observer.observe(document.body, {
-						attributes: true,
-						childList: false,
-						subtree: true,
-						attributeFilter: ['style', 'class'],
-					});
-				} else {
-					triggerPostRender();
-				}
-			});
-			/* ]]> */
-		</script>
-
-	</div>
-
+				});
+				observer.observe(document.body, {
+					attributes: true,
+					childList: false,
+					subtree: true,
+					attributeFilter: ['style', 'class'],
+				});
+			} else {
+				triggerPostRender();
+			}
+		});
+		/* ]]> */
+	</script>
 </body>
 
 
-<!-- Mirrored from www.solarenergyworld.com/contact/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Jan 2025 18:14:35 GMT -->
+<!-- Mirrored from www.solarenergyworld.com/service-request/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Jan 2025 18:14:37 GMT -->
 
 </html>
