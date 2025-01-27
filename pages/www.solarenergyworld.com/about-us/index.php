@@ -1530,6 +1530,130 @@
 				</div>
 			</section>
 
+			<section id="wmx-section-wrapper-gqhgm07" data-component="wmx:section-wrapper"
+				class="block block--section-wrapper" style="
+            padding-top: var(--wp--preset--spacing--50);
+            padding-bottom: var(--wp--preset--spacing--50);
+          " data-wmx-wpb="section-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="col-12">
+							<div class="inner-wrapper">
+								<div data-component="core:columns"
+									class="wp-block-columns alignfull are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-10 wp-block-columns-is-layout-flex">
+									<div data-component="core:column"
+										class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow">
+										<div id="wmx-stacking-cards-wrapper-4nyn6iy" data-component="wmx:stacking-cards-wrapper"
+											class="block block--stacking-cards-wrapper" data-wmx-wpb="stacking-cards-wrapper">
+
+											<div id="wmx-stacking-card-k9ifc75" data-component="wmx:stacking-card"
+												class="block block--stacking-card stacking-card" data-wmx-wpb="stacking-card">
+												<div class="card-content">
+													<div data-component="core:columns"
+														class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
+
+														<div data-component="core:column"
+															class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+															<figure data-component="core:image" class="wp-block-image size-large has-custom-border">
+																<img loading="lazy" decoding="async" width="1024" height="576"
+																	src="./assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1024x576.webp" alt=""
+																	class="wp-image-48" style="
+																	border-radius: 16px;                                      aspect-ratio: 1;                                      object-fit: cover;"
+																	srcset="https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1024x576.webp 1024w,                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-300x169.webp   300w,                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-768x432.webp   768w,                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1536x864.webp 1536w,                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef.webp          2048w"
+																	sizes="(max-width: 1024px) 100vw, 1024px" />
+															</figure>
+														</div>
+
+														<div data-component="core:column"
+															class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+															<hr data-component="core:separator"
+																class="wp-block-separator has-alpha-channel-opacity has-solar-gradient-background has-background is-style-narrow" />
+
+															<h2 data-component="core:heading" class="wp-block-heading"
+																id="h-solar-panels-amp-batteries">
+																Descubre nuestras soluciones solares a tu medida
+															</h2>
+
+															<p>
+																Tenemos la solución perfecta para tu hogar o negocio, con financiamiento flexible y garantía asegurada.
+															</p>
+
+															<div data-component="core:buttons"
+																class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+																<div class="wp-block-button is-style-btn-outline">
+																	<a data-component="core:button" class="wp-block-button__link wp-element-button"
+																		href="/pages/www.solarenergyworld.com/products/index.php">
+																		Explora nuestros productos
+																	</a>
+																</div>
+															</div>
+														</div>
+
+													</div>
+												</div>
+											</div>
+
+											<!-- <div id="wmx-stacking-card-k9ifc75" data-component="wmx:stacking-card"
+												class="block block--stacking-card has-background has-ocean-blue-background-color stacking-card"
+												data-wmx-wpb="stacking-card" data-bs-theme="dark">
+												<div class="card-content">
+													<div data-component="core:columns"
+														class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-8 wp-block-columns-is-layout-flex">
+														<div data-component="core:column"
+															class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+															<figure data-component="core:image" class="wp-block-image size-large has-custom-border">
+																<img loading="lazy" decoding="async" width="1024" height="683"
+																	src="./assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-1024x683.webp" alt=""
+																	class="wp-image-176" style="
+                                      border-radius: 16px;
+                                      aspect-ratio: 1;
+                                      object-fit: cover;
+                                    " srcset="
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-1024x683.webp  1024w,
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-300x200.webp    300w,
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-768x512.webp    768w,
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-1536x1024.webp 1536w,
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers.webp           2048w
+                                    " sizes="(max-width: 1024px) 100vw, 1024px" />
+															</figure>
+														</div>
+
+														<div data-component="core:column"
+															class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+															<hr data-component="core:separator"
+																class="wp-block-separator has-alpha-channel-opacity has-solar-gradient-background has-background is-style-narrow" />
+
+															<h2 data-component="core:heading" class="wp-block-heading" id="h-solar-in-your-state">
+																¡Empieza a ahorrar con energía solar hoy mismo!
+															</h2>
+
+															<p>
+																Completa el formulario y recibe una cotización personalizada para tu hogar o negocio. Da el primer paso hacia un futuro más sostenible y eficiente.
+															</p>
+
+															<div data-component="core:buttons"
+																class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+																<div class="wp-block-button is-style-btn-outline">
+																	<a data-component="core:button" class="wp-block-button__link wp-element-button"
+																		href="#">
+																		Solicita tu cotización ahora
+																	</a>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div> -->
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
 
 			<!-- <section id="wmx-section-wrapper-5kgie2l" data-component="wmx:section-wrapper" data-component-label="Text w/ Image - Left" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
 				<div class="container">
