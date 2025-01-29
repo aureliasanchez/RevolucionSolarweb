@@ -1428,7 +1428,6 @@
 					</div>
 				</div>
 			</section>
-
 			<section id="wmx-section-wrapper-mn0yuu5" data-component="wmx:section-wrapper"
 				class="block block--section-wrapper" style="
             padding-top: var(--wp--preset--spacing--50);
@@ -1438,19 +1437,19 @@
 					<div class="row">
 						<div class="col-12">
 							<div class="inner-wrapper">
+
 								<h2 data-component="core:heading" class="wp-block-heading has-text-align-center"
 									id="h-top-benefits-of-going-solar" style="margin-bottom: var(--wp--preset--spacing--50)">
 									Energía solar
 									<br>
 									Beneficios que transforman tu vida
 								</h2>
-
 								<div data-component="core:columns"
 									class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-12 wp-block-columns-is-layout-flex">
 									<div data-component="core:column"
 										class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
 										<div id="wmx-cards-wrapper-82y8izq" data-component="wmx:cards-wrapper"
-											class="block block--cards-wrapper" style="--card-count: 3" data-wmx-wpb="cards-wrapper"
+											class="block block--cards-wrapper" style="--card-count: 2" data-wmx-wpb="cards-wrapper"
 											data-mobile="slider">
 											<div class="cards">
 
@@ -1555,12 +1554,146 @@
 										</div>
 									</div>
 								</div>
+
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>
+			<div id="reviews">
 
+				<section id="section-wrapper-678297b9465f9" data-component="wmx:section-wrapper"
+					class="block block--section-wrapper" data-wmx-wpb="section-wrapper">
+					<div class="container">
+						<div class="row">
+							<div class="col-12">
+								<div class="inner-wrapper">
+									<div data-component="core:columns"
+										class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8 wp-block-columns-is-layout-flex">
+										<div data-component="core:column"
+											class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+
+											<h2 data-component="core:heading" class="wp-block-heading"
+												id="h-read-what-our-customers-are-saying">
+												Programa Líderes Solares
+											</h2>
+											<h3>
+												Conviértete en un asesor de energía solar y transforma tu futuro.
+											</h3>
+											<p>
+												¿Buscas una oportunidad para generar ingresos extras sin dejar tu trabajo actual?
+												<br><br>
+												Con el
+												<strong>
+													Programa Líderes Solares,
+												</strong>
+												puedes ofrecer soluciones de energía solar a hogares y negocios, ayudando a las personas a reducir su factura eléctrica mientras obtienes atractivas comisiones.
+												<br><br>
+												Formamos parte del prestigioso Grupo Tort, brindándote capacitación continua, respaldo profesional y herramientas para que inicies tu propio negocio en el sector solar.
+											</p>
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section id="wmx-section-wrapper-y65m2sa" data-component="wmx:section-wrapper"
+					data-component-label="Reviews" class="block block--section-wrapper"
+					style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);"
+					data-wmx-wpb="section-wrapper">
+					<div class="container">
+						<div class="row">
+							<div class="col-12">
+								<div class="inner-wrapper">
+
+									<div data-component="core:columns"
+										class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9 wp-block-columns-is-layout-flex">
+										<div data-component="core:column"
+											class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+											<div id="wmx-cards-wrapper-sm0kcrq" data-component="wmx:cards-wrapper"
+												class="block block--cards-wrapper" style="--card-count:2;"
+												data-wmx-wpb="cards-wrapper" data-mobile="stacked">
+												<div class="cards">
+
+													<div id="wmx-card-wkl7zxu" data-component="wmx:card"
+														class="block block--card  has-background has-gray-100-background-color"
+														data-wmx-wpb="card" data-bs-theme="light"
+														data-wmx-stretch-link="false" data-banner-image="false">
+
+														<p data-component="core:paragraph" data-bs-theme="dark"
+															class="has-navy-background-color has-background"
+															style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
+															Ser mayor de 18 años
+														</p>
+														<p
+															style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
+															Inicia tu camino profesional con nosotros sin importar tu experiencia previa.
+														</p>
+
+													</div>
+													<div id="wmx-card-wkl7zxu" data-component="wmx:card"
+														class="block block--card  has-background has-gray-100-background-color"
+														data-wmx-wpb="card" data-bs-theme="light"
+														data-wmx-stretch-link="false" data-banner-image="false">
+
+														<p data-component="core:paragraph" data-bs-theme="dark"
+															class="has-navy-background-color has-background"
+															style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
+															Gusto por las ventas
+														</p>
+														<p
+															style="padding-top:0;padding-right:var(--wp--preset--spacing--30);padding-bottom:0;padding-left:var(--wp--preset--spacing--30)">
+															Si disfrutas del trato con clientes y buscas oportunidades de crecimiento, ¡este programa es para ti!
+														</p>
+
+													</div>
+													<div id="wmx-card-wkl7zxu" data-component="wmx:card"
+														class="block block--card  has-background has-gray-100-background-color"
+														data-wmx-wpb="card" data-bs-theme="light"
+														data-wmx-stretch-link="false" data-banner-image="false">
+
+														<p data-component="core:paragraph" data-bs-theme="dark"
+															class="has-navy-background-color has-background"
+															style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
+															Habilidad de negociación
+														</p>
+														<p
+															style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
+															Te brindamos las herramientas para que cierres ventas exitosas con confianza.
+														</p>
+
+													</div>
+													<div id="wmx-card-wkl7zxu" data-component="wmx:card"
+														class="block block--card  has-background has-gray-100-background-color"
+														data-wmx-wpb="card" data-bs-theme="light"
+														data-wmx-stretch-link="false" data-banner-image="false">
+
+														<p data-component="core:paragraph" data-bs-theme="dark"
+															class="has-navy-background-color has-background"
+															style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
+															Capacitación en ventas y productos solares
+														</p>
+														<p
+															style="padding-top:0;padding-right:var(--wp--preset--spacing--30);padding-bottom:0;padding-left:var(--wp--preset--spacing--30)">
+															Aprende todo lo necesario con formación continua en energía solar y estrategias de ventas efectivas.
+														</p>
+
+													</div>
+
+												</div>
+											</div>
+										</div>
+									</div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+
+			</div>
 
 			<!-- <section id="wmx-section-wrapper-5kgie2l" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);" data-wmx-wpb="section-wrapper">
 				<div class="container">

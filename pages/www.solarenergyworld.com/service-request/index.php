@@ -1440,6 +1440,41 @@
 		<div id="skipNav" class="visually-hidden"></div>
 
 		<main id="main">
+
+			<section id="section-wrapper-6782b08034da3" data-component="wmx:section-wrapper"
+				class="block block--section-wrapper"
+				style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);"
+				data-wmx-wpb="section-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="col-12">
+							<div class="inner-wrapper">
+								<div data-component="core:columns"
+									class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
+									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+
+										<h1 data-component="core:heading" class="wp-block-heading" id="h-issue-with-your-system-let-us-know">
+											Cotiza tu panel solar
+										</h1>
+										<p>
+											Descubre cómo la 
+											<strong>
+												energía solar 
+											</strong>
+											puede ayudarte a reducir costos y cuidar el medio ambiente. 
+											<br>
+											Completa el formulario y recibe una cotización personalizada diseñada para tus necesidades específicas.
+											<br><br>
+											¡Empieza tu transición hacia un futuro más sustentable hoy mismo!
+										</p>
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
 			<section id="section-wrapper-6782b08036798" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
 				<div class="container">
 					<div class="row">
@@ -1712,6 +1747,7 @@
 					</div>
 				</div>
 			</section>
+
 		</main>
 
 		<?php

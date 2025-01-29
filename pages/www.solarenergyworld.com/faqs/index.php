@@ -10,92 +10,46 @@
 	<meta name="format-detection" content="telephone=no">
 	<meta name="IE_RM_OFF" content="true">
 	<meta name="msapplication-TileColor" content="#da532c">
-	<meta name="msapplication-config" content="/favicon/browserconfig.xml">
+	<meta name="msapplication-config" content="../favicon/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<meta name="description" content="Get answers to common questions about solar energy and solar panels from Solar Energy World, Maryland’s preferred solar panel experts." />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Contact" />
-	<meta property="og:url" content="https://www.solarenergyworld.com/contact/" />
+	<meta property="og:title" content="Solar FAQs" />
+	<meta property="og:description" content="Get answers to common questions about solar energy and solar panels from Solar Energy World, Maryland’s preferred solar panel experts." />
+	<meta property="og:url" content="https://www.solarenergyworld.com/faqs/" />
 	<meta property="og:site_name" content="Solar Energy World" />
-	<meta property="article:modified_time" content="2024-09-13T21:40:25+00:00" />
+	<meta property="article:modified_time" content="2025-01-07T14:48:17+00:00" />
 	<meta name="twitter:card" content="summary_large_image" />
 
+	<!-- Link -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/www.solarenergyworld.com/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/www.solarenergyworld.com/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/www.solarenergyworld.com/favicon/favicon-16x16.png">
+	<link rel="manifest" href="/assets/other/www.solarenergyworld.com/favicon/site.webmanifest">
+	<link rel="mask-icon" href="/assets/img/www.solarenergyworld.com/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="/assets/img/www.solarenergyworld.com/favicon/favicon.ico">
+	<link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com/" />
+	<link rel="canonical" href="index.html" />
+	<link rel='dns-prefetch' href='http://js.hs-scripts.com/' />
+	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+	<link rel='stylesheet' id='google_business_reviews_rating_wp_css-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/g-business-reviews-rating/wp/css/css109c.css?ver=6.6.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='block-editor-google-fonts-css' href='https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Manrope:wght@200..800&amp;display=swap' type='text/css' media='all' />
+	<link rel='stylesheet' id='wmx-bootstrap-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/css/bs.mindf15.css?v=1733933346' type='text/css' media='all' />
+	<link rel='stylesheet' id='wmx-bravo-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/css/app.mindf15.css?v=1733933346' type='text/css' media='all' />
+	<link rel='stylesheet' id='wmx-consent-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/consent/themea999.css?v=20250111' type='text/css' media='all' />
+	<link rel='stylesheet' id='wmx-base-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/css/app.mindf15.css?v=1733933346' type='text/css' media='all' />
+	<link rel='stylesheet' id='wmx-wp-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/css/wp.mindf15.css?v=1733933346' type='text/css' media='all' />
+	<link rel='stylesheet' id='wmx-modals-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/wmx-modals-1/public/dist/css/wmx-modals-public.min1c12.css?ver=2.0.4' type='text/css' media='all' />
+	<link rel="https://api.w.org/" href="/pages/www.solarenergyworld.com/wp-json/index.html" />
+	<link rel="alternate" title="JSON" type="application/json" href="/assets/other/www.solarenergyworld.com/wp-json/wp/v2/pages/642.json" />
+	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed483c.json?url=https%3A%2F%2Fwww.solarenergyworld.com%2Ffaqs%2F" />
+	<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embedb411?url=https%3A%2F%2Fwww.solarenergyworld.com%2Ffaqs%2F&amp;format=xml" />
+	<link rel="preconnect" href="https://fonts.googleapis.com/">
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
+
 	<!-- Script -->
-	<script type="text/javascript">
-		/* <![CDATA[ */
-		var gform;
-		gform || (document.addEventListener("gform_main_scripts_loaded", function() {
-			gform.scriptsLoaded = !0
-		}), document.addEventListener("gform/theme/scripts_loaded", function() {
-			gform.themeScriptsLoaded = !0
-		}), window.addEventListener("DOMContentLoaded", function() {
-			gform.domLoaded = !0
-		}), gform = {
-			domLoaded: !1,
-			scriptsLoaded: !1,
-			themeScriptsLoaded: !1,
-			isFormEditor: () => "function" == typeof InitializeEditor,
-			callIfLoaded: function(o) {
-				return !(!gform.domLoaded || !gform.scriptsLoaded || !gform.themeScriptsLoaded && !gform.isFormEditor() || (gform.isFormEditor() && console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."), o(), 0))
-			},
-			initializeOnLoaded: function(o) {
-				gform.callIfLoaded(o) || (document.addEventListener("gform_main_scripts_loaded", () => {
-					gform.scriptsLoaded = !0, gform.callIfLoaded(o)
-				}), document.addEventListener("gform/theme/scripts_loaded", () => {
-					gform.themeScriptsLoaded = !0, gform.callIfLoaded(o)
-				}), window.addEventListener("DOMContentLoaded", () => {
-					gform.domLoaded = !0, gform.callIfLoaded(o)
-				}))
-			},
-			hooks: {
-				action: {},
-				filter: {}
-			},
-			addAction: function(o, r, e, t) {
-				gform.addHook("action", o, r, e, t)
-			},
-			addFilter: function(o, r, e, t) {
-				gform.addHook("filter", o, r, e, t)
-			},
-			doAction: function(o) {
-				gform.doHook("action", o, arguments)
-			},
-			applyFilters: function(o) {
-				return gform.doHook("filter", o, arguments)
-			},
-			removeAction: function(o, r) {
-				gform.removeHook("action", o, r)
-			},
-			removeFilter: function(o, r, e) {
-				gform.removeHook("filter", o, r, e)
-			},
-			addHook: function(o, r, e, t, n) {
-				null == gform.hooks[o][r] && (gform.hooks[o][r] = []);
-				var d = gform.hooks[o][r];
-				null == n && (n = r + "_" + d.length), gform.hooks[o][r].push({
-					tag: n,
-					callable: e,
-					priority: t = null == t ? 10 : t
-				})
-			},
-			doHook: function(r, o, e) {
-				var t;
-				if (e = Array.prototype.slice.call(e, 1), null != gform.hooks[r][o] && ((o = gform.hooks[r][o]).sort(function(o, r) {
-						return o.priority - r.priority
-					}), o.forEach(function(o) {
-						"function" != typeof(t = o.callable) && (t = window[t]), "action" == r ? t.apply(null, e) : e[0] = t.apply(null, e)
-					})), "filter" == r) return e[0]
-			},
-			removeHook: function(o, r, t, n) {
-				var e;
-				null != gform.hooks[o][r] && (e = (e = gform.hooks[o][r]).filter(function(o, r, e) {
-					return !!(null != n && n != o.tag || null != t && t != o.priority)
-				}), gform.hooks[o][r] = e)
-			}
-		});
-		/* ]]> */
-	</script>
 	<script data-cfasync="false" nowprocket type='text/javascript'>
 		var _vwo_clicks = 10;
 	</script>
@@ -264,25 +218,26 @@
 			"@context": "https://schema.org",
 			"@graph": [{
 				"@type": "WebPage",
-				"@id": "https://www.solarenergyworld.com/contact/",
-				"url": "https://www.solarenergyworld.com/contact/",
-				"name": "Contact | Solar Energy World",
+				"@id": "https://www.solarenergyworld.com/faqs/",
+				"url": "https://www.solarenergyworld.com/faqs/",
+				"name": "Solar FAQs | Solar Energy World power outage, Solar panels rain cloudy",
 				"isPartOf": {
 					"@id": "https://www.solarenergyworld.com/#website"
 				},
-				"datePublished": "2024-06-26T13:40:23+00:00",
-				"dateModified": "2024-09-13T21:40:25+00:00",
+				"datePublished": "2020-07-20T04:00:00+00:00",
+				"dateModified": "2025-01-07T14:48:17+00:00",
+				"description": "Get answers to common questions about solar energy and solar panels from Solar Energy World, Maryland’s preferred solar panel experts.",
 				"breadcrumb": {
-					"@id": "https://www.solarenergyworld.com/contact/#breadcrumb"
+					"@id": "https://www.solarenergyworld.com/faqs/#breadcrumb"
 				},
 				"inLanguage": "en-US",
 				"potentialAction": [{
 					"@type": "ReadAction",
-					"target": ["https://www.solarenergyworld.com/contact/"]
+					"target": ["https://www.solarenergyworld.com/faqs/"]
 				}]
 			}, {
 				"@type": "BreadcrumbList",
-				"@id": "https://www.solarenergyworld.com/contact/#breadcrumb",
+				"@id": "https://www.solarenergyworld.com/faqs/#breadcrumb",
 				"itemListElement": [{
 					"@type": "ListItem",
 					"position": 1,
@@ -291,7 +246,7 @@
 				}, {
 					"@type": "ListItem",
 					"position": 2,
-					"name": "Contact"
+					"name": "Solar FAQs"
 				}]
 			}, {
 				"@type": "WebSite",
@@ -351,32 +306,6 @@
 			f.parentNode.insertBefore(j, f);
 		})(window, document, 'script', 'dataLayer', 'GTM-KQKGBXP');
 	</script>
-
-	<!-- Link -->
-	<link rel="https://api.w.org/" href="/pages/www.solarenergyworld.com/wp-json/index.html" />
-	<link rel="alternate" title="JSON" type="application/json" href="/assets/other/www.solarenergyworld.com/wp-json/wp/v2/pages/484.json" />
-	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed270c.json?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fcontact%2F" />
-	<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed4f60?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fcontact%2F&amp;format=xml" />
-	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/www.solarenergyworld.com/favicon/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/www.solarenergyworld.com/favicon/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/www.solarenergyworld.com/favicon/favicon-16x16.png">
-	<link rel="manifest" href="/assets/other/www.solarenergyworld.com/favicon/site.webmanifest">
-	<link rel="mask-icon" href="/assets/img/www.solarenergyworld.com/favicon/safari-pinned-tab.svg" color="#5bbad5">
-	<link rel="shortcut icon" href="/assets/img/www.solarenergyworld.com/favicon/favicon.ico">
-	<link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com/" />
-	<link rel="canonical" href="./index.php" />
-	<link rel='dns-prefetch' href='http://js.hs-scripts.com/' />
-	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-	<link rel='stylesheet' id='google_business_reviews_rating_wp_css-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/g-business-reviews-rating/wp/css/css109c.css?ver=6.6.2' type='text/css' media='all' />
-	<link rel='stylesheet' id='block-editor-google-fonts-css' href='https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Manrope:wght@200..800&amp;display=swap' type='text/css' media='all' />
-	<link rel='stylesheet' id='wmx-bootstrap-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/css/bs.mindf15.css?v=1733933346' type='text/css' media='all' />
-	<link rel='stylesheet' id='wmx-bravo-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/css/app.mindf15.css?v=1733933346' type='text/css' media='all' />
-	<link rel='stylesheet' id='wmx-consent-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/consent/themea999.css?v=20250111' type='text/css' media='all' />
-	<link rel='stylesheet' id='wmx-base-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/css/app.mindf15.css?v=1733933346' type='text/css' media='all' />
-	<link rel='stylesheet' id='wmx-wp-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/css/wp.mindf15.css?v=1733933346' type='text/css' media='all' />
-	<link rel='stylesheet' id='wmx-modals-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/wmx-modals-1/public/dist/css/wmx-modals-public.min1c12.css?ver=2.0.4' type='text/css' media='all' />
-	<link rel="preconnect" href="https://fonts.googleapis.com/">
-	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
 
 	<!-- Style -->
 	<style id='wp-block-library-inline-css' type='text/css'>
@@ -1334,10 +1263,10 @@
 		}
 	</style>
 
-	<title>Contact | Solar Energy World</title>
+	<title>Solar FAQs | Solar Energy World power outage, Solar panels rain cloudy</title>
 </head>
 
-<body data-bs-theme=light class="page-template-default page page-id-484">
+<body data-bs-theme=light class="page-template-default page page-id-642">
 
 	<div class="site-wrapper">
 
@@ -1348,137 +1277,126 @@
 		<div id="skipNav" class="visually-hidden"></div>
 
 		<main id="main">
-
-			<section id="wmx-section-wrapper-cjm7qop" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
+			<section id="wmx-section-wrapper-y07m9vk" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
 				<div class="container">
 					<div class="row">
 						<div class="col-12">
-
 							<div class="inner-wrapper">
 
-
-
-								<div data-component="core:columns" class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
-									<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-
-										<p data-component="core:paragraph" class="has-text-align-center has-h-3-font-size">
-											Información de Contacto
-										</p>
-
-										<p data-component="core:paragraph" class="has-text-align-center">
-											<strong>
-												Dirección:
-											</strong>
-											Blvd. Universitario 399-21, Plaza Palmas II, 76230 Juriquilla, Querétaro.
-										</p>
-
-										<p data-component="core:paragraph" class="has-text-align-center">
-											<strong>
-												Teléfono:
-											</strong>
-											<a href="https://wa.me/4426315686" target="_blank">
-												(442) 631-5686
-											</a>
-										</p>
-
-										<p data-component="core:paragraph" class="has-text-align-center">
-											<strong>
-												Correo Electrónico:
-											</strong>
-											<a href="https://mail.google.com/mail/?view=cm&fs=1&to=contacto@revolucionsolar.com.mx&su=Consulta" target="_blank">
-												contacto@revolucionsolar.com.mx
-											</a>
-										</p>
-
-										<p data-component="core:paragraph" class="has-text-align-center">
-											<strong>
-												Horarios de Atención:
-											</strong>
-											9:00 a 18:00 hrs.
-										</p>
-
-									</div>
-								</div>
-
-
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</section>
-			<section id="wmx-section-wrapper-jbga1v2" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
-				<div class="container">
-					<div class="row">
-						<div class="col-12">
-
-							<div class="inner-wrapper">
-
-
-
-								<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
+								<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
 									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-										<h2 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-visit-our-office-locations" style="margin-bottom:var(--wp--preset--spacing--50)">
-											Presencia en
-										</h2>
 
+										<h1 data-component="core:heading" class="wp-block-heading" id="h-solar-faqs">
+											Preguntas Frecuentes
+										</h1>
+										<p>
+											Resuelve todas tus dudas sobre energía solar, instalación, costos y beneficios. Aquí encontrarás respuestas claras y detalladas para que tomes la mejor decisión en tu camino hacia un futuro más sostenible.
+										</p>
+										<div id="primeraTanda">
 
-										<div id="wmx-cards-wrapper-day9tra" data-component="wmx:cards-wrapper" class="block block--cards-wrapper" style="--card-count:4;" data-wmx-wpb="cards-wrapper" data-mobile="stacked">
+											<h2 data-component="core:heading" class="wp-block-heading" id="h-solar-panel-basics">
+												Paneles solares
+											</h2>
+											<div id="wmx-accordion-jswqylc" data-component="wmx:accordion" class="block block--accordion  accordion" data-wmx-wpb="accordion">
 
-											<div class="cards">
+												<div data-component="wmx:accordion-panel" data-component-label="What is solar energy?" class="block--accordion-panel accordion-item">
 
-												<div id="wmx-card-23jkprn" data-component="wmx:card"
-													class="block block--card is-style-gradient" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false" data-bs-theme="light">
-
-													<h4 data-component="core:heading" class="wp-block-heading" id="h-headquarters" style="margin-bottom:var(--wp--preset--spacing--40)">
-														Querétaro
-													</h4>
-
+													<div class="accordion-header">
+														<button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="" aria-expanded="false" aria-controls="">
+															<h5 class="mb-0">
+																¿Cuánto tiempo toma recuperar la inversión en un sistema solar?
+															</h5>
+														</button>
+													</div>
+													<div class="accordion-collapse collapse" aria-labelledby="" data-bs-parent="">
+														<div class="accordion-body">
+															<p>
+																La mayoría de nuestros clientes recuperan su inversión en un periodo de 3 a 5 años, dependiendo de su consumo y ubicación. Además, el ahorro comienza desde el primer día
+															</p>
+														</div>
+													</div>
 												</div>
-												<div id="wmx-card-23jkprn" data-component="wmx:card"
-													class="block block--card is-style-gradient" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false" data-bs-theme="light">
+												<div data-component="wmx:accordion-panel" class="block--accordion-panel accordion-item">
 
-													<h4 data-component="core:heading" class="wp-block-heading" id="h-headquarters" style="margin-bottom:var(--wp--preset--spacing--40)">
-														Guanajuato
-													</h4>
-
+													<div class="accordion-header">
+														<button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="" aria-expanded="false" aria-controls="">
+															<h5 class="mb-0">
+																¿Qué pasa si mi consumo de energía cambia después de instalar el sistema?
+															</h5>
+														</button>
+													</div>
+													<div class="accordion-collapse collapse" aria-labelledby="" data-bs-parent="">
+														<div class="accordion-body">
+															<p>
+																Nuestro sistema es adaptable y puede ajustarse a tus necesidades cambiantes. Si tu consumo aumenta, siempre puedes agregar más paneles para cubrir la demanda. En caso de que necesites cambiar de domicilio, ofrecemos el servicio de traslado del sistema, con un costo que varía según el tamaño y la ubicación de tu nueva propiedad.
+															</p>
+														</div>
+													</div>
 												</div>
-												<div id="wmx-card-23jkprn" data-component="wmx:card"
-													class="block block--card is-style-gradient" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false" data-bs-theme="light">
+												<div data-component="wmx:accordion-panel" class="block--accordion-panel accordion-item">
 
-													<h4 data-component="core:heading" class="wp-block-heading" id="h-headquarters" style="margin-bottom:var(--wp--preset--spacing--40)">
-														Morelos
-													</h4>
-
+													<div class="accordion-header">
+														<button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="" aria-expanded="false" aria-controls="">
+															<h5 class="mb-0">
+																¿Qué sucede si me mudo después de instalar el sistema?
+															</h5>
+														</button>
+													</div>
+													<div class="accordion-collapse collapse" aria-labelledby="" data-bs-parent="">
+														<div class="accordion-body">
+															<p>
+																Los sistemas solares pueden incrementar el valor de tu propiedad, lo que puede ser un punto de venta. También puedes optar por trasladar el sistema a tu nueva ubicación con nuestro servicio especializado, ajustando el costo según el tamaño del sistema y la distancia de traslado.
+															</p>
+														</div>
+													</div>
 												</div>
-												<div id="wmx-card-23jkprn" data-component="wmx:card"
-													class="block block--card is-style-gradient" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false" data-bs-theme="light">
+												<div data-component="wmx:accordion-panel" class="block--accordion-panel accordion-item">
 
-													<h4 data-component="core:heading" class="wp-block-heading" id="h-headquarters" style="margin-bottom:var(--wp--preset--spacing--40)">
-														Estado de México
-													</h4>
+													<div class="accordion-header">
+														<button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="" aria-expanded="false" aria-controls="">
+															<h5 class="mb-0">
+																¿Qué mantenimiento requiere un sistema solar?
+															</h5>
+														</button>
+													</div>
+													<div class="accordion-collapse collapse" aria-labelledby="" data-bs-parent="">
+														<div class="accordion-body">
+															<p>
+																El mantenimiento es mínimo, generalmente solo requiere limpieza periódica para asegurar el máximo rendimiento. Además, en Revolución Solar te ofrecemos una certificación oficial que te permite realizar el mantenimiento básico por tu cuenta, asegurando que siempre puedas maximizar el rendimiento de tu sistema sin depender de terceros.
+															</p>
+														</div>
+													</div>
+												</div>
+												<div data-component="wmx:accordion-panel" class="block--accordion-panel accordion-item">
 
+													<div class="accordion-header">
+														<button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="" aria-expanded="false" aria-controls="">
+															<h5 class="mb-0">
+																¿Cómo afecta el clima a la producción de energía solar?
+															</h5>
+														</button>
+													</div>
+													<div class="accordion-collapse collapse" aria-labelledby="" data-bs-parent="">
+														<div class="accordion-body">
+															<p>
+																Nuestros sistemas están diseñados para funcionar en diversas condiciones climáticas. Incluso en días nublados, los paneles siguen generando energía, aunque a menor capacidad.
+															</p>
+														</div>
+													</div>
 												</div>
 
 											</div>
 
 										</div>
 
-
-
-										<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
-
 									</div>
 								</div>
 
-
 							</div>
-
 						</div>
 					</div>
 				</div>
 			</section>
-
 		</main>
 
 		<?php
@@ -1532,8 +1450,7 @@
 		</defs>
 	</svg>
 
-	<div class="svg-sprite d-none">
-		<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<div class="svg-sprite d-none"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 			<defs>
 				<symbol viewBox="0 0 100 100" id="icon-0-cost-electricity" fill="none">
 					<path d="M50 88.5378C49.4887 88.5378 49.0431 88.7094 48.7248 89.0277C48.4064 89.3461 48.2349 89.7916 48.2349 90.303V96.9697C48.2349 97.481 48.4064 97.9266 48.7248 98.2449C49.0431 98.5633 49.4887 98.7348 50 98.7348C50.5114 98.7348 50.9569 98.5633 51.2753 98.2449C51.5936 97.9266 51.7652 97.481 51.7652 96.9697V90.303C51.7652 89.4239 51.0631 88.5378 50 88.5378Z" fill="#0156A4" stroke="#0156A4" stroke-width="0.5" />
@@ -1823,9 +1740,7 @@
 					<path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" />
 				</symbol>
 			</defs>
-		</svg>
-	</div>
-
+		</svg></div>
 	<div id="wmx-modal-793"
 		data-modal-title="Hello Bar"
 		class="wmx-modal"
@@ -1834,6 +1749,7 @@
 		data-bs-backdrop="false" data-options="{&quot;_wmx_modal_active&quot;:&quot;1&quot;,&quot;_wmx_modal_layout&quot;:&quot;banner&quot;,&quot;_wmx_modal_position&quot;:&quot;top&quot;,&quot;_wmx_modal_allow_interaction&quot;:&quot;&quot;,&quot;_wmx_modal_trigger&quot;:&quot;load&quot;,&quot;_wmx_modal_condition&quot;:&quot;pages&quot;,&quot;_wmx_modal_set_cookie&quot;:&quot;1&quot;,&quot;_wmx_modal_expiration&quot;:&quot;30&quot;,&quot;_wmx_modal_target&quot;:&quot;#header&quot;}">
 
 	</div>
+
 
 	<div id="wmx-modal-25804"
 		data-modal-title="Reliable Power Pop-up 2"
@@ -1875,18 +1791,20 @@
 
 	<div>
 
-		<link rel='stylesheet' id='gform_basic-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/basic.minbf47.css?ver=2.9.1' type='text/css' media='all' />
-		<link rel='stylesheet' id='gform_theme_components-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.minbf47.css?ver=2.9.1' type='text/css' media='all' />
-		<link rel='stylesheet' id='gform_theme-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/theme.minbf47.css?ver=2.9.1' type='text/css' media='all' />
-		<link rel='stylesheet' id='wmx-block-css-wizard-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/wizard/dist/wizard.mind040.css?ver=1733933428' type='text/css' media='all' />
-		<link rel='stylesheet' id='wmx-block-css-section-wrapper-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/section-wrapper/dist/section-wrapper.min0fc1.css?ver=1733933346' type='text/css' media='all' />
-		<link rel='stylesheet' id='wmx-block-css-card-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/card/dist/card.min0fc1.css?ver=1733933346' type='text/css' media='all' />
-		<link rel='stylesheet' id='wmx-block-css-cards-wrapper-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/cards-wrapper/dist/cards-wrapper.min0fc1.css?ver=1733933346' type='text/css' media='all' />
-		<style id='wp-block-spacer-inline-css' type='text/css'>
-			.wp-block-spacer {
-				clear: both
+		<link rel='stylesheet' id='wmx-block-css-accordion-panel-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/accordion-panel/dist/accordion-panel.min0fc1.css?ver=1733933346' type='text/css' media='all' />
+		<style id='wp-block-list-inline-css' type='text/css'>
+			ol,
+			ul {
+				box-sizing: border-box
+			}
+
+			:root :where(ul.has-background, ol.has-background) {
+				padding: 1.25em 2.375em
 			}
 		</style>
+		<link rel='stylesheet' id='wmx-block-css-accordion-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/accordion/dist/accordion.min1e7b.css?ver=1726158740' type='text/css' media='all' />
+		<link rel='stylesheet' id='wmx-block-css-section-wrapper-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/section-wrapper/dist/section-wrapper.min0fc1.css?ver=1733933346' type='text/css' media='all' />
+		<link rel='stylesheet' id='wmx-block-css-resources-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/resources/dist/resources.min0fc1.css?ver=1733933346' type='text/css' media='all' />
 		<style id='global-styles-inline-css' type='text/css'>
 			:root {
 				--wp--preset--aspect-ratio--square: 1;
@@ -2739,18 +2657,6 @@
 			.wp-container-core-columns-is-layout-5 {
 				flex-wrap: nowrap;
 			}
-
-			.wp-container-core-columns-is-layout-6 {
-				flex-wrap: nowrap;
-			}
-
-			.wp-container-core-buttons-is-layout-4 {
-				justify-content: center;
-			}
-
-			.wp-container-core-columns-is-layout-7 {
-				flex-wrap: nowrap;
-			}
 		</style>
 		<script type="text/javascript" id="formhq-wordpress-adapter-js-extra">
 			/* <![CDATA[ */
@@ -2790,152 +2696,21 @@
 		</script>
 		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/js/app.mindf15.js?v=1733933346" id="wmx-main-scripts-js"></script>
 		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/js/app.mindf15.js?v=1733933346" id="wmx-bravo-scripts-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/wizards/base109c.js?ver=6.6.2" id="solar-wizard-base-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/wizards/v1a109c.js?ver=6.6.2" id="solar-wizard-version-js-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/dom-ready.min5346.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/hooks.min2757.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
-		<script type="text/javascript" id="wp-i18n-js-after">
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/accordion-panel/dist/accordion-panel.min0fc1.js?ver=1733933346" id="wmx-block-js-accordion-panel-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/accordion/dist/accordion.min0fc1.js?ver=1733933346" id="wmx-block-js-accordion-js"></script>
+		<script type="text/javascript" id="wmx-block-js-resources-js-extra">
 			/* <![CDATA[ */
-			wp.i18n.setLocaleData({
-				'text direction\u0004ltr': ['ltr']
-			});
-			/* ]]> */
-		</script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/a11y.mine810.js?ver=d90eebea464f6c09bfd5" id="wp-a11y-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/jquery.json.minbf47.js?ver=2.9.1" id="gform_json-js"></script>
-		<script type="text/javascript" id="gform_gravityforms-js-extra">
-			/* <![CDATA[ */
-			var gform_i18n = {
-				"datepicker": {
-					"days": {
-						"monday": "Mo",
-						"tuesday": "Tu",
-						"wednesday": "We",
-						"thursday": "Th",
-						"friday": "Fr",
-						"saturday": "Sa",
-						"sunday": "Su"
-					},
-					"months": {
-						"january": "January",
-						"february": "February",
-						"march": "March",
-						"april": "April",
-						"may": "May",
-						"june": "June",
-						"july": "July",
-						"august": "August",
-						"september": "September",
-						"october": "October",
-						"november": "November",
-						"december": "December"
-					},
-					"firstDay": 1,
-					"iconText": "Select date"
-				}
-			};
-			var gf_legacy_multi = [];
-			var gform_gravityforms = {
-				"strings": {
-					"invalid_file_extension": "This type of file is not allowed. Must be one of the following:",
-					"delete_file": "Delete this file",
-					"in_progress": "in progress",
-					"file_exceeds_limit": "File exceeds size limit",
-					"illegal_extension": "This type of file is not allowed.",
-					"max_reached": "Maximum number of files reached",
-					"unknown_error": "There was a problem while saving the file on the server",
-					"currently_uploading": "Please wait for the uploading to complete",
-					"cancel": "Cancel",
-					"cancel_upload": "Cancel this upload",
-					"cancelled": "Cancelled"
-				},
-				"vars": {
-					"images_url": "https:\/\/www.solarenergyworld.com\/wp-content\/plugins\/gravityforms\/images"
-				}
-			};
-			var gf_global = {
-				"gf_currency_config": {
-					"name": "U.S. Dollar",
-					"symbol_left": "$",
-					"symbol_right": "",
-					"symbol_padding": "",
-					"thousand_separator": ",",
-					"decimal_separator": ".",
-					"decimals": 2,
-					"code": "USD"
-				},
-				"base_url": "https:\/\/www.solarenergyworld.com\/wp-content\/plugins\/gravityforms",
-				"number_formats": [],
-				"spinnerUrl": "https:\/\/www.solarenergyworld.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg",
-				"version_hash": "6e1b6a8a07394e81ed5c99d62a6e87d5",
-				"strings": {
-					"newRowAdded": "New row added.",
-					"rowRemoved": "Row removed",
-					"formSaved": "The form has been saved.  The content contains the link to return and complete the form."
-				}
-			};
-			/* ]]> */
-		</script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/gravityforms.minbf47.js?ver=2.9.1" id="gform_gravityforms-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/page_conditional_logic.minbf47.js?ver=2.9.1" id="gform_page_conditional_logic-js"></script>
-		<script type="text/javascript" id="gform_conditional_logic-js-extra">
-			/* <![CDATA[ */
-			var gf_legacy = {
-				"is_legacy": ""
-			};
-			/* ]]> */
-		</script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/conditional_logic.minbf47.js?ver=2.9.1" id="gform_conditional_logic-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/jquery/ui/core.minb37e.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/jquery/ui/datepicker.minb37e.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/datepicker-legacy.minbf47.js?ver=2.9.1" id="gform_datepicker_legacy-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/datepicker.minbf47.js?ver=2.9.1" id="gform_datepicker_init-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.minbf47.js?ver=2.9.1" id="gform_masked_input-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/placeholders.jquery.minbf47.js?ver=2.9.1" id="gform_placeholder-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min43b8.js?ver=501a987060f4426fb517400c73c7fc1e" id="gform_gravityforms_utils-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.minf8d2.js?ver=ddd2702ee024d421149a5e61416f1ff5" id="gform_gravityforms_theme_vendors-js"></script>
-		<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
-			/* <![CDATA[ */
-			var gform_theme_config = {
-				"common": {
-					"form": {
-						"honeypot": {
-							"version_hash": "6e1b6a8a07394e81ed5c99d62a6e87d5"
-						},
-						"ajax": {
-							"ajaxurl": "https:\/\/www.solarenergyworld.com\/wp-admin\/admin-ajax.php",
-							"ajax_submission_nonce": "695f1c2ce1",
-							"i18n": {
-								"step_announcement": "Step %1$s of %2$s, %3$s",
-								"unknown_error": "There was an unknown error processing your request. Please try again."
-							}
-						}
-					}
-				},
-				"hmr_dev": "",
-				"public_path": "https:\/\/www.solarenergyworld.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/",
-				"config_nonce": "ed52e34a75"
-			};
-			/* ]]> */
-		</script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.minaef3.js?ver=434d0c7a9798b432de24db888073c55f" id="gform_gravityforms_theme-js"></script>
-		<script type="text/javascript" id="wmx-block-js-wizard-js-extra">
-			/* <![CDATA[ */
-			var wmx_block_wizard_ajax = {
+			var wmx_block_resources_ajax = {
 				"ajax_url": "https:\/\/www.solarenergyworld.com\/wp-admin\/admin-ajax.php",
-				"nonce": "16a4c339c9"
+				"nonce": "090d6852c6"
 			};
-			var wmx_block_wizard_ajax = {
+			var wmx_block_resources_ajax = {
 				"ajax_url": "https:\/\/www.solarenergyworld.com\/wp-admin\/admin-ajax.php",
-				"nonce": "16a4c339c9"
+				"nonce": "090d6852c6"
 			};
 			/* ]]> */
 		</script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/wizard/dist/wizard.mind040.js?ver=1733933428" id="wmx-block-js-wizard-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/card/dist/card.min0fc1.js?ver=1733933346" id="wmx-block-js-card-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/cards-wrapper/dist/cards-wrapper.min0fc1.js?ver=1733933346" id="wmx-block-js-cards-wrapper-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/js/swiper.mindf15.js?v=1733933346" id="wmx-swiper-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/resources/dist/resources.min0fc1.js?ver=1733933346" id="wmx-block-js-resources-js"></script>
 		<script type="text/javascript">
 			jQuery(document).ready(function($) {
 
@@ -3182,754 +2957,13 @@
 				});
 			});
 		</script>
-		<script type="text/javascript">
-			/* <![CDATA[ */
-			gform.initializeOnLoaded(function() {
-				jQuery(document).on('gform_post_render', function(event, formId, currentPage) {
-					if (formId == 1) {
-						gf_global["number_formats"][1] = {
-							"53": {
-								"price": false,
-								"value": false
-							},
-							"16": {
-								"price": false,
-								"value": false
-							},
-							"11": {
-								"price": false,
-								"value": false
-							},
-							"13": {
-								"price": false,
-								"value": false
-							},
-							"14": {
-								"price": false,
-								"value": false
-							},
-							"50": {
-								"price": false,
-								"value": false
-							},
-							"2": {
-								"price": false,
-								"value": false
-							},
-							"18": {
-								"price": false,
-								"value": false
-							},
-							"5": {
-								"price": false,
-								"value": false
-							},
-							"7": {
-								"price": false,
-								"value": false
-							},
-							"52": {
-								"price": false,
-								"value": false
-							},
-							"20": {
-								"price": false,
-								"value": false
-							},
-							"17": {
-								"price": false,
-								"value": false
-							},
-							"57": {
-								"price": false,
-								"value": false
-							},
-							"10": {
-								"price": false,
-								"value": false
-							},
-							"56": {
-								"price": false,
-								"value": false
-							},
-							"55": {
-								"price": false,
-								"value": false
-							},
-							"54": {
-								"price": false,
-								"value": false
-							},
-							"48": {
-								"price": false,
-								"value": false
-							},
-							"49": {
-								"price": false,
-								"value": false
-							},
-							"51": {
-								"price": false,
-								"value": false
-							},
-							"15": {
-								"price": false,
-								"value": false
-							},
-							"36": {
-								"price": false,
-								"value": false
-							},
-							"12": {
-								"price": false,
-								"value": false
-							},
-							"64": {
-								"price": false,
-								"value": false
-							},
-							"59": {
-								"price": false,
-								"value": false
-							},
-							"60": {
-								"price": false,
-								"value": false
-							},
-							"62": {
-								"price": false,
-								"value": false
-							},
-							"61": {
-								"price": false,
-								"value": false
-							},
-							"65": {
-								"price": false,
-								"value": false
-							},
-							"63": {
-								"price": false,
-								"value": false
-							},
-							"58": {
-								"price": false,
-								"value": false
-							},
-							"25": {
-								"price": false,
-								"value": false
-							},
-							"21": {
-								"price": false,
-								"value": false
-							},
-							"22": {
-								"price": false,
-								"value": false
-							},
-							"23": {
-								"price": false,
-								"value": false
-							},
-							"24": {
-								"price": false,
-								"value": false
-							},
-							"45": {
-								"price": false,
-								"value": false
-							},
-							"44": {
-								"price": false,
-								"value": false
-							},
-							"66": {
-								"price": false,
-								"value": false
-							},
-							"26": {
-								"price": false,
-								"value": false
-							},
-							"37": {
-								"price": false,
-								"value": false
-							},
-							"27": {
-								"price": false,
-								"value": false
-							},
-							"38": {
-								"price": false,
-								"value": false
-							},
-							"28": {
-								"price": false,
-								"value": false
-							},
-							"39": {
-								"price": false,
-								"value": false
-							},
-							"29": {
-								"price": false,
-								"value": false
-							},
-							"40": {
-								"price": false,
-								"value": false
-							},
-							"30": {
-								"price": false,
-								"value": false
-							},
-							"41": {
-								"price": false,
-								"value": false
-							},
-							"31": {
-								"price": false,
-								"value": false
-							},
-							"32": {
-								"price": false,
-								"value": false
-							},
-							"33": {
-								"price": false,
-								"value": false
-							},
-							"47": {
-								"price": false,
-								"value": false
-							},
-							"34": {
-								"price": false,
-								"value": false
-							},
-							"35": {
-								"price": false,
-								"value": false
-							},
-							"42": {
-								"price": false,
-								"value": false
-							},
-							"43": {
-								"price": false,
-								"value": false
-							},
-							"67": {
-								"price": false,
-								"value": false
-							}
-						};
-						if (window['jQuery']) {
-							if (!window['gf_form_conditional_logic']) window['gf_form_conditional_logic'] = new Array();
-							window['gf_form_conditional_logic'][1] = {
-								logic: {
-									50: {
-										"field": {
-											"actionType": "show",
-											"logicType": "all",
-											"rules": [{
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "FL"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "MD"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "NJ"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "PA"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "VA"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "DC"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "DE"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": ""
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "SC"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "NC"
-											}],
-											"enabled": true
-										},
-										"nextButton": null,
-										"section": null
-									},
-									2: {
-										"field": null,
-										"nextButton": {
-											"actionType": "hide",
-											"logicType": "all",
-											"rules": [{
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "DC"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "FL"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "PA"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "VA"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "MD"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "NJ"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "DE"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": ""
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "SC"
-											}, {
-												"fieldId": "14",
-												"operator": "isnot",
-												"value": "NC"
-											}],
-											"enabled": true
-										},
-										"section": null
-									},
-									20: {
-										"field": null,
-										"nextButton": {
-											"actionType": "hide",
-											"logicType": "all",
-											"rules": [{
-												"fieldId": "5",
-												"operator": "is",
-												"value": "No"
-											}],
-											"enabled": true
-										},
-										"section": null
-									}
-								},
-								dependents: {
-									50: [50],
-									2: [2],
-									20: [20]
-								},
-								animation: 0,
-								defaults: {
-									"53": "No Gift",
-									"42": "Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.6778.264 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)"
-								},
-								fields: {
-									"53": [],
-									"16": [],
-									"11": [],
-									"13": [],
-									"14": [50, 2],
-									"50": [],
-									"2": [],
-									"18": [],
-									"5": [20],
-									"7": [],
-									"52": [],
-									"20": [],
-									"17": [],
-									"57": [],
-									"10": [],
-									"56": [],
-									"55": [],
-									"54": [],
-									"48": [],
-									"49": [],
-									"51": [],
-									"15": [],
-									"36": [],
-									"12": [],
-									"64": [],
-									"59": [],
-									"60": [],
-									"62": [],
-									"61": [],
-									"65": [],
-									"63": [],
-									"58": [],
-									"25": [],
-									"21": [],
-									"22": [],
-									"23": [],
-									"24": [],
-									"45": [],
-									"44": [],
-									"66": [],
-									"26": [],
-									"37": [],
-									"27": [],
-									"38": [],
-									"28": [],
-									"39": [],
-									"29": [],
-									"40": [],
-									"30": [],
-									"41": [],
-									"31": [],
-									"32": [],
-									"33": [],
-									"47": [],
-									"34": [],
-									"35": [],
-									"42": [],
-									"43": [],
-									"67": []
-								}
-							};
-							if (!window['gf_number_format']) window['gf_number_format'] = 'decimal_dot';
-							jQuery(document).ready(function() {
-								gform.utils.trigger({
-									event: 'gform/conditionalLogic/init/start',
-									native: false,
-									data: {
-										formId: 1,
-										fields: null,
-										isInit: true
-									}
-								});
-								window['gformInitPriceFields']();
-								gf_apply_rules(1, [50, 2, 20], true);
-								jQuery('#gform_wrapper_1').show();
-								jQuery('#gform_wrapper_1 form').css('opacity', '');
-								jQuery(document).trigger('gform_post_conditional_logic', [1, null, true]);
-								gform.utils.trigger({
-									event: 'gform/conditionalLogic/init/end',
-									native: false,
-									data: {
-										formId: 1,
-										fields: null,
-										isInit: true
-									}
-								});
-							});
-						};
-						new GFPageConditionalLogic({
-							"formId": 1,
-							"formButton": {
-								"type": "text",
-								"text": "Submit",
-								"imageUrl": "",
-								"width": "auto",
-								"location": "bottom",
-								"layoutGridColumnSpan": 12
-							},
-							"pagination": {
-								"type": "percentage",
-								"pages": ["", "", "", "", "", "", "", "", ""],
-								"style": "custom",
-								"backgroundColor": "#1C2C57",
-								"color": "",
-								"display_progressbar_on_confirmation": false,
-								"progressbar_completion_text": null
-							},
-							"pages": [{
-								"fieldId": 2,
-								"conditionalLogic": "",
-								"nextButton": {
-									"type": "text",
-									"text": "Continue",
-									"imageUrl": "",
-									"conditionalLogic": {
-										"actionType": "hide",
-										"logicType": "all",
-										"rules": [{
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "DC"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "FL"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "PA"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "VA"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "MD"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "NJ"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "DE"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": ""
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "SC"
-										}, {
-											"fieldId": "14",
-											"operator": "isnot",
-											"value": "NC"
-										}],
-										"enabled": true
-									},
-									"id": 2
-								}
-							}, {
-								"fieldId": 7,
-								"conditionalLogic": {
-									"actionType": "show",
-									"logicType": "all",
-									"rules": [{
-										"fieldId": "5",
-										"operator": "is",
-										"value": "No"
-									}],
-									"enabled": true
-								},
-								"nextButton": {
-									"type": "text",
-									"text": "Continue",
-									"imageUrl": "",
-									"conditionalLogic": null,
-									"id": 7
-								}
-							}, {
-								"fieldId": 20,
-								"conditionalLogic": "",
-								"nextButton": {
-									"type": "text",
-									"text": "Continue",
-									"imageUrl": "",
-									"conditionalLogic": {
-										"actionType": "hide",
-										"logicType": "all",
-										"rules": [{
-											"fieldId": "5",
-											"operator": "is",
-											"value": "No"
-										}],
-										"enabled": true
-									},
-									"id": 20
-								}
-							}, {
-								"fieldId": 10,
-								"conditionalLogic": {
-									"actionType": "hide",
-									"logicType": "all",
-									"rules": [{
-										"fieldId": "14",
-										"operator": "is",
-										"value": "VA"
-									}],
-									"enabled": true
-								},
-								"nextButton": {
-									"type": "text",
-									"text": "Continue",
-									"imageUrl": "",
-									"id": 10
-								}
-							}, {
-								"fieldId": 54,
-								"conditionalLogic": "",
-								"nextButton": {
-									"type": "text",
-									"text": "Continue",
-									"imageUrl": "",
-									"id": 54
-								}
-							}, {
-								"fieldId": 51,
-								"conditionalLogic": "",
-								"nextButton": {
-									"type": "text",
-									"text": "Continue",
-									"imageUrl": "",
-									"conditionalLogic": null,
-									"id": 51
-								}
-							}, {
-								"fieldId": 12,
-								"conditionalLogic": {
-									"enabled": true,
-									"actionType": "hide",
-									"logicType": "all",
-									"rules": [{
-										"fieldId": "11",
-										"operator": "isnot",
-										"value": ""
-									}]
-								},
-								"nextButton": {
-									"type": "text",
-									"text": "Continue",
-									"imageUrl": "",
-									"id": 12
-								}
-							}, {
-								"fieldId": 58,
-								"conditionalLogic": "",
-								"nextButton": {
-									"type": "text",
-									"text": "Schedule and Continue",
-									"imageUrl": "",
-									"id": 58,
-									"conditionalLogic": ""
-								}
-							}]
-						});
-						if (typeof Placeholders != 'undefined') {
-							Placeholders.enable();
-						}
-						jQuery('#input_1_24').mask('(999) 999-9999').bind('keypress', function(e) {
-							if (e.which == 13) {
-								jQuery(this).blur();
-							}
-						});
-					}
-				});
-				jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit) {})
-			});
-			/* ]]> */
-		</script>
-		<script type="text/javascript">
-			/* <![CDATA[ */
-			gform.initializeOnLoaded(function() {
-				jQuery(document).trigger("gform_pre_post_render", [{
-					formId: "1",
-					currentPage: "1",
-					abort: function() {
-						this.preventDefault();
-					}
-				}]);
-				if (event && event.defaultPrevented) {
-					return;
-				}
-				const gformWrapperDiv = document.getElementById("gform_wrapper_1");
-				if (gformWrapperDiv) {
-					const visibilitySpan = document.createElement("span");
-					visibilitySpan.id = "gform_visibility_test_1";
-					gformWrapperDiv.insertAdjacentElement("afterend", visibilitySpan);
-				}
-				const visibilityTestDiv = document.getElementById("gform_visibility_test_1");
-				let postRenderFired = false;
-
-				function triggerPostRender() {
-					if (postRenderFired) {
-						return;
-					}
-					postRenderFired = true;
-					jQuery(document).trigger('gform_post_render', [1, 1]);
-					gform.utils.trigger({
-						event: 'gform/postRender',
-						native: false,
-						data: {
-							formId: 1,
-							currentPage: 1
-						}
-					});
-					gform.utils.trigger({
-						event: 'gform/post_render',
-						native: false,
-						data: {
-							formId: 1,
-							currentPage: 1
-						}
-					});
-					if (visibilityTestDiv) {
-						visibilityTestDiv.parentNode.removeChild(visibilityTestDiv);
-					}
-				}
-
-				function debounce(func, wait, immediate) {
-					var timeout;
-					return function() {
-						var context = this,
-							args = arguments;
-						var later = function() {
-							timeout = null;
-							if (!immediate) func.apply(context, args);
-						};
-						var callNow = immediate && !timeout;
-						clearTimeout(timeout);
-						timeout = setTimeout(later, wait);
-						if (callNow) func.apply(context, args);
-					};
-				}
-				const debouncedTriggerPostRender = debounce(function() {
-					triggerPostRender();
-				}, 200);
-				if (visibilityTestDiv && visibilityTestDiv.offsetParent === null) {
-					const observer = new MutationObserver((mutations) => {
-						mutations.forEach((mutation) => {
-							if (mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null) {
-								debouncedTriggerPostRender();
-								observer.disconnect();
-							}
-						});
-					});
-					observer.observe(document.body, {
-						attributes: true,
-						childList: false,
-						subtree: true,
-						attributeFilter: ['style', 'class'],
-					});
-				} else {
-					triggerPostRender();
-				}
-			});
-			/* ]]> */
-		</script>
 
 	</div>
+
 
 </body>
 
 
-<!-- Mirrored from www.solarenergyworld.com/contact/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Jan 2025 18:14:35 GMT -->
+<!-- Mirrored from www.solarenergyworld.com/faqs/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Jan 2025 18:14:09 GMT -->
 
 </html>

@@ -13,12 +13,15 @@
 	<meta name="msapplication-config" content="/favicon/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<meta name="description" content="Discover how solar panels convert sunlight into clean energy in five easy steps." />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Contact" />
-	<meta property="og:url" content="https://www.solarenergyworld.com/contact/" />
+	<meta property="og:title" content="How Does Solar Work" />
+	<meta property="og:description" content="Discover how solar panels convert sunlight into clean energy in five easy steps." />
+	<meta property="og:url" content="https://www.solarenergyworld.com/going-solar/how-solar-works/" />
 	<meta property="og:site_name" content="Solar Energy World" />
-	<meta property="article:modified_time" content="2024-09-13T21:40:25+00:00" />
+	<meta property="article:modified_time" content="2024-08-21T12:32:52+00:00" />
+	<meta property="og:image" content="https://www.solarenergyworld.com/wp-content/uploads/2024/08/Ruttala-Germantown-20235.84kW-13-scaled.jpg" />
 	<meta name="twitter:card" content="summary_large_image" />
 
 	<!-- Script -->
@@ -148,7 +151,7 @@
 						f = true;
 						var t = d.getElementById('_vis_opt_path_hides');
 						if (t) t.parentNode.removeChild(t);
-						if (e)(new Image).src = '/assets/img/dev.visualwebsiteoptimizer.com/ee5ba7.gif?a=' + account_id + e
+						if (e)(new Image).src = '/assets/img/www.solarenergyworld.com/dev.visualwebsiteoptimizer.com/ee5ba7.gif?a=' + account_id + e
 					}
 				},
 				finished: function() {
@@ -264,25 +267,41 @@
 			"@context": "https://schema.org",
 			"@graph": [{
 				"@type": "WebPage",
-				"@id": "https://www.solarenergyworld.com/contact/",
-				"url": "https://www.solarenergyworld.com/contact/",
-				"name": "Contact | Solar Energy World",
+				"@id": "https://www.solarenergyworld.com/going-solar/how-solar-works/",
+				"url": "https://www.solarenergyworld.com/going-solar/how-solar-works/",
+				"name": "How Does Solar Energy Power Work?",
 				"isPartOf": {
 					"@id": "https://www.solarenergyworld.com/#website"
 				},
-				"datePublished": "2024-06-26T13:40:23+00:00",
-				"dateModified": "2024-09-13T21:40:25+00:00",
+				"primaryImageOfPage": {
+					"@id": "https://www.solarenergyworld.com/going-solar/how-solar-works/#primaryimage"
+				},
+				"image": {
+					"@id": "https://www.solarenergyworld.com/going-solar/how-solar-works/#primaryimage"
+				},
+				"thumbnailUrl": "https://www.solarenergyworld.com/wp-content/uploads/2024/08/Ruttala-Germantown-20235.84kW-13-scaled.jpg",
+				"datePublished": "2020-07-20T04:00:00+00:00",
+				"dateModified": "2024-08-21T12:32:52+00:00",
+				"description": "Discover how solar panels convert sunlight into clean energy in five easy steps.",
 				"breadcrumb": {
-					"@id": "https://www.solarenergyworld.com/contact/#breadcrumb"
+					"@id": "https://www.solarenergyworld.com/going-solar/how-solar-works/#breadcrumb"
 				},
 				"inLanguage": "en-US",
 				"potentialAction": [{
 					"@type": "ReadAction",
-					"target": ["https://www.solarenergyworld.com/contact/"]
+					"target": ["https://www.solarenergyworld.com/going-solar/how-solar-works/"]
 				}]
 			}, {
+				"@type": "ImageObject",
+				"inLanguage": "en-US",
+				"@id": "https://www.solarenergyworld.com/going-solar/how-solar-works/#primaryimage",
+				"url": "https://www.solarenergyworld.com/wp-content/uploads/2024/08/Ruttala-Germantown-20235.84kW-13-scaled.jpg",
+				"contentUrl": "https://www.solarenergyworld.com/wp-content/uploads/2024/08/Ruttala-Germantown-20235.84kW-13-scaled.jpg",
+				"width": 2560,
+				"height": 1440
+			}, {
 				"@type": "BreadcrumbList",
-				"@id": "https://www.solarenergyworld.com/contact/#breadcrumb",
+				"@id": "https://www.solarenergyworld.com/going-solar/how-solar-works/#breadcrumb",
 				"itemListElement": [{
 					"@type": "ListItem",
 					"position": 1,
@@ -291,7 +310,12 @@
 				}, {
 					"@type": "ListItem",
 					"position": 2,
-					"name": "Contact"
+					"name": "The Benefits of Going Solar",
+					"item": "https://www.solarenergyworld.com/?page_id=624"
+				}, {
+					"@type": "ListItem",
+					"position": 3,
+					"name": "How Does Solar Work"
 				}]
 			}, {
 				"@type": "WebSite",
@@ -354,9 +378,9 @@
 
 	<!-- Link -->
 	<link rel="https://api.w.org/" href="/pages/www.solarenergyworld.com/wp-json/index.html" />
-	<link rel="alternate" title="JSON" type="application/json" href="/assets/other/www.solarenergyworld.com/wp-json/wp/v2/pages/484.json" />
-	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed270c.json?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fcontact%2F" />
-	<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed4f60?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fcontact%2F&amp;format=xml" />
+	<link rel="alternate" title="JSON" type="application/json" href="/assets/other/www.solarenergyworld.com/wp-json/wp/v2/pages/632.json" />
+	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed16a9.json?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fgoing-solar%2Fhow-solar-works%2F" />
+	<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed8091?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fgoing-solar%2Fhow-solar-works%2F&amp;format=xml" />
 	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/www.solarenergyworld.com/favicon/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/www.solarenergyworld.com/favicon/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/www.solarenergyworld.com/favicon/favicon-16x16.png">
@@ -1334,22 +1358,81 @@
 		}
 	</style>
 
-	<title>Contact | Solar Energy World</title>
+	<title>How Does Solar Energy Power Work?</title>
 </head>
 
-<body data-bs-theme=light class="page-template-default page page-id-484">
+<body data-bs-theme=light class="page-template-default page page-id-632 page-parent page-child parent-pageid-624">
 
 	<div class="site-wrapper">
 
 		<?php
-		include("../../../assets/html/header.html");
+		include("../../../../assets/html/header.html");
 		?>
 
 		<div id="skipNav" class="visually-hidden"></div>
 
 		<main id="main">
 
-			<section id="wmx-section-wrapper-cjm7qop" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
+			<section id="wmx-section-wrapper-d1ybndt" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="col-12">
+							<div class="inner-wrapper">
+
+								<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" data-component="core:spacer" data-hide-mobile="true" data-hide-tablet="true" class="wp-block-spacer"></div>
+								<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
+
+									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:40%">
+
+										<h1 data-component="core:heading" class="wp-block-heading" id="h-how-does-solar-work">
+											Ahorra dinero y cuida el planeta
+										</h1>
+										<h3>
+											Convierte la luz del sol en energía limpia para tu hogar o negocio.
+										</h3>
+										<p>
+											La
+											<strong>
+												energía solar
+											</strong>
+											es la forma más eficiente y sostenible de generar electricidad. A través de paneles solares de alta tecnología, puedes reducir tu factura de luz hasta un
+											<strong>
+												90%,
+											</strong>
+											mientras contribuyes a un futuro más verde.
+											<br><br>
+											Descubre cómo funciona el proceso y por qué es la mejor inversión para ti.
+										</p>
+										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+											<div class="wp-block-button is-style-btn-primary">
+												<a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/contact/index.html">
+													Saber más
+												</a>
+											</div>
+										</div>
+
+									</div>
+									<div data-component="core:column" data-order-mobile="false" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+										<div id="wmx-hero-media-cddipmd" data-component="wmx:hero-media" class="block block--hero-media" data-wmx-wpb="hero-media">
+
+											<div class="backdrop"></div>
+											<div class="poster" style="background-image:url(/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/08/DSC011111-scaled-e1723226388348.jpg); "></div>
+											<div class="video-wrapper"></div>
+
+										</div>
+									</div>
+
+								</div>
+								<div style="height:var(--wp--preset--spacing--70)" aria-hidden="true" data-component="core:spacer" data-hide-mobile="true" data-hide-tablet="true" class="wp-block-spacer"></div>
+
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- <section id="wmx-section-wrapper-wf4rrev" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
 				<div class="container">
 					<div class="row">
 						<div class="col-12">
@@ -1358,45 +1441,22 @@
 
 
 
-								<div data-component="core:columns" class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
-									<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+								<div data-component="core:columns" class="wp-block-columns alignwide has-sky-blue-background-color has-background is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex" style="border-radius:16px">
+									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+										<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
+											<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+												<h2 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-see-how-solar-works-for-yourself">See How Solar Works for Yourself</h2>
+											</div>
+										</div>
 
-										<p data-component="core:paragraph" class="has-text-align-center has-h-3-font-size">
-											Información de Contacto
-										</p>
 
-										<p data-component="core:paragraph" class="has-text-align-center">
-											<strong>
-												Dirección:
-											</strong>
-											Blvd. Universitario 399-21, Plaza Palmas II, 76230 Juriquilla, Querétaro.
-										</p>
 
-										<p data-component="core:paragraph" class="has-text-align-center">
-											<strong>
-												Teléfono:
-											</strong>
-											<a href="https://wa.me/4426315686" target="_blank">
-												(442) 631-5686
-											</a>
-										</p>
+										<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
 
-										<p data-component="core:paragraph" class="has-text-align-center">
-											<strong>
-												Correo Electrónico:
-											</strong>
-											<a href="https://mail.google.com/mail/?view=cm&fs=1&to=contacto@revolucionsolar.com.mx&su=Consulta" target="_blank">
-												contacto@revolucionsolar.com.mx
-											</a>
-										</p>
 
-										<p data-component="core:paragraph" class="has-text-align-center">
-											<strong>
-												Horarios de Atención:
-											</strong>
-											9:00 a 18:00 hrs.
-										</p>
-
+										<div data-component="kobune:image-hotspot" class="image-hotspot-block-container align">
+											<pre style="display: none;">{"mainImage":{"id":1214,"url":"https:\/\/www.solarenergyworld.com\/wp-content\/uploads\/2024\/08\/house-diagram.webp","size":"full"},"dots":[{"position":{"x":41.593606583320145,"y":41.28472395391751},"wcProduct":{"productId":null,"productName":"","productPermalink":"","productShortDescription":"","productFeaturedImage":{"url":"","size":"large"},"productStockStatus":"","productPrice":""},"customProduct":{"productName":"Power Your House","productPermalink":"","productShortDescription":"Your house uses the electricity you produce, your home remains connected to the grid, and power flows to and from your house automatically. Solar battery options are available to store the power you generate at your home.","productFeaturedImage":{"url":"","size":"large"},"productPrice":""},"tooltip":{"direction":"row","style":{"position":"top","layout":"horizontal","width":"330px","height":"auto","background":{"hex":"#fff","rgb":{"r":255,"g":255,"b":255,"a":1}},"triangle":true},"containers":[{"type":"container","style":{"gridSize":"auto","padding":{"left":0,"top":0,"right":0,"bottom":0}},"blocks":[]},{"type":"container","style":{"gridSize":"1fr","padding":{"left":16,"top":16,"right":16,"bottom":16}},"blocks":[{"type":"text","source":"productName","options":[],"style":{"color":{"hex":"#000","rgb":{"r":0,"g":0,"b":0,"a":1}},"fontSize":24,"fontWeight":600,"margin":{"left":0,"top":8,"right":0,"bottom":8}}},{"type":"text","source":"productShortDescription","options":[],"style":{"color":{"hex":"#000","rgb":{"r":0,"g":0,"b":0,"a":1}},"fontSize":16,"fontWeight":300,"margin":{"left":0,"top":8,"right":0,"bottom":8}}}]}]},"style":{"pulsating":"on-hover","opacity":1,"background":{"hsl":{"h":224.27184466019418,"s":0.5885714285714285,"l":0.3431372549019608,"a":1},"hex":"#243f8b","rgb":{"r":36,"g":63,"b":139,"a":1},"hsv":{"h":224.27184466019418,"s":0.7410071942446043,"v":0.5450980392156862,"a":1},"oldHue":213.9130434782609,"source":"hex"},"size":"68px","borderWidth":"1px","borderColor":{"hex":"#fff","rgb":{"r":255,"g":255,"b":255,"a":1}}}},{"position":{"x":3.511631587276468,"y":32.6666999152162},"wcProduct":{"productId":null,"productName":"","productPermalink":"","productShortDescription":"","productFeaturedImage":{"url":"","size":"large"},"productStockStatus":"","productPrice":""},"customProduct":{"productName":"Sell Excess Power","productPermalink":"","productShortDescription":"You save money by generating your own power, you can sell the excess power back into the grid. If you purchase your solar panels, then you own the SRECs you generate. \u003Ca href=\u0022\/pricing\/srecs-net-metering\/\u0022\u003EClick to learn more about how SRECs work.\u003C\/a\u003E","productFeaturedImage":{"url":"","size":"large"},"productPrice":""},"tooltip":{"direction":"row","style":{"position":"top","layout":"horizontal","width":"360px","height":"auto","background":{"hex":"#fff","rgb":{"r":255,"g":255,"b":255,"a":1}},"triangle":true},"containers":[{"type":"container","style":{"gridSize":"0px","padding":{"left":0,"top":0,"right":0,"bottom":0}},"blocks":[]},{"type":"container","style":{"gridSize":"1fr","padding":{"left":16,"top":16,"right":16,"bottom":16}},"blocks":[{"type":"text","source":"productName","options":[],"style":{"color":{"hex":"#000","rgb":{"r":0,"g":0,"b":0,"a":1}},"fontSize":24,"fontWeight":600,"margin":{"left":0,"top":8,"right":0,"bottom":8}}},{"type":"text","source":"productShortDescription","options":[],"style":{"color":{"hex":"#000","rgb":{"r":0,"g":0,"b":0,"a":1}},"fontSize":16,"fontWeight":300,"margin":{"left":0,"top":8,"right":0,"bottom":8}}}]}]},"style":{"pulsating":"on-hover","opacity":1,"background":{"hsl":{"h":224.27184466019418,"s":0.5885714285714285,"l":0.3431372549019608,"a":1},"hex":"#243f8b","rgb":{"r":36,"g":63,"b":139,"a":1},"hsv":{"h":224.27184466019418,"s":0.7410071942446043,"v":0.5450980392156862,"a":1},"oldHue":213.9130434782609,"source":"hex"},"size":"68px","borderWidth":"1px","borderColor":{"hex":"#fff","rgb":{"r":255,"g":255,"b":255,"a":1}}}},{"position":{"x":19.21031808830511,"y":17.186175253104583},"wcProduct":{"productId":null,"productName":"","productPermalink":"","productShortDescription":"","productFeaturedImage":{"url":"","size":"large"},"productStockStatus":"","productPrice":""},"customProduct":{"productName":"Convert Sunlight into Electricity","productPermalink":"","productShortDescription":"Solar \u201cphotovoltaic\u201d or PV panels \u003Ca href=\u0022https:\/\/www.livescience.com\/41995-how-do-solar-panels-work.html#:~:text=Simply%20put%2C%20a%20solar%20panel,they%20convert%20sunlight%20into%20electricity.)\u0022 target=\u0022_blank\u0022\u003Econvert sunlight to electricity\u003C\/a\u003E. Sunlight causes the electrons in the panels\u2019 silicon cells to release energy that becomes direct current (DC) electricity. The more panels you can install, the more power you will generate.","productFeaturedImage":{"url":"","size":"large"},"productPrice":"&times;"},"tooltip":{"direction":"row","style":{"position":"top","layout":"horizontal","width":"360px","height":"auto","background":{"hex":"#fff","rgb":{"r":255,"g":255,"b":255,"a":1}},"triangle":true},"containers":[{"type":"container","style":{"gridSize":"0px","padding":{"left":0,"top":0,"right":0,"bottom":0}},"blocks":[]},{"type":"container","style":{"gridSize":"1fr","padding":{"left":16,"top":16,"right":16,"bottom":16}},"blocks":[{"type":"text","source":"productName","options":[],"style":{"color":{"hex":"#000","rgb":{"r":0,"g":0,"b":0,"a":1}},"fontSize":24,"fontWeight":600,"margin":{"left":0,"top":8,"right":0,"bottom":8}}},{"type":"text","source":"productShortDescription","options":[],"style":{"color":{"hex":"#000","rgb":{"r":0,"g":0,"b":0,"a":1}},"fontSize":16,"fontWeight":300,"margin":{"left":0,"top":8,"right":0,"bottom":8}}}]}]},"style":{"pulsating":"on-hover","opacity":1,"background":{"hsl":{"h":224.27184466019418,"s":0.5885714285714285,"l":0.3431372549019608,"a":1},"hex":"#243f8b","rgb":{"r":36,"g":63,"b":139,"a":1},"hsv":{"h":224.27184466019418,"s":0.7410071942446043,"v":0.5450980392156862,"a":1},"oldHue":213.9130434782609,"source":"hex"},"size":"68px","borderWidth":"1px","borderColor":{"hex":"#fff","rgb":{"r":255,"g":255,"b":255,"a":1}}}},{"position":{"x":44.733343883525876,"y":92.99286818612538},"wcProduct":{"productId":null,"productName":"","productPermalink":"","productShortDescription":"","productFeaturedImage":{"url":"","size":"large"},"productStockStatus":"","productPrice":""},"customProduct":{"productName":"Convert to AC Power","productPermalink":"","productShortDescription":"An inverter is a small device we install in your home that converts the DC power into AC or alternating current \u2013 the kind of power we use in our homes.","productFeaturedImage":{"url":"","size":"large"},"productPrice":""},"tooltip":{"direction":"row","style":{"position":"top","layout":"horizontal","width":"360px","height":"auto","background":{"hex":"#fff","rgb":{"r":255,"g":255,"b":255,"a":1}},"triangle":true},"containers":[{"type":"container","style":{"gridSize":"0px","padding":{"left":0,"top":0,"right":0,"bottom":0}},"blocks":[]},{"type":"container","style":{"gridSize":"1fr","padding":{"left":16,"top":16,"right":16,"bottom":16}},"blocks":[{"type":"text","source":"productName","options":[],"style":{"color":{"hex":"#000","rgb":{"r":0,"g":0,"b":0,"a":1}},"fontSize":24,"fontWeight":600,"margin":{"left":0,"top":8,"right":0,"bottom":8}}},{"type":"text","source":"productShortDescription","options":[],"style":{"color":{"hex":"#000","rgb":{"r":0,"g":0,"b":0,"a":1}},"fontSize":16,"fontWeight":300,"margin":{"left":0,"top":8,"right":0,"bottom":8}}}]}]},"style":{"pulsating":"on-hover","opacity":1,"background":{"hsl":{"h":224.27184466019418,"s":0.5885714285714285,"l":0.3431372549019608,"a":1},"hex":"#243f8b","rgb":{"r":36,"g":63,"b":139,"a":1},"hsv":{"h":224.27184466019418,"s":0.7410071942446043,"v":0.5450980392156862,"a":1},"oldHue":213.9130434782609,"source":"hex"},"size":"68px","borderWidth":"1px","borderColor":{"hex":"#fff","rgb":{"r":255,"g":255,"b":255,"a":1}}}},{"position":{"x":71.0666244658965,"y":28.517280933619272},"wcProduct":{"productId":null,"productName":"","productPermalink":"","productShortDescription":"","productFeaturedImage":{"url":"","size":"large"},"productStockStatus":"","productPrice":""},"customProduct":{"productName":"Monitor Performance","productPermalink":"","productShortDescription":"We install a \u003Ca href=\u0022\/going-solar\/live-monitoring\/\u0022\u003Emonitoring system\u003C\/a\u003E that allows you to watch your power generation in real time \u2013 even from your cell phone. The electric meter on the side of your house will actually go backwards when you are pushing power out to the grid!","productFeaturedImage":{"url":"","size":"large"},"productPrice":""},"tooltip":{"direction":"row","style":{"position":"top","layout":"horizontal","width":"360px","height":"auto","background":{"hex":"#fff","rgb":{"r":255,"g":255,"b":255,"a":1}},"triangle":true},"containers":[{"type":"container","style":{"gridSize":"0px","padding":{"left":0,"top":0,"right":0,"bottom":0}},"blocks":[]},{"type":"container","style":{"gridSize":"1fr","padding":{"left":16,"top":16,"right":16,"bottom":16}},"blocks":[{"type":"text","source":"productName","options":[],"style":{"color":{"hex":"#000","rgb":{"r":0,"g":0,"b":0,"a":1}},"fontSize":24,"fontWeight":600,"margin":{"left":0,"top":8,"right":0,"bottom":8}}},{"type":"text","source":"productShortDescription","options":[],"style":{"color":{"hex":"#000","rgb":{"r":0,"g":0,"b":0,"a":1}},"fontSize":16,"fontWeight":300,"margin":{"left":0,"top":8,"right":0,"bottom":8}}}]}]},"style":{"pulsating":"on-hover","opacity":1,"background":{"hsl":{"h":224.27184466019418,"s":0.5885714285714285,"l":0.3431372549019608,"a":1},"hex":"#243f8b","rgb":{"r":36,"g":63,"b":139,"a":1},"hsv":{"h":224.27184466019418,"s":0.7410071942446043,"v":0.5450980392156862,"a":1},"oldHue":213.9130434782609,"source":"hex"},"size":"68px","borderWidth":"1px","borderColor":{"hex":"#fff","rgb":{"r":255,"g":255,"b":255,"a":1}}}}],"hasParent":1,"bs-wrapper":0}</pre>
+										</div>
 									</div>
 								</div>
 
@@ -1406,74 +1466,94 @@
 						</div>
 					</div>
 				</div>
-			</section>
-			<section id="wmx-section-wrapper-jbga1v2" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
+			</section> -->
+
+
+			<section id="wmx-section-wrapper-8eaoev8" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
 				<div class="container">
 					<div class="row">
 						<div class="col-12">
-
 							<div class="inner-wrapper">
 
-
-
-								<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
+								<div data-component="core:columns" class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-11 wp-block-columns-is-layout-flex">
 									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-										<h2 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-visit-our-office-locations" style="margin-bottom:var(--wp--preset--spacing--50)">
-											Presencia en
+										<h2 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-your-one-stop-guide-to-solar">
+											Preguntas frecuentes
 										</h2>
+									</div>
+								</div>
+								<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-12 wp-block-columns-is-layout-flex">
+									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
 
+										<div id="wmx-accordion-5gnpzao" data-component="wmx:accordion" class="block block--accordion  accordion" data-wmx-wpb="accordion">
 
-										<div id="wmx-cards-wrapper-day9tra" data-component="wmx:cards-wrapper" class="block block--cards-wrapper" style="--card-count:4;" data-wmx-wpb="cards-wrapper" data-mobile="stacked">
+											<div data-component="wmx:accordion-panel" class="block--accordion-panel accordion-item">
 
-											<div class="cards">
-
-												<div id="wmx-card-23jkprn" data-component="wmx:card"
-													class="block block--card is-style-gradient" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false" data-bs-theme="light">
-
-													<h4 data-component="core:heading" class="wp-block-heading" id="h-headquarters" style="margin-bottom:var(--wp--preset--spacing--40)">
-														Querétaro
-													</h4>
-
+												<div class="accordion-header">
+													<button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="" aria-expanded="false" aria-controls="">
+														<h5 class="mb-0">
+															¿Cuánto tiempo toma recuperar la inversión en un sistema solar?
+														</h5>
+													</button>
 												</div>
-												<div id="wmx-card-23jkprn" data-component="wmx:card"
-													class="block block--card is-style-gradient" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false" data-bs-theme="light">
-
-													<h4 data-component="core:heading" class="wp-block-heading" id="h-headquarters" style="margin-bottom:var(--wp--preset--spacing--40)">
-														Guanajuato
-													</h4>
-
+												<div class="accordion-collapse collapse" aria-labelledby="" data-bs-parent="">
+													<div class="accordion-body">
+														<p>
+															La mayoría de nuestros clientes recuperan su inversión en un periodo de 3 a 5 años, dependiendo de su consumo y ubicación. Además, el ahorro comienza desde el primer día
+														</p>
+													</div>
 												</div>
-												<div id="wmx-card-23jkprn" data-component="wmx:card"
-													class="block block--card is-style-gradient" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false" data-bs-theme="light">
 
-													<h4 data-component="core:heading" class="wp-block-heading" id="h-headquarters" style="margin-bottom:var(--wp--preset--spacing--40)">
-														Morelos
-													</h4>
+											</div>
+											<div data-component="wmx:accordion-panel" class="block--accordion-panel accordion-item">
 
+												<div class="accordion-header">
+													<button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="" aria-expanded="false" aria-controls="">
+														<h5 class="mb-0">
+															¿Qué pasa si mi consumo de energía cambia después de instalar el sistema?
+														</h5>
+													</button>
 												</div>
-												<div id="wmx-card-23jkprn" data-component="wmx:card"
-													class="block block--card is-style-gradient" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false" data-bs-theme="light">
+												<div class="accordion-collapse collapse" aria-labelledby="" data-bs-parent="">
+													<div class="accordion-body">
+														<p>
+															Nuestro sistema es adaptable y puede ajustarse a tus necesidades cambiantes. Si tu consumo aumenta, siempre puedes agregar más paneles para cubrir la demanda. En caso de que necesites cambiar de domicilio, ofrecemos el servicio de traslado del sistema, con un costo que varía según el tamaño y la ubicación de tu nueva propiedad.
+														</p>
+													</div>
+												</div>
 
-													<h4 data-component="core:heading" class="wp-block-heading" id="h-headquarters" style="margin-bottom:var(--wp--preset--spacing--40)">
-														Estado de México
-													</h4>
+											</div>
+											<div data-component="wmx:accordion-panel" class="block--accordion-panel accordion-item">
 
+												<div class="accordion-header">
+													<button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="" aria-expanded="false" aria-controls="">
+														<h5 class="mb-0">
+															¿Qué sucede si me mudo después de instalar el sistema?
+														</h5>
+													</button>
+												</div>
+												<div class="accordion-collapse collapse" aria-labelledby="" data-bs-parent="">
+													<div class="accordion-body">
+														<p>
+															Los sistemas solares pueden incrementar el valor de tu propiedad, lo que puede ser un punto de venta. También puedes optar por trasladar el sistema a tu nueva ubicación con nuestro servicio especializado, ajustando el costo según el tamaño del sistema y la distancia de traslado.
+														</p>
+													</div>
 												</div>
 
 											</div>
 
 										</div>
-
-
-
-										<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
+										<div aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
+										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+											<div class="wp-block-button is-style-btn-outline"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/faqs/index.html">
+													Ver todas
+												</a></div>
+										</div>
 
 									</div>
 								</div>
 
-
 							</div>
-
 						</div>
 					</div>
 				</div>
@@ -1482,7 +1562,7 @@
 		</main>
 
 		<?php
-		include("../../../assets/html/footer.html");
+		include("../../../../assets/html/footer.html");
 		?>
 
 	</div>
@@ -1532,8 +1612,7 @@
 		</defs>
 	</svg>
 
-	<div class="svg-sprite d-none">
-		<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<div class="svg-sprite d-none"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 			<defs>
 				<symbol viewBox="0 0 100 100" id="icon-0-cost-electricity" fill="none">
 					<path d="M50 88.5378C49.4887 88.5378 49.0431 88.7094 48.7248 89.0277C48.4064 89.3461 48.2349 89.7916 48.2349 90.303V96.9697C48.2349 97.481 48.4064 97.9266 48.7248 98.2449C49.0431 98.5633 49.4887 98.7348 50 98.7348C50.5114 98.7348 50.9569 98.5633 51.2753 98.2449C51.5936 97.9266 51.7652 97.481 51.7652 96.9697V90.303C51.7652 89.4239 51.0631 88.5378 50 88.5378Z" fill="#0156A4" stroke="#0156A4" stroke-width="0.5" />
@@ -1823,9 +1902,7 @@
 					<path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" />
 				</symbol>
 			</defs>
-		</svg>
-	</div>
-
+		</svg></div>
 	<div id="wmx-modal-793"
 		data-modal-title="Hello Bar"
 		class="wmx-modal"
@@ -1834,6 +1911,7 @@
 		data-bs-backdrop="false" data-options="{&quot;_wmx_modal_active&quot;:&quot;1&quot;,&quot;_wmx_modal_layout&quot;:&quot;banner&quot;,&quot;_wmx_modal_position&quot;:&quot;top&quot;,&quot;_wmx_modal_allow_interaction&quot;:&quot;&quot;,&quot;_wmx_modal_trigger&quot;:&quot;load&quot;,&quot;_wmx_modal_condition&quot;:&quot;pages&quot;,&quot;_wmx_modal_set_cookie&quot;:&quot;1&quot;,&quot;_wmx_modal_expiration&quot;:&quot;30&quot;,&quot;_wmx_modal_target&quot;:&quot;#header&quot;}">
 
 	</div>
+
 
 	<div id="wmx-modal-25804"
 		data-modal-title="Reliable Power Pop-up 2"
@@ -1875,18 +1953,586 @@
 
 	<div>
 
-		<link rel='stylesheet' id='gform_basic-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/basic.minbf47.css?ver=2.9.1' type='text/css' media='all' />
-		<link rel='stylesheet' id='gform_theme_components-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.minbf47.css?ver=2.9.1' type='text/css' media='all' />
-		<link rel='stylesheet' id='gform_theme-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/theme.minbf47.css?ver=2.9.1' type='text/css' media='all' />
-		<link rel='stylesheet' id='wmx-block-css-wizard-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/wizard/dist/wizard.mind040.css?ver=1733933428' type='text/css' media='all' />
-		<link rel='stylesheet' id='wmx-block-css-section-wrapper-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/section-wrapper/dist/section-wrapper.min0fc1.css?ver=1733933346' type='text/css' media='all' />
-		<link rel='stylesheet' id='wmx-block-css-card-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/card/dist/card.min0fc1.css?ver=1733933346' type='text/css' media='all' />
-		<link rel='stylesheet' id='wmx-block-css-cards-wrapper-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/cards-wrapper/dist/cards-wrapper.min0fc1.css?ver=1733933346' type='text/css' media='all' />
 		<style id='wp-block-spacer-inline-css' type='text/css'>
 			.wp-block-spacer {
 				clear: both
 			}
 		</style>
+		<link rel='stylesheet' id='wmx-block-css-hero-media-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/hero-media/dist/hero-media.min0fc1.css?ver=1733933346' type='text/css' media='all' />
+		<link rel='stylesheet' id='wmx-block-css-section-wrapper-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/section-wrapper/dist/section-wrapper.min0fc1.css?ver=1733933346' type='text/css' media='all' />
+		<style id='kobune-image-hotspot-style-inline-css' type='text/css'>
+			.image-hotspot-block .choose-image-placeholder {
+				align-items: center;
+				background: #eff5f5;
+				border-radius: 8px;
+				box-sizing: border-box;
+				display: flex;
+				justify-content: center;
+				padding: 28px
+			}
+
+			.image-hotspot-block-container.alignfull .image-hotspot,
+			.image-hotspot-block-container.alignwide .image-hotspot,
+			.wp-block[data-align=full] .image-hotspot,
+			.wp-block[data-align=wide] .image-hotspot {
+				width: 100%
+			}
+
+			.image-hotspot-block-container.alignfull .image-hotspot img,
+			.image-hotspot-block-container.alignwide .image-hotspot img,
+			.wp-block[data-align=full] .image-hotspot img,
+			.wp-block[data-align=wide] .image-hotspot img {
+				height: auto;
+				width: 100%
+			}
+
+			.wp-block-kobune-image-hotspot {
+				line-height: 0
+			}
+
+			.image-hotspot {
+				display: inline-block;
+				line-height: 0;
+				position: relative
+			}
+
+			.image-hotspot ::-moz-selection {
+				background: none
+			}
+
+			.image-hotspot ::selection {
+				background: none
+			}
+
+			.image-hotspot .helper-message {
+				-webkit-backdrop-filter: blur(5px);
+				backdrop-filter: blur(5px);
+				background: hsla(0, 0%, 100%, .6);
+				border-radius: 8px;
+				bottom: 16px;
+				font-size: 16px;
+				left: 16px;
+				opacity: 0;
+				padding: 28px;
+				position: absolute;
+				transition: .2s;
+				visibility: hidden
+			}
+
+			.image-hotspot .helper-message.visible {
+				opacity: 1;
+				visibility: visible
+			}
+
+			.image-hotspot .dot {
+				background: var(--dot-background);
+				background-clip: padding-box !important;
+				border-color: var(--dot-borderColor);
+				border-radius: 50%;
+				border-style: solid;
+				border-width: var(--dot-borderWidth);
+				cursor: pointer;
+				height: var(--dot-size);
+				left: calc(var(--dot-pos-x) - (var(--dot-size) + var(--dot-borderWidth))/2);
+				position: absolute;
+				top: calc(var(--dot-pos-y) - (var(--dot-size) + var(--dot-borderWidth))/2);
+				width: var(--dot-size);
+				z-index: 9
+			}
+
+			.image-hotspot .dot.pulsating:before {
+				border-radius: 50%;
+				box-shadow: 0 0 0 0 var(--dot-background);
+				content: "";
+				height: 100%;
+				position: absolute;
+				transform: scale(1);
+				width: 100%
+			}
+
+			.image-hotspot .dot.pulsating--always:before,
+			.image-hotspot .dot.pulsating--on-focused.focused:before,
+			.image-hotspot .dot.pulsating--on-hover-and-focused.focused:before,
+			.image-hotspot .dot.pulsating--on-hover-and-focused:hover:before,
+			.image-hotspot .dot.pulsating--on-hover:hover:before {
+				animation: pulse 2s infinite
+			}
+
+			@keyframes pulse {
+				0% {
+					box-shadow: 0 0 0 0 rgba(var(--dot-color_r), var(--dot-color_g), var(--dot-color_b), .7);
+					transform: scale(.95)
+				}
+
+				70% {
+					box-shadow: 0 0 0 10px rgba(var(--dot-color_r), var(--dot-color_g), var(--dot-color_b), 0);
+					transform: scale(1)
+				}
+
+				to {
+					box-shadow: 0 0 0 0 rgba(var(--dot-color_r), var(--dot-color_g), var(--dot-color_b), 0);
+					transform: scale(.95)
+				}
+			}
+
+			.image-hotspot .dot__tooltip {
+				--tooltip-triangle-size: 8px;
+				align-items: center;
+				background: var(--tooltip-background);
+				border-radius: 8px;
+				box-shadow: 0 2px 6px rgba(0, 0, 0, .2);
+				box-sizing: border-box;
+				display: none;
+				font-size: 16px;
+				height: var(--tooltip-height);
+				line-height: 1rem;
+				position: absolute;
+				width: var(--tooltip-width);
+				z-index: 9
+			}
+
+			.image-hotspot .dot__tooltip .tooltip-container {
+				box-sizing: border-box;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				line-height: 0
+			}
+
+			.image-hotspot .dot__tooltip .tooltip-container__block--media {
+				height: 100%;
+				width: 100%
+			}
+
+			.image-hotspot .dot__tooltip .tooltip-container__block__text {
+				line-height: 100%
+			}
+
+			.image-hotspot .dot__tooltip .tooltip-container__block__text b,
+			.image-hotspot .dot__tooltip .tooltip-container__block__text h1,
+			.image-hotspot .dot__tooltip .tooltip-container__block__text h2,
+			.image-hotspot .dot__tooltip .tooltip-container__block__text h3,
+			.image-hotspot .dot__tooltip .tooltip-container__block__text p {
+				margin: 0
+			}
+
+			.image-hotspot .dot__tooltip .tooltip-container__block__media {
+				background-position: 50%;
+				background-size: cover;
+				height: 100%;
+				width: 100%
+			}
+
+			.image-hotspot .dot__tooltip.top {
+				bottom: calc(var(--dot-size) + var(--tooltip-triangle-size) + 8px);
+				margin-left: calc(var(--tooltip-actual-width)*-1/2 + var(--dot-size)/2)
+			}
+
+			.image-hotspot .dot__tooltip.top:after {
+				border-left: var(--tooltip-triangle-size) solid transparent;
+				border-right: var(--tooltip-triangle-size) solid transparent;
+				border-top: var(--tooltip-triangle-size) solid var(--tooltip-background);
+				bottom: calc(var(--tooltip-triangle-size)*-1);
+				left: 50%;
+				margin-left: calc(var(--tooltip-triangle-size)*-1)
+			}
+
+			.image-hotspot .dot__tooltip.left {
+				margin-top: calc(var(--tooltip-actual-height)*-1/2 + var(--dot-size)/2);
+				right: calc(var(--dot-size) + var(--tooltip-triangle-size) + 8px)
+			}
+
+			.image-hotspot .dot__tooltip.left:after {
+				border-bottom: var(--tooltip-triangle-size) solid transparent;
+				border-left: var(--tooltip-triangle-size) solid var(--tooltip-background);
+				border-top: var(--tooltip-triangle-size) solid transparent;
+				bottom: calc(var(--tooltip-actual-height)/2 - var(--tooltip-triangle-size));
+				right: calc(var(--tooltip-triangle-size)*-1)
+			}
+
+			.image-hotspot .dot__tooltip.right {
+				left: calc(var(--dot-size) + var(--tooltip-triangle-size) + 8px);
+				margin-top: calc(var(--tooltip-actual-height)*-1/2 + var(--dot-size)/2)
+			}
+
+			.image-hotspot .dot__tooltip.right:after {
+				border-bottom: var(--tooltip-triangle-size) solid transparent;
+				border-right: var(--tooltip-triangle-size) solid var(--tooltip-background);
+				border-top: var(--tooltip-triangle-size) solid transparent;
+				bottom: calc(var(--tooltip-actual-height)/2 - var(--tooltip-triangle-size));
+				left: calc(var(--tooltip-triangle-size)*-1)
+			}
+
+			.image-hotspot .dot__tooltip.bottom {
+				margin-left: calc(var(--tooltip-actual-width)*-1/2 + var(--dot-size)/2);
+				margin-top: calc(var(--dot-size) + var(--tooltip-triangle-size) + 8px)
+			}
+
+			.image-hotspot .dot__tooltip.bottom:after {
+				border-bottom: var(--tooltip-triangle-size) solid var(--tooltip-background);
+				border-left: var(--tooltip-triangle-size) solid transparent;
+				border-right: var(--tooltip-triangle-size) solid transparent;
+				left: 50%;
+				margin-left: calc(var(--tooltip-triangle-size)*-1);
+				top: calc(var(--tooltip-triangle-size)*-1)
+			}
+
+			.image-hotspot .dot__tooltip.triangle:after {
+				content: "";
+				display: block;
+				height: 0;
+				position: absolute;
+				width: 0
+			}
+
+			.image-hotspot .dot.focused,
+			.image-hotspot .dot.forced-focused {
+				z-index: 99
+			}
+
+			.image-hotspot .dot.focused .dot__tooltip,
+			.image-hotspot .dot.forced-focused .dot__tooltip {
+				display: block;
+				opacity: 0
+			}
+
+			.image-hotspot .dot.focused .dot__tooltip.visible,
+			.image-hotspot .dot.forced-focused .dot__tooltip.visible {
+				opacity: 1
+			}
+
+			.image-hotspot-products-settings .dot-card {
+				border: 1px solid #d6e4e5;
+				border-radius: 4px;
+				box-shadow: 0 0 0 rgba(214, 228, 229, 0);
+				box-sizing: border-box;
+				margin-bottom: 16px;
+				overflow: hidden;
+				transition: .3s;
+				width: 100%
+			}
+
+			.image-hotspot-products-settings .dot-card.focused {
+				box-shadow: 0 0 8px #d6e4e5
+			}
+
+			.image-hotspot-products-settings .dot-card__header {
+				align-items: center;
+				background: #d6e4e5;
+				display: flex;
+				justify-content: space-between;
+				padding: 8px
+			}
+
+			.image-hotspot-products-settings .dot-card__header__left {
+				align-items: center;
+				display: flex
+			}
+
+			.image-hotspot-products-settings .dot-card__header__left svg {
+				height: 14px;
+				margin-right: 8px
+			}
+
+			.image-hotspot-products-settings .dot-card__header__right {
+				color: #eb6440;
+				height: 12px
+			}
+
+			.image-hotspot-products-settings .dot-card__header__right .dashicon {
+				cursor: pointer;
+				font-size: 12px
+			}
+
+			.image-hotspot-products-settings .dot-card__setting {
+				margin-bottom: 8px
+			}
+
+			.image-hotspot-products-settings .dot-card__setting:last-of-type {
+				margin-bottom: 0
+			}
+
+			.image-hotspot-products-settings .dot-card__setting__label {
+				font-size: 10px;
+				font-weight: 600;
+				margin-bottom: 8px;
+				opacity: .6
+			}
+
+			.image-hotspot-products-settings .dot-card__setting__info {
+				background: #bef;
+				border-radius: 4px;
+				color: #059;
+				font-size: 12px;
+				margin-bottom: 8px;
+				padding: 8px
+			}
+
+			.image-hotspot-products-settings .dot-card__setting select {
+				width: 100%
+			}
+
+			.image-hotspot-products-settings .dot-card__setting .block-picker {
+				border: 1px solid #ccc;
+				box-shadow: none !important
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder {
+				margin-left: -16px;
+				margin-right: -16px;
+				padding: 8px
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container {
+				background: #fff;
+				background: #f1f4f4;
+				border: 1px solid #ccc;
+				border-radius: 4px;
+				margin-bottom: 16px
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container:last-of-type {
+				margin-bottom: 0
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block {
+				background: #fff;
+				border: 1px dashed #ccc;
+				border-radius: 4px;
+				margin: 2px;
+				overflow: hidden
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block.focused {
+				border-color: var(--wp-admin-theme-color);
+				border-style: solid;
+				box-shadow: 0 0 2px var(--wp-admin-theme-color);
+				position: relative;
+				z-index: 9
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block.focused .tooltip-block__always-visible {
+				cursor: zoom-out
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block.focused .tooltip-block__drawer {
+				display: block
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block--new .tooltip-block__always-visible {
+				cursor: inherit
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block--new .tooltip-block__always-visible__new-block-type {
+				margin-right: 8px
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block--new .tooltip-block__always-visible__new-block-type select {
+				min-width: 0;
+				width: 100%
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block--new .tooltip-block__always-visible__new-block-button {
+				background: var(--wp-admin-theme-color);
+				border-radius: 4px;
+				color: #fff;
+				cursor: pointer;
+				font-style: normal;
+				padding: 6px 8px;
+				white-space: nowrap
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block--new .tooltip-block__always-visible__new-block-button:hover {
+				background: var(--wp-admin-theme-color-darker-10)
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__always-visible {
+				align-items: center;
+				cursor: zoom-in;
+				display: flex;
+				font-style: italic;
+				justify-content: space-between;
+				padding: 8px
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__always-visible__controls {
+				align-items: center;
+				display: flex;
+				justify-content: center
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__always-visible__controls .delete {
+				color: #eb6440;
+				cursor: pointer;
+				font-size: 12px;
+				height: 12px;
+				margin-right: 8px
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__always-visible__controls .navigation {
+				display: flex;
+				flex-direction: column
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__always-visible__controls .navigation .nav-down,
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__always-visible__controls .navigation .nav-up {
+				cursor: pointer;
+				opacity: .6
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__always-visible__controls .navigation .nav-down.disabled,
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__always-visible__controls .navigation .nav-up.disabled {
+				opacity: .4;
+				pointer-events: none
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__always-visible__controls .navigation .nav-down:hover,
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__always-visible__controls .navigation .nav-up:hover {
+				opacity: 1
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__drawer {
+				background: #fff;
+				border-top: 1px solid #ccc;
+				display: none;
+				padding: 8px
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__drawer .two-cols {
+				display: grid;
+				gap: 8px;
+				grid-template-columns: 1fr 1fr
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__drawer .tooltip-block__setting {
+				margin-bottom: 8px
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__drawer .tooltip-block__setting:last-of-type {
+				margin-bottom: 0
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__drawer .tooltip-block__setting .components-base-control {
+				margin-bottom: 0 !important
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__drawer .tooltip-block__setting__label {
+				font-size: 10px;
+				font-weight: 600;
+				margin-bottom: 4px;
+				opacity: .6
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__drawer .tooltip-block__setting input,
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__drawer .tooltip-block__setting select,
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__drawer .tooltip-block__setting textarea {
+				box-sizing: border-box;
+				width: 100%
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container .tooltip-block__drawer .tooltip-block__setting .components-unit-control__select {
+				font-size: 12px
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container__footer {
+				display: flex
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container__footer .dashicon {
+				font-size: 18px;
+				height: 18px;
+				margin-right: 8px
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container__footer .add-block-button {
+				align-items: center;
+				background: var(--wp-admin-theme-color);
+				color: #fff;
+				cursor: pointer;
+				display: flex;
+				flex: 1;
+				justify-content: center;
+				padding: 8px;
+				position: relative
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container__footer .add-block-button:hover {
+				background: var(--wp-admin-theme-color-darker-10)
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container__footer .container-settings-toggle-button {
+				align-items: center;
+				background: #fff;
+				border: 1px solid var(--wp-admin-theme-color);
+				color: var(--wp-admin-theme-color);
+				cursor: pointer;
+				display: flex;
+				flex: 1;
+				justify-content: center;
+				padding: 8px
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container__footer .container-settings-toggle-button:hover {
+				border: 1px solid var(--wp-admin-theme-color-darker-10);
+				color: var(--wp-admin-theme-color-darker-10)
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container__footer .container-settings-toggle-button.toggled .dashicon {
+				transform: rotate(180deg)
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container__settings {
+				display: none;
+				padding: 16px 8px
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container__settings.toggled {
+				display: block
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container__settings__setting {
+				margin-bottom: 8px
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container__settings__setting:last-of-type {
+				margin-bottom: 0
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container__settings__setting .components-base-control {
+				margin-bottom: 0 !important
+			}
+
+			.image-hotspot-products-settings .dot-card .tooltip-builder .tooltip-builder-container__settings__setting__label {
+				font-size: 10px;
+				font-weight: 600;
+				margin-bottom: 4px;
+				opacity: .6
+			}
+
+			.components-panel__body.has-sub-panels {
+				padding-bottom: 0
+			}
+
+			.components-panel__body.has-sub-panels>.components-panel__body-title {
+				margin-bottom: 0
+			}
+
+			.components-panel__body.sub-panel {
+				margin-left: -16px;
+				margin-right: -16px
+			}
+
+			.components-panel__body.sub-panel .components-panel__body-toggle.components-button {
+				padding: 12px 48px 12px 28px
+			}
+		</style>
+		<link rel='stylesheet' id='wmx-block-css-accordion-panel-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/accordion-panel/dist/accordion-panel.min0fc1.css?ver=1733933346' type='text/css' media='all' />
+		<link rel='stylesheet' id='wmx-block-css-accordion-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/accordion/dist/accordion.min1e7b.css?ver=1726158740' type='text/css' media='all' />
+		<link rel='stylesheet' id='wmx-block-css-featured-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/featured/dist/featured.min0fc1.css?ver=1733933346' type='text/css' media='all' />
+		<link rel='stylesheet' id='gform_basic-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/basic.minbf47.css?ver=2.9.1' type='text/css' media='all' />
+		<link rel='stylesheet' id='gform_theme_components-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.minbf47.css?ver=2.9.1' type='text/css' media='all' />
+		<link rel='stylesheet' id='gform_theme-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/theme.minbf47.css?ver=2.9.1' type='text/css' media='all' />
+		<link rel='stylesheet' id='wmx-block-css-wizard-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/wizard/dist/wizard.mind040.css?ver=1733933428' type='text/css' media='all' />
 		<style id='global-styles-inline-css' type='text/css'>
 			:root {
 				--wp--preset--aspect-ratio--square: 1;
@@ -2744,11 +3390,31 @@
 				flex-wrap: nowrap;
 			}
 
-			.wp-container-core-buttons-is-layout-4 {
-				justify-content: center;
+			.wp-container-core-columns-is-layout-7 {
+				flex-wrap: nowrap;
 			}
 
-			.wp-container-core-columns-is-layout-7 {
+			.wp-container-core-columns-is-layout-8 {
+				flex-wrap: nowrap;
+			}
+
+			.wp-container-core-columns-is-layout-9 {
+				flex-wrap: nowrap;
+			}
+
+			.wp-container-core-columns-is-layout-10 {
+				flex-wrap: nowrap;
+			}
+
+			.wp-container-core-columns-is-layout-11 {
+				flex-wrap: nowrap;
+			}
+
+			.wp-container-core-columns-is-layout-12 {
+				flex-wrap: nowrap;
+			}
+
+			.wp-container-core-columns-is-layout-13 {
 				flex-wrap: nowrap;
 			}
 		</style>
@@ -2790,6 +3456,15 @@
 		</script>
 		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/js/app.mindf15.js?v=1733933346" id="wmx-main-scripts-js"></script>
 		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/js/app.mindf15.js?v=1733933346" id="wmx-bravo-scripts-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/hero-media/dist/hero-media.min0fc1.js?ver=1733933346" id="wmx-block-js-hero-media-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/vendor/react.mincb06.js?ver=18.3.1" id="react-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/vendor/react-dom.mincb06.js?ver=18.3.1" id="react-dom-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/escape-html.min3a9d.js?ver=6561a406d2d232a6fbd2" id="wp-escape-html-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/element.min1596.js?ver=cb762d190aebbec25b27" id="wp-element-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/image-hotspot-block/build/frontend109c.js?ver=6.6.2" id="imagehotspotblockFrontend-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/accordion-panel/dist/accordion-panel.min0fc1.js?ver=1733933346" id="wmx-block-js-accordion-panel-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/accordion/dist/accordion.min0fc1.js?ver=1733933346" id="wmx-block-js-accordion-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/featured/dist/featured.min0fc1.js?ver=1733933346" id="wmx-block-js-featured-js"></script>
 		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/wizards/base109c.js?ver=6.6.2" id="solar-wizard-base-js"></script>
 		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/wizards/v1a109c.js?ver=6.6.2" id="solar-wizard-version-js-js"></script>
 		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/dom-ready.min5346.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
@@ -2933,9 +3608,6 @@
 			/* ]]> */
 		</script>
 		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/wizard/dist/wizard.mind040.js?ver=1733933428" id="wmx-block-js-wizard-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/card/dist/card.min0fc1.js?ver=1733933346" id="wmx-block-js-card-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/cards-wrapper/dist/cards-wrapper.min0fc1.js?ver=1733933346" id="wmx-block-js-cards-wrapper-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/js/swiper.mindf15.js?v=1733933346" id="wmx-swiper-js"></script>
 		<script type="text/javascript">
 			jQuery(document).ready(function($) {
 
@@ -3003,7 +3675,7 @@
 						if (selectedTime != '' && selectedDate != '') {
 							selectedTime = selectedTime + ':00:00.00+05:00';
 
-							var dateParts = selectedDate.split('../index.html');
+							var dateParts = selectedDate.split('../../index.html');
 							selectedDate = dateParts[2] + '-' + dateParts[0] + '-' + dateParts[1];
 
 							var timestamp = selectedDate + 'T' + selectedTime;
@@ -3552,7 +4224,7 @@
 								animation: 0,
 								defaults: {
 									"53": "No Gift",
-									"42": "Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.6778.264 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)"
+									"42": "CCBot\/2.0 (https:\/\/commoncrawl.org\/faq\/)"
 								},
 								fields: {
 									"53": [],
@@ -3930,6 +4602,6 @@
 </body>
 
 
-<!-- Mirrored from www.solarenergyworld.com/contact/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Jan 2025 18:14:35 GMT -->
+<!-- Mirrored from www.solarenergyworld.com/going-solar/how-solar-works/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Jan 2025 18:13:58 GMT -->
 
 </html>

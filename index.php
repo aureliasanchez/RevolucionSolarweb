@@ -1774,17 +1774,10 @@
 
 <body data-bs-theme="light" class="home page-template-default page page-id-5 transparent-nav">
 
-  <a tabindex="1" href="#skipNav"
-    class="z-9999 visually-hidden-focusable px-3 py-2 btn btn-primary position-absolute">
-    Skip Navigation
-  </a>
-
   <div class="site-wrapper">
     <?php
     include("./assets/html/header.html");
     ?>
-
-    <div id="skipNav" class="visually-hidden"></div>
 
     <main id="main">
 
@@ -1854,8 +1847,7 @@
         </div>
       </section>
 
-      <!-- Carrucel de informacion -->
-      <!-- <section id="wmx-section-wrapper-oavyd5z" data-component="wmx:section-wrapper"
+      <section id="wmx-section-wrapper-452cuc2" data-component="wmx:section-wrapper"
         class="block block--section-wrapper" style="
             padding-top: var(--wp--preset--spacing--50);
             padding-bottom: var(--wp--preset--spacing--50);
@@ -1864,123 +1856,56 @@
           <div class="row">
             <div class="col-12">
               <div class="inner-wrapper">
+                <div style="height: var(--wp--preset--spacing--60)" aria-hidden="true" data-component="core:spacer"
+                  data-hide-mobile="true" class="wp-block-spacer">
+                </div>
+
                 <div data-component="core:columns"
-                  class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
+                  class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-11 wp-block-columns-is-layout-flex">
+
                   <div data-component="core:column"
-                    class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+                    class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
 
-                    <h2 data-component="core:heading" class="wp-block-heading has-text-align-center"
-                      id="h-milestones-in-solar-impact" style="margin-bottom: var(--wp--preset--spacing--50)">
-                      Testimonios
-                      <br>
-                      (Se podria usar para otra cosa)
+                    <h2 data-component="core:heading" class="wp-block-heading" id="h-easy-install-for-every-budget">
+                      ¿Por qué elegir energía solar hoy?
                     </h2>
+                    <p>
+                      La energía solar no solo reduce tus costos de electricidad hasta un
+                      <span style="font-weight: bold;">
+                        90%
+                      </span>
+                      , sino que también te permite ser parte del cambio hacia un mundo más sostenible. Con paneles de última tecnología y financiamiento accesible, hacer la transición a la energía limpia nunca ha sido tan fácil.
+                    </p>
+                    <div data-component="core:buttons"
+                      class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
 
-                    <div id="wmx-stats-wrapper-dc4wmm8" data-component="wmx:stats-wrapper"
-                      class="block block--stats-wrapper" data-wmx-wpb="stats-wrapper">
-                      <div class="stats">
-
-                        <div id="wmx-stat-clzn71i" data-component="wmx:stat" class="block block--stat"
-                          data-wmx-wpb="stat" data-bs-theme="light">
-                          <div class="stat">
-                            <div class="value" data-value="15" data-prefix="" data-suffix="+">
-                              0
-                            </div>
-
-                            <p data-component="core:paragraph" class="has-h-3-font-size">
-                              Indicar x cantidad y más de algo
-                            </p>
-                          </div>
-                        </div>
-
-                        <div id="stat-678276259845f" data-component="wmx:stat" class="block block--stat"
-                          data-wmx-wpb="stat" data-bs-theme="light">
-                          <div class="stat">
-                            <div class="value" data-value="6" data-prefix="#" data-suffix="">
-                              0
-                            </div>
-
-                            <p data-component="core:paragraph" class="has-h-3-font-size">
-                              El numero x de algo
-                            </p>
-                          </div>
-                        </div>
-
-                        <div id="wmx-stat-86nb343" data-component="wmx:stat" class="block block--stat"
-                          data-wmx-wpb="stat" data-bs-theme="light">
-                          <div class="stat">
-                            <div class="value" data-value="25000" data-prefix="" data-suffix="+">
-                              0
-                            </div>
-
-                            <p data-component="core:paragraph" class="has-h-3-font-size">
-                              Indicar x cantidad y más de algo
-                            </p>
-                          </div>
-                        </div>
-
-                        <div id="wmx-stat-k36ygve" data-component="wmx:stat" class="block block--stat"
-                          data-wmx-wpb="stat" data-bs-theme="light">
-                          <div class="stat">
-                            <div class="value" data-value="5596" data-prefix="" data-suffix="">
-                              0
-                            </div>
-
-                            <p data-component="core:paragraph" class="has-h-3-font-size">
-                              Dato de algo
-                            </p>
-                          </div>
-                        </div>
-
-                        <div id="wmx-stat-86nb343" data-component="wmx:stat" class="block block--stat"
-                          data-wmx-wpb="stat" data-bs-theme="light">
-                          <div class="stat">
-                            <div class="value" data-value="30" data-prefix="" data-suffix="">
-                              0
-                            </div>
-
-                            <p data-component="core:paragraph" class="has-h-3-font-size">
-                              Dato de algo
-                            </p>
-                          </div>
-                        </div>
-
-                        <div id="stat-67827625990fc" data-component="wmx:stat" class="block block--stat"
-                          data-wmx-wpb="stat" data-bs-theme="light">
-                          <div class="stat">
-                            <div class="value" data-value="100" data-prefix="" data-suffix="%">
-                              0
-                            </div>
-
-                            <p data-component="core:paragraph" class="has-h-3-font-size">
-                              % de algo
-                            </p>
-                          </div>
-                        </div>
-
-                        <div id="stat-67827625991b3" data-component="wmx:stat" class="block block--stat"
-                          data-wmx-wpb="stat" data-bs-theme="light">
-                          <div class="stat">
-                            <div class="value" data-value="700" data-prefix="" data-suffix="K+">
-                              0
-                            </div>
-
-                            <p data-component="core:paragraph" class="has-h-3-font-size">
-                              Indicar x cantidad y más de algo
-                            </p>
-                          </div>
-                        </div>
-
+                      <div class="wp-block-button is-style-btn-outline">
+                        <a data-component="core:button" class="wp-block-button__link wp-element-button"
+                          href="./pages/www.solarenergyworld.com/products/index.html">
+                          Descubre más
+                        </a>
                       </div>
+
                     </div>
 
                   </div>
+
+                  <div data-component="core:column"
+                    class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+                    <div id="wmx-video-rqovlpz" data-component="wmx:video"
+                      class="block block--video is-style-circles-right" data-wmx-wpb="">
+                      <div class="backdrop"></div>
+                      <img src="./assets/img/pages/index/casa.webp" alt="" width="auto" height="400" style="border-radius: 20px;">
+                    </div>
+                  </div>
+
                 </div>
+
               </div>
             </div>
           </div>
         </div>
-      </section> -->
+      </section>
 
       <section id="wmx-section-wrapper-gqhgm07" data-component="wmx:section-wrapper"
         class="block block--section-wrapper" style="
@@ -2145,7 +2070,7 @@
         </div>
       </section>
 
-      <section id="wmx-section-wrapper-452cuc2" data-component="wmx:section-wrapper"
+      <section id="wmx-section-wrapper-gqhgm07" data-component="wmx:section-wrapper"
         class="block block--section-wrapper" style="
             padding-top: var(--wp--preset--spacing--50);
             padding-bottom: var(--wp--preset--spacing--50);
@@ -2154,51 +2079,49 @@
           <div class="row">
             <div class="col-12">
               <div class="inner-wrapper">
-                <div style="height: var(--wp--preset--spacing--60)" aria-hidden="true" data-component="core:spacer"
-                  data-hide-mobile="true" class="wp-block-spacer">
-                </div>
-
                 <div data-component="core:columns"
-                  class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-11 wp-block-columns-is-layout-flex">
-
+                  class="wp-block-columns alignfull are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-10 wp-block-columns-is-layout-flex">
                   <div data-component="core:column"
-                    class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+                    class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow">
+                    <div id="wmx-stacking-cards-wrapper-4nyn6iy" data-component="wmx:stacking-cards-wrapper"
+                      class="block block--stacking-cards-wrapper" data-wmx-wpb="stacking-cards-wrapper">
+                      <div id="wmx-stacking-card-k9ifc75" data-component="wmx:stacking-card"
+                        class="block block--stacking-card has-background has-ocean-blue-background-color stacking-card"
+                        data-wmx-wpb="stacking-card" data-bs-theme="dark">
+                        <div class="card-content">
+                          <div data-component="core:columns"
+                            class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-8 wp-block-columns-is-layout-flex">
 
-                    <h2 data-component="core:heading" class="wp-block-heading" id="h-easy-install-for-every-budget">
-                      ¿Por qué elegir energía solar hoy?
-                    </h2>
-                    <p>
-                      La energía solar no solo reduce tus costos de electricidad hasta un
-                      <span style="font-weight: bold;">
-                        90%
-                      </span>
-                      , sino que también te permite ser parte del cambio hacia un mundo más sostenible. Con paneles de última tecnología y financiamiento accesible, hacer la transición a la energía limpia nunca ha sido tan fácil.
-                    </p>
-                    <div data-component="core:buttons"
-                      class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+                            <div data-component="core:column"
+                              class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+                              <hr data-component="core:separator"
+                                class="wp-block-separator has-alpha-channel-opacity has-solar-gradient-background has-background is-style-narrow" />
 
-                      <div class="wp-block-button is-style-btn-outline">
-                        <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                          href="./pages/www.solarenergyworld.com/products/index.html">
-                          Descubre más
-                        </a>
+                              <h2 data-component="core:heading" class="wp-block-heading" id="h-solar-in-your-state">
+                                ¡Empieza a ahorrar con energía solar hoy mismo!
+                              </h2>
+
+                              <p>
+                                Completa el formulario y recibe una cotización personalizada para tu hogar o negocio. Da el primer paso hacia un futuro más sostenible y eficiente.
+                              </p>
+
+                              <div data-component="core:buttons"
+                                class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+                                <div class="wp-block-button is-style-btn-outline">
+                                  <a data-component="core:button" class="wp-block-button__link wp-element-button"
+                                    href="#">
+                                    Solicita tu cotización ahora
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+
+                          </div>
+                        </div>
                       </div>
-
-                    </div>
-
-                  </div>
-
-                  <div data-component="core:column"
-                    class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-                    <div id="wmx-video-rqovlpz" data-component="wmx:video"
-                      class="block block--video is-style-circles-right" data-wmx-wpb="">
-                      <div class="backdrop"></div>
-                      <img src="./assets/img/pages/index/casa.webp" alt="" width="auto" height="400" style="border-radius: 20px;">
                     </div>
                   </div>
-
                 </div>
-
               </div>
             </div>
           </div>
@@ -2261,129 +2184,6 @@
 
                 </div>
 
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section id="wmx-section-wrapper-mn0yuu5" data-component="wmx:section-wrapper"
-        class="block block--section-wrapper" style="
-            padding-top: var(--wp--preset--spacing--50);
-            padding-bottom: var(--wp--preset--spacing--50);
-          " data-wmx-wpb="section-wrapper">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <div class="inner-wrapper">
-                <h2 data-component="core:heading" class="wp-block-heading has-text-align-center"
-                  id="h-top-benefits-of-going-solar" style="margin-bottom: var(--wp--preset--spacing--50)">
-                  Energía solar
-                  <br>
-                  Beneficios que transforman tu vida
-                </h2>
-
-                <div data-component="core:columns"
-                  class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-12 wp-block-columns-is-layout-flex">
-                  <div data-component="core:column"
-                    class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-                    <div id="wmx-cards-wrapper-82y8izq" data-component="wmx:cards-wrapper"
-                      class="block block--cards-wrapper" style="--card-count: 3" data-wmx-wpb="cards-wrapper"
-                      data-mobile="slider">
-                      <div class="cards">
-
-                        <div id="wmx-card-o71r1ac" data-component="wmx:card" class="block block--card" style="
-                              padding-top: var(--wp--preset--spacing--40);
-                              padding-bottom: var(--wp--preset--spacing--40);
-                              padding-left: var(--wp--preset--spacing--40);
-                              padding-right: var(--wp--preset--spacing--40);
-                              box-shadow: var(--wp--preset--shadow--soft);
-                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
-                          data-bs-theme="light">
-                          <figure data-component="core:image" class="wp-block-image aligncenter size-large">
-                            <img loading="lazy" decoding="async" width="80" height="80"
-                              src="./assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/Bill.svg" alt="" class="wp-image-19" />
-                          </figure>
-
-                          <div style="height: 1.5rem; width: 0px" aria-hidden="true" data-component="core:spacer"
-                            class="wp-block-spacer"></div>
-
-                          <h4 data-component="core:heading" class="wp-block-heading has-text-align-center"
-                            id="h-save-on-electricity-costs">
-                            Ahorro inmediato y a largo plazo
-                          </h4>
-                        </div>
-                        <div id="wmx-card-o71r1ac" data-component="wmx:card" class="block block--card" style="
-                              padding-top: var(--wp--preset--spacing--40);
-                              padding-bottom: var(--wp--preset--spacing--40);
-                              padding-left: var(--wp--preset--spacing--40);
-                              padding-right: var(--wp--preset--spacing--40);
-                              box-shadow: var(--wp--preset--shadow--soft);
-                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
-                          data-bs-theme="light">
-                          <figure data-component="core:image" class="wp-block-image aligncenter size-large">
-                            <img loading="lazy" decoding="async" width="80" height="80"
-                              src="./assets/img/www.solarenergyworld.com/wp-content/uploads/svg/House-Solar.svg" alt="" class="wp-image-21"
-                              style="object-fit: cover" />
-                          </figure>
-
-                          <div style="height: 1.5rem; width: 0px" aria-hidden="true" data-component="core:spacer"
-                            class="wp-block-spacer"></div>
-
-                          <h4 data-component="core:heading" class="wp-block-heading has-text-align-center"
-                            id="h-increase-your-home-s-value">
-                            Energía limpia y sostenible
-                          </h4>
-                        </div>
-                        <div id="wmx-card-o71r1ac" data-component="wmx:card" class="block block--card" style="
-                              padding-top: var(--wp--preset--spacing--40);
-                              padding-bottom: var(--wp--preset--spacing--40);
-                              padding-left: var(--wp--preset--spacing--40);
-                              padding-right: var(--wp--preset--spacing--40);
-                              box-shadow: var(--wp--preset--shadow--soft);
-                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
-                          data-bs-theme="light">
-                          <figure data-component="core:image" class="wp-block-image aligncenter size-large">
-                            <img loading="lazy" decoding="async" width="80" height="80"
-                              src="./assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Piggy-Bank.svg" alt="" class="wp-image-22" />
-                          </figure>
-
-                          <div style="height: 1.5rem" aria-hidden="true" data-component="core:spacer"
-                            class="wp-block-spacer"></div>
-
-                          <h4 data-component="core:heading" class="wp-block-heading has-text-align-center"
-                            id="h-profit-from-your-solar-panels">
-                            Financiamiento accesible para todos
-                          </h4>
-                        </div>
-                        <div class="displayCard"></div>
-                        <div id="wmx-card-7w23707" data-component="wmx:card" class="block block--card" style="
-                              padding-top: var(--wp--preset--spacing--40);
-                              padding-bottom: var(--wp--preset--spacing--40);
-                              padding-left: var(--wp--preset--spacing--40);
-                              padding-right: var(--wp--preset--spacing--40);
-                              box-shadow: var(--wp--preset--shadow--soft);
-                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
-                          data-bs-theme="light">
-                          <figure data-component="core:image" class="wp-block-image aligncenter size-large">
-                            <img loading="lazy" decoding="async" width="80" height="80"
-                              src="./assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Documents.svg" alt="" class="wp-image-25" />
-                          </figure>
-
-                          <div style="height: 1.5rem" aria-hidden="true" data-component="core:spacer"
-                            class="wp-block-spacer"></div>
-
-                          <h4 data-component="core:heading" class="wp-block-heading has-text-align-center"
-                            id="h-earn-tax-credits-amp-incentives">
-                            Garantía y soporte especializado
-                          </h4>
-                        </div>
-                        <div class="displayCard"></div>
-
-                      </div>
-                    </div>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
@@ -2513,6 +2313,211 @@
           </div>
         </div>
       </section>
+
+      <section id="wmx-section-wrapper-gqhgm07" data-component="wmx:section-wrapper"
+        class="block block--section-wrapper" style="
+            padding-top: var(--wp--preset--spacing--50);
+            padding-bottom: var(--wp--preset--spacing--50);
+          " data-wmx-wpb="section-wrapper">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <div class="inner-wrapper">
+                <div data-component="core:columns"
+                  class="wp-block-columns alignfull are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-10 wp-block-columns-is-layout-flex">
+                  <div data-component="core:column"
+                    class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow">
+                    <div id="wmx-stacking-cards-wrapper-4nyn6iy" data-component="wmx:stacking-cards-wrapper"
+                      class="block block--stacking-cards-wrapper" data-wmx-wpb="stacking-cards-wrapper">
+                      <div id="wmx-stacking-card-k9ifc75" data-component="wmx:stacking-card"
+                        class="block block--stacking-card stacking-card" data-wmx-wpb="stacking-card">
+                        <div class="card-content">
+                          <div data-component="core:columns"
+                            class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
+
+                            <div data-component="core:column"
+                              class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+                              <figure data-component="core:image" class="wp-block-image size-large has-custom-border">
+                                <img loading="lazy" decoding="async" width="1024" height="576"
+                                  src="./assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1024x576.webp" alt=""
+                                  class="wp-image-48" style="
+                                      border-radius: 16px;
+                                      aspect-ratio: 1;
+                                      object-fit: cover;
+                                    " srcset="
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1024x576.webp 1024w,
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-300x169.webp   300w,
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-768x432.webp   768w,
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1536x864.webp 1536w,
+                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef.webp          2048w
+                                    " sizes="(max-width: 1024px) 100vw, 1024px" />
+                              </figure>
+                            </div>
+
+                            <div data-component="core:column"
+                              class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+                              <hr data-component="core:separator"
+                                class="wp-block-separator has-alpha-channel-opacity has-solar-gradient-background has-background is-style-narrow" />
+
+                              <h2 data-component="core:heading" class="wp-block-heading"
+                                id="h-solar-panels-amp-batteries">
+                                ¡Empieza tu camino como Asesor Solar hoy!
+                              </h2>
+
+                              <p>
+                                Únete a Revolución Solar y genera ingresos atractivos mientras ayudas a construir un futuro más sostenible.
+                              </p>
+
+                              <div data-component="core:buttons"
+                                class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+                                <div class="wp-block-button is-style-btn-outline">
+                                  <a data-component="core:button" class="wp-block-button__link wp-element-button"
+                                    href="#">
+                                    Regístrate ahora
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Carrucel de informacion -->
+      <!-- <section id="wmx-section-wrapper-oavyd5z" data-component="wmx:section-wrapper"
+        class="block block--section-wrapper" style="
+            padding-top: var(--wp--preset--spacing--50);
+            padding-bottom: var(--wp--preset--spacing--50);
+          " data-wmx-wpb="section-wrapper">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <div class="inner-wrapper">
+                <div data-component="core:columns"
+                  class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
+                  <div data-component="core:column"
+                    class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+
+                    <h2 data-component="core:heading" class="wp-block-heading has-text-align-center"
+                      id="h-milestones-in-solar-impact" style="margin-bottom: var(--wp--preset--spacing--50)">
+                      Testimonios
+                      <br>
+                      (Se podria usar para otra cosa)
+                    </h2>
+
+                    <div id="wmx-stats-wrapper-dc4wmm8" data-component="wmx:stats-wrapper"
+                      class="block block--stats-wrapper" data-wmx-wpb="stats-wrapper">
+                      <div class="stats">
+
+                        <div id="wmx-stat-clzn71i" data-component="wmx:stat" class="block block--stat"
+                          data-wmx-wpb="stat" data-bs-theme="light">
+                          <div class="stat">
+                            <div class="value" data-value="15" data-prefix="" data-suffix="+">
+                              0
+                            </div>
+
+                            <p data-component="core:paragraph" class="has-h-3-font-size">
+                              Indicar x cantidad y más de algo
+                            </p>
+                          </div>
+                        </div>
+
+                        <div id="stat-678276259845f" data-component="wmx:stat" class="block block--stat"
+                          data-wmx-wpb="stat" data-bs-theme="light">
+                          <div class="stat">
+                            <div class="value" data-value="6" data-prefix="#" data-suffix="">
+                              0
+                            </div>
+
+                            <p data-component="core:paragraph" class="has-h-3-font-size">
+                              El numero x de algo
+                            </p>
+                          </div>
+                        </div>
+
+                        <div id="wmx-stat-86nb343" data-component="wmx:stat" class="block block--stat"
+                          data-wmx-wpb="stat" data-bs-theme="light">
+                          <div class="stat">
+                            <div class="value" data-value="25000" data-prefix="" data-suffix="+">
+                              0
+                            </div>
+
+                            <p data-component="core:paragraph" class="has-h-3-font-size">
+                              Indicar x cantidad y más de algo
+                            </p>
+                          </div>
+                        </div>
+
+                        <div id="wmx-stat-k36ygve" data-component="wmx:stat" class="block block--stat"
+                          data-wmx-wpb="stat" data-bs-theme="light">
+                          <div class="stat">
+                            <div class="value" data-value="5596" data-prefix="" data-suffix="">
+                              0
+                            </div>
+
+                            <p data-component="core:paragraph" class="has-h-3-font-size">
+                              Dato de algo
+                            </p>
+                          </div>
+                        </div>
+
+                        <div id="wmx-stat-86nb343" data-component="wmx:stat" class="block block--stat"
+                          data-wmx-wpb="stat" data-bs-theme="light">
+                          <div class="stat">
+                            <div class="value" data-value="30" data-prefix="" data-suffix="">
+                              0
+                            </div>
+
+                            <p data-component="core:paragraph" class="has-h-3-font-size">
+                              Dato de algo
+                            </p>
+                          </div>
+                        </div>
+
+                        <div id="stat-67827625990fc" data-component="wmx:stat" class="block block--stat"
+                          data-wmx-wpb="stat" data-bs-theme="light">
+                          <div class="stat">
+                            <div class="value" data-value="100" data-prefix="" data-suffix="%">
+                              0
+                            </div>
+
+                            <p data-component="core:paragraph" class="has-h-3-font-size">
+                              % de algo
+                            </p>
+                          </div>
+                        </div>
+
+                        <div id="stat-67827625991b3" data-component="wmx:stat" class="block block--stat"
+                          data-wmx-wpb="stat" data-bs-theme="light">
+                          <div class="stat">
+                            <div class="value" data-value="700" data-prefix="" data-suffix="K+">
+                              0
+                            </div>
+
+                            <p data-component="core:paragraph" class="has-h-3-font-size">
+                              Indicar x cantidad y más de algo
+                            </p>
+                          </div>
+                        </div>
+
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section> -->
 
       <section id="section-wrapper-678276259c1e4" data-component="wmx:section-wrapper"
         class="block block--section-wrapper" data-wmx-wpb="section-wrapper">
@@ -2752,137 +2757,6 @@
           </div>
         </div>
       </section> -->
-
-      <section id="wmx-section-wrapper-gqhgm07" data-component="wmx:section-wrapper"
-        class="block block--section-wrapper" style="
-            padding-top: var(--wp--preset--spacing--50);
-            padding-bottom: var(--wp--preset--spacing--50);
-          " data-wmx-wpb="section-wrapper">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <div class="inner-wrapper">
-                <div data-component="core:columns"
-                  class="wp-block-columns alignfull are-vertically-aligned-top is-layout-flex wp-container-core-columns-is-layout-10 wp-block-columns-is-layout-flex">
-                  <div data-component="core:column"
-                    class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow">
-                    <div id="wmx-stacking-cards-wrapper-4nyn6iy" data-component="wmx:stacking-cards-wrapper"
-                      class="block block--stacking-cards-wrapper" data-wmx-wpb="stacking-cards-wrapper">
-
-                      <div id="wmx-stacking-card-k9ifc75" data-component="wmx:stacking-card"
-                        class="block block--stacking-card stacking-card" data-wmx-wpb="stacking-card">
-                        <div class="card-content">
-                          <div data-component="core:columns"
-                            class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
-
-                            <div data-component="core:column"
-                              class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-                              <figure data-component="core:image" class="wp-block-image size-large has-custom-border">
-                                <img loading="lazy" decoding="async" width="1024" height="576"
-                                  src="./assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1024x576.webp" alt=""
-                                  class="wp-image-48" style="
-                                      border-radius: 16px;
-                                      aspect-ratio: 1;
-                                      object-fit: cover;
-                                    " srcset="
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1024x576.webp 1024w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-300x169.webp   300w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-768x432.webp   768w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1536x864.webp 1536w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef.webp          2048w
-                                    " sizes="(max-width: 1024px) 100vw, 1024px" />
-                              </figure>
-                            </div>
-
-                            <div data-component="core:column"
-                              class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-                              <hr data-component="core:separator"
-                                class="wp-block-separator has-alpha-channel-opacity has-solar-gradient-background has-background is-style-narrow" />
-
-                              <h2 data-component="core:heading" class="wp-block-heading"
-                                id="h-solar-panels-amp-batteries">
-                                ¡Empieza tu camino como Asesor Solar hoy!
-                              </h2>
-
-                              <p>
-                                Únete a Revolución Solar y genera ingresos atractivos mientras ayudas a construir un futuro más sostenible.
-                              </p>
-
-                              <div data-component="core:buttons"
-                                class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-                                <div class="wp-block-button is-style-btn-outline">
-                                  <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                                    href="#">
-                                    Regístrate ahora
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-
-                          </div>
-                        </div>
-                      </div>
-
-                      <div id="wmx-stacking-card-k9ifc75" data-component="wmx:stacking-card"
-                        class="block block--stacking-card has-background has-ocean-blue-background-color stacking-card"
-                        data-wmx-wpb="stacking-card" data-bs-theme="dark">
-                        <div class="card-content">
-                          <div data-component="core:columns"
-                            class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-8 wp-block-columns-is-layout-flex">
-                            <div data-component="core:column"
-                              class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-                              <figure data-component="core:image" class="wp-block-image size-large has-custom-border">
-                                <img loading="lazy" decoding="async" width="1024" height="683"
-                                  src="./assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-1024x683.webp" alt=""
-                                  class="wp-image-176" style="
-                                      border-radius: 16px;
-                                      aspect-ratio: 1;
-                                      object-fit: cover;
-                                    " srcset="
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-1024x683.webp  1024w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-300x200.webp    300w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-768x512.webp    768w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-1536x1024.webp 1536w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers.webp           2048w
-                                    " sizes="(max-width: 1024px) 100vw, 1024px" />
-                              </figure>
-                            </div>
-
-                            <div data-component="core:column"
-                              class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-                              <hr data-component="core:separator"
-                                class="wp-block-separator has-alpha-channel-opacity has-solar-gradient-background has-background is-style-narrow" />
-
-                              <h2 data-component="core:heading" class="wp-block-heading" id="h-solar-in-your-state">
-                                ¡Empieza a ahorrar con energía solar hoy mismo!
-                              </h2>
-
-                              <p>
-                                Completa el formulario y recibe una cotización personalizada para tu hogar o negocio. Da el primer paso hacia un futuro más sostenible y eficiente.
-                              </p>
-
-                              <div data-component="core:buttons"
-                                class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-                                <div class="wp-block-button is-style-btn-outline">
-                                  <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                                    href="#">
-                                    Solicita tu cotización ahora
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
 
     </main>
 
@@ -3474,72 +3348,6 @@
         </symbol>
       </defs>
     </svg>
-  </div>
-
-  <div id="wmx-modal-25804" data-modal-title="Reliable Power Pop-up 2" class="wmx-modal" style="display: none"
-    aria-hidden="true"
-    data-options='{"_wmx_modal_active":"1","_wmx_modal_layout":"large","_wmx_modal_allow_interaction":"","_wmx_modal_set_cookie":"1","_wmx_modal_expiration":"30","_wmx_modal_position":"center","_wmx_modal_trigger":"exit","_wmx_modal_condition":"path","_wmx_modal_condition_path":"^(?!.*\\\/landing\\\/).*$"}'>
-    <div data-component="wmx-modals:wmx-modal-wrapper"
-      class="wp-block-wmx-modals-wmx-modal-wrapper has-ffffff-background-color has-background">
-      <div class="inner-content-wrapper">
-        <div data-component="core:group" data-bs-theme="dark"
-          class="wp-block-group has-navy-background-color has-background is-layout-flow wp-block-group-is-layout-flow"
-          style="
-              border-radius: 12px;
-              padding-top: var(--wp--preset--spacing--30);
-              padding-right: var(--wp--preset--spacing--30);
-              padding-bottom: var(--wp--preset--spacing--30);
-              padding-left: var(--wp--preset--spacing--30);
-            ">
-          <div data-component="core:columns"
-            class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex"
-            style="border-style: none; border-width: 0px; border-radius: 0px">
-            <div data-component="core:column"
-              class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-              <figure data-component="core:image" class="wp-block-image alignright size-large has-custom-border">
-                <img fetchpriority="high" decoding="async" width="1024" height="684"
-                  src="./assets/img/www.solarenergyworld.com/wp-content/uploads/2024/12/Solar-Power-1024x684.jpg" alt="" class="wp-image-25934" style="
-                      border-radius: 12px;
-                      aspect-ratio: 4/3;
-                      object-fit: cover;
-                    " srcset="
-                      https://www.solarenergyworld.com/wp-content/uploads/2024/12/Solar-Power-1024x684.jpg 1024w,
-                      https://www.solarenergyworld.com/wp-content/uploads/2024/12/Solar-Power-300x200.jpg   300w,
-                      https://www.solarenergyworld.com/wp-content/uploads/2024/12/Solar-Power-768x513.jpg   768w,
-                      https://www.solarenergyworld.com/wp-content/uploads/2024/12/Solar-Power.jpg          1200w
-                    " sizes="(max-width: 1024px) 100vw, 1024px" />
-              </figure>
-            </div>
-
-            <div data-component="core:column"
-              class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-              <h3 data-component="core:heading" class="wp-block-heading" id="h-stay-powered-when-it-matters-most">
-                Stay Powered When It Matters Most
-              </h3>
-
-              <p style="
-                    padding-top: var(--wp--preset--spacing--30);
-                    padding-bottom: var(--wp--preset--spacing--30);
-                  ">
-                Our solar batteries provide continuous power security. Explore
-                your options for resilience today!
-              </p>
-
-              <div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex"
-                style="
-                    margin-top: var(--wp--preset--spacing--30);
-                    margin-bottom: var(--wp--preset--spacing--30);
-                  ">
-                <div class="wp-block-button is-style-btn-primary">
-                  <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                    href="./pages/www.solarenergyworld.com/battery/index.html">View Battery Options</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 
   <div>
