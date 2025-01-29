@@ -1,1 +1,0 @@
-document.addEventListener("DOMContentLoaded",(function(n){document.querySelectorAll(".block--wizard").forEach((function(n){var o={block:null,init:function(n){this.block=n},log:function(n){console.log(n)}};o.init(n)}))}));

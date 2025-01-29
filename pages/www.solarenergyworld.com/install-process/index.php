@@ -1435,8 +1435,6 @@
 					</div>
 				</div>
 			</section>
-
-
 			<section id="wmx-section-wrapper-u9poolr" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
 				<div class="container">
 					<div class="row">
@@ -1462,21 +1460,18 @@
 					</div>
 				</div>
 			</section>
-
 			<div id="pasos">
 
 				<section id="wmx-section-wrapper-5kgie2l" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);" data-wmx-wpb="section-wrapper">
 					<div class="container">
 						<div class="row">
 							<div class="col-12">
-
 								<div class="inner-wrapper">
-
 									<div data-component="core:columns" class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
 
 										<div data-component="core:column" data-order-mobile="true" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
 											<figure data-component="core:image" class="wp-block-image aligncenter size-full is-resized has-custom-border">
-												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso1.webp" alt="" class="wp-image-1340" style="width:50%" />
+												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso1.webp" alt="" class="wp-image-1340" style="width:40%"/>
 											</figure>
 										</div>
 										<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
@@ -1495,9 +1490,7 @@
 										</div>
 
 									</div>
-
 								</div>
-
 							</div>
 						</div>
 					</div>
@@ -1523,7 +1516,7 @@
 										</div>
 										<div data-component="core:column" data-order-mobile="true" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
 											<figure data-component="core:image" class="wp-block-image aligncenter size-full is-resized has-custom-border">
-												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso2.webp" alt="" class="wp-image-1340" style="width:50%" />
+												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso2.webp" alt="" class="wp-image-1340" style="width:40%" />
 											</figure>
 										</div>
 
@@ -1547,7 +1540,7 @@
 
 										<div data-component="core:column" data-order-mobile="true" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
 											<figure data-component="core:image" class="wp-block-image aligncenter size-full is-resized has-custom-border">
-												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso3.webp" alt="" class="wp-image-1340" style="width:50%" />
+												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso3.webp" alt="" class="wp-image-1340" style="width:40%" />
 											</figure>
 										</div>
 										<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
@@ -1598,7 +1591,7 @@
 										</div>
 										<div data-component="core:column" data-order-mobile="true" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
 											<figure data-component="core:image" class="wp-block-image aligncenter size-full is-resized has-custom-border">
-												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso4.webp" alt="" class="wp-image-1340" style="width:50%" />
+												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso4.webp" alt="" class="wp-image-1340" style="width:40%" />
 											</figure>
 										</div>
 
@@ -1622,7 +1615,7 @@
 
 										<div data-component="core:column" data-order-mobile="true" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
 											<figure data-component="core:image" class="wp-block-image aligncenter size-full is-resized has-custom-border">
-												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso5.webp" alt="" class="wp-image-1340" style="width:50%" />
+												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso5.webp" alt="" class="wp-image-1340" style="width:40%" />
 											</figure>
 										</div>
 										<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
@@ -1683,7 +1676,7 @@
 										</div>
 										<div data-component="core:column" data-order-mobile="true" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
 											<figure data-component="core:image" class="wp-block-image aligncenter size-full is-resized has-custom-border">
-												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso6.webp" alt="" class="wp-image-1340" style="width:50%" />
+												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso6.webp" alt="" class="wp-image-1340" style="width:40%" />
 											</figure>
 										</div>
 
@@ -1707,7 +1700,7 @@
 
 										<div data-component="core:column" data-order-mobile="true" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
 											<figure data-component="core:image" class="wp-block-image aligncenter size-full is-resized has-custom-border">
-												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso7.webp" alt="" class="wp-image-1340" style="width:50%" />
+												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso7.webp" alt="" class="wp-image-1340" style="width:40%" />
 											</figure>
 										</div>
 										<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
@@ -1758,7 +1751,7 @@
 										</div>
 										<div data-component="core:column" data-order-mobile="true" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
 											<figure data-component="core:image" class="wp-block-image aligncenter size-full is-resized has-custom-border">
-												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso8.webp" alt="" class="wp-image-1340" style="width:50%" />
+												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso8.webp" alt="" class="wp-image-1340" style="width:40%" />
 											</figure>
 										</div>
 
@@ -1782,7 +1775,7 @@
 
 										<div data-component="core:column" data-order-mobile="true" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
 											<figure data-component="core:image" class="wp-block-image aligncenter size-full is-resized has-custom-border">
-												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso9.webp" alt="" class="wp-image-1340" style="width:50%" />
+												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso9.webp" alt="" class="wp-image-1340" style="width:40%" />
 											</figure>
 										</div>
 										<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
@@ -1832,7 +1825,7 @@
 										</div>
 										<div data-component="core:column" data-order-mobile="true" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
 											<figure data-component="core:image" class="wp-block-image aligncenter size-full is-resized has-custom-border">
-												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso10.webp" alt="" class="wp-image-1340" style="width:50%" />
+												<img loading="lazy" decoding="async" width="1024" height="auto" src="/assets/img/pages/instalacion/pasos/paso10.webp" alt="" class="wp-image-1340" style="width:40%" />
 											</figure>
 										</div>
 

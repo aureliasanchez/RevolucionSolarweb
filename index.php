@@ -2212,7 +2212,7 @@
                   <div data-component="core:column"
                     class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
                     <div id="wmx-cards-wrapper-82y8izq" data-component="wmx:cards-wrapper"
-                      class="block block--cards-wrapper" style="--card-count: 3" data-wmx-wpb="cards-wrapper"
+                      class="block block--cards-wrapper" style="--card-count: 2" data-wmx-wpb="cards-wrapper"
                       data-mobile="slider">
                       <div class="cards">
 
@@ -2280,7 +2280,6 @@
                             Capacitación continua
                           </h4>
                         </div>
-                        <div class="displayCard"></div>
                         <div id="wmx-card-7w23707" data-component="wmx:card" class="block block--card" style="
                               padding-top: var(--wp--preset--spacing--40);
                               padding-bottom: var(--wp--preset--spacing--40);
@@ -2302,7 +2301,6 @@
                             Apoyo y herramientas profesionales
                           </h4>
                         </div>
-                        <div class="displayCard"></div>
 
                       </div>
                     </div>
