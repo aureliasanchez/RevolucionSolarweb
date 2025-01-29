@@ -1457,8 +1457,8 @@
 												padding-top: var(--wp--preset--spacing--40);                              padding-bottom: var(--wp--preset--spacing--40);                              padding-left: var(--wp--preset--spacing--40);                              padding-right: var(--wp--preset--spacing--40);                              box-shadow: var(--wp--preset--shadow--soft);                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
 													data-bs-theme="light">
 													<figure data-component="core:image" class="wp-block-image aligncenter size-large">
-														<img loading="lazy" decoding="async" width="80" height="80"
-															src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/Bill.svg" alt="" class="wp-image-19" />
+														<img loading="lazy" decoding="async" width="150" height="150"
+															src="/assets/img/pages/financiamiento/beneficios/garantia.webp" alt="" class="wp-image-19" />
 													</figure>
 
 													<div style="height: 1.5rem; width: 0px" aria-hidden="true" data-component="core:spacer"
@@ -1476,8 +1476,8 @@
 												padding-top: var(--wp--preset--spacing--40);                              padding-bottom: var(--wp--preset--spacing--40);                              padding-left: var(--wp--preset--spacing--40);                              padding-right: var(--wp--preset--spacing--40);                              box-shadow: var(--wp--preset--shadow--soft);                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
 													data-bs-theme="light">
 													<figure data-component="core:image" class="wp-block-image aligncenter size-large">
-														<img loading="lazy" decoding="async" width="80" height="80"
-															src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/House-Solar.svg" alt="" class="wp-image-21"
+														<img loading="lazy" decoding="async" width="150" height="150"
+															src="/assets/img/pages/financiamiento/beneficios/garantiaInversiones.webp" alt="" class="wp-image-21"
 															style="object-fit: cover" />
 													</figure>
 
@@ -1496,8 +1496,8 @@
 												padding-top: var(--wp--preset--spacing--40);                              padding-bottom: var(--wp--preset--spacing--40);                              padding-left: var(--wp--preset--spacing--40);                              padding-right: var(--wp--preset--spacing--40);                              box-shadow: var(--wp--preset--shadow--soft);                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
 													data-bs-theme="light">
 													<figure data-component="core:image" class="wp-block-image aligncenter size-large">
-														<img loading="lazy" decoding="async" width="80" height="80"
-															src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Piggy-Bank.svg" alt="" class="wp-image-22" />
+														<img loading="lazy" decoding="async" width="150" height="150"
+															src="/assets/img/pages/financiamiento/beneficios/mantenimientoG.webp" alt="" class="wp-image-22" />
 													</figure>
 
 													<div style="height: 1.5rem" aria-hidden="true" data-component="core:spacer"
@@ -1515,8 +1515,8 @@
 												padding-top: var(--wp--preset--spacing--40);                              padding-bottom: var(--wp--preset--spacing--40);                              padding-left: var(--wp--preset--spacing--40);                              padding-right: var(--wp--preset--spacing--40);                              box-shadow: var(--wp--preset--shadow--soft);                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
 													data-bs-theme="light">
 													<figure data-component="core:image" class="wp-block-image aligncenter size-large">
-														<img loading="lazy" decoding="async" width="80" height="80"
-															src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Documents.svg" alt="" class="wp-image-25" />
+														<img loading="lazy" decoding="async" width="150" height="150"
+															src="/assets/img/pages/financiamiento/beneficios/capasitacionP.webp" alt="" class="wp-image-25" />
 													</figure>
 
 													<div style="height: 1.5rem" aria-hidden="true" data-component="core:spacer"
@@ -1534,8 +1534,8 @@
 												padding-top: var(--wp--preset--spacing--40);                              padding-bottom: var(--wp--preset--spacing--40);                              padding-left: var(--wp--preset--spacing--40);                              padding-right: var(--wp--preset--spacing--40);                              box-shadow: var(--wp--preset--shadow--soft);                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
 													data-bs-theme="light">
 													<figure data-component="core:image" class="wp-block-image aligncenter size-large">
-														<img loading="lazy" decoding="async" width="80" height="80"
-															src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Documents.svg" alt="" class="wp-image-25" />
+														<img loading="lazy" decoding="async" width="150" height="150"
+															src="/assets/img/pages/financiamiento/beneficios/mantenimientoP.webp" alt="" class="wp-image-25" />
 													</figure>
 
 													<div style="height: 1.5rem" aria-hidden="true" data-component="core:spacer"

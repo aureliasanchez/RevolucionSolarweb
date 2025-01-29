@@ -1488,32 +1488,27 @@
 								<div data-component="core:columns" class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8 wp-block-columns-is-layout-flex">
 									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
 										<div id="wmx-cards-wrapper-82y8izq" data-component="wmx:cards-wrapper" class="block block--cards-wrapper" style="--card-count:3;" data-wmx-wpb="cards-wrapper" data-mobile="slider">
-
 											<div class="cards">
 
-												<div id="card-6782af2eaef99" data-component="wmx:card" class="block block--card" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="true" data-banner-image="false" data-bs-theme="light">
+												<div id="card-6782af2eaef99"
+													data-component="wmx:card" class="block block--card" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="true" data-banner-image="false" data-bs-theme="light">
 
-													<figure data-component="core:image" class="wp-block-image aligncenter size-large"><img loading="lazy" decoding="async" width="80" height="80" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Battery.svg" alt="" class="wp-image-207" /></figure>
-
+													<figure data-component="core:image" class="wp-block-image aligncenter size-large"><img loading="lazy" decoding="async" width="150" height="150" src="/assets/img/pages/productos/elegirPanel/monocristalizado.webp" alt="" class="wp-image-207" /></figure>
 													<div style="height:1.5rem;width:0px" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
-
 													<h4 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-solar-batteries">
 														Monocristalinos
 													</h4>
-
-
 													<a href="/pages/www.solarenergyworld.com/battery/index.php" class="visually-hidden-focusable" target="_self">
 														<span class="visually-hidden">
 															Learn more about solar batteries
 														</span>
 													</a>
 
-
 												</div>
+												<div id="card-6782af2eaf13f"
+													data-component="wmx:card" class="block block--card" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="true" data-banner-image="false" data-bs-theme="light">
 
-												<div id="card-6782af2eaf13f" data-component="wmx:card" class="block block--card" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="true" data-banner-image="false" data-bs-theme="light">
-
-													<figure data-component="core:image" class="wp-block-image aligncenter size-large"><img loading="lazy" decoding="async" width="80" height="80" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Monitoring.svg" alt="" class="wp-image-208" style="object-fit:cover" /></figure>
+													<figure data-component="core:image" class="wp-block-image aligncenter size-large"><img loading="lazy" decoding="async" width="150" height="150" src="/assets/img/pages/productos/elegirPanel/policristalizado.webp" alt="" class="wp-image-208" style="object-fit:cover" /></figure>
 
 													<div style="height:1.5rem;width:0px" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
 
@@ -1526,10 +1521,10 @@
 
 
 												</div>
+												<div id="card-6782af2eaf25b"
+													data-component="wmx:card" class="block block--card" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="true" data-banner-image="false" data-bs-theme="light">
 
-												<div id="card-6782af2eaf25b" data-component="wmx:card" class="block block--card" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);box-shadow: var(--wp--preset--shadow--soft);" data-wmx-wpb="card" data-wmx-stretch-link="true" data-banner-image="false" data-bs-theme="light">
-
-													<figure data-component="core:image" class="wp-block-image aligncenter size-large"><img loading="lazy" decoding="async" width="80" height="80" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Check-Doc.svg" alt="" class="wp-image-209" /></figure>
+													<figure data-component="core:image" class="wp-block-image aligncenter size-large"><img loading="lazy" decoding="async" width="150" height="150" src="/assets/img/pages/productos/elegirPanel/bifacial.webp" alt="" class="wp-image-209" /></figure>
 
 													<div style="height:1.5rem" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
 
@@ -1544,7 +1539,6 @@
 												</div>
 
 											</div>
-
 										</div>
 									</div>
 								</div>

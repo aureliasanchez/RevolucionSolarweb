@@ -12,7 +12,7 @@
 }
 
 .cards div:hover {
-    transform: scale(110%);
+    transform: scale(105%);
 }
 
 @media (max-width:991.98px) {

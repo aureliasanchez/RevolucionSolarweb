@@ -1820,9 +1820,11 @@
                           <div class="gform-body gform_body">
                             <div id="gform_fields_3" class="gform_fields top_label form_sublabel_below description_below validation_below">
                               <div class="gfield gfield--type-submit gfield--width-half field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible">
-                                <button class="gform-button gform-button--white button">
-                                  Empieza a ahorrar ahora
-                                </button>
+                                <a href="./pages/www.solarenergyworld.com/contact/index.php">
+                                  <button class="gform-button gform-button--white button" >
+                                    Empieza a ahorrar ahora
+                                  </button>
+                                </a>
                               </div>
                             </div>
                           </div>
@@ -1881,7 +1883,7 @@
 
                       <div class="wp-block-button is-style-btn-outline">
                         <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                          href="./pages/www.solarenergyworld.com/products/index.html">
+                          href="./pages/www.solarenergyworld.com/install-process/index.php">
                           Descubre más
                         </a>
                       </div>
@@ -1938,17 +1940,11 @@
                               class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
                               <figure data-component="core:image" class="wp-block-image size-large has-custom-border">
                                 <img loading="lazy" decoding="async" width="1024" height="576"
-                                  src="./assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1024x576.webp" alt=""
+                                  src="./assets/img/pages/index/clientesResidenciales.webp" alt=""
                                   class="wp-image-48" style="
                                       border-radius: 16px;
                                       aspect-ratio: 1;
                                       object-fit: cover;
-                                    " srcset="
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1024x576.webp 1024w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-300x169.webp   300w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-768x432.webp   768w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1536x864.webp 1536w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef.webp          2048w
                                     " sizes="(max-width: 1024px) 100vw, 1024px" />
                               </figure>
                             </div>
@@ -1984,7 +1980,7 @@
                                 class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                 <div class="wp-block-button is-style-btn-outline">
                                   <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                                    href="./pages/www.solarenergyworld.com/products/index.html">
+                                    href="./pages/www.solarenergyworld.com/contact/index.php">
                                     Empieza a ahorrar ahora
                                   </a>
                                 </div>
@@ -2005,18 +2001,12 @@
                               class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
                               <figure data-component="core:image" class="wp-block-image size-large has-custom-border">
                                 <img loading="lazy" decoding="async" width="1024" height="683"
-                                  src="./assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-1024x683.webp" alt=""
+                                  src="./assets/img/pages/index/clientesComerciales.webp" alt=""
                                   class="wp-image-176" style="
                                       border-radius: 16px;
                                       aspect-ratio: 1;
                                       object-fit: cover;
-                                    " srcset="
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-1024x683.webp  1024w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-300x200.webp    300w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-768x512.webp    768w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers-1536x1024.webp 1536w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/solar-installers.webp           2048w
-                                    " sizes="(max-width: 1024px) 100vw, 1024px" />
+                                    "sizes="(max-width: 1024px) 100vw, 1024px" />
                               </figure>
                             </div>
 
@@ -2051,7 +2041,7 @@
                                 class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                 <div class="wp-block-button is-style-btn-outline">
                                   <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                                    href="./pages/www.solarenergyworld.com/solar-by-state/index.html">
+                                    href="./pages/www.solarenergyworld.com/contact/index.php">
                                     Empieza a ahorrar ahora
                                   </a>
                                 </div>
@@ -2109,7 +2099,7 @@
                                 class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                 <div class="wp-block-button is-style-btn-outline">
                                   <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                                    href="#">
+                                    href="./pages/www.solarenergyworld.com/service-request/index.php">
                                     Solicita tu cotización ahora
                                   </a>
                                 </div>
@@ -2165,9 +2155,11 @@
                     <div data-component="core:buttons"
                       class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
 
-                      <div class="wp-block-button is-style-btn-primary"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="#wmx-section-wrapper-v557yqc">
+                      <div class="wp-block-button is-style-btn-primary">
+                        <a data-component="core:button" class="wp-block-button__link wp-element-button" href="./pages/www.solarenergyworld.com/earn-cash-rewards-for-referrals/index.php">
                           Únete ahora
-                        </a></div>
+                        </a>
+                      </div>
 
                     </div>
 
@@ -2225,8 +2217,8 @@
                             " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
                           data-bs-theme="light">
                           <figure data-component="core:image" class="wp-block-image aligncenter size-large">
-                            <img loading="lazy" decoding="async" width="80" height="80"
-                              src="./assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/Bill.svg" alt="" class="wp-image-19" />
+                            <img loading="lazy" decoding="async" width="150" height="150"
+                              src="./assets/img/pages/index/beneficiosClave/ingresosRA.webp" alt="" class="wp-image-19" />
                           </figure>
 
                           <div style="height: 1.5rem; width: 0px" aria-hidden="true" data-component="core:spacer"
@@ -2246,8 +2238,8 @@
                             " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
                           data-bs-theme="light">
                           <figure data-component="core:image" class="wp-block-image aligncenter size-large">
-                            <img loading="lazy" decoding="async" width="80" height="80"
-                              src="./assets/img/www.solarenergyworld.com/wp-content/uploads/svg/House-Solar.svg" alt="" class="wp-image-21"
+                            <img loading="lazy" decoding="async" width="150" height="150"
+                              src="./assets/img/pages/index/beneficiosClave/ceroII.webp" alt="" class="wp-image-21"
                               style="object-fit: cover" />
                           </figure>
 
@@ -2268,8 +2260,8 @@
                             " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
                           data-bs-theme="light">
                           <figure data-component="core:image" class="wp-block-image aligncenter size-large">
-                            <img loading="lazy" decoding="async" width="80" height="80"
-                              src="./assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Piggy-Bank.svg" alt="" class="wp-image-22" />
+                            <img loading="lazy" decoding="async" width="150" height="150"
+                              src="./assets/img/pages/index/beneficiosClave/capacitacionC.webp" alt="" class="wp-image-22" />
                           </figure>
 
                           <div style="height: 1.5rem" aria-hidden="true" data-component="core:spacer"
@@ -2289,8 +2281,8 @@
                             " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
                           data-bs-theme="light">
                           <figure data-component="core:image" class="wp-block-image aligncenter size-large">
-                            <img loading="lazy" decoding="async" width="80" height="80"
-                              src="./assets/img/www.solarenergyworld.com/wp-content/uploads/svg/Documents.svg" alt="" class="wp-image-25" />
+                            <img loading="lazy" decoding="async" width="150" height="150"
+                              src="./assets/img/pages/index/beneficiosClave/apoyoHP.webp" alt="" class="wp-image-25" />
                           </figure>
 
                           <div style="height: 1.5rem" aria-hidden="true" data-component="core:spacer"
@@ -2337,18 +2329,12 @@
                               class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
                               <figure data-component="core:image" class="wp-block-image size-large has-custom-border">
                                 <img loading="lazy" decoding="async" width="1024" height="576"
-                                  src="./assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1024x576.webp" alt=""
+                                  src="./assets/img/pages/index/acesorSolar.webp" alt=""
                                   class="wp-image-48" style="
                                       border-radius: 16px;
                                       aspect-ratio: 1;
                                       object-fit: cover;
-                                    " srcset="
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1024x576.webp 1024w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-300x169.webp   300w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-768x432.webp   768w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef-1536x864.webp 1536w,
-                                      https://www.solarenergyworld.com/wp-content/uploads/2024/05/d2ec129470064d9df1f61fef8a80dcef.webp          2048w
-                                    " sizes="(max-width: 1024px) 100vw, 1024px" />
+                                    "  sizes="(max-width: 1024px) 100vw, 1024px" />
                               </figure>
                             </div>
 
@@ -2370,7 +2356,7 @@
                                 class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                 <div class="wp-block-button is-style-btn-outline">
                                   <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                                    href="#">
+                                    href="./pages/www.solarenergyworld.com/earn-cash-rewards-for-referrals/index.php">
                                     Regístrate ahora
                                   </a>
                                 </div>

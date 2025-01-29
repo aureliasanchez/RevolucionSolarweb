@@ -1405,7 +1405,7 @@
 										</p>
 										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
 											<div class="wp-block-button is-style-btn-primary">
-												<a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/contact/index.html">
+												<a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/contact/index.php">
 													Saber más
 												</a>
 											</div>
@@ -1416,7 +1416,7 @@
 										<div id="wmx-hero-media-cddipmd" data-component="wmx:hero-media" class="block block--hero-media" data-wmx-wpb="hero-media">
 
 											<div class="backdrop"></div>
-											<div class="poster" style="background-image:url(/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/08/DSC011111-scaled-e1723226388348.jpg); "></div>
+											<div class="poster" style="background-image:url(/assets/img/pages/energiaSolar/comoFunciona.webp); "></div>
 											<div class="video-wrapper"></div>
 
 										</div>
@@ -1545,7 +1545,7 @@
 										</div>
 										<div aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
 										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-											<div class="wp-block-button is-style-btn-outline"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/faqs/index.html">
+											<div class="wp-block-button is-style-btn-outline"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/faqs/index.php">
 													Ver todas
 												</a></div>
 										</div>
