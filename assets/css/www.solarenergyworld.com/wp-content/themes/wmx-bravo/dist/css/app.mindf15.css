@@ -1864,10 +1864,10 @@ footer .colophon-footer:before {
         align-items: center;
         gap: .5rem;
         padding: 1rem 1.5rem;
-        background-color: #fddd00;
+        background-color: #FFEC00;
         border-radius: 12px;
         font-weight: 700 !important;
-        color: #1c2c57 !important
+        color: #19255A !important
     }
 
     /* #header .main-nav #main-menu>.menu-item.button>a:after {
@@ -2846,9 +2846,9 @@ body.scrolled #header .utility-nav {
 [data-bs-theme=dark] .hs-form .hs-submit .gform_wrapper.wizard-zip-code_wrapper .gform_body .gform_fields .gfield.gfield--type-submit input.gform-button[type=submit],
 [data-bs-theme=dark] .hs-form .hs-submit input.btn-primary[type=submit],
 [data-bs-theme=dark] .hs-form .hs-submit input[type=submit] {
-    background-color: #fddd00;
-    border-color: #fddd00;
-    color: #243f8b;
+    background-color: #FFEC00;
+    border-color: #FFEC00;
+    color: #19255A;
     transition: all .4s ease
 }
 
@@ -3530,7 +3530,7 @@ body.scrolled #header .utility-nav {
 [data-bs-theme=dark] .hs-form .hs-submit input.btn-primary[type=submit]:hover,
 [data-bs-theme=dark] .hs-form .hs-submit input[type=submit]:focus,
 [data-bs-theme=dark] .hs-form .hs-submit input[type=submit]:hover {
-    background-color: #243f8b;
+    background-color: #19255A;
     border-color: var(--btn-primary-border-color-hover);
     color: #fff;
     transition: all .4s ease
@@ -3906,8 +3906,8 @@ body.scrolled #header .utility-nav {
 [data-bs-theme=dark] .hs-form .hs-submit .gform_wrapper.wizard-zip-code_wrapper .gform_body .gform_fields .gfield.gfield--type-submit input.gform-button[type=submit]:active,
 [data-bs-theme=dark] .hs-form .hs-submit input.btn-primary[type=submit]:active,
 [data-bs-theme=dark] .hs-form .hs-submit input[type=submit]:active {
-    background-color: #1c2c57;
-    border-color: #1c2c57;
+    background-color: #19255A;
+    border-color: #19255A;
     color: #fff
 }
 
@@ -4912,7 +4912,7 @@ body.scrolled #header .utility-nav {
 [data-bs-theme=dark] .hs-form .hs-submit input[type=submit]:hover {
     background-color: #fff;
     border-color: #fff;
-    color: #243f8b
+    color: #19255A
 }
 
 .btn.btn-white-outline:active,
@@ -4941,9 +4941,9 @@ body.scrolled #header .utility-nav {
 .wp-block-button.is-style-btn-white-outline .wp-element-button:active,
 [data-bs-theme=dark] .hs-form .hs-submit .gform_wrapper .gform_body .gfield input#skipButton[type=submit]:active,
 [data-bs-theme=dark] .hs-form .hs-submit input[type=submit]:active {
-    background-color: #fddd00;
-    border-color: #fddd00;
-    color: #1c2c57
+    background-color: #FFEC00;
+    border-color: #FFEC00;
+    color: #19255A
 }
 
 .btn.btn-link,
@@ -5344,7 +5344,7 @@ body.scrolled #header .utility-nav {
 }
 
 [data-bs-theme=light] {
-    --btn-primary-border-color-hover: #1c2c57;
+    --btn-primary-border-color-hover: #19255A;
     --btn-outline-color: #1c2c57;
     --btn-outline-bg-color: transparent;
     --btn-outline-border-color: #243f8b;
@@ -5357,11 +5357,11 @@ body.scrolled #header .utility-nav {
 }
 
 [data-bs-theme=dark] {
-    --btn-primary-border-color-hover: #fddd00;
+    --btn-primary-border-color-hover: #FFEC00;
     --btn-outline-color: #fff;
     --btn-outline-bg-color: transparent;
     --btn-outline-border-color: #fff;
-    --btn-outline-color-hover: #1c2c57;
+    --btn-outline-color-hover: #19255A;
     --btn-outline-bg-color-hover: #fff
 }
 
