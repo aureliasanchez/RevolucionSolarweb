@@ -265,9 +265,9 @@
 			code.init();
 		})();
 	</script>
-	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
-	<script type="text/javascript" src="/assets/js/cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" id="jquery-js"></script>
-	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/g-business-reviews-rating/wp/js/js109c.js?ver=6.6.2" id="google_business_reviews_rating_wp_js-js"></script>
+	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/jquery/funcion_55.js?ver=3.7.1" id="jquery-core-js"></script>
+	<script type="text/javascript" src="/assets/js/cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/funcion_01.js" id="jquery-js"></script>
+	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/g-business-reviews-rating/wp/js/funcion_06.js?ver=6.6.2" id="google_business_reviews_rating_wp_js-js"></script>
 	<script type="text/javascript" id="wmx-modals-js-extra">
 		/* <![CDATA[ */
 		var wmxModals = {
@@ -276,7 +276,7 @@
 		};
 		/* ]]> */
 	</script>
-	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/wmx-modals-1/public/dist/js/wmx-modals-public.min1c12.js?ver=2.0.4" id="wmx-modals-js"></script>
+	<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/wmx-modals-1/public/dist/js/funcion_19.js?ver=2.0.4" id="wmx-modals-js"></script>
 	<script type="application/ld+json" class="yoast-schema-graph">
 		{
 			"@context": "https://schema.org",
@@ -376,8 +376,6 @@
 
 	<!-- Link -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/www.solarenergyworld.com/favicon/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/www.solarenergyworld.com/favicon/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/www.solarenergyworld.com/favicon/favicon-16x16.png">
 	<link rel="manifest" href="/assets/other/www.solarenergyworld.com/favicon/site.webmanifest">
 	<link rel="mask-icon" href="/assets/img/www.solarenergyworld.com/favicon/safari-pinned-tab.svg" color="#5bbad5">
 	<link rel="shortcut icon" href="/assets/img/www.solarenergyworld.com/favicon/favicon.ico">
@@ -386,15 +384,15 @@
 	<link rel='dns-prefetch' href='http://js.hs-scripts.com/' />
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 	<link rel='stylesheet' id='google_business_reviews_rating_wp_css-css' href='/assets/css/universal.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='google_business_reviews_rating_wp_css-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/g-business-reviews-rating/wp/css/css109c.css?ver=6.6.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='google_business_reviews_rating_wp_css-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/g-business-reviews-rating/wp/css/estilo_01.css' type='text/css' media='all' />
 	<link rel='stylesheet' id='block-editor-google-fonts-css' href='https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Manrope:wght@200..800&amp;display=swap' type='text/css' media='all' />
-	<link rel='stylesheet' id='wmx-bootstrap-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/css/bs.mindf15.css?v=1733933346' type='text/css' media='all' />
-	<link rel='stylesheet' id='wmx-bootstrap-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/cards-wrapper/dist/cards-wrapper.min0fc1.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='wmx-bravo-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/css/app.mindf15.css?v=1733933346' type='text/css' media='all' />
-	<link rel='stylesheet' id='wmx-consent-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/consent/themea999.css?v=20250111' type='text/css' media='all' />
-	<link rel='stylesheet' id='wmx-base-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/css/app.mindf15.css?v=1733933346' type='text/css' media='all' />
-	<link rel='stylesheet' id='wmx-wp-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/css/wp.mindf15.css?v=1733933346' type='text/css' media='all' />
-	<link rel='stylesheet' id='wmx-modals-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/wmx-modals-1/public/dist/css/wmx-modals-public.min1c12.css?ver=2.0.4' type='text/css' media='all' />
+	<link rel='stylesheet' id='wmx-bootstrap-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/css/estilo_27.css?v=1733933346' type='text/css' media='all' />
+	<link rel='stylesheet' id='wmx-bootstrap-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/cards-wrapper/dist/estilo_07.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='wmx-bravo-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/css/estilo_26.css?v=1733933346' type='text/css' media='all' />
+	<link rel='stylesheet' id='wmx-consent-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/consent/estilo_25.css?v=20250111' type='text/css' media='all' />
+	<link rel='stylesheet' id='wmx-base-styles-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/css/estilo_28.css?v=1733933346' type='text/css' media='all' />
+	<link rel='stylesheet' id='wmx-wp-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/css/estilo_29.css?v=1733933346' type='text/css' media='all' />
+	<link rel='stylesheet' id='wmx-modals-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/wmx-modals-1/public/dist/css/estilo_04.css' type='text/css' media='all' />
 	<link rel="https://api.w.org/" href="/pages/www.solarenergyworld.com/wp-json/index.html" />
 	<link rel="alternate" title="JSON" type="application/json" href="/assets/other/www.solarenergyworld.com/wp-json/wp/v2/pages/638.json" />
 	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed8e2a.json?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fabout-us%2F" />
@@ -402,6 +400,7 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com/">
 	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
 
+	<link rel="icon" type="image/png" href="/assets/img/logo/bco1.webp" />
 	<title>Solar Panel Installation Company | Solar Energy World</title>
 </head>
 
@@ -1875,12 +1874,11 @@
 
 	<div>
 
-		<link rel='stylesheet' id='wmx-block-css-hero-media-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/hero-media/dist/hero-media.min0fc1.css?ver=1733933346' type='text/css' media='all' />
-		<link rel='stylesheet' id='wmx-block-css-section-wrapper-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/section-wrapper/dist/section-wrapper.min0fc1.css?ver=1733933346' type='text/css' media='all' />
-		<link rel='stylesheet' id='gform_basic-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/basic.minbf47.css?ver=2.9.1' type='text/css' media='all' />
-		<link rel='stylesheet' id='gform_theme_components-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.minbf47.css?ver=2.9.1' type='text/css' media='all' />
-		<link rel='stylesheet' id='gform_theme-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/theme.minbf47.css?ver=2.9.1' type='text/css' media='all' />
-		<link rel='stylesheet' id='wmx-block-css-wizard-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/wizard/dist/wizard.mind040.css?ver=1733933428' type='text/css' media='all' />
+		<link rel='stylesheet' id='wmx-block-css-hero-media-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/hero-media/dist/estilo_15.css' type='text/css' media='all' />
+		<link rel='stylesheet' id='wmx-block-css-section-wrapper-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/section-wrapper/dist/estilo_18.css' type='text/css' media='all' />
+		<link rel='stylesheet' id='gform_basic-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/estilo_02.css' type='text/css' media='all' />
+		<link rel='stylesheet' id='gform_theme-css' href='/assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/estilo_03.css' type='text/css' media='all' />
+		<link rel='stylesheet' id='wmx-block-css-wizard-css' href='/assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/wizard/dist/wizard.mind040.css' type='text/css' media='all' />
 		<script type="text/javascript" id="formhq-wordpress-adapter-js-extra">
 			/* <![CDATA[ */
 			var formhq_localized = {
@@ -1895,7 +1893,7 @@
 			window._FormHQueue = {};
 			/* ]]> */
 		</script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/formhq-wordpress-adapter/public/js/scripts.js" id="formhq-wordpress-adapter-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/formhq-wordpress-adapter/public/js/funcion_05.js" id="formhq-wordpress-adapter-js"></script>
 		<script type="text/javascript" id="leadin-script-loader-js-js-extra">
 			/* <![CDATA[ */
 			var leadin_wordpress = {
@@ -1905,8 +1903,8 @@
 			};
 			/* ]]> */
 		</script>
-		<script type="text/javascript" src="/assets/js/js.hs-scripts.com/14510929c865.js?integration=WordPress&amp;ver=11.1.75" id="leadin-script-loader-js-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/formhq-wordpress-adapter/public/js/gravity-forms.js" id="formhq-wordpress-adapter-gravity-forms-js"></script>
+		<script type="text/javascript" src="/assets/js/js.hs-scripts.com/funcion_02.js?integration=WordPress&amp;ver=11.1.75" id="leadin-script-loader-js-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/plugins/formhq-wordpress-adapter/public/js/funcion_04.js" id="formhq-wordpress-adapter-gravity-forms-js"></script>
 		<script type="text/javascript" id="wmx-main-scripts-js-extra">
 			/* <![CDATA[ */
 			var app_localized = {
@@ -1917,14 +1915,14 @@
 			};
 			/* ]]> */
 		</script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/js/app.mindf15.js?v=1733933346" id="wmx-main-scripts-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/js/app.mindf15.js?v=1733933346" id="wmx-bravo-scripts-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/hero-media/dist/hero-media.min0fc1.js?ver=1733933346" id="wmx-block-js-hero-media-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/js/funcion_43.js?v=1733933346" id="wmx-main-scripts-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/js/funcion_40.js?v=1733933346" id="wmx-bravo-scripts-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/hero-media/dist/funcion_31.js?ver=1733933346" id="wmx-block-js-hero-media-js"></script>
 		<script type="text/javascript" src="../wp-content/themes/wmx-bravo/dist/wizards/base109c.js?ver=6.6.2" id="solar-wizard-base-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/wizards/v1a109c.js?ver=6.6.2" id="solar-wizard-version-js-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/dom-ready.min5346.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/hooks.min2757.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/wizards/funcion_42.js?ver=6.6.2" id="solar-wizard-version-js-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/funcion_48.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/funcion_51.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/funcion_52.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
 		<script type="text/javascript" id="wp-i18n-js-after">
 			/* <![CDATA[ */
 			wp.i18n.setLocaleData({
@@ -1932,8 +1930,8 @@
 			});
 			/* ]]> */
 		</script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/a11y.mine810.js?ver=d90eebea464f6c09bfd5" id="wp-a11y-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/jquery.json.minbf47.js?ver=2.9.1" id="gform_json-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/dist/funcion_47.js?ver=d90eebea464f6c09bfd5" id="wp-a11y-js"></script>
+		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_14.js?ver=2.9.1" id="gform_json-js"></script>
 		<script type="text/javascript" id="gform_gravityforms-js-extra">
 			/* <![CDATA[ */
 			var gform_i18n = {
@@ -2007,8 +2005,8 @@
 			};
 			/* ]]> */
 		</script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/gravityforms.minbf47.js?ver=2.9.1" id="gform_gravityforms-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/page_conditional_logic.minbf47.js?ver=2.9.1" id="gform_page_conditional_logic-js"></script>
+		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_13.js?ver=2.9.1" id="gform_gravityforms-js"></script>
+		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_16.js?ver=2.9.1" id="gform_page_conditional_logic-js"></script>
 		<script type="text/javascript" id="gform_conditional_logic-js-extra">
 			/* <![CDATA[ */
 			var gf_legacy = {
@@ -2016,15 +2014,15 @@
 			};
 			/* ]]> */
 		</script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/conditional_logic.minbf47.js?ver=2.9.1" id="gform_conditional_logic-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/jquery/ui/core.minb37e.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/jquery/ui/datepicker.minb37e.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/datepicker-legacy.minbf47.js?ver=2.9.1" id="gform_datepicker_legacy-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/datepicker.minbf47.js?ver=2.9.1" id="gform_datepicker_init-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.minbf47.js?ver=2.9.1" id="gform_masked_input-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/placeholders.jquery.minbf47.js?ver=2.9.1" id="gform_placeholder-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min43b8.js?ver=501a987060f4426fb517400c73c7fc1e" id="gform_gravityforms_utils-js"></script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.minf8d2.js?ver=ddd2702ee024d421149a5e61416f1ff5" id="gform_gravityforms_theme_vendors-js"></script>
+		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_10.js?ver=2.9.1" id="gform_conditional_logic-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/jquery/ui/funcion_53.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-includes/js/jquery/ui/funcion_54.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
+		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_11.js?ver=2.9.1" id="gform_datepicker_legacy-js"></script>
+		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_12.js?ver=2.9.1" id="gform_datepicker_init-js"></script>
+		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_15.js?ver=2.9.1" id="gform_masked_input-js"></script>
+		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_17.js?ver=2.9.1" id="gform_placeholder-js"></script>
+		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/funcion_08.js?ver=501a987060f4426fb517400c73c7fc1e" id="gform_gravityforms_utils-js"></script>
+		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/funcion_09.js?ver=ddd2702ee024d421149a5e61416f1ff5" id="gform_gravityforms_theme_vendors-js"></script>
 		<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
 			/* <![CDATA[ */
 			var gform_theme_config = {
@@ -2049,7 +2047,7 @@
 			};
 			/* ]]> */
 		</script>
-		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.minaef3.js?ver=434d0c7a9798b432de24db888073c55f" id="gform_gravityforms_theme-js"></script>
+		<script type="text/javascript" defer='defer' src="/assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/funcion_07.js?ver=434d0c7a9798b432de24db888073c55f" id="gform_gravityforms_theme-js"></script>
 		<script type="text/javascript" id="wmx-block-js-wizard-js-extra">
 			/* <![CDATA[ */
 			var wmx_block_wizard_ajax = {
@@ -2062,7 +2060,7 @@
 			};
 			/* ]]> */
 		</script>
-		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/wizard/dist/wizard.mind040.js?ver=1733933428" id="wmx-block-js-wizard-js"></script>
+		<script type="text/javascript" src="/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/wizard/dist/funcion_39.js?ver=1733933428" id="wmx-block-js-wizard-js"></script>
 		<script type="text/javascript">
 			jQuery(document).ready(function($) {
 
