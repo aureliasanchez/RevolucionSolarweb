@@ -3,25 +3,24 @@
 
 <head>
 	<!-- Meta -->
+	<meta charset="utf-8" />
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="format-detection" content="telephone=no">
-	<meta name="IE_RM_OFF" content="true">
-	<meta name="msapplication-TileColor" content="#da532c">
-	<meta name="msapplication-config" content="/favicon/browserconfig.xml">
-	<meta name="theme-color" content="#ffffff">
-	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Service Request" />
-	<meta property="og:description" content="We are committed to excellent service for your warranty claims and service needs. Complete the Service Request form." />
-	<meta property="og:url" content="https://www.solarenergyworld.com/service-request/" />
-	<meta property="og:site_name" content="Solar Energy World" />
-	<meta property="article:modified_time" content="2024-09-26T12:18:33+00:00" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="description" content="We are committed to excellent service for your warranty claims and service needs. Complete the Service Request form." />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="IE_RM_OFF" content="true" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="website" />
+	<meta name="description" content="Solicita una cotización para paneles solares a la medida de tu consumo. Ahorra en tu factura de luz con Revolución Solar.">
+	<meta property="og:title" content="Cotiza tu Sistema de Paneles Solares | Ahorro Energético">
+	<meta property="og:description" content="Obtén una cotización personalizada para paneles solares. Descubre cuánto puedes ahorrar en tu consumo eléctrico con energía solar.">
+	<meta property="og:url" content="https://www.revolucionsolar.com/pages/cotizacion">
+	<meta property="og:site_name" content="Revolución Solar">
+	<meta property="og:image" content="https://www.revolucionsolar.com/assets/img/logo/azul1.webp" />
+	<meta property="og:image:width" content="2048" />
+	<meta property="og:image:height" content="1152" />
+	<meta property="og:image:type" content="image/webp" />
 
 	<!-- Link -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/www.solarenergyworld.com/favicon/apple-touch-icon.png">
@@ -53,7 +52,7 @@
 	<link rel="stylesheet" href="/assets/css/universal.css">
 
 	<link rel="icon" type="image/png" href="/assets/img/logo/bco1.webp" />
-	<title>Service Request | Solar Energy World</title>
+	<title>Cotiza tus Paneles Solares | Solicita Asesoría</title>
 </head>
 
 <body data-bs-theme=light class="page-template-default page page-id-658">
@@ -61,7 +60,7 @@
 	<div class="site-wrapper">
 
 		<?php
-		include("../../../assets/html/header.html");
+		include("../assets/html/header.html");
 		?>
 
 		<div id="skipNav" class="visually-hidden"></div>
@@ -239,14 +238,14 @@
 		</main>
 
 		<?php
-		include("../../../assets/html/footer.html");
+		include("../assets/html/footer.html");
 		?>
 
 	</div>
 
 	<!-- Script -->
 	<div>
-		
+
 		<script src="/assets/js/funcion_01.js" type="text/javascript"></script>
 		<script src="/assets/js/funcion_02.js" type="text/javascript"></script>
 		<script src="/assets/js/funcion_03.js" type="text/javascript"></script>

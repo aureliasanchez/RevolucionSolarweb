@@ -11,13 +11,13 @@
   <meta name="format-detection" content="telephone=no" />
   <meta name="IE_RM_OFF" content="true" />
   <meta name="theme-color" content="#ffffff" />
-  <meta name="description" content="" />
   <meta property="og:locale" content="es_ES" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="" />
-  <meta property="og:description" content="" />
-  <meta property="og:url" content="https://www.revolucionsolar.com/" />
-  <meta property="og:site_name" content="Revolución Solar" />
+  <meta name="description" content="Revolución Solar ofrece soluciones accesibles en energía solar, ayudándote a reducir costos y generar ingresos con energía renovable.">
+  <meta property="og:title" content="Revolución Solar - Energía Solar Accesible y Rentable">
+  <meta property="og:description" content="Ahorra en tu factura de luz con paneles solares financiados. Únete a Revolución Solar y convierte la energía en una oportunidad de negocio.">
+  <meta property="og:url" content="https://www.revolucionsolar.com/">
+  <meta property="og:site_name" content="Revolución Solar">
   <meta property="og:image" content="https://www.revolucionsolar.com/assets/img/logo/azul1.webp" />
   <meta property="og:image:width" content="2048" />
   <meta property="og:image:height" content="1152" />
@@ -47,29 +47,29 @@
   <link rel="stylesheet" href="./assets/css/estilo_01.css">
   <link rel="stylesheet" href="./assets/css/estilo_02.css">
   <link rel="stylesheet" href="./assets/css/estilo_03.css">
-  <link rel="stylesheet" href="./assets/css/estilo_27.css">
-  <link rel="stylesheet" href="./assets/css/estilo_26.css">
-  <link rel="stylesheet" href="./assets/css/estilo_25.css">
-  <link rel="stylesheet" href="./assets/css/estilo_28.css">
-  <link rel="stylesheet" href="./assets/css/estilo_29.css">
   <link rel="stylesheet" href="./assets/css/estilo_04.css">
-  <link rel="stylesheet" href="./assets/css/estilo_14.css">
-  <link rel="stylesheet" href="./assets/css/estilo_18.css">
-  <link rel="stylesheet" href="./assets/css/estilo_21.css">
-  <link rel="stylesheet" href="./assets/css/estilo_22.css">
-  <link rel="stylesheet" href="./assets/css/estilo_19.css">
-  <link rel="stylesheet" href="./assets/css/estilo_20.css">
-  <link rel="stylesheet" href="./assets/css/estilo_23.css">
+  <link rel="stylesheet" href="./assets/css/estilo_05.css">
   <link rel="stylesheet" href="./assets/css/estilo_06.css">
   <link rel="stylesheet" href="./assets/css/estilo_07.css">
   <link rel="stylesheet" href="./assets/css/estilo_08.css">
-  <link rel="stylesheet" href="./assets/css/estilo_05.css">
   <link rel="stylesheet" href="./assets/css/estilo_10.css">
+  <link rel="stylesheet" href="./assets/css/estilo_18.css">
+  <link rel="stylesheet" href="./assets/css/estilo_20.css">
+  <link rel="stylesheet" href="./assets/css/estilo_21.css">
+  <link rel="stylesheet" href="./assets/css/estilo_22.css">
+  <link rel="stylesheet" href="./assets/css/estilo_23.css">
   <link rel="stylesheet" href="./assets/css/estilo_24.css">
+  <link rel="stylesheet" href="./assets/css/estilo_25.css">
+  <link rel="stylesheet" href="./assets/css/estilo_26.css">
+  <link rel="stylesheet" href="./assets/css/estilo_27.css">
+  <link rel="stylesheet" href="./assets/css/estilo_28.css">
+  <link rel="stylesheet" href="./assets/css/estilo_29.css">
+  <link rel="stylesheet" href="./assets/css/estilo_19.css">
+  <link rel="stylesheet" href="./assets/css/estilo_14.css">
   <link rel="stylesheet" href="./assets/css/universal.css">
 
   <link rel="icon" type="image/png" href="./assets/img/logo/bco1.webp" />
-  <title>Revolución Solar</title>
+  <title>Revolución Solar | Energía Solar para Ahorro y Crecimiento</title>
 </head>
 
 <body data-bs-theme="light" class="home page-template-default page page-id-5 transparent-nav">
@@ -120,7 +120,7 @@
                           <div class="gform-body gform_body">
                             <div id="gform_fields_3" class="gform_fields top_label form_sublabel_below description_below validation_below">
                               <div class="gfield gfield--type-submit gfield--width-half field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible">
-                                <a href="./pages/www.solarenergyworld.com/contact/contacto.php">
+                                <a href="./pages/contacto.php">
                                   <button class="gform-button gform-button--white button">
                                     Empieza a ahorrar ahora
                                   </button>
@@ -183,7 +183,7 @@
 
                       <div class="wp-block-button is-style-btn-outline">
                         <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                          href="./pages/www.solarenergyworld.com/install-process/precesoInstalacion.php">
+                          href="./pages/precesoInstalacion.php">
                           Descubre más
                         </a>
                       </div>
@@ -280,7 +280,7 @@
                                 class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                 <div class="wp-block-button is-style-btn-outline">
                                   <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                                    href="./pages/www.solarenergyworld.com/contact/contacto.php">
+                                    href="./pages/contacto.php">
                                     Empieza a ahorrar ahora
                                   </a>
                                 </div>
@@ -341,7 +341,7 @@
                                 class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                 <div class="wp-block-button is-style-btn-outline">
                                   <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                                    href="./pages/www.solarenergyworld.com/contact/contacto.php">
+                                    href="./pages/contacto.php">
                                     Empieza a ahorrar ahora
                                   </a>
                                 </div>
@@ -399,7 +399,7 @@
                                 class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                 <div class="wp-block-button is-style-btn-outline">
                                   <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                                    href="./pages/www.solarenergyworld.com/service-request/cotizarPanel.php">
+                                    href="./pages/cotizarPanel.php">
                                     Solicita tu cotización ahora
                                   </a>
                                 </div>
@@ -456,7 +456,7 @@
                       class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
 
                       <div class="wp-block-button is-style-btn-primary">
-                        <a data-component="core:button" class="wp-block-button__link wp-element-button" href="./pages/www.solarenergyworld.com/earn-cash-rewards-for-referrals/serAsesor.php">
+                        <a data-component="core:button" class="wp-block-button__link wp-element-button" href="./pages/serAsesor.php">
                           Únete ahora
                         </a>
                       </div>
@@ -656,7 +656,7 @@
                                 class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                 <div class="wp-block-button is-style-btn-outline">
                                   <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                                    href="./pages/www.solarenergyworld.com/earn-cash-rewards-for-referrals/serAsesor.php">
+                                    href="./pages/serAsesor.php">
                                     Regístrate ahora
                                   </a>
                                 </div>

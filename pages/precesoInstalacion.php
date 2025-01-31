@@ -3,26 +3,24 @@
 
 <head>
 	<!-- Meta -->
-	<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="format-detection" content="telephone=no">
-	<meta name="IE_RM_OFF" content="true">
-	<meta name="msapplication-TileColor" content="#da532c">
-	<meta name="msapplication-config" content="/favicon/browserconfig.xml">
-	<meta name="theme-color" content="#ffffff">
-	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Solar Install Process" />
-	<meta property="og:description" content="Interested in solar energy? We take the guesswork out of the solar panel installation process and talk you through what to expect and beyond." />
-	<meta property="og:url" content="https://www.solarenergyworld.com/install-process/" />
-	<meta property="og:site_name" content="Solar Energy World" />
-	<meta property="article:modified_time" content="2024-08-22T17:05:52+00:00" />
-	<meta property="og:image" content="https://www.solarenergyworld.com/wp-content/uploads/2024/08/Untitled-design-18.png" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="description" content="Interested in solar energy? We take the guesswork out of the solar panel installation process and talk you through what to expect and beyond." />
+	<meta charset="utf-8" />
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="IE_RM_OFF" content="true" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="website" />
+	<meta name="description" content="Descubre el proceso de instalación de paneles solares paso a paso. Conoce cómo hacemos tu transición a la energía solar fácil, rápida y segura.">
+	<meta property="og:title" content="Proceso de Instalación | Revolución Solar">
+	<meta property="og:description" content="Te explicamos cómo instalamos tus paneles solares, desde la cotización hasta la puesta en marcha. Energía limpia de manera sencilla y segura.">
+	<meta property="og:url" content="https://www.revolucionsolar.com/pages/proceso-instalacion">
+	<meta property="og:site_name" content="Revolución Solar">
+	<meta property="og:image" content="https://www.revolucionsolar.com/assets/img/logo/azul1.webp" />
+	<meta property="og:image:width" content="2048" />
+	<meta property="og:image:height" content="1152" />
+	<meta property="og:image:type" content="image/webp" />
 
 	<!-- Link -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/www.solarenergyworld.com/favicon/apple-touch-icon.png">
@@ -55,7 +53,7 @@
 	<link rel="stylesheet" href="/assets/css/universal.css">
 
 	<link rel="icon" type="image/png" href="/assets/img/logo/bco1.webp" />
-	<title>Solar Panel Installation Process for Homes &amp; Businesses</title>
+	<title>Proceso de Instalación | ¿Cómo colocamos tus paneles solares?</title>
 </head>
 
 <body data-bs-theme=light class="page-template-default page page-id-625 page-parent">
@@ -63,7 +61,7 @@
 	<div class="site-wrapper">
 
 		<?php
-		include("../../../assets/html/header.html");
+		include("../assets/html/header.html");
 		?>
 
 		<div id="skipNav" class="visually-hidden"></div>
@@ -104,7 +102,7 @@
 
 										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
 											<div class="wp-block-button is-style-btn-primary">
-												<a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/contact/contacto.php">
+												<a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/contacto.php">
 													Solicita tu instalación ahora
 												</a>
 											</div>
@@ -546,7 +544,7 @@
 				<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="align-items: center !important;">
 					<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
 						<div class="wp-block-button is-style-btn-primary">
-							<a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/contact/contacto.php">
+							<a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/contacto.php">
 								Solicita tu instalación ahora
 							</a>
 						</div>
@@ -557,7 +555,7 @@
 		</main>
 
 		<?php
-		include("../../../assets/html/footer.html");
+		include("../assets/html/footer.html");
 		?>
 
 	</div>

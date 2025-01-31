@@ -3,26 +3,25 @@
 
 <head>
 	<!-- Meta -->
+	<meta charset="utf-8" />
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="format-detection" content="telephone=no">
-	<meta name="IE_RM_OFF" content="true">
-	<meta name="msapplication-TileColor" content="#da532c">
-	<meta name="msapplication-config" content="/favicon/browserconfig.xml">
-	<meta name="theme-color" content="#ffffff">
-	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-	<meta name="description" content="Never go without power again. Discover the benefits of including a solar battery storage system as part of your solar panel installation." />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Solar Battery Backup Power is Here" />
-	<meta property="og:description" content="Never go without power again. Discover the benefits of including a solar battery storage system as part of your solar panel installation." />
-	<meta property="og:url" content="https://www.solarenergyworld.com/battery/" />
-	<meta property="og:site_name" content="Solar Energy World" />
-	<meta property="article:modified_time" content="2024-08-28T19:29:50+00:00" />
-	<meta property="og:image" content="https://www.solarenergyworld.com/wp-content/uploads/2024/08/image-9.png" />
-	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="IE_RM_OFF" content="true" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="website" />
+	<meta name="description" content="Los paneles solares monocristalinos de Revolución Solar ofrecen la máxima eficiencia y durabilidad para optimizar tu consumo de energía eléctrica.">
+	<meta property="og:title" content="Paneles Monocristalinos | Máxima Eficiencia Energética">
+	<meta property="og:description" content="Aprovecha la mejor tecnología solar con nuestros paneles monocristalinos. Mayor rendimiento y ahorro en tu factura de electricidad.">
+	<meta property="og:url" content="https://www.revolucionsolar.com/pages/paneles-monocristalinos">
+	<meta property="og:site_name" content="Revolución Solar">
+
+	<meta property="og:image" content="https://www.revolucionsolar.com/assets/img/logo/azul1.webp" />
+	<meta property="og:image:width" content="2048" />
+	<meta property="og:image:height" content="1152" />
+	<meta property="og:image:type" content="image/webp" />
 
 	<!-- Link -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/www.solarenergyworld.com/favicon/apple-touch-icon.png">
@@ -33,13 +32,14 @@
 	<link rel="canonical" href="index.html" />
 	<link rel='dns-prefetch' href='http://js.hs-scripts.com/' />
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+	<link rel='stylesheet' id='block-editor-google-fonts-css' href='https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Manrope:wght@200..800&amp;display=swap' type='text/css' media='all' />
 	<link rel="https://api.w.org/" href="/pages/www.solarenergyworld.com/wp-json/index.html" />
 	<link rel="alternate" title="JSON" type="application/json" href="/assets/other/www.solarenergyworld.com/wp-json/wp/v2/pages/668.json" />
 	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embedaf97.json?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fbattery%2F" />
 	<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed09fe?url=https%3A%2F%2Fwww.solarenergyworld.com%2Fbattery%2F&amp;format=xml" />
 	<link rel="preconnect" href="https://fonts.googleapis.com/">
 	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
-	<link rel='stylesheet' id='block-editor-google-fonts-css' href='https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Manrope:wght@200..800&amp;display=swap' type='text/css' media='all' />
+	<link rel='stylesheet' id='wmx-block-css-gallery-css' href='/assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/gallery/dist/funcion_27.js' type='text/css' media='all' />
 	<link rel="stylesheet" href="/assets/css/estilo_01.css">
 	<link rel="stylesheet" href="/assets/css/estilo_02.css">
 	<link rel="stylesheet" href="/assets/css/estilo_03.css">
@@ -47,21 +47,18 @@
 	<link rel="stylesheet" href="/assets/css/estilo_06.css">
 	<link rel="stylesheet" href="/assets/css/estilo_07.css">
 	<link rel="stylesheet" href="/assets/css/estilo_08.css">
-	<link rel="stylesheet" href="/assets/css/estilo_11.css">
 	<link rel="stylesheet" href="/assets/css/estilo_15.css">
-	<link rel="stylesheet" href="/assets/css/estilo_16.css">
 	<link rel="stylesheet" href="/assets/css/estilo_18.css">
-	<link rel="stylesheet" href="/assets/css/estilo_25.css">
 	<link rel="stylesheet" href="/assets/css/estilo_24.css">
+	<link rel="stylesheet" href="/assets/css/estilo_25.css">
 	<link rel="stylesheet" href="/assets/css/estilo_26.css">
 	<link rel="stylesheet" href="/assets/css/estilo_27.css">
 	<link rel="stylesheet" href="/assets/css/estilo_28.css">
 	<link rel="stylesheet" href="/assets/css/estilo_29.css">
 	<link rel="stylesheet" href="/assets/css/universal.css">
 
-
 	<link rel="icon" type="image/png" href="/assets/img/logo/bco1.webp" />
-	<title>Solar Battery Storage Systems for Backup Power</title>
+	<title>Paneles Monocristalinos | Alto Rendimiento y Ahorro Energético</title>
 </head>
 
 <body data-bs-theme=light class="page-template-default page page-id-668">
@@ -69,7 +66,7 @@
 	<div class="site-wrapper">
 
 		<?php
-		include("../../../assets/html/header.html");
+		include("../assets/html/header.html");
 		?>
 
 		<div id="skipNav" class="visually-hidden"></div>
@@ -93,19 +90,19 @@
 
 									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:40%">
 										<h1 data-component="core:heading" class="wp-block-heading" id="h-battery-back-up-never-go-without-power-again">
-											Paneles Bifaciales
+											Paneles Monocristalinos
 										</h1>
 
 										<h2>
-											Doble cara para aprovechar el sol al máximo.
+											Eficiencia superior para máxima producción energética.
 										</h2>
 
 										<p>
 											Los paneles
 											<strong>
-												bifaciales
+												monocristalinos
 											</strong>
-											capturan la luz solar por ambos lados, aumentando la generación de energía y maximizando la eficiencia en entornos con reflejo, como superficies blancas o metálicas. Son ideales para instalaciones comerciales e industriales.
+											son la opción más eficiente del mercado, ideales para espacios reducidos que requieren alto rendimiento. Su diseño en silicio puro garantiza una mayor absorción de energía solar y una vida útil prolongada.
 										</p>
 
 									</div>
@@ -113,7 +110,7 @@
 										<div id="wmx-hero-media-cddipmd" data-component="wmx:hero-media" class="block block--hero-media" data-wmx-wpb="hero-media">
 
 											<div class="backdrop"></div>
-											<div class="poster" style="background-image:url(/assets/img/pages/productos/bifaciales/bifaciales.webp); "></div>
+											<div class="poster" style="background-image:url(/assets/img/pages/productos/monocristalinos/monocristalinos.webp); "></div>
 											<div class="video-wrapper"></div>
 
 										</div>
@@ -147,25 +144,29 @@
 										<ul>
 
 											<li>
-												Aprovechamiento de luz reflejada para
 												<strong>
-													mayor producción.
+													Potencia:
 												</strong>
+												410W y 585W.
 											</li>
 											<li>
-												Mayor rendimiento en espacios abiertos y comerciales.
+												Mayor
+												<strong>
+													eficiencia energética
+												</strong>
+												en comparación con otros tipos.
 											</li>
 											<li>
 												Ideales para espacios pequeños con alta demanda de energía.
 											</li>
 											<li>
-												Diseño
+												Estética
 												<strong>
-													robusto
+													moderna
 												</strong>
 												y
 												<strong>
-													duradero.
+													elegante.
 												</strong>
 											</li>
 
@@ -174,7 +175,7 @@
 									</div>
 									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
 										<figure data-component="core:image" class="wp-block-image size-full is-resized has-custom-border">
-											<img loading="lazy" decoding="async" width="500" height="auto" src="/assets/img/pages/productos/bifaciales/caracteristicas.webp" alt="" class="wp-image-1345" style="border-radius:10px" />
+											<img loading="lazy" decoding="async" width="500" height="auto" src="/assets/img/pages/productos/monocristalinos/caracteristicas.webp" alt="" class="wp-image-1345" style="border-radius:10px" />
 										</figure>
 									</div>
 
@@ -212,7 +213,7 @@
 													<h4 data-component="core:heading" class="wp-block-heading has-text-align-center" id="h-solar-batteries">
 														Monocristalinos
 													</h4>
-													<a href="/pages/www.solarenergyworld.com/battery/monocristalinos.php" class="visually-hidden-focusable" target="_self">
+													<a href="/pages/monocristalinos.php" class="visually-hidden-focusable" target="_self">
 														<span class="visually-hidden">
 															Learn more about solar batteries
 														</span>
@@ -231,7 +232,7 @@
 													</h4>
 
 
-													<a href="/pages/www.solarenergyworld.com/going-solar/live-monitoring/policristalino.php" class="visually-hidden-focusable" target="_self"><span class="visually-hidden">Learn more about live monitoring</span></a>
+													<a href="/pages/policristalino.php" class="visually-hidden-focusable" target="_self"><span class="visually-hidden">Learn more about live monitoring</span></a>
 
 
 												</div>
@@ -247,7 +248,7 @@
 													</h4>
 
 
-													<a href="/pages/www.solarenergyworld.com/warranty/bifaciales.php" class="visually-hidden-focusable" target="_self"><span class="visually-hidden">Learn more about solar warranties</span></a>
+													<a href="/pages/bifaciales.php" class="visually-hidden-focusable" target="_self"><span class="visually-hidden">Learn more about solar warranties</span></a>
 
 
 												</div>
@@ -267,46 +268,52 @@
 		</main>
 
 		<?php
-		include("../../../assets/html/footer.html");
+		include("../assets/html/footer.html");
 		?>
 
 	</div>
 
-	<!-- Script -->
 	<div>
 
-		<script src="/assets/js/funcion_01.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_02.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_04.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_05.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_06.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_07.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_08.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_09.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_10.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_11.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_12.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_13.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_14.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_15.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_16.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_17.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_19.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_31.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_40.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_41.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_42.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_43.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_49.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_50.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_53.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_56.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_54.js" type="text/javascript"></script>
-		<script src="/assets/js/funcion_55.js" type="text/javascript"></script>
-		<script src="/assets/js/universal.js" type="text/javascript"></script>
+		<!-- Script -->
+		<script type="text/javascript" src="/assets/js/funcion_01.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_02.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_04.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_05.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_06.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_07.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_08.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_09.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_10.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_11.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_12.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_13.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_14.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_15.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_16.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_17.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_23.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_31.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_34.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_39.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_40.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_41.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_42.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_43.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_45.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_49.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_50.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_53.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_54.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_55.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_56.js"></script>
+		<script type="text/javascript" src="/assets/js/universal.js"></script>
 
 	</div>
 
 </body>
+
+
+<!-- Mirrored from www.solarenergyworld.com/battery/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Jan 2025 18:14:54 GMT -->
 
 </html>

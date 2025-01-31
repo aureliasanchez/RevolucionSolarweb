@@ -3,29 +3,24 @@
 
 <head>
 	<!-- Meta -->
+	<meta charset="utf-8" />
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="format-detection" content="telephone=no">
-	<meta name="IE_RM_OFF" content="true">
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="About Us" />
-	<meta property="og:description" content="Solar Energy World is a top-rated, award-winning regional solar panel installation company for residential and commercial property owners." />
-	<meta property="og:url" content="https://www.solarenergyworld.com/about-us/" />
-	<meta property="og:site_name" content="Solar Energy World" />
-	<meta property="article:modified_time" content="2024-12-13T17:53:00+00:00" />
-	<meta property="og:image" content="https://www.solarenergyworld.com/wp-content/uploads/2024/12/Comcast_Master_Logo_OnWhite_RGB.png" />
-	<meta property="og:image:width" content="3981" />
-	<meta property="og:image:height" content="1573" />
-	<meta property="og:image:type" content="image/png" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="msapplication-TileColor" content="#da532c">
-	<meta name="msapplication-config" content="/favicon/browserconfig.xml">
-	<meta name="theme-color" content="#ffffff">
-	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-	<meta name="description" content="Solar Energy World is a top-rated, award-winning regional solar panel installation company for residential and commercial property owners." />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="IE_RM_OFF" content="true" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="website" />
+	<meta name="description" content="Conoce la historia, misión y valores de Revolución Solar. Impulsamos el acceso a la energía solar con financiamiento y soluciones innovadoras.">
+	<meta property="og:title" content="Acerca de Revolución Solar | Nuestra Historia y Misión">
+	<meta property="og:description" content="En Revolución Solar trabajamos para hacer la energía solar accesible para todos, ofreciendo soluciones innovadoras y oportunidades de emprendimiento.">
+	<meta property="og:url" content="https://www.revolucionsolar.com/pages/acerca-de" />
+	<meta property="og:site_name" content="Revolución Solar">
+	<meta property="og:image" content="https://www.revolucionsolar.com/assets/img/logo/azul1.webp" />
+	<meta property="og:image:width" content="2048" />
+	<meta property="og:image:height" content="1152" />
+	<meta property="og:image:type" content="image/webp" />
 
 	<!-- Link -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/www.solarenergyworld.com/favicon/apple-touch-icon.png">
@@ -59,7 +54,7 @@
 	<link rel="stylesheet" href="/assets/css/universal.css">
 
 	<link rel="icon" type="image/png" href="/assets/img/logo/bco1.webp" />
-	<title>Solar Panel Installation Company | Solar Energy World</title>
+	<title>Acerca de Revolución Solar | Energía solar accesible y sostenible</title>
 </head>
 
 <body data-bs-theme=light class="page-template-default page page-id-638 page-parent">
@@ -67,7 +62,7 @@
 	<div class="site-wrapper">
 
 		<?php
-		include("../../../assets/html/header.html");
+		include("../assets/html/header.html");
 		?>
 
 		<div id="skipNav" class="visually-hidden"></div>
@@ -148,7 +143,7 @@
 									<div data-component="core:column"
 										class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
 										<div id="wmx-cards-wrapper-82y8izq" data-component="wmx:cards-wrapper"
-											class="block block--cards-wrapper" style="--card-count: 3" data-wmx-wpb="cards-wrapper"
+											class="block block--cards-wrapper" style="--card-count: 2" data-wmx-wpb="cards-wrapper"
 											data-mobile="slider">
 											<div class="cards">
 
@@ -200,7 +195,6 @@
 														Impacto ambiental positivo con ahorro garantizado
 													</h4>
 												</div>
-												<div class="displayCard"></div>
 												<div id="wmx-card-o71r1ac" data-component="wmx:card" class="block block--card" style="
 												padding-top: var(--wp--preset--spacing--40);                              padding-bottom: var(--wp--preset--spacing--40);                              padding-left: var(--wp--preset--spacing--40);                              padding-right: var(--wp--preset--spacing--40);                              box-shadow: var(--wp--preset--shadow--soft);                            " data-wmx-wpb="card" data-wmx-stretch-link="false" data-banner-image="false"
 													data-bs-theme="light">
@@ -217,7 +211,6 @@
 														Respaldo y experiencia confiable
 													</h4>
 												</div>
-												<div class="displayCard"></div>
 
 											</div>
 										</div>
@@ -281,7 +274,7 @@
 																class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
 																<div class="wp-block-button is-style-btn-outline">
 																	<a data-component="core:button" class="wp-block-button__link wp-element-button"
-																		href="/pages/www.solarenergyworld.com/products/productos.php">
+																		href="/pages/productos.php">
 																		Explora nuestros productos
 																	</a>
 																</div>
@@ -356,7 +349,7 @@
 		</main>
 
 		<?php
-		include("../../../assets/html/footer.html");
+		include("../assets/html/footer.html");
 		?>
 
 	</div>
@@ -381,11 +374,14 @@
 		<script type="text/javascript" src="/assets/js/funcion_16.js"></script>
 		<script type="text/javascript" src="/assets/js/funcion_17.js"></script>
 		<script type="text/javascript" src="/assets/js/funcion_19.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_23.js"></script>
 		<script type="text/javascript" src="/assets/js/funcion_31.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_34.js"></script>
 		<script type="text/javascript" src="/assets/js/funcion_39.js"></script>
 		<script type="text/javascript" src="/assets/js/funcion_40.js"></script>
 		<script type="text/javascript" src="/assets/js/funcion_42.js"></script>
 		<script type="text/javascript" src="/assets/js/funcion_43.js"></script>
+		<script type="text/javascript" src="/assets/js/funcion_45.js"></script>
 		<script type="text/javascript" src="/assets/js/funcion_49.js"></script>
 		<script type="text/javascript" src="/assets/js/funcion_50.js"></script>
 		<script type="text/javascript" src="/assets/js/funcion_53.js"></script>

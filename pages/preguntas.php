@@ -3,25 +3,24 @@
 
 <head>
 	<!-- Meta -->
+	<meta charset="utf-8" />
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="format-detection" content="telephone=no">
-	<meta name="IE_RM_OFF" content="true">
-	<meta name="msapplication-TileColor" content="#da532c">
-	<meta name="msapplication-config" content="../favicon/browserconfig.xml">
-	<meta name="theme-color" content="#ffffff">
-	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-	<meta name="description" content="Get answers to common questions about solar energy and solar panels from Solar Energy World, Maryland’s preferred solar panel experts." />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Solar FAQs" />
-	<meta property="og:description" content="Get answers to common questions about solar energy and solar panels from Solar Energy World, Maryland’s preferred solar panel experts." />
-	<meta property="og:url" content="https://www.solarenergyworld.com/faqs/" />
-	<meta property="og:site_name" content="Solar Energy World" />
-	<meta property="article:modified_time" content="2025-01-07T14:48:17+00:00" />
-	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="IE_RM_OFF" content="true" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="website" />
+	<meta name="description" content="Resuelve todas tus dudas sobre energía solar, instalación, financiamiento y beneficios. Encuentra respuestas rápidas en nuestra sección de preguntas frecuentes.">
+	<meta property="og:title" content="Preguntas Frecuentes | Revolución Solar">
+	<meta property="og:description" content="Aclara tus dudas sobre paneles solares, instalación y financiamiento. Conoce cómo puedes ahorrar con energía renovable.">
+	<meta property="og:url" content="https://www.revolucionsolar.com/pages/preguntas-frecuentes">
+	<meta property="og:site_name" content="Revolución Solar">
+	<meta property="og:image" content="https://www.revolucionsolar.com/assets/img/logo/azul1.webp" />
+	<meta property="og:image:width" content="2048" />
+	<meta property="og:image:height" content="1152" />
+	<meta property="og:image:type" content="image/webp" />
 
 	<!-- Link -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/www.solarenergyworld.com/favicon/apple-touch-icon.png">
@@ -41,7 +40,6 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
 	<link rel="stylesheet" href="/assets/css/estilo_01.css">
 	<link rel="stylesheet" href="/assets/css/estilo_04.css">
-	<link rel="stylesheet" href="/assets/css/estilo_05.css">
 	<link rel="stylesheet" href="/assets/css/estilo_17.css">
 	<link rel="stylesheet" href="/assets/css/estilo_18.css">
 	<link rel="stylesheet" href="/assets/css/estilo_25.css">
@@ -49,10 +47,11 @@
 	<link rel="stylesheet" href="/assets/css/estilo_27.css">
 	<link rel="stylesheet" href="/assets/css/estilo_28.css">
 	<link rel="stylesheet" href="/assets/css/estilo_29.css">
+	<link rel="stylesheet" href="/assets/css/estilo_05.css">
 	<link rel="stylesheet" href="/assets/css/universal.css">
 
 	<link rel="icon" type="image/png" href="/assets/img/logo/bco1.webp" />
-	<title>Solar FAQs | Solar Energy World power outage, Solar panels rain cloudy</title>
+	<title>Preguntas Frecuentes | Resuelve tus dudas sobre energía solar</title>
 </head>
 
 <body data-bs-theme=light class="page-template-default page page-id-642">
@@ -60,7 +59,7 @@
 	<div class="site-wrapper">
 
 		<?php
-		include("../../../assets/html/header.html");
+		include("../assets/html/header.html");
 		?>
 
 		<div id="skipNav" class="visually-hidden"></div>
@@ -189,7 +188,7 @@
 		</main>
 
 		<?php
-		include("../../../assets/html/footer.html");
+		include("../assets/html/footer.html");
 		?>
 
 	</div>

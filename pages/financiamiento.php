@@ -3,24 +3,24 @@
 
 <head>
 	<!-- Meta -->
+	<meta charset="utf-8" />
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="format-detection" content="telephone=no">
-	<meta name="IE_RM_OFF" content="true">
-	<meta name="msapplication-TileColor" content="#da532c">
-	<meta name="msapplication-config" content="/favicon/browserconfig.xml">
-	<meta name="theme-color" content="#ffffff">
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Pricing" />
-	<meta property="og:url" content="https://www.solarenergyworld.com/pricing/" />
-	<meta property="og:site_name" content="Solar Energy World" />
-	<meta property="article:modified_time" content="2024-08-21T13:10:50+00:00" />
-	<meta property="og:image" content="https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351-1024x781.webp" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="IE_RM_OFF" content="true" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="website" />
+	<meta name="description" content="Accede a financiamiento flexible para instalar paneles solares sin un gran desembolso inicial. Revolución Solar te ayuda a ahorrar en tu factura de luz.">
+	<meta property="og:title" content="Financiamiento de Paneles Solares | Ahorro sin Inversión Inicial">
+	<meta property="og:description" content="Obtén energía solar con financiamiento accesible. Reduce tu consumo eléctrico sin pagar de contado. Descubre nuestras opciones de pago.">
+	<meta property="og:url" content="https://www.revolucionsolar.com/pages/financiamiento">
+	<meta property="og:site_name" content="Revolución Solar">
+	<meta property="og:image" content="https://www.revolucionsolar.com/assets/img/logo/azul1.webp" />
+	<meta property="og:image:width" content="2048" />
+	<meta property="og:image:height" content="1152" />
+	<meta property="og:image:type" content="image/webp" />
 
 	<!-- Link -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/www.solarenergyworld.com/favicon/apple-touch-icon.png">
@@ -57,7 +57,7 @@
 	<link rel="stylesheet" href="/assets/css/universal.css">
 
 	<link rel="icon" type="image/png" href="/assets/img/logo/bco1.webp" />
-	<title>Pricing | Solar Energy World</title>
+	<title>Financiamiento para Paneles Solares | Paga en Cómodos Plazos</title>
 </head>
 
 <body data-bs-theme=light class="page-template-default page page-id-258 page-parent">
@@ -66,7 +66,7 @@
 	<div class="site-wrapper">
 
 		<?php
-		include("../../../assets/html/header.html");
+		include("../assets/html/header.html");
 		?>
 
 		<div id="skipNav" class="visually-hidden"></div>
@@ -104,7 +104,7 @@
 
 										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
 											<div class="wp-block-button is-style-btn-primary">
-												<a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/contact/contacto.php">
+												<a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/contacto.php">
 													Solicita más información ahora
 												</a>
 											</div>
@@ -401,543 +401,10 @@
 
 			</div>
 
-			<!-- <section id="wmx-section-wrapper-5kgie2l" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);" data-wmx-wpb="section-wrapper">
-				<div class="container">
-					<div class="row">
-						<div class="col-12">
-
-							<div class="inner-wrapper">
-
-								<div style="height:var(--wp--preset--spacing--60)" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
-
-								<div data-component="core:columns" class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-10 wp-block-columns-is-layout-flex">
-									<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-										<figure data-component="core:image" class="wp-block-image size-large has-custom-border is-style-circles-left"><img loading="lazy" decoding="async" width="1024" height="781" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351-1024x781.webp" alt="" class="wp-image-259" style="border-radius:16px;aspect-ratio:4/3;object-fit:cover" srcset="https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351-1024x781.webp 1024w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351-300x229.webp 300w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351-768x586.webp 768w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351-1536x1172.webp 1536w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/ca25a86db0de60d3bc85378d1bfa6351.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-									</div>
-
-
-
-									<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-										<h2 data-component="core:heading" class="wp-block-heading" id="h-financing-is-available-for-every-project">Financing is Available for Every Project</h2>
-
-
-
-										<p>Our Zero-Down Solar Power Purchase Agreement (PPA), makes it possible for you to pay $0 up front costs for solar panels and installation. With approved credit, you can have a solar power system installed and start paying at least 20% less than your current monthly electric bill.</p>
-
-
-
-										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-											<div class="wp-block-button is-style-btn-outline"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/pricing/down-vs-purchase/index.html">View Financing Options</a></div>
-										</div>
-									</div>
-								</div>
-
-
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</section>
-
-
-			<section id="wmx-section-wrapper-5kgie2l" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);" data-wmx-wpb="section-wrapper">
-				<div class="container">
-					<div class="row">
-						<div class="col-12">
-
-							<div class="inner-wrapper">
-
-
-
-								<div data-component="core:columns" class="wp-block-columns alignfull are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-11 wp-block-columns-is-layout-flex">
-									<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-										<h2 data-component="core:heading" class="wp-block-heading" id="h-earn-solar-tax-credits-amp-incentives">Earn Solar Tax Credits &amp; Incentives</h2>
-
-
-
-										<p>Federal, state and local governments offer tax incentives and grants to encourage homeowners and businesses switch to solar. Solar Energy World stays on top of the latest local solar incentives for you, so that you don’t have to worry about missing out. We also apply for all of these incentives on your behalf, so you get the benefit without the hassle.</p>
-
-
-
-										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-											<div class="wp-block-button is-style-btn-outline"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/pricing/solar-tax-credits/index.html">View Tax Credits &amp; Incentives</a></div>
-										</div>
-									</div>
-
-
-
-									<div data-component="core:column" class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
-										<figure data-component="core:image" class="wp-block-image size-large has-custom-border"><img loading="lazy" decoding="async" width="1024" height="576" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/05/e9f75dd53f92182601319935d769c58f-1024x576.webp" alt="" class="wp-image-260" style="border-radius:16px;aspect-ratio:4/3;object-fit:cover" srcset="https://www.solarenergyworld.com/wp-content/uploads/2024/05/e9f75dd53f92182601319935d769c58f-1024x576.webp 1024w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/e9f75dd53f92182601319935d769c58f-300x169.webp 300w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/e9f75dd53f92182601319935d769c58f-768x432.webp 768w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/e9f75dd53f92182601319935d769c58f-1536x864.webp 1536w,   https://www.solarenergyworld.com/wp-content/uploads/2024/05/e9f75dd53f92182601319935d769c58f.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-									</div>
-								</div>
-
-
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</section>
-
-
-			<section id="wmx-section-wrapper-v557yqc" data-component="wmx:section-wrapper" class="block block--section-wrapper" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);border-top:1px solid var(--wp--preset--color--gray-100);border-right:0px solid transparent;border-bottom:0px solid transparent;border-left:0px solid transparent;" data-wmx-wpb="section-wrapper">
-				<div class="container">
-					<div class="row">
-						<div class="col-12">
-
-							<div class="inner-wrapper">
-
-
-
-								<div data-component="core:columns" class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-12 wp-block-columns-is-layout-flex">
-									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
-										<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" data-component="core:spacer" data-hide-mobile="true" data-hide-tablet="true" class="wp-block-spacer"></div>
-
-
-
-										<h2 data-component="core:heading" class="wp-block-heading" id="h-want-a-free-solar-estimate">Want a Free Solar Estimate?</h2>
-
-
-
-										<p>Fill out the form to get started today.</p>
-
-
-
-										<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
-
-
-
-										<figure data-component="core:image" class="wp-block-image size-full"><img loading="lazy" decoding="async" width="549" height="64" src="/assets/img/www.solarenergyworld.com/wp-content/uploads/2024/06/Trust-Logos.webp" alt="" class="wp-image-265" srcset="https://www.solarenergyworld.com/wp-content/uploads/2024/06/Trust-Logos.webp 549w,   https://www.solarenergyworld.com/wp-content/uploads/2024/06/Trust-Logos-300x35.webp 300w" sizes="(max-width: 549px) 100vw, 549px" /></figure>
-									</div>
-
-
-
-									<div data-component="core:column" class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-										<div id="wizard-6782b0161dbd9" data-component="wmx:wizard" class="block block--wizard" data-wmx-wpb="wizard" data-bs-theme="light">
-
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86 86" fill="none" style="opacity: 0;">
-												<circle cx="43" cy="43" r="43" fill="#FCD4AE" />
-												<circle cx="42.9999" cy="42.9999" r="32.7619" fill="#F9AE61" />
-												<circle cx="42.9999" cy="43" r="22.5238" fill="#F89420" />
-											</svg>
-
-											<div class='gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework solar-wizard_wrapper' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_1' style='display:none'>
-												<div id='gf_1' class='gform_anchor' tabindex='-1'></div>
-												<div class='gform_heading'>
-													<p class='gform_required_legend'>&quot;<span class="gfield_required gfield_required_asterisk">*</span>&quot; indicates required fields</p>
-												</div>
-												<form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1' class='solar-wizard' action='https://www.solarenergyworld.com/pricing/#gf_1' data-formid='1' novalidate>
-													<div id='gf_progressbar_wrapper_1' class='gf_progressbar_wrapper' data-start-at-zero=''>
-														<p class="gf_progressbar_title">Step <span class='gf_step_current_page'>1</span> of <span class='gf_step_page_count'>9</span><span class='gf_step_page_name'></span>
-														</p>
-														<div class='gf_progressbar gf_progressbar_custom' aria-hidden='true'>
-															<div class='gf_progressbar_percentage percentbar_custom percentbar_11' style='width:11%; background-color:#1C2C57;'><span>11%</span></div>
-														</div>
-													</div>
-													<div class='gform-body gform_body'>
-														<div id='gform_page_1_1' class='gform_page gform_page--sm' data-js='page-field-id-0'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_53" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_53"><input data-gfield-key='free_gift_offer' type='hidden' name='input_53' class='free_gift_offer' value='No Gift'></div>
-																	<div id="field_1_16" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_16">
-																		<h3 class="wizard__header">Where is your property located?</h3>
-																	</div>
-																	<div id="field_1_11" class="gfield gfield--type-text gfield--input-type-text zip gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_11"><label class='gfield_label gform-field-label' for='input_1_11'>Enter 5-Digit Zip Code<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
-																		<div class='ginput_container ginput_container_text'><input data-gfield-key='zip' name='input_11' id='input_1_11' type='text' value='' class='large' tabindex='1' aria-required="true" aria-invalid="false" /></div>
-																	</div>
-																	<div id="field_1_13" class="gfield gfield--type-text gfield--input-type-text gfield--width-full d-none gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_13"><label class='gfield_label gform-field-label' for='input_1_13'>City<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
-																		<div class='ginput_container ginput_container_text'><input data-gfield-key='city' name='input_13' id='input_1_13' type='text' value='' class='large' tabindex='2' aria-required="true" aria-invalid="false" /></div>
-																	</div>
-																	<div id="field_1_14" class="gfield gfield--type-select gfield--input-type-select gfield--width-full d-none gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_14"><label class='gfield_label gform-field-label' for='input_1_14'>State<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
-																		<div class='ginput_container ginput_container_select'><select data-gfield-key='state_short' name='input_14' id='input_1_14' class='large gfield_select' tabindex='3' aria-required="true" aria-invalid="false">
-																				<option value='' selected='selected' class='gf_placeholder'>&#8212; Select &#8212;</option>
-																				<option value='AL'>Alabama</option>
-																				<option value='AK'>Alaska</option>
-																				<option value='AZ'>Arizona</option>
-																				<option value='AR'>Arkansas</option>
-																				<option value='CA'>California</option>
-																				<option value='CO'>Colorado</option>
-																				<option value='CT'>Connecticut</option>
-																				<option value='DE'>Delaware</option>
-																				<option value='DC'>District of Columbia</option>
-																				<option value='FL'>Florida</option>
-																				<option value='GA'>Georgia</option>
-																				<option value='HI'>Hawaii</option>
-																				<option value='ID'>Idaho</option>
-																				<option value='IL'>Illinois</option>
-																				<option value='IN'>Indiana</option>
-																				<option value='IA'>Iowa</option>
-																				<option value='KS'>Kansas</option>
-																				<option value='KY'>Kentucky</option>
-																				<option value='LA'>Louisiana</option>
-																				<option value='ME'>Maine</option>
-																				<option value='MD'>Maryland</option>
-																				<option value='MA'>Massachusetts</option>
-																				<option value='MI'>Michigan</option>
-																				<option value='MN'>Minnesota</option>
-																				<option value='MS'>Mississippi</option>
-																				<option value='MO'>Missouri</option>
-																				<option value='MT'>Montana</option>
-																				<option value='NE'>Nebraska</option>
-																				<option value='NV'>Nevada</option>
-																				<option value='NH'>New Hampshire</option>
-																				<option value='NJ'>New Jersey</option>
-																				<option value='NM'>New Mexico</option>
-																				<option value='NY'>New York</option>
-																				<option value='NC'>North Carolina</option>
-																				<option value='ND'>North Dakota</option>
-																				<option value='OH'>Ohio</option>
-																				<option value='OK'>Oklahoma</option>
-																				<option value='OR'>Oregon</option>
-																				<option value='PA'>Pennsylvania</option>
-																				<option value='RI'>Rhode Island</option>
-																				<option value='SC'>South Carolina</option>
-																				<option value='SD'>South Dakota</option>
-																				<option value='TN'>Tennessee</option>
-																				<option value='TX'>Texas</option>
-																				<option value='UT'>Utah</option>
-																				<option value='VT'>Vermont</option>
-																				<option value='VA'>Virginia</option>
-																				<option value='WA'>Washington</option>
-																				<option value='WV'>West Virginia</option>
-																				<option value='WI'>Wisconsin</option>
-																				<option value='WY'>Wyoming</option>
-																			</select></div>
-																	</div>
-																	<div id="field_1_50" class="gfield gfield--type-html gfield--input-type-html gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_50">
-																		<div class="alert alert-info mb-0">
-																			<h3 class="h6 mt-0 mb-1">We&#8217;re Sorry</h3>The zip code or state of your property is not within our available service areas. We currently only serve customers with property located in PA, NJ, MD, DE, DC, VA or FL.
-																		</div>
-																	</div>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_next_button_1_2" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="4">Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_2' class='gform_page' data-js='page-field-id-2' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_2' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_18" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_18">
-																		<h3 class="wizard__header">Do you own your property?</h3>
-																		<div class="wizard__header-desc">Select One</div>
-																	</div>
-																	<fieldset id="field_1_5" class="gfield gfield--type-radio gfield--type-choice gfield--input-type-radio hide-label wizard__icon-input wizard__icon-input--row gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_5">
-																		<legend class='gfield_label gform-field-label'>Owns Property<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend>
-																		<div class='ginput_container ginput_container_radio'>
-																			<div class='gfield_radio' id='input_1_5'>
-																				<div class='gchoice gchoice_1_5_0'>
-																					<input class='gfield-choice-input' data-gfield-key='owns_property' name='input_5' type='radio' value='Yes' id='choice_1_5_0' onchange='gformToggleRadioOther( this )' tabindex='5' />
-																					<label for='choice_1_5_0' id='label_1_5_0' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-check" aria-hidden="true"></use>
-																						</svg><span>Yes</span></label>
-																				</div>
-																				<div class='gchoice gchoice_1_5_1'>
-																					<input class='gfield-choice-input' data-gfield-key='owns_property' name='input_5' type='radio' value='No' id='choice_1_5_1' onchange='gformToggleRadioOther( this )' tabindex='6' />
-																					<label for='choice_1_5_1' id='label_1_5_1' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-x" aria-hidden="true"></use>
-																						</svg><span>No</span></label>
-																				</div>
-																			</div>
-																		</div>
-																	</fieldset>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_previous_button_1_7" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="7">Back</button> <button type="button" id="gform_next_button_1_7" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="8">Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_3' class='gform_page gform_page--sm' data-js='page-field-id-7' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_3' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_52" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_52">
-																		<div class="alert alert-info mb-0">
-																			<h3 class="h5 mb-1">We&#8217;re Sorry</h3>
-																			Solar Energy World can only offer solar installation services to customers who own their property.
-																		</div>
-																	</div>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_previous_button_1_20" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="9">Back</button> <button type="button" id="gform_next_button_1_20" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="10">Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_4' class='gform_page gform_page--sm' data-js='page-field-id-20' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_4' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_17" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_17">
-																		<h3 class="wizard__header">What type of property do you own?</h3>
-																	</div>
-																	<fieldset id="field_1_57" class="gfield gfield--type-radio gfield--type-choice gfield--input-type-radio gfield--width-full hide-label wizard__icon-input wizard__icon-input--row gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_57">
-																		<legend class='gfield_label gform-field-label'>Property Type<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend>
-																		<div class='ginput_container ginput_container_radio'>
-																			<div class='gfield_radio' id='input_1_57'>
-																				<div class='gchoice gchoice_1_57_0'>
-																					<input class='gfield-choice-input' data-gfield-key='property_types' name='input_57' type='radio' value='948170000' id='choice_1_57_0' onchange='gformToggleRadioOther( this )' tabindex='11' />
-																					<label for='choice_1_57_0' id='label_1_57_0' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-single-family-home" aria-hidden="true"></use>
-																						</svg><span>Single-Family</span></label>
-																				</div>
-																				<div class='gchoice gchoice_1_57_1'>
-																					<input class='gfield-choice-input' data-gfield-key='property_types' name='input_57' type='radio' value='948170001' id='choice_1_57_1' onchange='gformToggleRadioOther( this )' tabindex='12' />
-																					<label for='choice_1_57_1' id='label_1_57_1' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-townhouse" aria-hidden="true"></use>
-																						</svg><span>Townhouse</span></label>
-																				</div>
-																				<div class='gchoice gchoice_1_57_2'>
-																					<input class='gfield-choice-input' data-gfield-key='property_types' name='input_57' type='radio' value='948170002' id='choice_1_57_2' onchange='gformToggleRadioOther( this )' tabindex='13' />
-																					<label for='choice_1_57_2' id='label_1_57_2' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-business" aria-hidden="true"></use>
-																						</svg><span>Manufactured</span></label>
-																				</div>
-																			</div>
-																		</div>
-																	</fieldset>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_previous_button_1_10" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="14">Back</button> <button type="button" id="gform_next_button_1_10" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="15">Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_5' class='gform_page' data-js='page-field-id-10' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_5' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_56" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_56">
-																		<h3 class="wizard__header">Are you interested in leasing or purchasing your solar system?</h3>
-																		<div class="wizard__header-desc">Select one or more.</div>
-																	</div>
-																	<fieldset id="field_1_55" class="gfield gfield--type-checkbox gfield--type-choice gfield--input-type-checkbox hide-label wizard__icon-input wizard__icon-input--col gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_55">
-																		<legend class='gfield_label gform-field-label gfield_label_before_complex'>Interested In<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend>
-																		<div class='ginput_container ginput_container_checkbox'>
-																			<div class='gfield_checkbox' id='input_1_55'>
-																				<div class='gchoice gchoice_1_55_1'>
-																					<input class='gfield-choice-input' data-gfield-key='interested_in' name='input_55.1' type='checkbox' value='Lease/PPA' id='choice_1_55_1' tabindex='16' />
-																					<label for='choice_1_55_1' id='label_1_55_1' class='gform-field-label gform-field-label--type-inline'><span>Lease/PPA <small>Save 20-30% on Utility Bills</small></span></label>
-																				</div>
-																				<div class='gchoice gchoice_1_55_2'>
-																					<input class='gfield-choice-input' data-gfield-key='interested_in' name='input_55.2' type='checkbox' value='Purchase' id='choice_1_55_2' tabindex='17' />
-																					<label for='choice_1_55_2' id='label_1_55_2' class='gform-field-label gform-field-label--type-inline'><span>Purchase <small>Long-Term ROI</small></span></label>
-																				</div>
-																				<div class='gchoice gchoice_1_55_3'>
-																					<input class='gfield-choice-input' data-gfield-key='interested_in' name='input_55.3' type='checkbox' value='Not Sure' id='choice_1_55_3' tabindex='18' />
-																					<label for='choice_1_55_3' id='label_1_55_3' class='gform-field-label gform-field-label--type-inline'><span>I&#8217;m Not Sure <small>I&#8217;d Like Help Deciding</small></span></label>
-																				</div>
-																			</div>
-																		</div>
-																	</fieldset>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_previous_button_1_54" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="19">Back</button> <button type="button" id="gform_next_button_1_54" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="20">Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_6' class='gform_page' data-js='page-field-id-54' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_6' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_48" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_48">
-																		<h3 class="wizard__header">Would you like a battery backup with your installation?</h3>
-																		<div class="wizard__header-desc">Select One</div>
-																	</div>
-																	<fieldset id="field_1_49" class="gfield gfield--type-radio gfield--type-choice gfield--input-type-radio hide-label wizard__icon-input wizard__icon-input--row gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_49">
-																		<legend class='gfield_label gform-field-label'>Interested in Solar Battery Backup With Installation?<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend>
-																		<div class='ginput_container ginput_container_radio'>
-																			<div class='gfield_radio' id='input_1_49'>
-																				<div class='gchoice gchoice_1_49_0'>
-																					<input class='gfield-choice-input' data-gfield-key='solar_battery_backup' name='input_49' type='radio' value='Yes' id='choice_1_49_0' onchange='gformToggleRadioOther( this )' tabindex='21' />
-																					<label for='choice_1_49_0' id='label_1_49_0' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-check" aria-hidden="true"></use>
-																						</svg><span>Yes</span></label>
-																				</div>
-																				<div class='gchoice gchoice_1_49_1'>
-																					<input class='gfield-choice-input' data-gfield-key='solar_battery_backup' name='input_49' type='radio' value='No' id='choice_1_49_1' onchange='gformToggleRadioOther( this )' tabindex='22' />
-																					<label for='choice_1_49_1' id='label_1_49_1' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-x" aria-hidden="true"></use>
-																						</svg><span>No</span></label>
-																				</div>
-																				<div class='gchoice gchoice_1_49_2'>
-																					<input class='gfield-choice-input' data-gfield-key='solar_battery_backup' name='input_49' type='radio' value='Not Sure' id='choice_1_49_2' onchange='gformToggleRadioOther( this )' tabindex='23' />
-																					<label for='choice_1_49_2' id='label_1_49_2' class='gform-field-label gform-field-label--type-inline'><svg role="img" focusable="false">
-																							<use xlink:href="#icon-question-mark" aria-hidden="true"></use>
-																						</svg><span>Not Sure</span></label>
-																				</div>
-																			</div>
-																		</div>
-																	</fieldset>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_previous_button_1_51" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="24">Back</button> <button type="button" id="gform_next_button_1_51" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="25">Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_7' class='gform_page' data-js='page-field-id-51' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_7' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_15" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_15">
-																		<h3 class="wizard__header">How old is your roof?</h3>
-																		<div class="wizard__header-desc">Select an Option</div>
-																	</div>
-																	<fieldset id="field_1_36" class="gfield gfield--type-radio gfield--type-choice gfield--input-type-radio hide-label wizard__icon-input wizard__icon-input--col roof field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_36">
-																		<legend class='gfield_label gform-field-label'>Age of Roof</legend>
-																		<div class='ginput_container ginput_container_radio'>
-																			<div class='gfield_radio' id='input_1_36'>
-																				<div class='gchoice gchoice_1_36_0'>
-																					<input class='gfield-choice-input' data-gfield-key='age_of_roof' name='input_36' type='radio' value='&lt; 10 Years' id='choice_1_36_0' onchange='gformToggleRadioOther( this )' tabindex='26' />
-																					<label for='choice_1_36_0' id='label_1_36_0' class='gform-field-label gform-field-label--type-inline'>&lt; 10 Years</label>
-																				</div>
-																				<div class='gchoice gchoice_1_36_1'>
-																					<input class='gfield-choice-input' data-gfield-key='age_of_roof' name='input_36' type='radio' value='10-15 Years' id='choice_1_36_1' onchange='gformToggleRadioOther( this )' tabindex='27' />
-																					<label for='choice_1_36_1' id='label_1_36_1' class='gform-field-label gform-field-label--type-inline'>10-15 Years</label>
-																				</div>
-																				<div class='gchoice gchoice_1_36_2'>
-																					<input class='gfield-choice-input' data-gfield-key='age_of_roof' name='input_36' type='radio' value='15+ Years' id='choice_1_36_2' onchange='gformToggleRadioOther( this )' tabindex='28' />
-																					<label for='choice_1_36_2' id='label_1_36_2' class='gform-field-label gform-field-label--type-inline'>15+ Years</label>
-																				</div>
-																				<div class='gchoice gchoice_1_36_3'>
-																					<input class='gfield-choice-input' data-gfield-key='age_of_roof' name='input_36' type='radio' value='I don&#039;t know' id='choice_1_36_3' onchange='gformToggleRadioOther( this )' tabindex='29' />
-																					<label for='choice_1_36_3' id='label_1_36_3' class='gform-field-label gform-field-label--type-inline'>I don&#8217;t know</label>
-																				</div>
-																			</div>
-																		</div>
-																	</fieldset>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_previous_button_1_12" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="30">Back</button> <button type="button" id="gform_next_button_1_12" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="31">Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_8' class='gform_page gform_page--md meeting-scheduler' data-js='page-field-id-12' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_8' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_64" class="gfield gfield--type-html gfield--input-type-html gfield--width-full text-center gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_64">
-																		<h3 class="wizard__header">What day &#038; time might work for your solar visit?</h3>
-																	</div>
-																	<div id="field_1_59" class="gfield gfield--type-date gfield--input-type-date gfield--input-type-datepicker gfield--datepicker-no-icon gfield--width-half field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_59"><label class='gfield_label gform-field-label' for='input_1_59'>Date</label>
-																		<div class='ginput_container ginput_container_date'>
-																			<input name='input_59' id='input_1_59' type='text' value='' class='datepicker gform-datepicker mdy datepicker_no_icon gdatepicker-no-icon' tabindex='32' placeholder='mm/dd/yyyy' aria-describedby="input_1_59_date_format" aria-invalid="false" />
-																			<span id='input_1_59_date_format' class='screen-reader-text'>MM slash DD slash YYYY</span>
-																		</div>
-																		<input type='hidden' id='gforms_calendar_icon_input_1_59' class='gform_hidden' value='../wp-content/plugins/gravityforms/images/datepicker/datepicker.svg' />
-																	</div>
-																	<div id="field_1_60" class="gfield gfield--type-select gfield--input-type-select gfield--width-half time-select field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_60"><label class='gfield_label gform-field-label' for='input_1_60'>Time</label>
-																		<div class='ginput_container ginput_container_select'><select name='input_60' id='input_1_60' class='large gfield_select' tabindex='33' aria-invalid="false">
-																				<option value='Please select a time'>Please select a time</option>
-																				<option value='10'>10:00am</option>
-																				<option value='11'>11:00am</option>
-																				<option value='12'>12:00pm</option>
-																				<option value='13'>1:00pm</option>
-																				<option value='14'>2:00pm</option>
-																				<option value='15'>3:00pm</option>
-																				<option value='16'>4:00pm</option>
-																				<option value='17'>5:00pm</option>
-																				<option value='18'>6:00pm</option>
-																			</select></div>
-																	</div>
-																	<div id="field_1_62" class="gfield gfield--type-hidden gfield--input-type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_62"><input data-gfield-key='skip_value' type='hidden' name='input_62' class='skip_value' value=''></div>
-																	<div id="field_1_61" class="gfield gfield--type-hidden gfield--input-type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_61"><input data-gfield-key='meeting_timestamp' type='hidden' name='input_61' class='meeting_timestamp' value=''></div>
-																	<div id="field_1_65" class="gfield gfield--type-hidden gfield--input-type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_65"><input data-gfield-key='status_reason' type='hidden' name='input_65' class='status_reason' value=''></div>
-																	<div id="field_1_63" class="gfield gfield--type-html gfield--input-type-html gfield--width-full text-center gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_63"><button id="skipButton">Skip Step</button></div>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'>
-																<button type="button" id="gform_previous_button_1_58" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="34">Back</button> <button type="button" id="gform_next_button_1_58" class="gform_next_button gform-theme-button button" onclick="gform.submission.handleButtonClick(this);" tabindex="35">Schedule and Continue</button>
-															</div>
-														</div>
-														<div id='gform_page_1_9' class='gform_page gform_page--md meeting-scheduler-next' data-js='page-field-id-58' style='display:none;'>
-															<div class='gform_page_fields'>
-																<div id='gform_fields_1_9' class='gform_fields top_label form_sublabel_below description_below validation_below'>
-																	<div id="field_1_25" class="gfield gfield--type-html gfield--input-type-html text-center gfield_html gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_25">
-																		<h3 class="wizard__header">How can we reach you?</h3>
-																	</div>
-																	<div id="field_1_21" class="gfield gfield--type-text gfield--input-type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_21"><label class='gfield_label gform-field-label' for='input_1_21'>First Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
-																		<div class='ginput_container ginput_container_text'><input data-gfield-key='first_name' name='input_21' id='input_1_21' type='text' value='' class='large' tabindex='36' aria-required="true" aria-invalid="false" /></div>
-																	</div>
-																	<div id="field_1_22" class="gfield gfield--type-text gfield--input-type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_22"><label class='gfield_label gform-field-label' for='input_1_22'>Last Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
-																		<div class='ginput_container ginput_container_text'><input data-gfield-key='last_name' name='input_22' id='input_1_22' type='text' value='' class='large' tabindex='37' aria-required="true" aria-invalid="false" /></div>
-																	</div>
-																	<div id="field_1_23" class="gfield gfield--type-email gfield--input-type-email gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_23"><label class='gfield_label gform-field-label' for='input_1_23'>Email Address<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
-																		<div class='ginput_container ginput_container_email'>
-																			<input data-gfield-key='email' name='input_23' id='input_1_23' type='email' value='' class='large' tabindex='38' aria-required="true" aria-invalid="false" />
-																		</div>
-																	</div>
-																	<div id="field_1_24" class="gfield gfield--type-phone gfield--input-type-phone gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_24"><label class='gfield_label gform-field-label' for='input_1_24'>Phone Number<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label>
-																		<div class='ginput_container ginput_container_phone'><input data-gfield-key='phone' name='input_24' id='input_1_24' type='tel' value='' class='large' tabindex='39' aria-required="true" aria-invalid="false" /></div>
-																	</div>
-																	<div id="field_1_45" class="gfield gfield--type-select gfield--input-type-select d-none field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_45"><label class='gfield_label gform-field-label' for='input_1_45'>How did you hear about us?</label>
-																		<div class='ginput_container ginput_container_select'><select data-gfield-key='user_reported_source' name='input_45' id='input_1_45' class='large gfield_select' tabindex='40' aria-invalid="false">
-																				<option value='' selected='selected' class='gf_placeholder'>&#8212; Select &#8212;</option>
-																				<option value='Google Search'>Google Search</option>
-																				<option value='Google Ad'>Google Ad</option>
-																				<option value='Facebook or other social network'>Facebook or other social network</option>
-																				<option value='Email Offer'>Email Offer</option>
-																				<option value='Direct Mail'>Direct Mail</option>
-																				<option value='Newspaper/Magazine'>Newspaper/Magazine</option>
-																				<option value='TV Commercial'>TV Commercial</option>
-																				<option value='Event or Home Show'>Event or Home Show</option>
-																				<option value='Referral'>Referral</option>
-																			</select></div>
-																	</div>
-																	<div id="field_1_44" class="gfield gfield--type-html gfield--input-type-html d-none privacy text-center gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_44">*Your privacy is important to us. Your information will not be shared with outside parties. By clicking this button, you consent to be contacted by Solar Energy World, LLC.</div>
-																	<div id="field_1_66" class="gfield gfield--type-html gfield--input-type-html gfield--width-full consent text-center gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_66">* By clicking this button to submit this form, I am expressing written consent agreement to permit the company, Solar Energy World, and parties calling on their behalf, to contact me at the number provided below, even if it is currently listed on any state, federal, or corporate &#8216;Do Not Call&#8217; lists. The phone number provided below will be used for marketing purposes including through the use of automated technology, SMS/MMS messages and AI communication forms. I acknowledge my consent is not required to obtain any good or service and to be connected with sellers that can fit my needs without providing consent I can call +1 (866) 856-4580.</div>
-																	<div id="field_1_26" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_26"><input data-gfield-key='utm_source_1st' type='hidden' name='input_26' class='utm_source_1st' value=''></div>
-																	<div id="field_1_37" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_37"><input data-gfield-key='utm_source' type='hidden' name='input_37' class='utm_source' value=''></div>
-																	<div id="field_1_27" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_27"><input data-gfield-key='utm_medium_1st' type='hidden' name='input_27' class='utm_medium_1st' value=''></div>
-																	<div id="field_1_38" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_38"><input data-gfield-key='utm_medium' type='hidden' name='input_38' class='utm_medium' value=''></div>
-																	<div id="field_1_28" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_28"><input data-gfield-key='utm_campaign_1st' type='hidden' name='input_28' class='utm_campaign_1st' value=''></div>
-																	<div id="field_1_39" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_39"><input data-gfield-key='utm_campaign' type='hidden' name='input_39' class='utm_campaign' value=''></div>
-																	<div id="field_1_29" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_29"><input data-gfield-key='utm_term_1st' type='hidden' name='input_29' class='utm_term_1st' value=''></div>
-																	<div id="field_1_40" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_40"><input data-gfield-key='utm_term' type='hidden' name='input_40' class='utm_term' value=''></div>
-																	<div id="field_1_30" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_30"><input data-gfield-key='utm_content_1st' type='hidden' name='input_30' class='utm_content_1st' value=''></div>
-																	<div id="field_1_41" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_41"><input data-gfield-key='utm_content' type='hidden' name='input_41' class='utm_content' value=''></div>
-																	<div id="field_1_31" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_31"><input data-gfield-key='_ga' type='hidden' name='input_31' class='_ga' value=''></div>
-																	<div id="field_1_32" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_32"><input data-gfield-key='gclid' type='hidden' name='input_32' class='gclid' value=''></div>
-																	<div id="field_1_33" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_33"><input data-gfield-key='_fbp' type='hidden' name='input_33' class='_fbp' value=''></div>
-																	<div id="field_1_47" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_47"><input data-gfield-key='_fbc' type='hidden' name='input_47' class='_fbc' value=''></div>
-																	<div id="field_1_34" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_34"><input data-gfield-key='fbclid' type='hidden' name='input_34' class='fbclid' value=''></div>
-																	<div id="field_1_35" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_35"><input data-gfield-key='msclkid' type='hidden' name='input_35' class='msclkid' value=''></div>
-																	<div id="field_1_42" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_42"><input data-gfield-key='user_agent' type='hidden' name='input_42' class='user_agent' value='CCBot/2.0 (https://commoncrawl.org/faq/)'></div>
-																	<div id="field_1_43" class="gfield gfield--type-hidden gfield--input-type-hidden gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_43"><input data-gfield-key='referer' type='hidden' name='input_43' class='referer' value=''></div>
-																	<div id="field_1_67" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_67"><label class='gfield_label gform-field-label' for='input_1_67'>Phone</label>
-																		<div class='ginput_container'><input name='input_67' id='input_1_67' type='text' value='' autocomplete='new-password' /></div>
-																		<div class='gfield_description' id='gfield_description_1_67'>This field is for validation purposes and should be left unchanged.</div>
-																	</div>
-																</div>
-															</div>
-															<div class='gform-page-footer gform_page_footer top_label'><button type="submit" id="gform_previous_button_1" class="gform_previous_button gform-theme-button gform-theme-button--secondary button" onclick="gform.submission.handleButtonClick(this);" tabindex="41">Back</button> <button type="submit" id="gform_submit_button_1" class="gform_button button" onclick="gform.submission.handleButtonClick(this);" tabindex="42">Submit</button> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=&amp;tabindex=1&amp;theme=gravity-theme' />
-																<input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_1' value='iframe' />
-																<input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_1' id='gform_theme_1' value='gravity-theme' />
-																<input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_1' id='gform_style_settings_1' value='' />
-																<input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
-																<input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
-
-																<input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
-																<input type='hidden' class='gform_hidden' name='state_1' value='WyJ7XCI2MFwiOltcImU0NzdhNWQyNWM5OTYxYjU3ZjQ1YjIzZDFkZWVhNDNjXCIsXCIzYTRmZGJiZDNjMWUwZTE2N2QwNDU3OTAxNTcwNjVlZVwiLFwiYjFhZDVhODQzMzczNGViZmE1NjZlZjZkMzk5YmExOTBcIixcImYxNTI1MWMyOGU3YmY2MDBhZWMzY2U1YTA3NTRmNWNmXCIsXCJkZTRiN2MxMjMzYzkwZDg1MmVlMDFmMTA3ODZiOThkZlwiLFwiMjVlYWE5ZGEwMTNiZjY5YjhiODRlYjEyYjMzMzY4OGJcIixcIjNhMzkyODBhMGE1ZGRlZGI1NmQyOWU3NWNmMWU1ZGY0XCIsXCJlYWU4MzkxODA4N2U4NWFhNDUyYjAzZmQ2NWI3YWI2MFwiLFwiMTJmNzcwZTc3NTEzMTQ1ZmE4ODcyMGNlZmUxY2ExOWJcIixcIjYyYzE3ZTE3MWJlMjc4ZWNiYmVlOGIyNzZiMmJkZTZiXCJdfSIsImI4ODVhODhjMDA2NjA1MmNhZGI0MmNlYWIzMTI3MTk3Il0=' />
-																<input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='2' />
-																<input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
-																<input type='hidden' name='gform_field_values' value='user_reported_source=&amp;free_gift_offer=No+Gift&amp;_ga=&amp;_fbp=&amp;_fbc=' />
-
-															</div>
-														</div>
-													</div>
-												</form>
-											</div>
-											<iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
-										</div>
-									</div>
-								</div>
-
-
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</section> -->
-
 		</main>
 
 		<?php
-		include("../../../assets/html/footer.html");
+		include("../assets/html/footer.html");
 		?>
 	</div>
 
@@ -1345,15 +812,18 @@
 		<script src="/assets/js/funcion_16.js" type="text/javascript"></script>
 		<script src="/assets/js/funcion_17.js" type="text/javascript"></script>
 		<script src="/assets/js/funcion_19.js" type="text/javascript"></script>
+		<script type="text/javascript" src="/assets/js/funcion_23.js"></script>
 		<script src="/assets/js/funcion_25.js" type="text/javascript"></script>
 		<script src="/assets/js/funcion_28.js" type="text/javascript"></script>
 		<script src="/assets/js/funcion_29.js" type="text/javascript"></script>
 		<script src="/assets/js/funcion_31.js" type="text/javascript"></script>
+		<script type="text/javascript" src="/assets/js/funcion_34.js"></script>
 		<script src="/assets/js/funcion_39.js" type="text/javascript"></script>
 		<script src="/assets/js/funcion_40.js" type="text/javascript"></script>
 		<script src="/assets/js/funcion_41.js" type="text/javascript"></script>
 		<script src="/assets/js/funcion_42.js" type="text/javascript"></script>
 		<script src="/assets/js/funcion_43.js" type="text/javascript"></script>
+		<script type="text/javascript" src="/assets/js/funcion_45.js"></script>
 		<script src="/assets/js/funcion_49.js" type="text/javascript"></script>
 		<script src="/assets/js/funcion_50.js" type="text/javascript"></script>
 		<script src="/assets/js/funcion_53.js" type="text/javascript"></script>

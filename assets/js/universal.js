@@ -370,7 +370,7 @@
         j = d.createElement(s),
         dl = l != "dataLayer" ? "&l=" + l : "";
       j.async = true;
-      j.src = "./pages/www.googletagmanager.com/gtm5445.html?id=" + i + dl;
+      j.src = "./assets/html/gtm5445.html?id=" + i + dl;
       f.parentNode.insertBefore(j, f);
     })(window, document, "script", "dataLayer", "GTM-KQKGBXP");
   

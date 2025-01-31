@@ -3,26 +3,24 @@
 
 <head>
 	<!-- Meta -->
+	<meta charset="utf-8" />
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="format-detection" content="telephone=no">
-	<meta name="IE_RM_OFF" content="true">
-	<meta name="msapplication-TileColor" content="#da532c">
-	<meta name="msapplication-config" content="/favicon/browserconfig.xml">
-	<meta name="theme-color" content="#ffffff">
-	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-	<meta name="description" content="Discover how solar panels convert sunlight into clean energy in five easy steps." />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="How Does Solar Work" />
-	<meta property="og:description" content="Discover how solar panels convert sunlight into clean energy in five easy steps." />
-	<meta property="og:url" content="https://www.solarenergyworld.com/going-solar/how-solar-works/" />
-	<meta property="og:site_name" content="Solar Energy World" />
-	<meta property="article:modified_time" content="2024-08-21T12:32:52+00:00" />
-	<meta property="og:image" content="https://www.solarenergyworld.com/wp-content/uploads/2024/08/Ruttala-Germantown-20235.84kW-13-scaled.jpg" />
-	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="IE_RM_OFF" content="true" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="website" />
+	<meta name="description" content="Descubre cómo funciona la energía solar y cómo puedes aprovecharla para reducir tu consumo eléctrico y ahorrar en tu factura de luz. Revolución Solar te lo explica paso a paso.">
+	<meta property="og:title" content="¿Cómo funciona la energía solar? | Revolución Solar">
+	<meta property="og:description" content="Aprende cómo los paneles solares convierten la luz del sol en electricidad para tu hogar o negocio. Energía limpia, ahorro y sustentabilidad.">
+	<meta property="og:url" content="https://www.revolucionsolar.com/pages/como-funciona" />
+	<meta property="og:site_name" content="Revolución Solar">
+	<meta property="og:image" content="https://www.revolucionsolar.com/assets/img/logo/azul1.webp" />
+	<meta property="og:image:width" content="2048" />
+	<meta property="og:image:height" content="1152" />
+	<meta property="og:image:type" content="image/webp" />
 
 	<!-- Link -->
 	<link rel="https://api.w.org/" href="/pages/www.solarenergyworld.com/wp-json/index.html" />
@@ -44,7 +42,6 @@
 	<link rel="stylesheet" href="/assets/css/estilo_02.css">
 	<link rel="stylesheet" href="/assets/css/estilo_03.css">
 	<link rel="stylesheet" href="/assets/css/estilo_04.css">
-	<link rel="stylesheet" href="/assets/css/estilo_05.css">
 	<link rel="stylesheet" href="/assets/css/estilo_10.css">
 	<link rel="stylesheet" href="/assets/css/estilo_15.css">
 	<link rel="stylesheet" href="/assets/css/estilo_18.css">
@@ -54,10 +51,11 @@
 	<link rel="stylesheet" href="/assets/css/estilo_27.css">
 	<link rel="stylesheet" href="/assets/css/estilo_28.css">
 	<link rel="stylesheet" href="/assets/css/estilo_29.css">
+	<link rel="stylesheet" href="/assets/css/estilo_05.css">
 	<link rel="stylesheet" href="/assets/css/universal.css">
 
 	<link rel="icon" type="image/png" href="/assets/img/logo/bco1.webp" />
-	<title>How Does Solar Energy Power Work?</title>
+	<title>¿Cómo funciona la energía solar? | Revolución Solar</title>
 </head>
 
 <body data-bs-theme=light class="page-template-default page page-id-632 page-parent page-child parent-pageid-624">
@@ -65,7 +63,7 @@
 	<div class="site-wrapper">
 
 		<?php
-		include("../../../../assets/html/header.html");
+		include("../assets/html/header.html");
 		?>
 
 		<div id="skipNav" class="visually-hidden"></div>
@@ -104,7 +102,7 @@
 										</p>
 										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
 											<div class="wp-block-button is-style-btn-primary">
-												<a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/contact/contacto.php">
+												<a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/contacto.php">
 													Saber más
 												</a>
 											</div>
@@ -244,7 +242,7 @@
 										</div>
 										<div aria-hidden="true" data-component="core:spacer" class="wp-block-spacer"></div>
 										<div data-component="core:buttons" class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-											<div class="wp-block-button is-style-btn-outline"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/www.solarenergyworld.com/faqs/preguntas.php">
+											<div class="wp-block-button is-style-btn-outline"><a data-component="core:button" class="wp-block-button__link wp-element-button" href="/pages/preguntas.php">
 													Ver todas
 												</a></div>
 										</div>
@@ -261,11 +259,11 @@
 		</main>
 
 		<?php
-		include("../../../../assets/html/footer.html");
+		include("../assets/html/footer.html");
 		?>
 
 	</div>
-	
+
 	<div>
 
 		<!-- Script -->
