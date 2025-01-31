@@ -33,73 +33,40 @@
   <link rel="dns-prefetch" href="http://js.hs-scripts.com/" />
   <link rel="dns-prefetch" href="http://cdnjs.cloudflare.com/" />
   <link rel="dns-prefetch" href="http://fonts.googleapis.com/" />
-  <link rel="stylesheet" id="google_business_reviews_rating_wp_css-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/plugins/g-business-reviews-rating/wp/css/estilo_01.css" type="text/css" media="all" />
-  <link rel="stylesheet" id="gform_basic-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/estilo_02.css" type="text/css" media="all" />
-  <link rel="stylesheet" id="gform_theme-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/css/dist/estilo_03.css" type="text/css" media="all" />
   <link rel="stylesheet" id="block-editor-google-fonts-css"
     href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Manrope:wght@200..800&amp;display=swap"
     type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-bootstrap-css" href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/css/estilo_27.css?v=1733933346"
-    type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-bravo-styles-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/css/estilo_26.css?v=1733933346" type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-consent-styles-css" href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/consent/estilo_25.css?v=20250111"
-    type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-base-styles-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/css/estilo_28.css?v=1733933346" type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-wp-css" href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/css/estilo_29.css?v=1733933346"
-    type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-modals-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/plugins/wmx-modals-1/public/dist/css/estilo_04.css" type="text/css"
-    media="all" />
   <link rel="https://api.w.org/" href="./pages/www.solarenergyworld.com/wp-json/index.html" />
   <link rel="alternate" title="JSON" type="application/json" href="./assets/other/www.solarenergyworld.com/wp-json/wp/v2/pages/5.json" />
   <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"
     href="./assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed2dad.json?url=https%3A%2F%2Fwww.solarenergyworld.com%2F" />
   <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed"
     href="./assets/other/www.solarenergyworld.com/wp-json/oembed/1.0/embed5ae3?url=https%3A%2F%2Fwww.solarenergyworld.com%2F&amp;format=xml" />
-  <link rel="stylesheet" id="wmx-block-css-hero-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/hero/dist/estilo_14.css" type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-block-css-section-wrapper-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/section-wrapper/dist/estilo_18.css"
-    type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-block-css-stat-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/stat/dist/estilo_21.css" type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-block-css-stats-wrapper-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/stats-wrapper/dist/estilo_22.css"
-    type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-block-css-stacking-card-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/stacking-card/dist/estilo_19.css"
-    type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-block-css-stacking-cards-wrapper-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/stacking-cards-wrapper/dist/estilo_20.css"
-    type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-block-css-video-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/video/dist/estilo_23.css" type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-block-css-card-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/card/dist/estilo_06.css" type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-block-css-cards-wrapper-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/cards-wrapper/dist/estilo_07.css"
-    type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-block-css-circle-accent-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/circle-accent/dist/estilo_08.css"
-    type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-block-css-accordion-panel-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/accordion-panel/dist/estilo_05.css"
-    type="text/css" media="all" />
-  <link rel="stylesheet" id="wmx-block-css-featured-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/featured/dist/estilo_10.css" type="text/css"
-    media="all" />
-  <link rel="stylesheet" id="wmx-block-css-wizard-css"
-    href="./assets/css/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/wizard/dist/estilo_24.css" type="text/css"
-    media="all" />
-  <link rel="stylesheet" id="google_business_reviews_rating_wp_css-css"
-    href="./assets/css/universal.css" type="text/css" media="all" />
   <link rel="preconnect" href="https://fonts.googleapis.com/" />
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
+  <link rel="stylesheet" href="./assets/css/estilo_01.css">
+  <link rel="stylesheet" href="./assets/css/estilo_02.css">
+  <link rel="stylesheet" href="./assets/css/estilo_03.css">
+  <link rel="stylesheet" href="./assets/css/estilo_27.css">
+  <link rel="stylesheet" href="./assets/css/estilo_26.css">
+  <link rel="stylesheet" href="./assets/css/estilo_25.css">
+  <link rel="stylesheet" href="./assets/css/estilo_28.css">
+  <link rel="stylesheet" href="./assets/css/estilo_29.css">
+  <link rel="stylesheet" href="./assets/css/estilo_04.css">
+  <link rel="stylesheet" href="./assets/css/estilo_14.css">
+  <link rel="stylesheet" href="./assets/css/estilo_18.css">
+  <link rel="stylesheet" href="./assets/css/estilo_21.css">
+  <link rel="stylesheet" href="./assets/css/estilo_22.css">
+  <link rel="stylesheet" href="./assets/css/estilo_19.css">
+  <link rel="stylesheet" href="./assets/css/estilo_20.css">
+  <link rel="stylesheet" href="./assets/css/estilo_23.css">
+  <link rel="stylesheet" href="./assets/css/estilo_06.css">
+  <link rel="stylesheet" href="./assets/css/estilo_07.css">
+  <link rel="stylesheet" href="./assets/css/estilo_08.css">
+  <link rel="stylesheet" href="./assets/css/estilo_05.css">
+  <link rel="stylesheet" href="./assets/css/estilo_10.css">
+  <link rel="stylesheet" href="./assets/css/estilo_24.css">
+  <link rel="stylesheet" href="./assets/css/universal.css">
 
   <link rel="icon" type="image/png" href="./assets/img/logo/bco1.webp" />
   <title>Revolución Solar</title>
@@ -153,7 +120,7 @@
                           <div class="gform-body gform_body">
                             <div id="gform_fields_3" class="gform_fields top_label form_sublabel_below description_below validation_below">
                               <div class="gfield gfield--type-submit gfield--width-half field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible">
-                                <a href="./pages/www.solarenergyworld.com/contact/index.php">
+                                <a href="./pages/www.solarenergyworld.com/contact/contacto.php">
                                   <button class="gform-button gform-button--white button">
                                     Empieza a ahorrar ahora
                                   </button>
@@ -216,7 +183,7 @@
 
                       <div class="wp-block-button is-style-btn-outline">
                         <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                          href="./pages/www.solarenergyworld.com/install-process/index.php">
+                          href="./pages/www.solarenergyworld.com/install-process/precesoInstalacion.php">
                           Descubre más
                         </a>
                       </div>
@@ -313,7 +280,7 @@
                                 class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                 <div class="wp-block-button is-style-btn-outline">
                                   <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                                    href="./pages/www.solarenergyworld.com/contact/index.php">
+                                    href="./pages/www.solarenergyworld.com/contact/contacto.php">
                                     Empieza a ahorrar ahora
                                   </a>
                                 </div>
@@ -374,7 +341,7 @@
                                 class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                 <div class="wp-block-button is-style-btn-outline">
                                   <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                                    href="./pages/www.solarenergyworld.com/contact/index.php">
+                                    href="./pages/www.solarenergyworld.com/contact/contacto.php">
                                     Empieza a ahorrar ahora
                                   </a>
                                 </div>
@@ -432,7 +399,7 @@
                                 class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                 <div class="wp-block-button is-style-btn-outline">
                                   <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                                    href="./pages/www.solarenergyworld.com/service-request/index.php">
+                                    href="./pages/www.solarenergyworld.com/service-request/cotizarPanel.php">
                                     Solicita tu cotización ahora
                                   </a>
                                 </div>
@@ -489,7 +456,7 @@
                       class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
 
                       <div class="wp-block-button is-style-btn-primary">
-                        <a data-component="core:button" class="wp-block-button__link wp-element-button" href="./pages/www.solarenergyworld.com/earn-cash-rewards-for-referrals/index.php">
+                        <a data-component="core:button" class="wp-block-button__link wp-element-button" href="./pages/www.solarenergyworld.com/earn-cash-rewards-for-referrals/serAsesor.php">
                           Únete ahora
                         </a>
                       </div>
@@ -689,7 +656,7 @@
                                 class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
                                 <div class="wp-block-button is-style-btn-outline">
                                   <a data-component="core:button" class="wp-block-button__link wp-element-button"
-                                    href="./pages/www.solarenergyworld.com/earn-cash-rewards-for-referrals/index.php">
+                                    href="./pages/www.solarenergyworld.com/earn-cash-rewards-for-referrals/serAsesor.php">
                                     Regístrate ahora
                                   </a>
                                 </div>
@@ -1068,53 +1035,54 @@
     ?>
   </div>
 
-    <!-- Script -->
-    <script type="text/javascript" src="./assets/js/cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/funcion_01.js" id="jquery-js"></script>
-    <script type="text/javascript" src="./assets/js/js.hs-scripts.com/funcion_02.js" id="leadin-script-loader-js-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/formhq-wordpress-adapter/public/js/funcion_04.js" id="formhq-wordpress-adapter-gravity-forms-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/formhq-wordpress-adapter/public/js/funcion_05.js" id="formhq-wordpress-adapter-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/g-business-reviews-rating/wp/js/funcion_06.js" id="google_business_reviews_rating_wp_js-js"></script>
-    <script type="text/javascript" defer="defer" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/funcion_08.js" id="gform_gravityforms_utils-js"></script>
-    <script type="text/javascript" defer="defer" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_13.js" id="gform_gravityforms-js"></script>
-    <script type="text/javascript" defer="defer" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_14.js" id="gform_json-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/wmx-modals-1/public/dist/js/funcion_19.js" id="wmx-modals-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/js/funcion_40.js" id="wmx-bravo-scripts-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/js/funcion_43.js" id="wmx-main-scripts-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-includes/js/dist/funcion_47.js" id="wp-a11y-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-includes/js/dist/funcion_48.js" id="wp-dom-ready-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-includes/js/dist/funcion_51.js" id="wp-hooks-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-includes/js/dist/funcion_52.js" id="wp-i18n-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-includes/js/jquery/funcion_55.js" id="jquery-core-js"></script>
-    <script type="text/javascript" defer="defer" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/jquery.textareaCounter.plugin.minbf47.js" id="gform_textarea_counter-js"></script>
-    <script type="text/javascript" defer="defer" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_17.js" id="gform_placeholder-js"></script>
-    <script type="text/javascript" defer="defer" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/funcion_09.js" id="gform_gravityforms_theme_vendors-js"></script>
-    <script type="text/javascript" defer="defer" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/assets/js/dist/funcion_07.js" id="gform_gravityforms_theme-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/hero/dist/funcion_30.js" id="wmx-block-js-hero-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/js/funcion_45.js" id="wmx-swiper-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/stat/dist/funcion_36.js" id="wmx-block-js-stat-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-prime/dist/js/funcion_44.js" id="wmx-countup-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/stats-wrapper/dist/funcion_37.js" id="wmx-block-js-stats-wrapper-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/stacking-card/dist/funcion_34.js" id="wmx-block-js-stacking-card-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/stacking-cards-wrapper/dist/funcion_35.js?ver=1733933346" id="wmx-block-js-stacking-cards-wrapper-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/video/dist/funcion_38.js?ver=1733933346" id="wmx-block-js-video-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/card/dist/funcion_22.js?ver=1733933346" id="wmx-block-js-card-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/cards-wrapper/dist/funcion_23.js?ver=1733933346"id="wmx-block-js-cards-wrapper-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/circle-accent/dist/funcion_24.js?ver=1733933346" id="wmx-block-js-circle-accent-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/accordion-panel/dist/funcion_21.js?ver=1733933346" id="wmx-block-js-accordion-panel-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/accordion/dist/funcion_20.js?ver=1733933346" id="wmx-block-js-accordion-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/featured/dist/funcion_26.js?ver=1733933346" id="wmx-block-js-featured-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/wizards/funcion_41.js?ver=6.6.2" id="solar-wizard-base-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/dist/wizards/funcion_42.js?ver=6.6.2" id="solar-wizard-version-js-js"></script>
-    <script type="text/javascript" defer="defer" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_16.js?ver=2.9.1" id="gform_page_conditional_logic-js"></script>
-    <script type="text/javascript" defer="defer" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_10.js?ver=2.9.1" id="gform_conditional_logic-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-includes/js/jquery/ui/funcion_53.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-includes/js/jquery/ui/funcion_54.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
-    <script type="text/javascript" defer="defer" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_11.js?ver=2.9.1" id="gform_datepicker_legacy-js"></script>
-    <script type="text/javascript" defer="defer" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_12.js?ver=2.9.1" id="gform_datepicker_init-js"></script>
-    <script type="text/javascript" defer="defer" src="./assets/js/www.solarenergyworld.com/wp-content/plugins/gravityforms/js/funcion_15.js?ver=2.9.1" id="gform_masked_input-js"></script>
-    <script type="text/javascript" src="./assets/js/www.solarenergyworld.com/wp-content/themes/wmx-bravo/blocks/wizard/dist/funcion_39.js" id="wmx-block-js-wizard-js"></script>
-    <script type="text/javascript" src="./assets/js/universal.js" id="wmx-block-js-wizard-js"></script>
+  <!-- Script -->
+  <div>
 
+    <script src="./assets/js/funcion_01.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_02.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_04.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_05.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_06.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_07.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_08.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_09.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_09.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_10.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_11.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_12.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_13.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_14.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_15.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_16.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_17.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_18.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_19.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_20.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_21.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_22.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_23.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_24.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_26.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_30.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_34.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_35.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_36.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_37.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_38.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_39.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_40.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_41.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_42.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_43.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_44.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_45.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_49.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_50.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_53.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_54.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_55.js" type="text/javascript"></script>
+    <script src="./assets/js/funcion_56.js" type="text/javascript"></script>
+    <script src="./assets/js/universal.js" type="text/javascript"></script>
 
   </div>
 
